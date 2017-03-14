@@ -1,0 +1,17 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 10, 
+    "label": "Amon", 
+    "name": "amon", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "eccb4315-5590-4a2b-8c3a-be14ec9261f6", 
+    "url": null
+}

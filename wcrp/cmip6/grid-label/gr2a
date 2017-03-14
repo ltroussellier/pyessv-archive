@@ -1,0 +1,17 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 12, 
+    "label": "gr2a", 
+    "name": "gr2a", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "b1ace599-288f-494a-95fa-9e1f8f7e119c", 
+    "url": null
+}

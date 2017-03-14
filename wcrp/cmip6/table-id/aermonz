@@ -1,0 +1,17 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 9, 
+    "label": "AERmonZ", 
+    "name": "aermonz", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "054d4f4e-869f-48d5-a629-6bbe5aea067c", 
+    "url": null
+}

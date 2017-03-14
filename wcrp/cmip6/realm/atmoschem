@@ -1,0 +1,17 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 3, 
+    "label": "atmosChem", 
+    "name": "atmoschem", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "09a65f7a-f85a-489b-bb8c-ad447b9f346d", 
+    "url": null
+}

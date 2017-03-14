@@ -1,0 +1,45 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": {
+        "activityID": [
+            "VolMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "1991 Pinatubo forcing as used in the CMIP6 historical simulations. Requires special diagnostics of radiative and latent heating rates. A large number of ensemble members is required to address internal atmospheric variability", 
+        "endYear": "", 
+        "experiment": "Pinatubo experiment", 
+        "experimentID": "volc-pinatubo-full", 
+        "minNumberYrsPerSim": "3", 
+        "parentActivityID": [
+            "CMIP"
+        ], 
+        "parentExperimentID": [
+            "piControl"
+        ], 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "", 
+        "subExperimentID": [
+            "none"
+        ], 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 110, 
+    "label": "volc-pinatubo-full", 
+    "name": "volc-pinatubo-full", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "ce2f74c8-8a86-4e75-936b-dc494b22e24d", 
+    "url": null
+}

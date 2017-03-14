@@ -1,0 +1,17 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 42, 
+    "label": "gr9z", 
+    "name": "gr9z", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "c80a41e8-3002-4b68-9883-51c5b2d8005c", 
+    "url": null
+}

@@ -1,0 +1,17 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 19, 
+    "label": "E3hrPt", 
+    "name": "e3hrpt", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "389b7a02-0104-4f1c-976e-649b864295cb", 
+    "url": null
+}

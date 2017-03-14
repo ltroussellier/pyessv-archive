@@ -1,0 +1,17 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 12, 
+    "label": "grid_label", 
+    "name": "grid_label", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "50fe7ec4-b1b3-4b77-aaf6-5855134525a6", 
+    "url": null
+}

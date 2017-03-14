@@ -1,0 +1,17 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 5, 
+    "label": "AERday", 
+    "name": "aerday", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "ae00dedc-68fe-434f-b7a2-6c42bd202509", 
+    "url": null
+}

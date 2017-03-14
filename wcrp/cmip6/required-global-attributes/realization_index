@@ -1,0 +1,17 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 21, 
+    "label": "realization_index", 
+    "name": "realization_index", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "b829c974-24f1-4f29-912a-c0e240921cbf", 
+    "url": null
+}

@@ -1,0 +1,44 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": {
+        "activityID": [
+            "AerChemMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "CHEM"
+        ], 
+        "description": "Future SSP3-7.0 with low land use change (from ssp126), prescribed SSTs", 
+        "endYear": "2055", 
+        "experiment": "SSP3-7.0, prescribed SSTs, with SSP1-2.6 land use", 
+        "experimentID": "ssp370SST-ssp126Lu", 
+        "minNumberYrsPerSim": "41", 
+        "parentActivityID": [
+            "ScenarioMIP"
+        ], 
+        "parentExperimentID": [
+            "ssp370"
+        ], 
+        "requiredModelComponents": [
+            "AGCM", 
+            "AER"
+        ], 
+        "startYear": "2015", 
+        "subExperimentID": [
+            "none"
+        ], 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 102, 
+    "label": "ssp370SST-ssp126Lu", 
+    "name": "ssp370sst-ssp126lu", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "54ef31c7-b847-4606-99e3-d9f169ef9dd3", 
+    "url": null
+}

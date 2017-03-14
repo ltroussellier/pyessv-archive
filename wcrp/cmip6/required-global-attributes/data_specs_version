@@ -1,0 +1,17 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 5, 
+    "label": "data_specs_version", 
+    "name": "data_specs_version", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "42cbce04-4c6d-4a59-b9ca-88a0a3abcb7a", 
+    "url": null
+}

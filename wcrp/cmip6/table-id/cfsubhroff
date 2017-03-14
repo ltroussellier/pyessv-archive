@@ -1,0 +1,17 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 15, 
+    "label": "CFsubhrOff", 
+    "name": "cfsubhroff", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "0d1a9daa-182b-4878-b412-5d81dc81ab23", 
+    "url": null
+}

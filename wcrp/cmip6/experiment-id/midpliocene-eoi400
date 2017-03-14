@@ -1,0 +1,41 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": {
+        "activityID": [
+            "PMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "main forcings: trace gases, orography, ice-sheet", 
+        "endYear": "", 
+        "experiment": "mid-Pliocene warm period", 
+        "experimentID": "midPliocene-eoi400", 
+        "minNumberYrsPerSim": "100", 
+        "parentActivityID": "no parent", 
+        "parentExperimentID": "no parent", 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "", 
+        "subExperimentID": [
+            "none"
+        ], 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 171, 
+    "label": "midPliocene-eoi400", 
+    "name": "midpliocene-eoi400", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "848b33c0-546c-40e1-a487-59ec7e65ee1b", 
+    "url": null
+}

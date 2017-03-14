@@ -1,0 +1,17 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 41, 
+    "label": "Oyr", 
+    "name": "oyr", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "ba5de368-7d11-4f1b-a0f6-d4eba63cb6ce", 
+    "url": null
+}

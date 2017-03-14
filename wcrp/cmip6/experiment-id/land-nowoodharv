@@ -1,0 +1,37 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": {
+        "activityID": [
+            "LUMIP"
+        ], 
+        "additionalAllowedModelComponents": "", 
+        "description": "Same as land-hist but with wood harvest maintained at 1850 amounts/areas", 
+        "endYear": "2014", 
+        "experiment": "historical land-only with no wood harvest", 
+        "experimentID": "land-noWoodHarv", 
+        "minNumberYrsPerSim": "165", 
+        "parentActivityID": "no parent", 
+        "parentExperimentID": "no parent", 
+        "requiredModelComponents": [
+            "LAND"
+        ], 
+        "startYear": "1850 or 1700", 
+        "subExperimentID": [
+            "none"
+        ], 
+        "tier": "2"
+    }, 
+    "description": null, 
+    "idx": 219, 
+    "label": "land-noWoodHarv", 
+    "name": "land-nowoodharv", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "a0f23aef-024a-4587-87ce-a8ea8f9f168d", 
+    "url": null
+}

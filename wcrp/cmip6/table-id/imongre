@@ -1,0 +1,17 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 31, 
+    "label": "ImonGre", 
+    "name": "imongre", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "c9a7b143-3b0f-48e9-897e-ec2bde80be14", 
+    "url": null
+}

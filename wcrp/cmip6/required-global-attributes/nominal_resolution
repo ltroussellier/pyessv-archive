@@ -1,0 +1,17 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 18, 
+    "label": "nominal_resolution", 
+    "name": "nominal_resolution", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "f9962ba9-63ca-4391-811b-e4bb4cb1b710", 
+    "url": null
+}

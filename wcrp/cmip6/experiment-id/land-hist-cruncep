@@ -1,0 +1,37 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": {
+        "activityID": [
+            "LS3MIP"
+        ], 
+        "additionalAllowedModelComponents": "", 
+        "description": "Land only simulations", 
+        "endYear": "2014", 
+        "experiment": "as land-hist with CRU-NCEP forcings", 
+        "experimentID": "land-hist-cruNcep", 
+        "minNumberYrsPerSim": "165", 
+        "parentActivityID": "no parent", 
+        "parentExperimentID": "no parent", 
+        "requiredModelComponents": [
+            "LAND"
+        ], 
+        "startYear": "1850", 
+        "subExperimentID": [
+            "none"
+        ], 
+        "tier": "2"
+    }, 
+    "description": null, 
+    "idx": 223, 
+    "label": "land-hist-cruNcep", 
+    "name": "land-hist-cruncep", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "482c83fa-1afe-442d-bba0-499597896b03", 
+    "url": null
+}

@@ -1,0 +1,17 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 22, 
+    "label": "EdayZ", 
+    "name": "edayz", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "dc21b591-4e94-43e9-ba24-6b830c16cc03", 
+    "url": null
+}

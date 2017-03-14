@@ -1,0 +1,17 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 20, 
+    "label": "E6hrZ", 
+    "name": "e6hrz", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "7758a212-3960-4ee3-9c6c-1e5158e86e42", 
+    "url": null
+}

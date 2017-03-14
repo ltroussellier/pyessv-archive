@@ -1,0 +1,17 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 4, 
+    "label": "100 km", 
+    "name": "100 km", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "5932519c-939d-4348-80ef-a448161f4a06", 
+    "url": null
+}

@@ -1,0 +1,45 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": {
+        "activityID": [
+            "VolMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "As volc-pinatubo-full, but with prescribed perturbation to the total (LW+SW) radiative heating rates", 
+        "endYear": "", 
+        "experiment": "Pinatubo experiment with partial radiative forcing, includes only stratospheric warming", 
+        "experimentID": "volc-pinatubo-strat", 
+        "minNumberYrsPerSim": "3", 
+        "parentActivityID": [
+            "CMIP"
+        ], 
+        "parentExperimentID": [
+            "piControl"
+        ], 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "", 
+        "subExperimentID": [
+            "none"
+        ], 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 194, 
+    "label": "volc-pinatubo-strat", 
+    "name": "volc-pinatubo-strat", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "c5902463-9bb2-484e-81cc-e73b3375ea1e", 
+    "url": null
+}

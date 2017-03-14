@@ -1,0 +1,17 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 43, 
+    "label": "gra", 
+    "name": "gra", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "341fa81c-185f-4b01-aeff-7c650507741b", 
+    "url": null
+}

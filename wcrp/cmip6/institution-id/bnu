@@ -1,0 +1,19 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": {
+        "postalAddress": "Beijing Normal University, Beijing 100875, China"
+    }, 
+    "description": null, 
+    "idx": 17, 
+    "label": "BNU", 
+    "name": "bnu", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "a1e25d83-0645-4929-941c-77e3f49d7a7b", 
+    "url": null
+}

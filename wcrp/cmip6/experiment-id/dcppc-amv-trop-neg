@@ -1,0 +1,45 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": {
+        "activityID": [
+            "DCPP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "C1.8 Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs", 
+        "endYear": "", 
+        "experiment": "Idealized climate impact of negative tropical AMV anomaly pattern", 
+        "experimentID": "dcppC-amv-Trop-neg", 
+        "minNumberYrsPerSim": "10", 
+        "parentActivityID": [
+            "CMIP"
+        ], 
+        "parentExperimentID": [
+            "piControl"
+        ], 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "", 
+        "subExperimentID": [
+            "none"
+        ], 
+        "tier": "2"
+    }, 
+    "description": null, 
+    "idx": 84, 
+    "label": "dcppC-amv-Trop-neg", 
+    "name": "dcppc-amv-trop-neg", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "fbe3364f-397d-4b29-aa55-d96d6c3bc3cc", 
+    "url": null
+}

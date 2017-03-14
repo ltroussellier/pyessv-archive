@@ -1,0 +1,17 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 30, 
+    "label": "ImonAnt", 
+    "name": "imonant", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "ec44c5f6-1888-437d-9cb5-9d8b44d929a7", 
+    "url": null
+}

@@ -1,0 +1,19 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": {
+        "postalAddress": "Max Planck Institute for Meteorology, Hamburg 20146, Germany"
+    }, 
+    "description": null, 
+    "idx": 11, 
+    "label": "MPI-M", 
+    "name": "mpi-m", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "8762fde3-df04-474e-af7c-0d4b2806e385", 
+    "url": null
+}

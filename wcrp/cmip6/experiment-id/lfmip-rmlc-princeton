@@ -1,0 +1,45 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": {
+        "activityID": [
+            "LS3MIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "Prescribed land conditions 30yr running mean with Land-Hist-princeton", 
+        "endYear": "2100", 
+        "experiment": "as LFMIP-rmLC with Land-Hist-princeton", 
+        "experimentID": "lfmip-rmLC-princeton", 
+        "minNumberYrsPerSim": "121", 
+        "parentActivityID": [
+            "CMIP"
+        ], 
+        "parentExperimentID": [
+            "historical"
+        ], 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "1980", 
+        "subExperimentID": [
+            "none"
+        ], 
+        "tier": "2"
+    }, 
+    "description": null, 
+    "idx": 187, 
+    "label": "lfmip-rmLC-princeton", 
+    "name": "lfmip-rmlc-princeton", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "d70d99f8-d98f-4317-ae6f-da4ddbb4b337", 
+    "url": null
+}

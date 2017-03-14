@@ -1,0 +1,37 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": {
+        "activityID": [
+            "LUMIP"
+        ], 
+        "additionalAllowedModelComponents": "", 
+        "description": "Land only simulations", 
+        "endYear": "2014", 
+        "experiment": "historical land-only alternate land use history", 
+        "experimentID": "land-hist-altLu2", 
+        "minNumberYrsPerSim": "165", 
+        "parentActivityID": "no parent", 
+        "parentExperimentID": "no parent", 
+        "requiredModelComponents": [
+            "LAND"
+        ], 
+        "startYear": "1850 or 1700", 
+        "subExperimentID": [
+            "none"
+        ], 
+        "tier": "2"
+    }, 
+    "description": null, 
+    "idx": 114, 
+    "label": "land-hist-altLu2", 
+    "name": "land-hist-altlu2", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "9b7418cc-1212-4740-ae0a-f28f0c8e0f59", 
+    "url": null
+}

@@ -1,0 +1,17 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 36, 
+    "label": "Oclim", 
+    "name": "oclim", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "d4ca23aa-5055-4b46-a35d-38a0e212b504", 
+    "url": null
+}

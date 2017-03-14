@@ -1,0 +1,17 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 35, 
+    "label": "Lmon", 
+    "name": "lmon", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "515bf49a-666a-41df-81d5-fa3bc166b00c", 
+    "url": null
+}

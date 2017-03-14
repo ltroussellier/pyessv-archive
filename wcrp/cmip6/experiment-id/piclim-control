@@ -1,0 +1,45 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": {
+        "activityID": [
+            "RFMIP", 
+            "AerChemMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM"
+        ], 
+        "description": "30-year atmosphere only integration using preindustrial sea-surface temperature and sea-ice climatology. Interactive vegetation", 
+        "endYear": "", 
+        "experiment": "effective radiative forcing in present-day", 
+        "experimentID": "piClim-control", 
+        "minNumberYrsPerSim": "30", 
+        "parentActivityID": [
+            "CMIP"
+        ], 
+        "parentExperimentID": [
+            "piControl"
+        ], 
+        "requiredModelComponents": [
+            "AGCM"
+        ], 
+        "startYear": "", 
+        "subExperimentID": [
+            "none"
+        ], 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 119, 
+    "label": "piClim-control", 
+    "name": "piclim-control", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "a16f7a3f-209c-4cd6-a644-13500bc37c94", 
+    "url": null
+}

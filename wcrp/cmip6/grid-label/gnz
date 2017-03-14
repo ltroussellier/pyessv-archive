@@ -1,0 +1,17 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 5, 
+    "label": "gnz", 
+    "name": "gnz", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "7309f89e-6549-4ce4-96ae-465e55f86679", 
+    "url": null
+}

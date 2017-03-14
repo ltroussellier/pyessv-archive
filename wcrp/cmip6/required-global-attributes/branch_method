@@ -1,0 +1,17 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 3, 
+    "label": "branch_method", 
+    "name": "branch_method", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "8da711e4-042a-4478-be6e-f91f36a7cc56", 
+    "url": null
+}

@@ -1,0 +1,37 @@
+{
+    "_type": "pyessv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": {
+        "activityID": [
+            "LUMIP"
+        ], 
+        "additionalAllowedModelComponents": "", 
+        "description": "Same as land-hist except with CO2 held constant", 
+        "endYear": "2014", 
+        "experiment": "historical land-only constant CO2", 
+        "experimentID": "land-cCO2", 
+        "minNumberYrsPerSim": "165", 
+        "parentActivityID": "no parent", 
+        "parentExperimentID": "no parent", 
+        "requiredModelComponents": [
+            "LAND"
+        ], 
+        "startYear": "1850 or 1700", 
+        "subExperimentID": [
+            "none"
+        ], 
+        "tier": "2"
+    }, 
+    "description": null, 
+    "idx": 106, 
+    "label": "land-cCO2", 
+    "name": "land-cco2", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "1ede7051-93c5-4050-ba0e-0530cdef5cea", 
+    "url": null
+}
