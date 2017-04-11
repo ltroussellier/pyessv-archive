@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "GMMIP"
@@ -17,8 +14,12 @@
         "experiment": "same as \"amip\" run, but surface elevations of the Tibetan-Iranian Plateau and Himalayas reduced to 500m", 
         "experimentID": "amip-TIP", 
         "minNumberYrsPerSim": "36", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "AGCM"
         ], 
@@ -28,13 +29,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": null, 
+    "description": "amip-TIP", 
     "idx": 105, 
     "label": "amip-TIP", 
     "name": "amip-tip", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "6f802d7f-1229-48db-b3df-ced4947f1ec5", 
-    "url": null
+    "uid": "36537b90-9e7c-4a32-955a-d357d6a13220"
 }

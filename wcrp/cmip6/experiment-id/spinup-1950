@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "HighResMIP"
@@ -16,8 +13,12 @@
         "experiment": "coupled spinup with fixed 1950s forcings from 1950 initial conditions (with ocean at rest) to provide initial condition for control-1950 and hist-1950", 
         "experimentID": "spinup-1950", 
         "minNumberYrsPerSim": "30", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "AOGCM"
         ], 
@@ -27,13 +28,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "spinup-1950", 
     "idx": 11, 
     "label": "spinup-1950", 
     "name": "spinup-1950", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "59b18898-2f5e-4865-8396-c18468981efb", 
-    "url": null
+    "uid": "9abb02c5-a276-46f2-9287-ca1d367f45f6"
 }

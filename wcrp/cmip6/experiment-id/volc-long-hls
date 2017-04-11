@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "VolMIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": null, 
+    "description": "volc-long-hlS", 
     "idx": 161, 
     "label": "volc-long-hlS", 
     "name": "volc-long-hls", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "3fea2ebb-a675-4ac3-b440-ed6bcbefeb59", 
-    "url": null
+    "uid": "b77d2527-55c5-46e2-a863-d23c52b0e43b"
 }

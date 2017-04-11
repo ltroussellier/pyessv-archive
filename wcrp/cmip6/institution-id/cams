@@ -1,0 +1,13 @@
+{
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {
+        "postalAddress": "Chinese Academy of Meteorological Sciences, Beijing 100081, China"
+    }, 
+    "description": "CAMS", 
+    "idx": 8, 
+    "label": "CAMS", 
+    "name": "cams", 
+    "status": "pending", 
+    "uid": "310ebed6-de03-4117-9707-b81d380fbfb7"
+}

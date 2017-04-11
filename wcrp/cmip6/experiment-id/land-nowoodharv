@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LUMIP"
@@ -14,8 +11,12 @@
         "experiment": "historical land-only with no wood harvest", 
         "experimentID": "land-noWoodHarv", 
         "minNumberYrsPerSim": "165", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "LAND"
         ], 
@@ -25,13 +26,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
-    "idx": 219, 
+    "description": "land-noWoodHarv", 
+    "idx": 220, 
     "label": "land-noWoodHarv", 
     "name": "land-nowoodharv", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "a0f23aef-024a-4587-87ce-a8ea8f9f168d", 
-    "url": null
+    "uid": "27e2f947-af25-4957-b435-683b1d422a9e"
 }

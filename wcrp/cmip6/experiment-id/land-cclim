@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LUMIP"
@@ -14,8 +11,12 @@
         "experiment": "historical land-only constant climate", 
         "experimentID": "land-cClim", 
         "minNumberYrsPerSim": "165", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "LAND"
         ], 
@@ -25,13 +26,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "land-cClim", 
     "idx": 120, 
     "label": "land-cClim", 
     "name": "land-cclim", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "1d3fee54-6b58-495c-ae42-708a3b22b765", 
-    "url": null
+    "uid": "31ba5991-9ac8-4eda-a991-c2d345a4b5c2"
 }

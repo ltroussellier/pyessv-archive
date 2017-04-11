@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "PMIP"
@@ -18,8 +15,12 @@
         "experiment": "last millennium", 
         "experimentID": "past1000", 
         "minNumberYrsPerSim": "1000", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "AOGCM"
         ], 
@@ -29,13 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "past1000", 
     "idx": 89, 
     "label": "past1000", 
     "name": "past1000", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "072d1b22-6937-467f-9d45-c932f8578e48", 
-    "url": null
+    "uid": "75923b30-2b0b-44f9-926c-b9ce1ffa0598"
 }

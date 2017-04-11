@@ -1,10 +1,14 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
+        "activityParticipation": [
+            "C4MIP", 
+            "CMIP", 
+            "GeoMIP", 
+            "LUMIP", 
+            "OMIP"
+        ], 
         "aerosol": "OsloAero", 
         "atmosphere": "CAM-OSLO (2 degree resolution; 144 x 96; 32 levels; top level 3 mb)", 
         "atmosphericChemistry": "OsloChemSimp", 
@@ -18,19 +22,25 @@
         "labelExtended": "NorESM2-LME (low atmosphere-medium ocean resolution, GHG emission driven)", 
         "landIce": "CISM", 
         "landSurface": "CLM", 
+        "nominalResolutionAtmos": [
+            "250 km"
+        ], 
+        "nominalResolutionLandIce": [
+            "250 km"
+        ], 
+        "nominalResolutionOcean": [
+            "100 km"
+        ], 
         "ocean": "MICOM (1 degree resolution; 360 x 384; 70 levels; top grid cell minimum 0-2.5 m [native model uses hybrid density and generic upper-layer coordinate interpolated to z-level for contributed data])", 
         "oceanBiogeochemistry": "HAMOCC", 
         "releaseYear": "2017", 
         "seaIce": "CICE", 
         "sourceID": "NorESM2-LME"
     }, 
-    "description": null, 
-    "idx": 45, 
+    "description": "NorESM2-LME", 
+    "idx": 49, 
     "label": "NorESM2-LME", 
     "name": "noresm2-lme", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "c92b4eb7-2279-47bc-ae85-e47d5e56fe24", 
-    "url": null
+    "uid": "b17472bc-8b97-4817-a3af-e0e5add8af57"
 }

@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -13,7 +10,7 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "B1 (& B2.1, B2.2) Ongoing decadal forecasts. First full forecast year follows start year (e.g., for s2017, first full forecast year is 2018)", 
+        "description": "B1 (and B2.1, B2.2) Ongoing decadal forecasts. First full forecast year follows start year (e.g., for s2017, first full forecast year is 2018)", 
         "endYear": "5 years after start year", 
         "experiment": "forecast initialized from observations with forcing from ssp245", 
         "experimentID": "dcppB-forecast", 
@@ -47,13 +44,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "dcppB-forecast", 
     "idx": 149, 
     "label": "dcppB-forecast", 
     "name": "dcppb-forecast", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "84f53e7b-f85f-440e-8aab-9de5d7e56f76", 
-    "url": null
+    "uid": "cf024d80-f510-4102-86ed-517e14cc88e9"
 }

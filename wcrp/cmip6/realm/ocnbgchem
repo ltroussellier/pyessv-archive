@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "ocnBgchem", 
     "idx": 7, 
     "label": "ocnBgchem", 
     "name": "ocnbgchem", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "5a49f683-2fee-4cbf-a3b1-892d4b408ffc", 
-    "url": null
+    "uid": "aee300b6-b562-4f67-9a8b-4258c2dab01b"
 }

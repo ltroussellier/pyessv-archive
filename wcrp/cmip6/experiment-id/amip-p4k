@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -17,8 +14,12 @@
         "experiment": "AMIP with uniform 4K SST increase", 
         "experimentID": "amip-p4K", 
         "minNumberYrsPerSim": "36", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "AGCM"
         ], 
@@ -28,13 +29,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "amip-p4K", 
     "idx": 129, 
     "label": "amip-p4K", 
     "name": "amip-p4k", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "7f31d8c8-aef6-4cf7-a2e6-2f28551aafda", 
-    "url": null
+    "uid": "37759373-0cae-43ef-b0a3-cbc20cb13bee"
 }

@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "VolMIP"
@@ -18,8 +15,12 @@
         "experiment": "control with slab ocean", 
         "experimentID": "control-slab", 
         "minNumberYrsPerSim": "30", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "AGCM", 
             "SLAB"
@@ -30,13 +31,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": null, 
+    "description": "control-slab", 
     "idx": 57, 
     "label": "control-slab", 
     "name": "control-slab", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "4a83ff71-b1d2-48bb-9bf3-4b1874c8dd0a", 
-    "url": null
+    "uid": "27968f13-36ac-47b2-a563-61c563961bbc"
 }

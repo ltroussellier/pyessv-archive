@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "ISMIP6"
@@ -29,13 +26,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "ism-bsmb-std", 
     "idx": 38, 
     "label": "ism-bsmb-std", 
     "name": "ism-bsmb-std", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "978127af-d014-4c06-81b8-e11e5967c0f9", 
-    "url": null
+    "uid": "2c96f1a5-8937-45ae-8f4c-91283dbd583c"
 }

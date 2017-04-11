@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "VolMIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": null, 
+    "description": "volc-cluster-mill", 
     "idx": 136, 
     "label": "volc-cluster-mill", 
     "name": "volc-cluster-mill", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "27f2620b-c739-4426-ba4c-5493eb8ab064", 
-    "url": null
+    "uid": "cb6a3a1d-5b96-485e-bf12-2b15d3ad79b9"
 }

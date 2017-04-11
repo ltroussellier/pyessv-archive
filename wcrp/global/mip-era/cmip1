@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "CMIP1", 
     "idx": 1, 
     "label": "CMIP1", 
     "name": "cmip1", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "d49a48cf-bf6d-40ec-a1bb-7f5576fff837", 
-    "url": null
+    "uid": "55db8154-9c50-4123-89bf-961feb1e6058"
 }

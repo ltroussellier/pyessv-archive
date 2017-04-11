@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "ocean", 
     "idx": 6, 
     "label": "ocean", 
     "name": "ocean", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "36435618-9a9e-41af-b34b-aed9687384c4", 
-    "url": null
+    "uid": "bf720987-96f0-4ca2-aa4d-49b4c7a4a209"
 }

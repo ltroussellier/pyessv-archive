@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -17,8 +14,12 @@
         "experiment": "aquaplanet with uniform 4K SST increase and with longwave cloud radiative effects off", 
         "experimentID": "aqua-p4K-lwoff", 
         "minNumberYrsPerSim": "10", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "AGCM"
         ], 
@@ -28,13 +29,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
-    "idx": 240, 
+    "description": "aqua-p4K-lwoff", 
+    "idx": 239, 
     "label": "aqua-p4K-lwoff", 
     "name": "aqua-p4k-lwoff", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "f59b66bc-eafb-4aec-990f-51239d71dbf4", 
-    "url": null
+    "uid": "ea4a4448-89f4-4451-ab54-43084aa3c0ea"
 }

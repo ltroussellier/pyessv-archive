@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "ISMIP6"
@@ -29,13 +26,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "ism-historical-self", 
     "idx": 109, 
     "label": "ism-historical-self", 
     "name": "ism-historical-self", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "223d4408-dd8a-45e8-8f89-43e8ba6a3c2c", 
-    "url": null
+    "uid": "1a8871da-3638-46d0-98d1-9687ecc7401e"
 }

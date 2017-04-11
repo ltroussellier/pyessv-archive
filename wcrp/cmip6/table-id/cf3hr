@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
-    "idx": 11, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "CF3hr", 
+    "idx": 10, 
     "label": "CF3hr", 
     "name": "cf3hr", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "2b34dbd2-4705-4435-aeae-fddeb0a6615b", 
-    "url": null
+    "uid": "6f26527f-8933-4a6d-9e88-c53d3eaa97a1"
 }

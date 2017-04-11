@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "PMIP"
@@ -18,8 +15,12 @@
         "experiment": "last glacial maximum", 
         "experimentID": "lgm", 
         "minNumberYrsPerSim": "100", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "AOGCM"
         ], 
@@ -29,13 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "lgm", 
     "idx": 167, 
     "label": "lgm", 
     "name": "lgm", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "bbde16e2-f3ac-42bf-a2c4-ec947a169092", 
-    "url": null
+    "uid": "6c5a901c-b363-4593-a982-4f5c7387dbfd"
 }

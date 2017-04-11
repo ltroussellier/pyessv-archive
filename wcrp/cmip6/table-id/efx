@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
-    "idx": 23, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "Efx", 
+    "idx": 21, 
     "label": "Efx", 
     "name": "efx", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "986991dc-4ebc-4b49-af01-b8f119726083", 
-    "url": null
+    "uid": "9ef003c0-9985-45c1-9878-d174c82b7a28"
 }

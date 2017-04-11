@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "FAFMIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "faf-passiveheat", 
     "idx": 29, 
     "label": "faf-passiveheat", 
     "name": "faf-passiveheat", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "ca420558-69e9-4507-aa9a-7aafa49de8fd", 
-    "url": null
+    "uid": "7d283aa5-b526-4d30-baaa-c7e5db552556"
 }

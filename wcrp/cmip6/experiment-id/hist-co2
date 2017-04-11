@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "DAMIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": null, 
+    "description": "hist-CO2", 
     "idx": 151, 
     "label": "hist-CO2", 
     "name": "hist-co2", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "4b5c73f2-b86f-4265-8272-d0707d8b16bf", 
-    "url": null
+    "uid": "85829802-fb9c-4c64-9951-9389759bcbe6"
 }

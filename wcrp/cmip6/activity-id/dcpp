@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "DCPP", 
     "idx": 6, 
     "label": "DCPP", 
     "name": "dcpp", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "97d12cdf-39a3-42ef-b8dd-63e976d74b10", 
-    "url": null
+    "uid": "8cd3caa8-49e6-4a3b-aee5-29bbb6c77674"
 }

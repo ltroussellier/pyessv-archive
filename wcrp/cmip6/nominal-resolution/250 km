@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "250 km", 
     "idx": 10, 
     "label": "250 km", 
     "name": "250 km", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "807323d6-8bc9-41e0-a0c0-54c41d1b8e31", 
-    "url": null
+    "uid": "d17e1699-354d-4851-989a-21e3e8d67f63"
 }

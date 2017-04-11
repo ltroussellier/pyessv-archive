@@ -1,10 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
+        "activityParticipation": [
+            ""
+        ], 
         "aerosol": "Prescribed MACv2-SP", 
         "atmosphere": "NICAM.16 (56km icosahedral grid; 163,842 grid cells (=10*4^7+2); 38 levels; top level 40 km)", 
         "atmosphericChemistry": "None", 
@@ -18,19 +18,19 @@
         "labelExtended": "NICAM.16 gl07-L38 with NSW6", 
         "landIce": "None", 
         "landSurface": "MATSIRO6 (w/o MOSAIC)", 
+        "nominalResolutionAtmos": "", 
+        "nominalResolutionLandIce": "", 
+        "nominalResolutionOcean": "", 
         "ocean": "None", 
         "oceanBiogeochemistry": "None", 
         "releaseYear": "2017", 
         "seaIce": "Fixed", 
         "sourceID": "NICAM16-7S"
     }, 
-    "description": null, 
-    "idx": 13, 
+    "description": "NICAM16-7S", 
+    "idx": 14, 
     "label": "NICAM16-7S", 
     "name": "nicam16-7s", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "90aa04d1-a68e-4c30-bc66-c849e2c667c2", 
-    "url": null
+    "uid": "8281daf0-4d91-464a-a0ab-c5a0a615585a"
 }

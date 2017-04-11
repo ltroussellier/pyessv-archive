@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "GeoMIP"
@@ -32,13 +29,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "G6SST1", 
     "idx": 15, 
     "label": "G6SST1", 
     "name": "g6sst1", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "ed79d530-8e4e-4d65-9c3c-48a47d4bb418", 
-    "url": null
+    "uid": "944ce9d7-9dd5-4b3a-880e-557e75873a79"
 }

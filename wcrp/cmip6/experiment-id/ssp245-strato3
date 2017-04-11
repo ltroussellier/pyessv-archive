@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "DAMIP"
@@ -32,13 +29,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "ssp245-stratO3", 
     "idx": 163, 
     "label": "ssp245-stratO3", 
     "name": "ssp245-strato3", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "19c7d2b2-4bba-4783-ba8b-4ace0af0ead8", 
-    "url": null
+    "uid": "e5df7266-e0ee-446c-9448-3e650e6edc05"
 }

@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "abrupt-2xCO2", 
     "idx": 69, 
     "label": "abrupt-2xCO2", 
     "name": "abrupt-2xco2", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "936aca98-dba0-4635-b3da-2f5d3844642f", 
-    "url": null
+    "uid": "514766f0-1431-4e02-8e68-9b143649760c"
 }

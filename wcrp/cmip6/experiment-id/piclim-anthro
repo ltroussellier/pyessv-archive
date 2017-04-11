@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "RFMIP"
@@ -32,13 +29,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "piClim-anthro", 
     "idx": 28, 
     "label": "piClim-anthro", 
     "name": "piclim-anthro", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "ba712a24-9e14-46aa-9072-458c458ce43a", 
-    "url": null
+    "uid": "d5f959fe-3d20-4cc8-b7e8-1e06524b1dbe"
 }

@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "SLAB", 
     "idx": 11, 
     "label": "SLAB", 
     "name": "slab", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "351a7f8b-3ccc-415f-9908-eca127726abd", 
-    "url": null
+    "uid": "7fd7e612-8440-47c9-b4af-600f4904face"
 }

@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -32,13 +29,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "a4SST", 
     "idx": 207, 
     "label": "a4SST", 
     "name": "a4sst", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "ced1c1d9-6457-49f9-9bd8-49f2ab7c8c44", 
-    "url": null
+    "uid": "d91f8816-25de-43cc-905b-c368faf18888"
 }

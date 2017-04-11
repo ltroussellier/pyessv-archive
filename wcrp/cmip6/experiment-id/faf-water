@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "FAFMIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "faf-water", 
     "idx": 108, 
     "label": "faf-water", 
     "name": "faf-water", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "aac28bd5-a03e-4324-897c-19247f66e14b", 
-    "url": null
+    "uid": "31450baa-4ec9-4262-8069-25c1c2d291f0"
 }

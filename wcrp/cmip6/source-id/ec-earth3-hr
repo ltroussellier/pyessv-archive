@@ -1,10 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
+        "activityParticipation": [
+            ""
+        ], 
         "aerosol": "None", 
         "atmosphere": "IFS cy36r4 (TL511, linearly reduced Gaussian grid equivalent to 1024 x 512; 91 levels; top level 0.01 hPa)", 
         "atmosphericChemistry": "None", 
@@ -18,19 +18,19 @@
         "labelExtended": "EC-Earth 3.3 at high resolution", 
         "landIce": "None", 
         "landSurface": "HTESSEL (land surface scheme built in IFS)", 
+        "nominalResolutionAtmos": "", 
+        "nominalResolutionLandIce": "", 
+        "nominalResolutionOcean": "", 
         "ocean": "NEMO3.6 (tripolar, 1442x1921; 75 levels; top grid cell 5m)", 
         "oceanBiogeochemistry": "None", 
         "releaseYear": "2017", 
         "seaIce": "LIM3", 
         "sourceID": "EC-Earth3-HR"
     }, 
-    "description": null, 
-    "idx": 18, 
+    "description": "EC-Earth3-HR", 
+    "idx": 19, 
     "label": "EC-Earth3-HR", 
     "name": "ec-earth3-hr", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "f703674b-697b-46b7-9e33-271a165daabe", 
-    "url": null
+    "uid": "92009142-88c1-4f6b-ab7a-97d14a8e5a76"
 }

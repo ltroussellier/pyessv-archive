@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
-    "idx": 32, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "IyrAnt", 
+    "idx": 30, 
     "label": "IyrAnt", 
     "name": "iyrant", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "96b03b76-ea39-4096-9e60-2ce566542bca", 
-    "url": null
+    "uid": "c52d5b16-3a29-4abe-a4d4-811fc0bfb384"
 }

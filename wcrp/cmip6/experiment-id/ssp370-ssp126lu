@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LUMIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "ssp370-ssp126Lu", 
     "idx": 122, 
     "label": "ssp370-ssp126Lu", 
     "name": "ssp370-ssp126lu", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "8b01ac0f-6bc7-4355-9ca6-b19d5abac460", 
-    "url": null
+    "uid": "89a63adc-b321-401f-a070-6791f35702c5"
 }

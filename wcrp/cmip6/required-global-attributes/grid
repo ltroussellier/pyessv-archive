@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
-    "idx": 11, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "grid", 
+    "idx": 10, 
     "label": "grid", 
     "name": "grid", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "b4e990df-543f-4ed9-b4de-84ceb04326b8", 
-    "url": null
+    "uid": "e5207818-c0b0-4746-8ea8-afb1d0ec08f7"
 }

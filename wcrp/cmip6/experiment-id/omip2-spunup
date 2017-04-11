@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "OMIP"
@@ -14,8 +11,12 @@
         "experiment": "OMIP experiment forced by JRA-55do atmospheric data set and initialized from at least a 2000-year spin up of the coupled physical-biogeochemical model", 
         "experimentID": "omip2-spunup", 
         "minNumberYrsPerSim": "295", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "OGCM"
         ], 
@@ -25,13 +26,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": null, 
-    "idx": 232, 
+    "description": "omip2-spunup", 
+    "idx": 231, 
     "label": "omip2-spunup", 
     "name": "omip2-spunup", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "1f8a31e2-4df6-4d71-a7bf-8f72557d342d", 
-    "url": null
+    "uid": "7f601ac9-274c-4e70-be40-464ba308b987"
 }

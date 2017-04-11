@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "CFMIP", 
     "idx": 3, 
     "label": "CFMIP", 
     "name": "cfmip", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "f7e97862-ebc1-4cc2-b70d-0c974a28d6df", 
-    "url": null
+    "uid": "f69f37fa-2ff3-4fe6-a6c4-b5f4a2da3a04"
 }

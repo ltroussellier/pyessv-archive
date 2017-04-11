@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "subhr", 
     "idx": 11, 
     "label": "subhr", 
     "name": "subhr", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "5a514f51-4dab-4c8d-b2e2-7fcd6ad136dd", 
-    "url": null
+    "uid": "f510c3ce-40fc-4117-afe4-e862f7816f5a"
 }

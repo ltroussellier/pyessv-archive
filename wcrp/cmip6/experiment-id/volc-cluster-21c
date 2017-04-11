@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "VolMIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": null, 
+    "description": "volc-cluster-21C", 
     "idx": 47, 
     "label": "volc-cluster-21C", 
     "name": "volc-cluster-21c", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "76742c23-4143-4b04-b1e1-1c8978cdfa21", 
-    "url": null
+    "uid": "444b65e4-f98b-40d5-a179-858f4627789b"
 }

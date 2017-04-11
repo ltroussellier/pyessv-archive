@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
-    "idx": 24, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "Emon", 
+    "idx": 22, 
     "label": "Emon", 
     "name": "emon", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "3102ab63-e028-487a-89d3-eb6424b19415", 
-    "url": null
+    "uid": "f62b670c-5474-4691-93ec-ce19d188a590"
 }

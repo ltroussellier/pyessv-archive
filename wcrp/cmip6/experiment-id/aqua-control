@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -17,8 +14,12 @@
         "experiment": "aquaplanet control", 
         "experimentID": "aqua-control", 
         "minNumberYrsPerSim": "10", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "AGCM"
         ], 
@@ -28,13 +29,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "aqua-control", 
     "idx": 191, 
     "label": "aqua-control", 
     "name": "aqua-control", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "dd4a7431-35f2-4b08-9757-527bc793056a", 
-    "url": null
+    "uid": "1f6722ef-8dcc-4bae-8ce4-90b4a9e6d05a"
 }

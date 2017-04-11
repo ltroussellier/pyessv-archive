@@ -1,19 +1,13 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
-        "postalAddress": "NorESM Climate modeling Consortium consisting of CICERO (Center for International Climate and Environmental Research, Oslo 0349),MET-Norway (Norwegian Meteorological Institute, Oslo 0313),NERSC (Nansen Environmental and Remote Sensing Center, Bergen 5006),NILU (Norwegian Institute for Air Research, Kjeller 2027),UiB (University of Bergen, Bergen 5007),UiO (University of Oslo, Oslo 0313) and UNI (Uni Research, Bergen 5008), Norway"
+        "postalAddress": "NorESM Climate modeling Consortium consisting of CICERO (Center for International Climate and Environmental Research, Oslo 0349), MET-Norway (Norwegian Meteorological Institute, Oslo 0313), NERSC (Nansen Environmental and Remote Sensing Center, Bergen 5006), NILU (Norwegian Institute for Air Research, Kjeller 2027), UiB (University of Bergen, Bergen 5007), UiO (University of Oslo, Oslo 0313) and UNI (Uni Research, Bergen 5008), Norway"
     }, 
-    "description": null, 
-    "idx": 27, 
+    "description": "NCC", 
+    "idx": 28, 
     "label": "NCC", 
     "name": "ncc", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "9dabb3fb-c1b2-4053-b6ec-0f27d7794d7e", 
-    "url": null
+    "uid": "14577014-10c9-4763-9b5c-025625e808cf"
 }

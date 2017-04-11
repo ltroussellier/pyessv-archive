@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
@@ -14,8 +11,12 @@
         "experiment": "historical SSTs and historical forcing, but with pre-industrial methane concentrations", 
         "experimentID": "histSST-piCH4", 
         "minNumberYrsPerSim": "165", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "AGCM", 
             "AER", 
@@ -27,13 +28,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
-    "idx": 239, 
+    "description": "histSST-piCH4", 
+    "idx": 238, 
     "label": "histSST-piCH4", 
     "name": "histsst-pich4", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "d5ad0e9c-1243-4684-bbe5-39be252015f5", 
-    "url": null
+    "uid": "43bf2abb-c108-45b4-84ac-d055ea0a2cca"
 }

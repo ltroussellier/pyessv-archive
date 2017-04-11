@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LUMIP"
@@ -14,8 +11,12 @@
         "experiment": "historical land-only with no fertilizer", 
         "experimentID": "land-crop-noFert", 
         "minNumberYrsPerSim": "165", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "LAND"
         ], 
@@ -25,13 +26,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
-    "idx": 238, 
+    "description": "land-crop-noFert", 
+    "idx": 237, 
     "label": "land-crop-noFert", 
     "name": "land-crop-nofert", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "5fc92091-bbad-4b6b-a6f0-96eaa81a1598", 
-    "url": null
+    "uid": "e36e5b46-1442-4018-9b82-d9caec54acfc"
 }

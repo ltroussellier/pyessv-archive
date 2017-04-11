@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "VolMIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
-    "idx": 110, 
+    "description": "volc-pinatubo-full", 
+    "idx": 247, 
     "label": "volc-pinatubo-full", 
     "name": "volc-pinatubo-full", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "ce2f74c8-8a86-4e75-936b-dc494b22e24d", 
-    "url": null
+    "uid": "91ecefa6-2549-464a-a8f4-0bd68b6b688c"
 }

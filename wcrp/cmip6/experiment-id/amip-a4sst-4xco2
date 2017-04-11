@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -17,8 +14,12 @@
         "experiment": "as AMIP but with warming pattern from abrupt4xCO2 added to SSTs and 4xCO2 seen by radiation and vegetation", 
         "experimentID": "amip-a4SST-4xCO2", 
         "minNumberYrsPerSim": "36", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "AGCM"
         ], 
@@ -28,13 +29,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
-    "idx": 216, 
+    "description": "amip-a4SST-4xCO2", 
+    "idx": 217, 
     "label": "amip-a4SST-4xCO2", 
     "name": "amip-a4sst-4xco2", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "99b70021-5873-4152-bbba-1cdf09b8ab5a", 
-    "url": null
+    "uid": "6e835a10-5ddb-44b0-b0ca-b22183067ef4"
 }

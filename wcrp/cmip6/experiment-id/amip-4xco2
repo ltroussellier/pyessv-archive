@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -17,8 +14,12 @@
         "experiment": "AMIP SSTs with 4xCO2", 
         "experimentID": "amip-4xCO2", 
         "minNumberYrsPerSim": "36", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "AGCM"
         ], 
@@ -28,13 +29,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "amip-4xCO2", 
     "idx": 127, 
     "label": "amip-4xCO2", 
     "name": "amip-4xco2", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "18c220c3-96cb-4489-863c-70483ed1069a", 
-    "url": null
+    "uid": "a067d5c9-f076-48ca-84e7-9e2e3ace4209"
 }

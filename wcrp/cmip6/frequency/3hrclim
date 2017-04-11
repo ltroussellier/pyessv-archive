@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "3hrClim", 
     "idx": 4, 
     "label": "3hrClim", 
     "name": "3hrclim", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "7e0f717e-cbd1-4856-91bc-f61e0724b8f4", 
-    "url": null
+    "uid": "4401b9e5-06ed-47b8-88ca-c2436d97a12b"
 }

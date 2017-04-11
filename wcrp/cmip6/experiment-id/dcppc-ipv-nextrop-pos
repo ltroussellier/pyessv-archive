@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "dcppC-ipv-NexTrop-pos", 
     "idx": 8, 
     "label": "dcppC-ipv-NexTrop-pos", 
     "name": "dcppc-ipv-nextrop-pos", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "e0848ca2-fd90-41cf-a0f0-cd1076a24289", 
-    "url": null
+    "uid": "8375d25b-f72c-484a-a49e-3bb68c92932f"
 }

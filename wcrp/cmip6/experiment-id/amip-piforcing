@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -17,8 +14,12 @@
         "experiment": "AMIP SSTs with pre-industrial anthropogenic and natural forcing", 
         "experimentID": "amip-piForcing", 
         "minNumberYrsPerSim": "145", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "AGCM"
         ], 
@@ -28,13 +29,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
-    "idx": 224, 
+    "description": "amip-piForcing", 
+    "idx": 223, 
     "label": "amip-piForcing", 
     "name": "amip-piforcing", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "6f70fee2-38fb-4926-be86-24079a922ff0", 
-    "url": null
+    "uid": "6d4b1f71-58b0-425e-bd26-a5cab48dfdf4"
 }

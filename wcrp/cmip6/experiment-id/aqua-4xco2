@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -17,8 +14,12 @@
         "experiment": "aquaplanet with control SST and 4xCO2", 
         "experimentID": "aqua-4xCO2", 
         "minNumberYrsPerSim": "10", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "AGCM"
         ], 
@@ -28,13 +29,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "aqua-4xCO2", 
     "idx": 134, 
     "label": "aqua-4xCO2", 
     "name": "aqua-4xco2", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "5f5cd903-513a-4fe2-8a0a-938f90766d96", 
-    "url": null
+    "uid": "783667a7-3640-4f27-ad22-f763b298e41c"
 }

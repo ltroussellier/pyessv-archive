@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "6hrLev", 
     "idx": 2, 
     "label": "6hrLev", 
     "name": "6hrlev", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "c8fbbd69-a927-4f16-aaf8-a455e3069ffe", 
-    "url": null
+    "uid": "ad4a62f0-d688-4f6d-8dae-6f7563028b1b"
 }

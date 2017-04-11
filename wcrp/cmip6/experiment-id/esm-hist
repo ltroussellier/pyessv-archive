@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "CMIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "esm-hist", 
     "idx": 170, 
     "label": "esm-hist", 
     "name": "esm-hist", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "c5a669b3-9ce2-4125-81ca-48998920c265", 
-    "url": null
+    "uid": "e68efae4-dac0-4fd9-aa60-a0599cb8ef80"
 }

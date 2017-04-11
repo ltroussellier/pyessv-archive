@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "ISMIP6"
@@ -29,13 +26,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "ism-1pctCO2to4x-self", 
     "idx": 14, 
     "label": "ism-1pctCO2to4x-self", 
     "name": "ism-1pctco2to4x-self", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "2818197e-9c0a-4e5a-83d8-a8d52431bd28", 
-    "url": null
+    "uid": "e162d848-7713-437d-b6b2-ff2032f6a97a"
 }

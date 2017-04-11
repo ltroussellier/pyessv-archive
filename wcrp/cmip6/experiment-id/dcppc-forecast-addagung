@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -35,13 +32,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": null, 
-    "idx": 228, 
+    "description": "dcppC-forecast-addAgung", 
+    "idx": 227, 
     "label": "dcppC-forecast-addAgung", 
     "name": "dcppc-forecast-addagung", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "654b79e4-f4d4-4a1b-ab1e-a703ae228663", 
-    "url": null
+    "uid": "1c6b4c0c-7dea-45a6-9e59-ee9f5f3569db"
 }

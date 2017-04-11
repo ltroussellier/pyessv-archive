@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "HighResMIP"
@@ -31,13 +28,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": null, 
+    "description": "highresSST-LAI", 
     "idx": 107, 
     "label": "highresSST-LAI", 
     "name": "highressst-lai", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "4863f402-2976-4cc8-aa69-ec4f9524dc2a", 
-    "url": null
+    "uid": "4e0aded2-8bbd-4be0-ba9d-4f7fcb0f70d9"
 }

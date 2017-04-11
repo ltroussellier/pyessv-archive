@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "ISMIP6"
@@ -14,8 +11,12 @@
         "experiment": "offline ice sheet forced by ISMIP6-specified AOGCM pdControl output", 
         "experimentID": "ism-pdControl-std", 
         "minNumberYrsPerSim": "100", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "ISM"
         ], 
@@ -25,13 +26,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "ism-pdControl-std", 
     "idx": 95, 
     "label": "ism-pdControl-std", 
     "name": "ism-pdcontrol-std", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "46434da6-e4ce-4229-bb58-8c14beefd407", 
-    "url": null
+    "uid": "4a8feeb6-f65f-4d26-ac47-a6f29d021dea"
 }

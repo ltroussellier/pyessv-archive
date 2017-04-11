@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LUMIP"
@@ -14,8 +11,12 @@
         "experiment": "historical land-only with shifting cultivation turned off", 
         "experimentID": "land-noShiftCultivate", 
         "minNumberYrsPerSim": "165", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "LAND"
         ], 
@@ -25,13 +26,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "land-noShiftCultivate", 
     "idx": 94, 
     "label": "land-noShiftCultivate", 
     "name": "land-noshiftcultivate", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "6885c514-d681-4c57-ac0f-2d9eb0be19ea", 
-    "url": null
+    "uid": "bda543b0-91e1-48b1-902f-99729d4faae3"
 }

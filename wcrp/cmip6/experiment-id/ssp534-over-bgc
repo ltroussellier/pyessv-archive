@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "C4MIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "ssp534-over-bgc", 
     "idx": 197, 
     "label": "ssp534-over-bgc", 
     "name": "ssp534-over-bgc", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "7458151d-f654-480c-b8de-c4e0a39820d5", 
-    "url": null
+    "uid": "afde5363-f156-4f64-995b-4cdf64a2d1d3"
 }

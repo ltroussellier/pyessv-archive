@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "DAMIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": null, 
+    "description": "hist-all-nat2", 
     "idx": 185, 
     "label": "hist-all-nat2", 
     "name": "hist-all-nat2", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "6a12b4db-ea55-4221-a282-fa3cfce53e3a", 
-    "url": null
+    "uid": "4b7e982b-6d17-4f6f-95f5-bc98bf64d5dc"
 }

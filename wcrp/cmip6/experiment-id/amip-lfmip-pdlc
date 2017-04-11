@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LS3MIP"
@@ -18,8 +15,12 @@
         "experiment": "prescribed land (from current climatology) and AMIP SSTs", 
         "experimentID": "amip-lfmip-pdLC", 
         "minNumberYrsPerSim": "36", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "AGCM"
         ], 
@@ -29,13 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "amip-lfmip-pdLC", 
     "idx": 26, 
     "label": "amip-lfmip-pdLC", 
     "name": "amip-lfmip-pdlc", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "66b015bf-0973-4773-8b8f-37930cc3426c", 
-    "url": null
+    "uid": "a4f96961-9c1e-4cf6-b465-75198edc9356"
 }

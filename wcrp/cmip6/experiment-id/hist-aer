@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "DAMIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "hist-aer", 
     "idx": 121, 
     "label": "hist-aer", 
     "name": "hist-aer", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "1be6ebf2-2a57-4a9c-870d-6211a12c7403", 
-    "url": null
+    "uid": "597c9e96-7505-4c17-b11c-8353c3255cf1"
 }

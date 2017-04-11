@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LS3MIP"
@@ -14,8 +11,12 @@
         "experiment": "as land-hist with Princeton forcings", 
         "experimentID": "land-hist-princeton", 
         "minNumberYrsPerSim": "165", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "LAND"
         ], 
@@ -25,13 +26,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "land-hist-princeton", 
     "idx": 135, 
     "label": "land-hist-princeton", 
     "name": "land-hist-princeton", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "b408ba32-9e4d-40d3-852b-4f84ccf8e3a6", 
-    "url": null
+    "uid": "cea5d1c0-98e7-4bf2-b623-eb8b7d6d5704"
 }

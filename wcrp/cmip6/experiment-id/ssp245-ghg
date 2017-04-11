@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "DAMIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "ssp245-GHG", 
     "idx": 1, 
     "label": "ssp245-GHG", 
     "name": "ssp245-ghg", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "68ad57e1-0e6a-492f-8621-c7fb848466f5", 
-    "url": null
+    "uid": "dd876d16-63f5-402b-ac07-5cc14b489267"
 }

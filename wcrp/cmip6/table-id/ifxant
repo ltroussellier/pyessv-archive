@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
-    "idx": 28, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "IfxAnt", 
+    "idx": 26, 
     "label": "IfxAnt", 
     "name": "ifxant", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "974cfb93-ee5e-437c-bf6d-cbd659b65ca2", 
-    "url": null
+    "uid": "ff54a91d-2b0a-48c1-81c6-b6807c2a8504"
 }

@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "HighResMIP"
@@ -16,8 +13,12 @@
         "experiment": "forced atmosphere experiment for 1950-2014", 
         "experimentID": "highresSST-present", 
         "minNumberYrsPerSim": "65", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "AGCM"
         ], 
@@ -27,13 +28,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "highresSST-present", 
     "idx": 210, 
     "label": "highresSST-present", 
     "name": "highressst-present", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "979933f8-81d8-4618-9c32-cb7e5560bc6f", 
-    "url": null
+    "uid": "a8d7dc9b-17ac-4288-bb25-e4a0b5e77f4c"
 }

@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "ISMIP6"
@@ -34,13 +31,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "historical-withism", 
     "idx": 175, 
     "label": "historical-withism", 
     "name": "historical-withism", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "dc261331-2f5b-439c-bbae-a5e8b6e908c9", 
-    "url": null
+    "uid": "888c7b1c-8701-41fa-9a31-f65604b3b276"
 }

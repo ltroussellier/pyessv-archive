@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "GMMIP"
@@ -17,8 +14,12 @@
         "experiment": "same as \"amip\" run, but sensible heat not allowed for elevations of the Tibetan-Iranian Plateau and Himalayas above 500m", 
         "experimentID": "amip-TIP-nosh", 
         "minNumberYrsPerSim": "36", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "AGCM"
         ], 
@@ -28,13 +29,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": null, 
+    "description": "amip-TIP-nosh", 
     "idx": 73, 
     "label": "amip-TIP-nosh", 
     "name": "amip-tip-nosh", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "c8d80482-ccb7-46f5-b8c0-2534b9764370", 
-    "url": null
+    "uid": "664fb6d1-9c74-4388-bf38-a85cf9694e43"
 }

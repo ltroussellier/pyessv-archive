@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "abrupt-solm4p", 
     "idx": 146, 
     "label": "abrupt-solm4p", 
     "name": "abrupt-solm4p", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "e6e9725d-b2bb-41d7-bcfb-5ccc74508fa7", 
-    "url": null
+    "uid": "f94bc84f-8ecf-4cfc-a399-abe7e9782c39"
 }

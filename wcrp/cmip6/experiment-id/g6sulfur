@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "GeoMIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "G6sulfur", 
     "idx": 195, 
     "label": "G6sulfur", 
     "name": "g6sulfur", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "72db7c34-555d-4053-8dd9-5c0c2f893c6d", 
-    "url": null
+    "uid": "cf6f30e0-e730-42c6-ac7b-b4832af58746"
 }

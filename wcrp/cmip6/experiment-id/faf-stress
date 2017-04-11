@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "FAFMIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "faf-stress", 
     "idx": 99, 
     "label": "faf-stress", 
     "name": "faf-stress", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "0ae98456-b40f-4f26-8953-9d11c09c7962", 
-    "url": null
+    "uid": "50c628d2-8f1d-4630-8ba5-e1a94df504df"
 }

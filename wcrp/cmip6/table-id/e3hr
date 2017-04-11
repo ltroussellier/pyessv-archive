@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
-    "idx": 18, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "E3hr", 
+    "idx": 16, 
     "label": "E3hr", 
     "name": "e3hr", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "b60cc697-ba73-43c9-9f45-2431817453c3", 
-    "url": null
+    "uid": "331824b3-db72-4d0c-a839-9717c0269a16"
 }

@@ -1,0 +1,52 @@
+{
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {
+        "activityParticipation": [
+            "AerChemMIP", 
+            "C4MIP", 
+            "CFMIP", 
+            "CMIP", 
+            "DAMIP", 
+            "DynVarMIP", 
+            "GMMIP", 
+            "LUMIP", 
+            "OMIP", 
+            "RFMIP", 
+            "ScenarioMIP"
+        ], 
+        "aerosol": "interactive", 
+        "atmosphere": "GFDL-AM4.1 (Cubed-sphere (c96) - 1 degree nominal horizontal resolution; 360x180 longitude/latitude; 48 levels, model top: 1 Pa)", 
+        "atmosphericChemistry": "GFDL-ATMCHEM4.1 (full atmospheric chemistry)", 
+        "cohort": [
+            "Registered"
+        ], 
+        "institutionID": [
+            "NOAA-GFDL"
+        ], 
+        "label": "GFDL-ESM4", 
+        "labelExtended": "GFDL-ESM4", 
+        "landIce": "GFDL-LM4.1", 
+        "landSurface": "GFDL-LM4.1", 
+        "nominalResolutionAtmos": [
+            "100 km"
+        ], 
+        "nominalResolutionLandIce": [
+            "100 km"
+        ], 
+        "nominalResolutionOcean": [
+            "50 km"
+        ], 
+        "ocean": "GFDL-MOM6 (tripolar - nominal 0.5 deg; 720x360 longitude/latitude; 75 levels; top grid cell 0-2 m)", 
+        "oceanBiogeochemistry": "COBALT 2.0", 
+        "releaseYear": "2017", 
+        "seaIce": "SIS2", 
+        "sourceID": "GFDL-ESM4"
+    }, 
+    "description": "GFDL-ESM4", 
+    "idx": 47, 
+    "label": "GFDL-ESM4", 
+    "name": "gfdl-esm4", 
+    "status": "pending", 
+    "uid": "8a1cf2dc-dbd4-44e3-a1de-f9a316967125"
+}

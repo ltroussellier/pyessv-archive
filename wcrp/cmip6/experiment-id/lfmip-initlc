@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LS3MIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "lfmip-initLC", 
     "idx": 206, 
     "label": "lfmip-initLC", 
     "name": "lfmip-initlc", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "a2a3c45e-e8bb-427f-b8dd-9befc5b2a48d", 
-    "url": null
+    "uid": "5e37d187-fd5c-4c54-a626-3e2560a4a77c"
 }

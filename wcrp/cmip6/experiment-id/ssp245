@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "ScenarioMIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "ssp245", 
     "idx": 115, 
     "label": "ssp245", 
     "name": "ssp245", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "4bd2e935-270b-4500-a030-edf98b4a4a0e", 
-    "url": null
+    "uid": "8a426503-e8a1-4cf4-98c9-44ae43f76e07"
 }

@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
-    "idx": 13, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "CFmon", 
+    "idx": 12, 
     "label": "CFmon", 
     "name": "cfmon", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "3f6bef53-92c2-43c6-a136-ff5a06027a57", 
-    "url": null
+    "uid": "7221d7b3-d59e-40ae-983a-e6ea5da54cb3"
 }

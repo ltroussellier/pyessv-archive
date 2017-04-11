@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "1hrClimMon", 
     "idx": 2, 
     "label": "1hrClimMon", 
     "name": "1hrclimmon", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "1eba78ca-bc0d-4d2e-bc68-c32f29ec5a61", 
-    "url": null
+    "uid": "fe026491-407b-4c9b-aeab-9fb6b7ebb5ae"
 }

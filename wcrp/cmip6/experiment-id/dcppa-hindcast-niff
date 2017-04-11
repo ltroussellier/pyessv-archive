@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -91,13 +88,10 @@
         ], 
         "tier": "4"
     }, 
-    "description": null, 
+    "description": "dcppA-hindcast-niff", 
     "idx": 116, 
     "label": "dcppA-hindcast-niff", 
     "name": "dcppa-hindcast-niff", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "64c995fa-477b-4b94-8ba6-c83dbc2ae2f7", 
-    "url": null
+    "uid": "75d7ce5f-d92a-494f-a37e-f0ceddfdf4b0"
 }

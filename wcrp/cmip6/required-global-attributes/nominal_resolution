@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
-    "idx": 18, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "nominal_resolution", 
+    "idx": 17, 
     "label": "nominal_resolution", 
     "name": "nominal_resolution", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "f9962ba9-63ca-4391-811b-e4bb4cb1b710", 
-    "url": null
+    "uid": "6cc12790-26eb-4dbb-8105-db4db1734d8d"
 }

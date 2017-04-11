@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LS3MIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "lfmip-rmLC-princeton", 
     "idx": 187, 
     "label": "lfmip-rmLC-princeton", 
     "name": "lfmip-rmlc-princeton", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "d70d99f8-d98f-4317-ae6f-da4ddbb4b337", 
-    "url": null
+    "uid": "f315ff5f-a88f-417b-b848-c47cc6913014"
 }

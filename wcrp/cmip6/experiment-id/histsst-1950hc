@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
@@ -14,8 +11,12 @@
         "experiment": "historical SSTs and historical forcing, but with1950 halocarbon concentrations", 
         "experimentID": "histSST-1950HC", 
         "minNumberYrsPerSim": "65", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "AGCM", 
             "AER", 
@@ -27,13 +28,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "histSST-1950HC", 
     "idx": 56, 
     "label": "histSST-1950HC", 
     "name": "histsst-1950hc", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "9680c9e3-b4a8-4054-9368-5c8ce05231f9", 
-    "url": null
+    "uid": "d7d15b4a-d8ba-4139-8fa5-f20943f973a8"
 }

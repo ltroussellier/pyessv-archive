@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
-    "idx": 17, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "mip_era", 
+    "idx": 16, 
     "label": "mip_era", 
     "name": "mip_era", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "8e67d896-9b49-45ed-b249-ac6b6302979c", 
-    "url": null
+    "uid": "acc6a84d-f92c-475d-9da1-93c2888b39ca"
 }

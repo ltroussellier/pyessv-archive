@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "FAFMIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "faf-heat", 
     "idx": 24, 
     "label": "faf-heat", 
     "name": "faf-heat", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "bcb6858b-facb-4c7c-a384-997397891843", 
-    "url": null
+    "uid": "f8e2ac93-6fa0-48b6-ae59-209118c176b3"
 }

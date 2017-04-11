@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LUMIP"
@@ -14,8 +11,12 @@
         "experiment": "historical land-only with constant pastureland", 
         "experimentID": "land-noPasture", 
         "minNumberYrsPerSim": "165", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "LAND"
         ], 
@@ -25,13 +26,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "land-noPasture", 
     "idx": 128, 
     "label": "land-noPasture", 
     "name": "land-nopasture", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "b2dcda8d-c6f8-43a8-9cf7-e2fcd340987c", 
-    "url": null
+    "uid": "22e261fd-2e38-4c4a-acd0-a06ab3afa579"
 }

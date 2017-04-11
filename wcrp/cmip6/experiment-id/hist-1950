@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "HighResMIP"
@@ -31,13 +28,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "hist-1950", 
     "idx": 31, 
     "label": "hist-1950", 
     "name": "hist-1950", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "9e803be9-47a3-48e1-a3b4-a3f48593f419", 
-    "url": null
+    "uid": "7db01286-5e71-4809-b73b-41546af23993"
 }

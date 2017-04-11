@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "RFMIP"
@@ -14,8 +11,12 @@
         "experiment": "offline assessment of radiative transfer parmeterizations in clear skies", 
         "experimentID": "rad-irf", 
         "minNumberYrsPerSim": "", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "RAD"
         ], 
@@ -25,13 +26,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "rad-irf", 
     "idx": 17, 
     "label": "rad-irf", 
     "name": "rad-irf", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "1afef907-2ac4-4001-855e-62549c4626fa", 
-    "url": null
+    "uid": "ea1a1100-df3b-4181-971b-487a721690e5"
 }

@@ -1,19 +1,13 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "postalAddress": "Commonwealth Scientific and Industrial Research Organisation and Bureau of Meteorology, Melbourne, Victoria 3208, Australia"
     }, 
-    "description": null, 
-    "idx": 9, 
+    "description": "CSIRO-BOM", 
+    "idx": 10, 
     "label": "CSIRO-BOM", 
     "name": "csiro-bom", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "780e8acd-5c40-4e4d-a19c-3f2f8a87022a", 
-    "url": null
+    "uid": "80dc8549-ae7f-4d2a-a333-6ba128ede381"
 }

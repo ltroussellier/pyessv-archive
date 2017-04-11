@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "GMMIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "hist-resIPO", 
     "idx": 75, 
     "label": "hist-resIPO", 
     "name": "hist-resipo", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "051ed2dc-d8af-4e3b-ba04-e175f9fb3240", 
-    "url": null
+    "uid": "85e1e865-16d9-4061-93c5-a4fd4563109e"
 }

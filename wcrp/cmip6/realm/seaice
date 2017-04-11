@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "seaIce", 
     "idx": 8, 
     "label": "seaIce", 
     "name": "seaice", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "11057e87-f894-42d5-82a5-d9fa5c7cb6f7", 
-    "url": null
+    "uid": "6b845823-a8d0-4843-b38b-35ac81cc73d8"
 }

@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
@@ -32,13 +29,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": null, 
+    "description": "piClim-2xDMS", 
     "idx": 9, 
     "label": "piClim-2xDMS", 
     "name": "piclim-2xdms", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "5ba1057d-8378-4dca-aa12-ea06a4af4e01", 
-    "url": null
+    "uid": "1609e6e7-c075-403f-99ee-299a7dbcbdf1"
 }

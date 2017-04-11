@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "GMMIP"
@@ -17,8 +14,12 @@
         "experiment": "AMIP-style simulation covering the period 1870-2014", 
         "experimentID": "amip-hist", 
         "minNumberYrsPerSim": "144", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "AGCM"
         ], 
@@ -28,13 +29,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "amip-hist", 
     "idx": 10, 
     "label": "amip-hist", 
     "name": "amip-hist", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "51be24d7-c4fd-4334-a0d1-5df1ec3ed73e", 
-    "url": null
+    "uid": "27f21b7e-a396-4b47-b5c4-504f177ab906"
 }

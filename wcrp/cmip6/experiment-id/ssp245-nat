@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "DAMIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": null, 
+    "description": "ssp245-nat", 
     "idx": 81, 
     "label": "ssp245-nat", 
     "name": "ssp245-nat", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "cc9165ec-747e-491c-8df2-478188e3bdf1", 
-    "url": null
+    "uid": "0cd046b7-5930-47bb-83fc-458e26b3f73f"
 }

@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LUMIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "esm-ssp585-ssp126Lu", 
     "idx": 50, 
     "label": "esm-ssp585-ssp126Lu", 
     "name": "esm-ssp585-ssp126lu", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "d273bee0-c229-43f1-a5f7-66d9f704f7d8", 
-    "url": null
+    "uid": "550324b2-2ffe-409c-b1ac-ea61b6e90443"
 }

@@ -1,19 +1,13 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "postalAddress": "Center for Ocean-Land-Atmosphere Studies, Fairfax, VA 22030, USA"
     }, 
-    "description": null, 
-    "idx": 10, 
+    "description": "COLA-CFS", 
+    "idx": 11, 
     "label": "COLA-CFS", 
     "name": "cola-cfs", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "8559c5f2-d908-46c6-b56d-deed73888ddd", 
-    "url": null
+    "uid": "96695892-a974-4d68-b717-69f5e0bf96b8"
 }

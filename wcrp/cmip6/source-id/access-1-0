@@ -1,12 +1,12 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
+        "activityParticipation": [
+            "CMIP"
+        ], 
         "aerosol": "CLASSIC (v1.0)", 
-        "atmosphere": "HadGAM2 (r1.1; 192 x 145 N96; 38 levels; top level 39255m)", 
+        "atmosphere": "HadGAM2 (r1.1; N96, 192 x 145 longitude/latitude; 38 levels; top level 39255 m)", 
         "atmosphericChemistry": "None", 
         "cohort": [
             "CMIP5"
@@ -18,19 +18,25 @@
         "labelExtended": "ACCESS 1.0 (This entry is free text for users to contribute verbose information)", 
         "landIce": "None", 
         "landSurface": "MOSES2.2", 
-        "ocean": "ACCESS-OM (MOM4p1; tripolar primarily 1deg latitude/longitude; 50 levels; top grid cell 0-10m)", 
+        "nominalResolutionAtmos": [
+            "100 km"
+        ], 
+        "nominalResolutionLandIce": [
+            "None"
+        ], 
+        "nominalResolutionOcean": [
+            "100 km"
+        ], 
+        "ocean": "ACCESS-OM (MOM4p1; tripolar primarily 1deg, 360 x 300 longitude/latitude; 50 levels; top grid cell 0-10 m)", 
         "oceanBiogeochemistry": "None", 
         "releaseYear": "2011", 
         "seaIce": "CICE4.1", 
         "sourceID": "ACCESS-1-0"
     }, 
-    "description": null, 
-    "idx": 9, 
+    "description": "ACCESS-1-0", 
+    "idx": 10, 
     "label": "ACCESS-1-0", 
     "name": "access-1-0", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "acf7d13c-c461-4389-a7eb-9ac9fe1aefe9", 
-    "url": null
+    "uid": "07ead87b-4a47-4cee-8501-72727ffa3ec1"
 }

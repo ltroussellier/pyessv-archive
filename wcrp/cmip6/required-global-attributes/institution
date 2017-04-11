@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
-    "idx": 14, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "institution", 
+    "idx": 13, 
     "label": "institution", 
     "name": "institution", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "5584d098-b86f-4aff-b8b5-118e7d68d092", 
-    "url": null
+    "uid": "5966ad05-8312-445e-83bf-66fc10a288b7"
 }

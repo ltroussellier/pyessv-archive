@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "aerosol", 
     "idx": 1, 
     "label": "aerosol", 
     "name": "aerosol", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "46daf12d-6ccc-4980-aac4-73ea3d67eef0", 
-    "url": null
+    "uid": "4e6f05bd-9f5a-4bc3-b2c9-f72cc8824922"
 }

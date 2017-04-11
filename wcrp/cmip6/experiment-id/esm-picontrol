@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "CMIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "esm-piControl", 
     "idx": 118, 
     "label": "esm-piControl", 
     "name": "esm-picontrol", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "fbc130b9-0ce8-4c9a-bd4e-100f1fe6cdf4", 
-    "url": null
+    "uid": "148f09b8-d219-4bdf-bc21-bc0a4fe60f7a"
 }

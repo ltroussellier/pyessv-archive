@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "RFMIP", 
@@ -33,13 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "piClim-control", 
     "idx": 119, 
     "label": "piClim-control", 
     "name": "piclim-control", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "a16f7a3f-209c-4cd6-a644-13500bc37c94", 
-    "url": null
+    "uid": "3bc92003-57fd-47a6-87d0-33cda4a4b4d4"
 }

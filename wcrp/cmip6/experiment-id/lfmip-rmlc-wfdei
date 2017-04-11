@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LS3MIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "lfmip-rmLC-wfdei", 
     "idx": 174, 
     "label": "lfmip-rmLC-wfdei", 
     "name": "lfmip-rmlc-wfdei", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "8f0292bc-a75c-473d-92a8-ed8fc277c84e", 
-    "url": null
+    "uid": "3d5bbdf1-e375-4a51-ac5d-003567f136dc"
 }

@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
@@ -17,8 +14,12 @@
         "experiment": "historical SSTs and historical forcing, but with pre-industrial NTCF emissions", 
         "experimentID": "histSST-piNTCF", 
         "minNumberYrsPerSim": "165", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "AGCM", 
             "AER"
@@ -29,13 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
-    "idx": 237, 
+    "description": "histSST-piNTCF", 
+    "idx": 236, 
     "label": "histSST-piNTCF", 
     "name": "histsst-pintcf", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "45a15bcd-a0a3-481f-a418-cd3fcdc6b79d", 
-    "url": null
+    "uid": "cca3dbfb-029d-4bbc-b0c1-58b32a406ece"
 }

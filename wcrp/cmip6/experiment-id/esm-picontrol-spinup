@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "CMIP"
@@ -17,8 +14,12 @@
         "experiment": "pre-industrial control simulation with CO2 concentration calculated (spin-up)", 
         "experimentID": "esm-piControl-spinup", 
         "minNumberYrsPerSim": "100", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "AOGCM", 
             "BGC"
@@ -29,13 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
-    "idx": 225, 
+    "description": "esm-piControl-spinup", 
+    "idx": 224, 
     "label": "esm-piControl-spinup", 
     "name": "esm-picontrol-spinup", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "7c319e80-f6a8-46c8-a299-787fc788e22b", 
-    "url": null
+    "uid": "82cb9ceb-4ff7-4bb0-86f3-2f6b4d8c7b8b"
 }

@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "C4MIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "1pctCO2-bgc", 
     "idx": 132, 
     "label": "1pctCO2-bgc", 
     "name": "1pctco2-bgc", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "4b3685f5-376f-4715-afc9-bcc68ce952b9", 
-    "url": null
+    "uid": "a0567452-f87d-4d98-89e6-2dba2588018f"
 }

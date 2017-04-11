@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
-    "idx": 33, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "IyrGre", 
+    "idx": 31, 
     "label": "IyrGre", 
     "name": "iyrgre", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "efedf657-a891-4639-ada0-d611a67c6753", 
-    "url": null
+    "uid": "f48be8da-04bd-4938-a766-827c2c255f01"
 }

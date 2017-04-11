@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
@@ -16,8 +13,12 @@
         "experiment": "historical prescribed SSTs and historical forcing", 
         "experimentID": "histSST", 
         "minNumberYrsPerSim": "165", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "AGCM", 
             "AER"
@@ -28,13 +29,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "histSST", 
     "idx": 157, 
     "label": "histSST", 
     "name": "histsst", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "cde1cd1c-9021-4295-93f4-1a931acfd484", 
-    "url": null
+    "uid": "75ae824e-e72d-4e3b-9c60-f9d3d5538732"
 }

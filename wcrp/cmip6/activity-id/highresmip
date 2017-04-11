@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "HighResMIP", 
     "idx": 10, 
     "label": "HighResMIP", 
     "name": "highresmip", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "6ed2b573-8cc3-472f-b3e4-39a5f5f4033c", 
-    "url": null
+    "uid": "cdc4a5ed-a6c6-4ff0-85f0-cfd55b2cc6d7"
 }

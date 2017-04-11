@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "DAMIP"
@@ -13,7 +10,7 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "Historical solar-only transient simulation using settings from CMIP6 historical simulation but fixed GHG&ODS (1850 level)", 
+        "description": "Historical solar-only transient simulation using settings from CMIP6 historical simulation but fixed GHG and ODS (1850 level)", 
         "endYear": "2020", 
         "experiment": "historical solar-only run", 
         "experimentID": "hist-sol", 
@@ -33,13 +30,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": null, 
+    "description": "hist-sol", 
     "idx": 140, 
     "label": "hist-sol", 
     "name": "hist-sol", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "648a06e5-440d-4af1-923e-8fc456418ca2", 
-    "url": null
+    "uid": "e9a0b5d2-3486-40cb-896a-b3a247b31f6a"
 }

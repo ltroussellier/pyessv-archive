@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "gr9", 
     "idx": 39, 
     "label": "gr9", 
     "name": "gr9", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "50c088b5-9769-49a2-b340-d03f825e1e78", 
-    "url": null
+    "uid": "cce293c1-c43f-493d-bb6f-7a17f79e66bf"
 }

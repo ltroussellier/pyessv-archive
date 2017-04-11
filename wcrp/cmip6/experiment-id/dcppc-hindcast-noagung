@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -35,13 +32,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "dcppC-hindcast-noAgung", 
     "idx": 123, 
     "label": "dcppC-hindcast-noAgung", 
     "name": "dcppc-hindcast-noagung", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "d9ba231f-ca12-4d67-80b1-4b4c04dd2f5b", 
-    "url": null
+    "uid": "862bca0f-88b8-4b7f-b2dc-7baa729d27c2"
 }

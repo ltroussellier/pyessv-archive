@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "DCPP", 
@@ -36,13 +33,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "dcppC-forecast-addPinatubo", 
     "idx": 177, 
     "label": "dcppC-forecast-addPinatubo", 
     "name": "dcppc-forecast-addpinatubo", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "37305173-dc13-4be0-b22d-8db1f7481761", 
-    "url": null
+    "uid": "0be7505a-72a0-4ddf-ad01-38f9594c2f85"
 }

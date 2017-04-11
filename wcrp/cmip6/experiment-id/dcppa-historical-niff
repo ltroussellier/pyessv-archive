@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -89,13 +86,10 @@
         ], 
         "tier": "4"
     }, 
-    "description": null, 
+    "description": "dcppA-historical-niff", 
     "idx": 2, 
     "label": "dcppA-historical-niff", 
     "name": "dcppa-historical-niff", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "07c69953-e532-45a2-88c4-0c01de3e219f", 
-    "url": null
+    "uid": "1748641d-9f32-48af-ae1d-fd207bd1438b"
 }

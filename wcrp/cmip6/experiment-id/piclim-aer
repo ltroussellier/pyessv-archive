@@ -1,19 +1,18 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
+            "RFMIP", 
             "AerChemMIP"
         ], 
         "additionalAllowedModelComponents": [
+            "AER", 
             "CHEM"
         ], 
-        "description": "Perturbation from 1850 control using 2014 aerosol emissions", 
+        "description": "As in RFMIP-ERF-PI-Cntrl but with with present-day aerosols. Note that this experiment is considered to be tier 1 by RFMIP but tier 2 by AerChemMIP", 
         "endYear": "", 
-        "experiment": "pre-industrial climatological SSTs and forcing, but 2014 aerosol emissions", 
+        "experiment": "effective radiative forcing by present-day aerosols", 
         "experimentID": "piClim-aer", 
         "minNumberYrsPerSim": "30", 
         "parentActivityID": [
@@ -23,22 +22,18 @@
             "piControl"
         ], 
         "requiredModelComponents": [
-            "AGCM", 
-            "AER"
+            "AGCM"
         ], 
         "startYear": "", 
         "subExperimentID": [
             "none"
         ], 
-        "tier": "2"
+        "tier": "1"
     }, 
-    "description": null, 
+    "description": "piClim-aer", 
     "idx": 53, 
     "label": "piClim-aer", 
     "name": "piclim-aer", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "5d511925-0f6f-469a-83dc-10bd8ef61f33", 
-    "url": null
+    "uid": "4aed73bd-cdda-4576-801c-162aeca10302"
 }

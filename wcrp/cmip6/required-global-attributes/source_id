@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
-    "idx": 24, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "source_id", 
+    "idx": 23, 
     "label": "source_id", 
     "name": "source_id", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "e46954af-faa9-425f-9890-754e9d05d98d", 
-    "url": null
+    "uid": "bbc377c0-e0ce-45e7-93a1-bb4670da9311"
 }

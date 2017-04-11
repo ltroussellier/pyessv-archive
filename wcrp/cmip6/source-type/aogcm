@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "AOGCM", 
     "idx": 3, 
     "label": "AOGCM", 
     "name": "aogcm", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "140d85c8-aaf0-40c8-8f93-89343acf5069", 
-    "url": null
+    "uid": "e439335a-a1b2-42d5-a5d2-bfd1d3ecf82d"
 }

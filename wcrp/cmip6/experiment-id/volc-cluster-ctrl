@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "VolMIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "volc-cluster-ctrl", 
     "idx": 192, 
     "label": "volc-cluster-ctrl", 
     "name": "volc-cluster-ctrl", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "889370c8-a058-47b7-8e74-9bc60e8978a5", 
-    "url": null
+    "uid": "8d3cf2a3-addd-4050-afac-3f4bfdec3930"
 }

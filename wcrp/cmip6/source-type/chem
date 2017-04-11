@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "CHEM", 
     "idx": 5, 
     "label": "CHEM", 
     "name": "chem", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "4a4492bb-75c0-4031-a694-1e7632ad6dbe", 
-    "url": null
+    "uid": "1d0b6561-8b60-4a7e-b314-012208d23568"
 }

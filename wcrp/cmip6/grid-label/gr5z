@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "gr5z", 
     "idx": 26, 
     "label": "gr5z", 
     "name": "gr5z", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "1dbd85cc-d668-44df-a7a2-70e95bf16f82", 
-    "url": null
+    "uid": "5254db24-4c68-406b-a4bb-81fdb76d5cf7"
 }

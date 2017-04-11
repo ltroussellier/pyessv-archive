@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "1x1 degree", 
     "idx": 7, 
     "label": "1x1 degree", 
     "name": "1x1 degree", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "c6387e88-b311-47d6-ae14-57aeabeab29e", 
-    "url": null
+    "uid": "55c8a500-0c83-4d9a-9e51-869f7e35bf31"
 }

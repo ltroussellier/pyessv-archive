@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "DAMIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "hist-GHG", 
     "idx": 77, 
     "label": "hist-GHG", 
     "name": "hist-ghg", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "d5084b90-10b3-4b21-9b21-e324a58bb57c", 
-    "url": null
+    "uid": "fe209451-08a7-4b92-bf93-2dbad314cbb8"
 }

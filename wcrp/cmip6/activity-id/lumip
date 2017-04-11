@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "LUMIP", 
     "idx": 13, 
     "label": "LUMIP", 
     "name": "lumip", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "51fba832-5db7-4305-b285-84a1218ae7dd", 
-    "url": null
+    "uid": "8e2bb01c-956c-40c7-89f5-be1d82478d43"
 }

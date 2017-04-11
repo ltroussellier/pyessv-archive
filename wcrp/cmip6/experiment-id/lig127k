@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "PMIP"
@@ -18,8 +15,12 @@
         "experiment": "last interglacial (127k)", 
         "experimentID": "lig127k", 
         "minNumberYrsPerSim": "100", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "AOGCM"
         ], 
@@ -29,13 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "lig127k", 
     "idx": 93, 
     "label": "lig127k", 
     "name": "lig127k", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "3f1b35f6-5050-4cf4-a17f-1dcbbda37062", 
-    "url": null
+    "uid": "1c9a6dcb-3fd9-476c-9808-2e71fcf7f459"
 }

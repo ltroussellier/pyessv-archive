@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "atmos", 
     "idx": 2, 
     "label": "atmos", 
     "name": "atmos", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "050b1a9e-d88b-455a-bdc2-9711af6e5391", 
-    "url": null
+    "uid": "7bc8679b-7f45-4334-b2a2-938b48d72ed9"
 }

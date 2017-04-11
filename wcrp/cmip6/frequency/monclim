@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "monClim", 
     "idx": 10, 
     "label": "monClim", 
     "name": "monclim", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "defac220-3313-4965-9e74-d3a35a16918e", 
-    "url": null
+    "uid": "5660f82d-e2c4-4384-8ba8-a7fc04029c9d"
 }

@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LUMIP"
@@ -14,8 +11,12 @@
         "experiment": "historical land-only with no human fire management", 
         "experimentID": "land-noFire", 
         "minNumberYrsPerSim": "165", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "LAND"
         ], 
@@ -25,13 +26,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
-    "idx": 231, 
+    "description": "land-noFire", 
+    "idx": 230, 
     "label": "land-noFire", 
     "name": "land-nofire", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "1d5e60cc-e229-4dc7-92aa-83d3a1bbbc87", 
-    "url": null
+    "uid": "f4ea91ed-967e-4468-8eab-229a8c7a9662"
 }

@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "GeoMIP"
@@ -32,13 +29,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "piSST-4xCO2-solar", 
     "idx": 12, 
     "label": "piSST-4xCO2-solar", 
     "name": "pisst-4xco2-solar", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "b65f715e-8f32-4613-9dd9-a214d4a25e0d", 
-    "url": null
+    "uid": "0b73a55b-214a-469a-a646-c704c7d87e09"
 }

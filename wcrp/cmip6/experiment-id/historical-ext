@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "CMIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "historical-ext", 
     "idx": 211, 
     "label": "historical-ext", 
     "name": "historical-ext", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "5d5d0cc4-c6fd-4a34-a8bb-6ac9b584266a", 
-    "url": null
+    "uid": "379b66a5-c1eb-4458-b148-45fc5ef786b7"
 }

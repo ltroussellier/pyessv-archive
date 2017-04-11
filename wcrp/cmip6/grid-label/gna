@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "gna", 
     "idx": 3, 
     "label": "gna", 
     "name": "gna", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "2b344193-d6c6-490b-9a96-d85b1d9f49e5", 
-    "url": null
+    "uid": "0fd80ffc-6903-4580-a695-b54d7ca5f3ff"
 }

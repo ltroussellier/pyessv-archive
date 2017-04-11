@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "RFMIP"
@@ -32,13 +29,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": null, 
+    "description": "piClim-ghg", 
     "idx": 54, 
     "label": "piClim-ghg", 
     "name": "piclim-ghg", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "d4e4dcf3-b26a-4d2b-b3f5-e116fb2f968a", 
-    "url": null
+    "uid": "92b45041-cbf2-439a-b4a9-b455b4e538ec"
 }

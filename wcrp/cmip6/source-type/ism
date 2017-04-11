@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "ISM", 
     "idx": 7, 
     "label": "ISM", 
     "name": "ism", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "7fad0571-ace3-4ae5-a20c-fba2942029ed", 
-    "url": null
+    "uid": "5603d5b7-553b-4216-ab11-295911c3c3e9"
 }

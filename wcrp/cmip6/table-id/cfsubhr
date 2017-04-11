@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
-    "idx": 14, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "CFsubhr", 
+    "idx": 13, 
     "label": "CFsubhr", 
     "name": "cfsubhr", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "ddb78424-4b31-44cb-a621-ee277a3df128", 
-    "url": null
+    "uid": "be1d6714-05d0-4fb8-a599-b250cc189466"
 }

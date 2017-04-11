@@ -1,10 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
+        "activityParticipation": [
+            ""
+        ], 
         "aerosol": "varies with physics-version (p==1 None, p==3 OMA, p==4 TOMAS, p==5 MATRIX) ", 
         "atmosphere": "GISS-E2.1 (90 x 144 2x2.5; 40 levels; top level 0.1hPa)", 
         "atmosphericChemistry": "varies with physics-version (p==1 Non-interactive, p>1 GPUCCINI)", 
@@ -18,19 +18,19 @@
         "labelExtended": "GISS-E2.1G", 
         "landIce": "Fixed", 
         "landSurface": "GISS LSM", 
+        "nominalResolutionAtmos": "", 
+        "nominalResolutionLandIce": "", 
+        "nominalResolutionOcean": "", 
         "ocean": "GISS Ocean (1 deg latitude/longitude; 32 levels; top grid cell 0-10m)", 
         "oceanBiogeochemistry": "None", 
         "releaseYear": "2016", 
         "seaIce": "GISS SI", 
         "sourceID": "GISS-E2-1G"
     }, 
-    "description": null, 
-    "idx": 3, 
+    "description": "GISS-E2-1G", 
+    "idx": 4, 
     "label": "GISS-E2-1G", 
     "name": "giss-e2-1g", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "7dad521c-0595-42ce-a605-c18e22d9618f", 
-    "url": null
+    "uid": "afb09229-4c05-49ac-8fc5-60d6137cc458"
 }

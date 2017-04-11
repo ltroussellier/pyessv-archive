@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
@@ -32,13 +29,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "ssp370SST-lowAer", 
     "idx": 58, 
     "label": "ssp370SST-lowAer", 
     "name": "ssp370sst-lowaer", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "4d43638b-e565-4347-a737-70081a1a729b", 
-    "url": null
+    "uid": "66412303-48ac-4083-b4de-63f26cdf232c"
 }

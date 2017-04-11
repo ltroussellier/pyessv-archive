@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "DAMIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": null, 
+    "description": "ssp245-aer", 
     "idx": 144, 
     "label": "ssp245-aer", 
     "name": "ssp245-aer", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "086a6a4f-3a4c-48bd-892c-f3c25b5bd554", 
-    "url": null
+    "uid": "de2e26b5-cec4-4af9-b4b1-0a72bd16236d"
 }

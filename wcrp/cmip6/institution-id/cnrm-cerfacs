@@ -1,19 +1,13 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "postalAddress": "CNRM (Centre National de Recherches Meteorologiques, Toulouse 31057, France), CERFACS (Centre Europeen de Recherche et de Formation Avancee en Calcul Scientifique, Toulouse 31100, France)"
     }, 
-    "description": null, 
-    "idx": 19, 
+    "description": "CNRM-CERFACS", 
+    "idx": 20, 
     "label": "CNRM-CERFACS", 
     "name": "cnrm-cerfacs", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "890f4933-de95-4cd2-b73c-a36e3632e188", 
-    "url": null
+    "uid": "ef440a2e-7f2e-40db-b22b-2e85a1e7bd9a"
 }

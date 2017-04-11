@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "ScenarioMIP"
@@ -33,13 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
-    "idx": 230, 
+    "description": "ssp534-over", 
+    "idx": 229, 
     "label": "ssp534-over", 
     "name": "ssp534-over", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "5a646fc8-003c-44f2-8608-6975726e4844", 
-    "url": null
+    "uid": "12cbc4f5-7d9a-42db-af65-9f87bc8444d6"
 }

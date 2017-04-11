@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
-    "idx": 29, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "tracking_id", 
+    "idx": 28, 
     "label": "tracking_id", 
     "name": "tracking_id", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "a4a4b024-8f1f-42ca-9a08-e8499ed15566", 
-    "url": null
+    "uid": "416abb56-be32-4c2f-9234-8a52b8f64475"
 }

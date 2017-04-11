@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "C4MIP", 
     "idx": 2, 
     "label": "C4MIP", 
     "name": "c4mip", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "4e5df389-26b3-458d-b348-b0544ca44f6f", 
-    "url": null
+    "uid": "dd9a4cfd-fe81-4cf5-b06e-baca83bab1ad"
 }

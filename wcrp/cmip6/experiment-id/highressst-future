@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "HighResMIP"
@@ -31,13 +28,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": null, 
+    "description": "highresSST-future", 
     "idx": 49, 
     "label": "highresSST-future", 
     "name": "highressst-future", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "b2dba358-ab03-49c9-83b2-31e08155fc5f", 
-    "url": null
+    "uid": "d8b29b29-a5fd-47c7-8ca7-aba84de5b1d7"
 }

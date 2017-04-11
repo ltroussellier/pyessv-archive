@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "HighResMIP"
@@ -31,13 +28,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "control-1950", 
     "idx": 42, 
     "label": "control-1950", 
     "name": "control-1950", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "1527804d-656d-4b38-ae38-7671da495359", 
-    "url": null
+    "uid": "f49cfa65-8422-4a98-8ac3-7bf8638f4e6f"
 }

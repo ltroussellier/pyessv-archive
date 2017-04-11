@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LS3MIP"
@@ -18,8 +15,12 @@
         "experiment": "prescribed land (from pseudo-observations) and AMIP SSTs", 
         "experimentID": "amip-lfmip-pObs", 
         "minNumberYrsPerSim": "36", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "AGCM"
         ], 
@@ -29,13 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "amip-lfmip-pObs", 
     "idx": 142, 
     "label": "amip-lfmip-pObs", 
     "name": "amip-lfmip-pobs", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "31fc631d-ea42-4fd3-8e7b-d06a757f07ea", 
-    "url": null
+    "uid": "5b0c851f-790c-4772-82b7-79c46f8e7daf"
 }

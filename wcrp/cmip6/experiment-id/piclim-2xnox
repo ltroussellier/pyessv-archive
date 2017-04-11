@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
@@ -31,13 +28,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": null, 
-    "idx": 233, 
+    "description": "piClim-2xNOx", 
+    "idx": 232, 
     "label": "piClim-2xNOx", 
     "name": "piclim-2xnox", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "f481e0ca-cfff-4a27-b49d-c4fada54b0de", 
-    "url": null
+    "uid": "ece40558-5731-4f23-a6e5-b58801f384fe"
 }

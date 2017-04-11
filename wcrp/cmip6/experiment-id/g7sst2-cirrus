@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "GeoMIP"
@@ -32,13 +29,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "G7SST2-cirrus", 
     "idx": 188, 
     "label": "G7SST2-cirrus", 
     "name": "g7sst2-cirrus", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "bbe7223d-8120-4fce-b6c0-ffe0f26443e9", 
-    "url": null
+    "uid": "65784b78-398b-4c7d-8305-7e297f39a0ae"
 }

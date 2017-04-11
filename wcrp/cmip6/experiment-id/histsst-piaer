@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
@@ -16,8 +13,12 @@
         "experiment": "historical SSTs and historical forcing, but with pre-industrial aerosol emissions", 
         "experimentID": "histSST-piAer", 
         "minNumberYrsPerSim": "165", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "AGCM", 
             "AER"
@@ -28,13 +29,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "histSST-piAer", 
     "idx": 165, 
     "label": "histSST-piAer", 
     "name": "histsst-piaer", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "bb3c39ac-55e3-4b6b-b401-727dad0805c3", 
-    "url": null
+    "uid": "677eb15c-c45c-4af3-b829-55ff3ca5ee9d"
 }

@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "OMIP"
@@ -14,8 +11,12 @@
         "experiment": "OMIP experiment forced by Large and Yeager (CORE-2, NCEP) atmospheric data set and initialized from at least a 2000-year spin up of the coupled physical-biogeochemical model", 
         "experimentID": "omip1-spunup", 
         "minNumberYrsPerSim": "310", 
-        "parentActivityID": "no parent", 
-        "parentExperimentID": "no parent", 
+        "parentActivityID": [
+            "no parent"
+        ], 
+        "parentExperimentID": [
+            "no parent"
+        ], 
         "requiredModelComponents": [
             "OGCM"
         ], 
@@ -25,13 +26,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": null, 
+    "description": "omip1-spunup", 
     "idx": 55, 
     "label": "omip1-spunup", 
     "name": "omip1-spunup", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "7172f143-ca6d-45ef-9958-087b0f596738", 
-    "url": null
+    "uid": "f0d3f66f-9942-4e9c-88cd-e132dda83844"
 }

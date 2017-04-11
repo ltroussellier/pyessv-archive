@@ -1,9 +1,6 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -34,13 +31,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": null, 
+    "description": "dcppC-pac-pacemaker", 
     "idx": 200, 
     "label": "dcppC-pac-pacemaker", 
     "name": "dcppc-pac-pacemaker", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "6114eedf-a660-44c7-8a37-ada0fae6b84b", 
-    "url": null
+    "uid": "97bddd0a-6084-4884-ace1-4b3db8185deb"
 }

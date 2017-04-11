@@ -1,17 +1,10 @@
 {
-    "_type": "pyessv.model.term", 
-    "alternativeName": null, 
-    "alternativeUrl": null, 
-    "associations": [], 
-    "createDate": "0167-03-21 00:00:00+00:00", 
-    "data": null, 
-    "description": null, 
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "description": "land", 
     "idx": 4, 
     "label": "land", 
     "name": "land", 
-    "parent": null, 
     "status": "pending", 
-    "synonyms": [], 
-    "uid": "4939cdd2-f309-430f-a3a6-7e945856ca15", 
-    "url": null
+    "uid": "e5db008f-fc9a-4f59-8844-857adcefb8a0"
 }

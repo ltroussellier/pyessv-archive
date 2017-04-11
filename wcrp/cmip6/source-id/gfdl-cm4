@@ -1,0 +1,43 @@
+{
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {
+        "activityParticipation": [
+            "CMIP", 
+            "OMIP"
+        ], 
+        "aerosol": "interactive", 
+        "atmosphere": "GFDL-AM4.1 (Cubed-sphere (c96) - 1 degree nominal horizontal resolution; 360x180 longitude/latitude; 32 levels; model top: 1 hPa)", 
+        "atmosphericChemistry": "unnamed (fast chemistry, aerosol only)", 
+        "cohort": [
+            "Registered"
+        ], 
+        "institutionID": [
+            "NOAA-GFDL"
+        ], 
+        "label": "GFDL-CM4", 
+        "labelExtended": "GFDL-CM4", 
+        "landIce": "GFDL-LM4.0", 
+        "landSurface": "GFDL-LM4.0", 
+        "nominalResolutionAtmos": [
+            "100 km"
+        ], 
+        "nominalResolutionLandIce": [
+            "100 km"
+        ], 
+        "nominalResolutionOcean": [
+            "25 km"
+        ], 
+        "ocean": "GFDL-MOM6 (tripolar - nominal 0.25 deg latitude/longitude; 1440x720 longitude/latitude; 75 levels; top grid cell 0-2 m)", 
+        "oceanBiogeochemistry": "none", 
+        "releaseYear": "2017", 
+        "seaIce": "SIS2", 
+        "sourceID": "GFDL-CM4"
+    }, 
+    "description": "GFDL-CM4", 
+    "idx": 36, 
+    "label": "GFDL-CM4", 
+    "name": "gfdl-cm4", 
+    "status": "pending", 
+    "uid": "e07950d7-18b1-4ab0-a1a5-0cb398ccd523"
+}
