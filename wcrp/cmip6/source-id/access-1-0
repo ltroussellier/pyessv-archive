@@ -5,9 +5,6 @@
         "activityParticipation": [
             "CMIP"
         ], 
-        "aerosol": "CLASSIC (v1.0)", 
-        "atmosphere": "HadGAM2 (r1.1; N96, 192 x 145 longitude/latitude; 38 levels; top level 39255 m)", 
-        "atmosphericChemistry": "None", 
         "cohort": [
             "CMIP5"
         ], 
@@ -16,27 +13,47 @@
         ], 
         "label": "ACCESS 1.0", 
         "labelExtended": "ACCESS 1.0 (This entry is free text for users to contribute verbose information)", 
-        "landIce": "None", 
-        "landSurface": "MOSES2.2", 
-        "nominalResolutionAtmos": [
-            "100 km"
-        ], 
-        "nominalResolutionLandIce": [
-            "None"
-        ], 
-        "nominalResolutionOcean": [
-            "100 km"
-        ], 
-        "ocean": "ACCESS-OM (MOM4p1; tripolar primarily 1deg, 360 x 300 longitude/latitude; 50 levels; top grid cell 0-10 m)", 
-        "oceanBiogeochemistry": "None", 
+        "modelComponent": {
+            "aerosol": {
+                "description": "CLASSIC (v1.0)", 
+                "nominalResolution": "100 km"
+            }, 
+            "atmos": {
+                "description": "HadGAM2 (r1.1; N96, 192 x 145 longitude/latitude; 38 levels; top level 39255 m)", 
+                "nominalResolution": "100 km"
+            }, 
+            "atmosChem": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "land": {
+                "description": "MOSES2.2", 
+                "nominalResolution": "100 km"
+            }, 
+            "landIce": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "ocean": {
+                "description": "ACCESS-OM (MOM4p1; tripolar primarily 1deg, 360 x 300 longitude/latitude; 50 levels; top grid cell 0-10 m)", 
+                "nominalResolution": "100 km"
+            }, 
+            "ocnBgchem": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "seaIce": {
+                "description": "CICE4.1", 
+                "nominalResolution": "none"
+            }
+        }, 
         "releaseYear": "2011", 
-        "seaIce": "CICE4.1", 
         "sourceID": "ACCESS-1-0"
     }, 
     "description": "ACCESS-1-0", 
-    "idx": 10, 
+    "idx": 12, 
     "label": "ACCESS-1-0", 
     "name": "access-1-0", 
     "status": "pending", 
-    "uid": "07ead87b-4a47-4cee-8501-72727ffa3ec1"
+    "uid": "b359fd62-fdec-48c5-b4a8-b09ed78456c5"
 }

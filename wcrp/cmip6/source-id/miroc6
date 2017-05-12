@@ -5,9 +5,6 @@
         "activityParticipation": [
             ""
         ], 
-        "aerosol": "SPRINTARS6.0", 
-        "atmosphere": "CCSR AGCM (T85; 256x128; 81 levels; top level 0.004 hPa)", 
-        "atmosphericChemistry": "None", 
         "cohort": [
             "Registered"
         ], 
@@ -16,21 +13,47 @@
         ], 
         "label": "MIROC6", 
         "labelExtended": "MIROC6", 
-        "landIce": "None", 
-        "landSurface": "MATSIRO6.0", 
-        "nominalResolutionAtmos": "", 
-        "nominalResolutionLandIce": "", 
-        "nominalResolutionOcean": "", 
-        "ocean": "COCO4.9 (360x256x63; tripolar primarily 1deg; 63 levels; top grid cell 0-2 m)", 
-        "oceanBiogeochemistry": "None", 
+        "modelComponent": {
+            "aerosol": {
+                "description": "SPRINTARS6.0", 
+                "nominalResolution": ""
+            }, 
+            "atmos": {
+                "description": "CCSR AGCM (T85; 256x128; 81 levels; top level 0.004 hPa)", 
+                "nominalResolution": ""
+            }, 
+            "atmosChem": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "land": {
+                "description": "MATSIRO6.0", 
+                "nominalResolution": ""
+            }, 
+            "landIce": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "ocean": {
+                "description": "COCO4.9 (360x256x63; tripolar primarily 1deg; 63 levels; top grid cell 0-2 m)", 
+                "nominalResolution": ""
+            }, 
+            "ocnBgchem": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "seaIce": {
+                "description": "COCO4.9", 
+                "nominalResolution": ""
+            }
+        }, 
         "releaseYear": "2017", 
-        "seaIce": "COCO4.9", 
         "sourceID": "MIROC6"
     }, 
     "description": "MIROC6", 
-    "idx": 42, 
+    "idx": 51, 
     "label": "MIROC6", 
     "name": "miroc6", 
     "status": "pending", 
-    "uid": "7f15964e-b94b-40de-a2a9-9d4334639115"
+    "uid": "b9a45bad-d143-439d-9040-9cd359c754d6"
 }

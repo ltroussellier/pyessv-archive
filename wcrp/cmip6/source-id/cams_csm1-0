@@ -5,9 +5,6 @@
         "activityParticipation": [
             "CMIP"
         ], 
-        "aerosol": "none", 
-        "atmosphere": "ECHAM5_CAMS (T106; 320 x 160 longitude/latitude; 31 levels; top level 10 mb)", 
-        "atmosphericChemistry": "none", 
         "cohort": [
             "Registered"
         ], 
@@ -16,21 +13,41 @@
         ], 
         "label": "CAMS_CSM 1.0", 
         "labelExtended": "CAMS_CSM 1.0", 
-        "landIce": "none", 
-        "landSurface": "CoLM 1.0", 
-        "nominalResolutionAtmos": [
-            "100 km"
-        ], 
-        "nominalResolutionLandIce": [
-            "none"
-        ], 
-        "nominalResolutionOcean": [
-            "100 km"
-        ], 
-        "ocean": "MOM4 (tripolar; 360 x 200 longitude/latitude, primarily 1deg latitude/longitude, down to 1/3deg within 30deg of the equatorial tropics; 50 levels; top grid cell 0-10 m)", 
-        "oceanBiogeochemistry": "none", 
+        "modelComponent": {
+            "aerosol": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "atmos": {
+                "description": "ECHAM5_CAMS (T106; 320 x 160 longitude/latitude; 31 levels; top level 10 mb)", 
+                "nominalResolution": "100 km"
+            }, 
+            "atmosChem": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "land": {
+                "description": "CoLM 1.0", 
+                "nominalResolution": ""
+            }, 
+            "landIce": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "ocean": {
+                "description": "MOM4 (tripolar; 360 x 200 longitude/latitude, primarily 1deg latitude/longitude, down to 1/3deg within 30deg of the equatorial tropics; 50 levels; top grid cell 0-10 m)", 
+                "nominalResolution": "100 km"
+            }, 
+            "ocnBgchem": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "seaIce": {
+                "description": "SIS 1.0", 
+                "nominalResolution": ""
+            }
+        }, 
         "releaseYear": "2016", 
-        "seaIce": "SIS 1.0", 
         "sourceID": "CAMS_CSM1-0"
     }, 
     "description": "CAMS_CSM1-0", 
@@ -38,5 +55,5 @@
     "label": "CAMS_CSM1-0", 
     "name": "cams_csm1-0", 
     "status": "pending", 
-    "uid": "8b717e5d-9d79-42e7-b953-7ca61b04a40f"
+    "uid": "d93ac608-c35e-40f4-9aef-1969118eff9e"
 }

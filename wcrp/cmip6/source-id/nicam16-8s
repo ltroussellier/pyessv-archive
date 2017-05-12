@@ -5,9 +5,6 @@
         "activityParticipation": [
             ""
         ], 
-        "aerosol": "Prescribed MACv2-SP", 
-        "atmosphere": "NICAM.16 (28km icosahedral grid; 655,362 grid cells (=10*4^8+2); 38 levels; top level 40 km)", 
-        "atmosphericChemistry": "None", 
         "cohort": [
             "Registered"
         ], 
@@ -16,21 +13,47 @@
         ], 
         "label": "NICAM16-8S", 
         "labelExtended": "NICAM.16 gl08-L38 with NSW6", 
-        "landIce": "None", 
-        "landSurface": "MATSIRO6 (w/o MOSAIC)", 
-        "nominalResolutionAtmos": "", 
-        "nominalResolutionLandIce": "", 
-        "nominalResolutionOcean": "", 
-        "ocean": "None", 
-        "oceanBiogeochemistry": "None", 
+        "modelComponent": {
+            "aerosol": {
+                "description": "Prescribed MACv2-SP", 
+                "nominalResolution": ""
+            }, 
+            "atmos": {
+                "description": "NICAM.16 (28km icosahedral grid; 655,362 grid cells (=10*4^8+2); 38 levels; top level 40 km)", 
+                "nominalResolution": ""
+            }, 
+            "atmosChem": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "land": {
+                "description": "MATSIRO6 (w/o MOSAIC)", 
+                "nominalResolution": ""
+            }, 
+            "landIce": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "ocean": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "ocnBgchem": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "seaIce": {
+                "description": "Fixed", 
+                "nominalResolution": ""
+            }
+        }, 
         "releaseYear": "2017", 
-        "seaIce": "Fixed", 
         "sourceID": "NICAM16-8S"
     }, 
     "description": "NICAM16-8S", 
-    "idx": 43, 
+    "idx": 52, 
     "label": "NICAM16-8S", 
     "name": "nicam16-8s", 
     "status": "pending", 
-    "uid": "2831e24f-38db-44a3-93cb-76efcefb4f6b"
+    "uid": "f80a0844-1ddc-4c33-8103-13c7f3782649"
 }

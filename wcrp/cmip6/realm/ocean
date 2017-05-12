@@ -2,9 +2,9 @@
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "description": "ocean", 
-    "idx": 6, 
+    "idx": 5, 
     "label": "ocean", 
     "name": "ocean", 
     "status": "pending", 
-    "uid": "bf720987-96f0-4ca2-aa4d-49b4c7a4a209"
+    "uid": "561acc12-0177-40f3-89cc-55e7e744fe7b"
 }

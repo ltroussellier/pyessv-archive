@@ -5,9 +5,6 @@
         "activityParticipation": [
             ""
         ], 
-        "aerosol": "TACTIC (v2.0)", 
-        "atmosphere": "Arpege 6.2 (Tl359; 91 levels; top level 78.4 km)", 
-        "atmosphericChemistry": "OZL_v2", 
         "cohort": [
             "Registered"
         ], 
@@ -16,21 +13,47 @@
         ], 
         "label": "CNRM-ESM2-1-HR", 
         "labelExtended": "CNRM-ESM2-1-HR", 
-        "landIce": "None", 
-        "landSurface": "Surfex 8.0c", 
-        "nominalResolutionAtmos": "", 
-        "nominalResolutionLandIce": "", 
-        "nominalResolutionOcean": "", 
-        "ocean": "Nemo 3.6 (eORCA025; tripolar primarily 1/4deg latitude/longitude; 75 levels; top grid cell 0-1 m)", 
-        "oceanBiogeochemistry": "Pisces 2.s", 
+        "modelComponent": {
+            "aerosol": {
+                "description": "TACTIC (v2.0)", 
+                "nominalResolution": ""
+            }, 
+            "atmos": {
+                "description": "Arpege 6.2 (Tl359; 91 levels; top level 78.4 km)", 
+                "nominalResolution": ""
+            }, 
+            "atmosChem": {
+                "description": "OZL_v2", 
+                "nominalResolution": ""
+            }, 
+            "land": {
+                "description": "Surfex 8.0c", 
+                "nominalResolution": ""
+            }, 
+            "landIce": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "ocean": {
+                "description": "Nemo 3.6 (eORCA025; tripolar primarily 1/4deg latitude/longitude; 75 levels; top grid cell 0-1 m)", 
+                "nominalResolution": ""
+            }, 
+            "ocnBgchem": {
+                "description": "Pisces 2.s", 
+                "nominalResolution": ""
+            }, 
+            "seaIce": {
+                "description": "Gelato 6.1", 
+                "nominalResolution": ""
+            }
+        }, 
         "releaseYear": "2016", 
-        "seaIce": "Gelato 6.1", 
         "sourceID": "CNRM-ESM2-1-HR"
     }, 
     "description": "CNRM-ESM2-1-HR", 
-    "idx": 40, 
+    "idx": 18, 
     "label": "CNRM-ESM2-1-HR", 
     "name": "cnrm-esm2-1-hr", 
     "status": "pending", 
-    "uid": "ba196fad-dbdd-4e73-ad7f-e55f9e6afc0c"
+    "uid": "63c46ac2-3eda-496e-9673-771af98f464a"
 }

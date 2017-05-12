@@ -2,9 +2,9 @@
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "description": "LUMIP", 
-    "idx": 13, 
+    "idx": 15, 
     "label": "LUMIP", 
     "name": "lumip", 
     "status": "pending", 
-    "uid": "8e2bb01c-956c-40c7-89f5-be1d82478d43"
+    "uid": "403a67eb-8ebd-4d64-8241-c5bd4266ae05"
 }

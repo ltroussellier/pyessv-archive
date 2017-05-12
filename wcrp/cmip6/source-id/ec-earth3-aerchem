@@ -5,9 +5,6 @@
         "activityParticipation": [
             ""
         ], 
-        "aerosol": "TM5", 
-        "atmosphere": "IFS cy36r4 (TL255, linearly reduced Gaussian grid equivalent to 512 x 256, 91 levels, top level: 0.01 hPa)", 
-        "atmosphericChemistry": "TM5 (3 deg. (long.) x 2 deg. (lat.), 34 levels, top level: 0.1 hPa", 
         "cohort": [
             "Registered"
         ], 
@@ -16,21 +13,47 @@
         ], 
         "label": "EC-Earth3-AerChem", 
         "labelExtended": "EC-Earth 3.3 - AerChem (with atmospheric aerosol and chemistry)", 
-        "landIce": "None", 
-        "landSurface": "HTESSEL (land surface scheme built in IFS)", 
-        "nominalResolutionAtmos": "", 
-        "nominalResolutionLandIce": "", 
-        "nominalResolutionOcean": "", 
-        "ocean": "NEMO3.6 (ORCA1 tripolar primarily 1 deg latitude/longitude with meridional refinement down to 1/3 degree in the tropics; 75 levels; top grid cell 5 m)", 
-        "oceanBiogeochemistry": "None", 
+        "modelComponent": {
+            "aerosol": {
+                "description": "TM5", 
+                "nominalResolution": ""
+            }, 
+            "atmos": {
+                "description": "IFS cy36r4 (TL255, linearly reduced Gaussian grid equivalent to 512 x 256, 91 levels, top level: 0.01 hPa)", 
+                "nominalResolution": ""
+            }, 
+            "atmosChem": {
+                "description": "TM5 (3 deg. (long.) x 2 deg. (lat.), 34 levels, top level: 0.1 hPa", 
+                "nominalResolution": ""
+            }, 
+            "land": {
+                "description": "HTESSEL (land surface scheme built in IFS)", 
+                "nominalResolution": ""
+            }, 
+            "landIce": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "ocean": {
+                "description": "NEMO3.6 (ORCA1 tripolar primarily 1 deg latitude/longitude with meridional refinement down to 1/3 degree in the tropics; 75 levels; top grid cell 5 m)", 
+                "nominalResolution": ""
+            }, 
+            "ocnBgchem": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "seaIce": {
+                "description": "LIM3", 
+                "nominalResolution": ""
+            }
+        }, 
         "releaseYear": "2017", 
-        "seaIce": "LIM3", 
         "sourceID": "EC-Earth3-AerChem"
     }, 
     "description": "EC-Earth3-AerChem", 
-    "idx": 18, 
+    "idx": 23, 
     "label": "EC-Earth3-AerChem", 
     "name": "ec-earth3-aerchem", 
     "status": "pending", 
-    "uid": "601fb368-d455-4c34-a777-a3a5948c1e26"
+    "uid": "255eb89c-7bc3-489d-a684-1624f84f987c"
 }

@@ -5,9 +5,6 @@
         "activityParticipation": [
             ""
         ], 
-        "aerosol": "None", 
-        "atmosphere": "IFS cy36r4 (TL255, linearly reduced Gaussian grid equivalent to 512 x 256, 91 levels, top level: 0,01 hPa)", 
-        "atmosphericChemistry": "None", 
         "cohort": [
             "Registered"
         ], 
@@ -16,21 +13,47 @@
         ], 
         "label": "EC-Earth3", 
         "labelExtended": "EC-Earth 3.3", 
-        "landIce": "None", 
-        "landSurface": "HTESSEL (land surface scheme built in IFS)", 
-        "nominalResolutionAtmos": "", 
-        "nominalResolutionLandIce": "", 
-        "nominalResolutionOcean": "", 
-        "ocean": "NEMO3.6 (ORCA1 tripolar primarily 1 deg latitude/longitude with meridional refinement down to 1/3 degree in the tropics; 75 levels; top grid cell 5 m)", 
-        "oceanBiogeochemistry": "None", 
+        "modelComponent": {
+            "aerosol": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "atmos": {
+                "description": "IFS cy36r4 (TL255, linearly reduced Gaussian grid equivalent to 512 x 256, 91 levels, top level: 0,01 hPa)", 
+                "nominalResolution": ""
+            }, 
+            "atmosChem": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "land": {
+                "description": "HTESSEL (land surface scheme built in IFS)", 
+                "nominalResolution": ""
+            }, 
+            "landIce": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "ocean": {
+                "description": "NEMO3.6 (ORCA1 tripolar primarily 1 deg latitude/longitude with meridional refinement down to 1/3 degree in the tropics; 75 levels; top grid cell 5 m)", 
+                "nominalResolution": ""
+            }, 
+            "ocnBgchem": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "seaIce": {
+                "description": "LIM3", 
+                "nominalResolution": ""
+            }
+        }, 
         "releaseYear": "2017", 
-        "seaIce": "LIM3", 
         "sourceID": "EC-Earth3"
     }, 
     "description": "EC-Earth3", 
-    "idx": 38, 
+    "idx": 47, 
     "label": "EC-Earth3", 
     "name": "ec-earth3", 
     "status": "pending", 
-    "uid": "52bf1054-5115-4722-b3e6-f948ad259e13"
+    "uid": "21d96104-9614-4849-8f84-c0f052c6cbc6"
 }

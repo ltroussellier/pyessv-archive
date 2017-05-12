@@ -5,9 +5,6 @@
         "activityParticipation": [
             ""
         ], 
-        "aerosol": "MASINGAR mk2r4", 
-        "atmosphere": "MRI-AGCM3.5 (320 x 160 TL159; 80 levels; top level 0.01 hPa)", 
-        "atmosphericChemistry": "MRI-CCM2.1", 
         "cohort": [
             "Registered"
         ], 
@@ -16,21 +13,47 @@
         ], 
         "label": "MRI-ESM2.0", 
         "labelExtended": "MRI-ESM2.0", 
-        "landIce": "None", 
-        "landSurface": "HAL 1.0", 
-        "nominalResolutionAtmos": "", 
-        "nominalResolutionLandIce": "", 
-        "nominalResolutionOcean": "", 
-        "ocean": "MRI.COM4.4 (tripolar primarily 0.5 deg latitude/1 deg longitude with meridional refinement down to 0.3 deg within 10 degrees north and south of the equator; 360 x 364 longitude/latitude; 61 levels; top grid cell 0-2 m)", 
-        "oceanBiogeochemistry": "MRI.COM4.4", 
+        "modelComponent": {
+            "aerosol": {
+                "description": "MASINGAR mk2r4", 
+                "nominalResolution": ""
+            }, 
+            "atmos": {
+                "description": "MRI-AGCM3.5 (320 x 160 TL159; 80 levels; top level 0.01 hPa)", 
+                "nominalResolution": ""
+            }, 
+            "atmosChem": {
+                "description": "MRI-CCM2.1", 
+                "nominalResolution": ""
+            }, 
+            "land": {
+                "description": "HAL 1.0", 
+                "nominalResolution": ""
+            }, 
+            "landIce": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "ocean": {
+                "description": "MRI.COM4.4 (tripolar primarily 0.5 deg latitude/1 deg longitude with meridional refinement down to 0.3 deg within 10 degrees north and south of the equator; 360 x 364 longitude/latitude; 61 levels; top grid cell 0-2 m)", 
+                "nominalResolution": ""
+            }, 
+            "ocnBgchem": {
+                "description": "MRI.COM4.4", 
+                "nominalResolution": ""
+            }, 
+            "seaIce": {
+                "description": "MRI.COM4.4", 
+                "nominalResolution": ""
+            }
+        }, 
         "releaseYear": "2017", 
-        "seaIce": "MRI.COM4.4", 
         "sourceID": "MRI-ESM2-0"
     }, 
     "description": "MRI-ESM2-0", 
-    "idx": 12, 
+    "idx": 8, 
     "label": "MRI-ESM2-0", 
     "name": "mri-esm2-0", 
     "status": "pending", 
-    "uid": "09058527-3563-41f3-8576-243cd076549c"
+    "uid": "e8718a6e-de23-4de8-9473-680462f132ee"
 }

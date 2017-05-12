@@ -5,9 +5,6 @@
         "activityParticipation": [
             ""
         ], 
-        "aerosol": "Rotstayn-1.0", 
-        "atmosphere": "VCAM-1.0 (192 x 192 x 6 C192; 35 levels; top level 35km)", 
-        "atmosphericChemistry": "None", 
         "cohort": [
             "Registered"
         ], 
@@ -16,21 +13,47 @@
         ], 
         "label": "VRESM 1.0", 
         "labelExtended": "VRESM 1.0 (Variable-resolution Earth System Model 1.0)", 
-        "landIce": "None", 
-        "landSurface": "CABLE v2.2.3", 
-        "nominalResolutionAtmos": "", 
-        "nominalResolutionLandIce": "", 
-        "nominalResolutionOcean": "", 
-        "ocean": "VCOM-1.0 (192 x 192 x 6 C192; 35 levels; top grid cell 0-10m)", 
-        "oceanBiogeochemistry": "PISCES v3.4socco", 
+        "modelComponent": {
+            "aerosol": {
+                "description": "Rotstayn-1.0", 
+                "nominalResolution": ""
+            }, 
+            "atmos": {
+                "description": "VCAM-1.0 (192 x 192 x 6 C192; 35 levels; top level 35km)", 
+                "nominalResolution": ""
+            }, 
+            "atmosChem": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "land": {
+                "description": "CABLE v2.2.3", 
+                "nominalResolution": ""
+            }, 
+            "landIce": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "ocean": {
+                "description": "VCOM-1.0 (192 x 192 x 6 C192; 35 levels; top grid cell 0-10m)", 
+                "nominalResolution": ""
+            }, 
+            "ocnBgchem": {
+                "description": "PISCES v3.4socco", 
+                "nominalResolution": ""
+            }, 
+            "seaIce": {
+                "description": "CSIR-ICE (visco-plastic)", 
+                "nominalResolution": ""
+            }
+        }, 
         "releaseYear": "2016", 
-        "seaIce": "CSIR-ICE (visco-plastic)", 
         "sourceID": "VRESM-1-0"
     }, 
     "description": "VRESM-1-0", 
-    "idx": 37, 
+    "idx": 46, 
     "label": "VRESM-1-0", 
     "name": "vresm-1-0", 
     "status": "pending", 
-    "uid": "b68066e0-a623-4798-986d-37d9871f7409"
+    "uid": "12a17b81-d292-48c0-8f54-c7600f64b651"
 }

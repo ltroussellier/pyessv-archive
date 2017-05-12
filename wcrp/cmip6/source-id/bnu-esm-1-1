@@ -3,11 +3,13 @@
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
-            ""
+            "C4MIP", 
+            "CMIP", 
+            "GMMIP", 
+            "GeoMIP", 
+            "OMIP", 
+            "ScenarioMIP"
         ], 
-        "aerosol": "CAM-chem; semi-interactive", 
-        "atmosphere": "CAM4 (FV, 144 x 96; 26 levels; top level 2.194 mb)", 
-        "atmosphericChemistry": "None", 
         "cohort": [
             "Registered"
         ], 
@@ -16,21 +18,47 @@
         ], 
         "label": "BNU-ESM 1.1", 
         "labelExtended": "BNU-ESM 1.1", 
-        "landIce": "None", 
-        "landSurface": "CoLM version 2014 with carbon-nitrogen interactions", 
-        "nominalResolutionAtmos": "", 
-        "nominalResolutionLandIce": "", 
-        "nominalResolutionOcean": "", 
-        "ocean": "MOM4p1 (tripolar, 360x200, primarily 1deg latitude/longitude, down to 1/3deg within 30deg of the equatorial tropics; 50 levels; top grid cell 0-10m)", 
-        "oceanBiogeochemistry": "Dynamic ecosystem-carbon model version 1", 
+        "modelComponent": {
+            "aerosol": {
+                "description": "CAM-chem; semi-interactive", 
+                "nominalResolution": "250 km"
+            }, 
+            "atmos": {
+                "description": "CAM4 (2deg; 144 x 96 longitude/latitude; 26 levels; top level 2.194 mb)", 
+                "nominalResolution": "250 km"
+            }, 
+            "atmosChem": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "land": {
+                "description": "CoLM version 2014 with carbon-nitrogen interactions", 
+                "nominalResolution": "250 km"
+            }, 
+            "landIce": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "ocean": {
+                "description": "MOM4p1 (tripolar, primarily 1deg latitude/longitude, down to 1/3deg within 30deg of the equatorial tropics; 360 x 200 longitude/latitude; 50 levels; top grid cell 0-10 m)", 
+                "nominalResolution": "100 km"
+            }, 
+            "ocnBgchem": {
+                "description": "Dynamic ecosystem-carbon model version 1", 
+                "nominalResolution": "100 km"
+            }, 
+            "seaIce": {
+                "description": "CICE4.1", 
+                "nominalResolution": "100 km"
+            }
+        }, 
         "releaseYear": "2016", 
-        "seaIce": "CICE4.1", 
         "sourceID": "BNU-ESM-1-1"
     }, 
     "description": "BNU-ESM-1-1", 
-    "idx": 29, 
+    "idx": 37, 
     "label": "BNU-ESM-1-1", 
     "name": "bnu-esm-1-1", 
     "status": "pending", 
-    "uid": "3e0611ac-2aab-4e15-8a6a-cb2087e38ba7"
+    "uid": "f5e2d79f-6ece-46cd-a8bc-89c98bbfe178"
 }

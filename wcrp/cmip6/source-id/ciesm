@@ -3,11 +3,14 @@
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
-            ""
+            "CFMIP", 
+            "CMIP", 
+            "CORDEX", 
+            "GMMIP", 
+            "OMIP", 
+            "SIMIP", 
+            "ScenarioMIP"
         ], 
-        "aerosol": "MAM4", 
-        "atmosphere": "CIESM-AM (FV/FD, 288 x 192; 30 levels; top level 2.255 hPa)", 
-        "atmosphericChemistry": "trop_mam4", 
         "cohort": [
             "Registered"
         ], 
@@ -16,21 +19,47 @@
         ], 
         "label": "CIESM", 
         "labelExtended": "Community Integrated Earth System Model", 
-        "landIce": "None", 
-        "landSurface": "CIESM-LM (modified CLM4.5)", 
-        "nominalResolutionAtmos": "", 
-        "nominalResolutionLandIce": "", 
-        "nominalResolutionOcean": "", 
-        "ocean": "CIESM-OM (FD, SCCGrid Displaced Pole, 720x560; 46 levels; top grid cell 0-6 m)", 
-        "oceanBiogeochemistry": "None", 
+        "modelComponent": {
+            "aerosol": {
+                "description": "MAM4", 
+                "nominalResolution": "100 km"
+            }, 
+            "atmos": {
+                "description": "CIESM-AM (FV/FD; 288 x 192 longitude/latitude; 30 levels; top level 2.255 hPa)", 
+                "nominalResolution": "100 km"
+            }, 
+            "atmosChem": {
+                "description": "trop_mam4", 
+                "nominalResolution": "100 km"
+            }, 
+            "land": {
+                "description": "CIESM-LM (modified CLM4.5)", 
+                "nominalResolution": "100 km"
+            }, 
+            "landIce": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "ocean": {
+                "description": "CIESM-OM (FD, SCCGrid Displaced Pole; 720 x 560 longitude/latitude; 46 levels; top grid cell 0-6 m)", 
+                "nominalResolution": "50 km"
+            }, 
+            "ocnBgchem": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "seaIce": {
+                "description": "CICE4", 
+                "nominalResolution": "50 km"
+            }
+        }, 
         "releaseYear": "2017", 
-        "seaIce": "CICE4", 
         "sourceID": "CIESM"
     }, 
     "description": "CIESM", 
-    "idx": 15, 
+    "idx": 19, 
     "label": "CIESM", 
     "name": "ciesm", 
     "status": "pending", 
-    "uid": "943f654b-1628-43f0-aed3-a4496e1bd48f"
+    "uid": "18bb8b71-ff42-48d3-89fd-87855b788f04"
 }

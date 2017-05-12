@@ -2,12 +2,12 @@
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
-        "postalAddress": "Centro Euro-Mediterraneo per i Cambiamenti Climatici, Bologna 40127, Italy"
+        "postalAddress": "Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici, Lecce 73100, Italy"
     }, 
     "description": "CMCC", 
     "idx": 9, 
     "label": "CMCC", 
     "name": "cmcc", 
     "status": "pending", 
-    "uid": "b3854fdf-2d33-4455-8766-b7a871d37ac1"
+    "uid": "8eabcbee-70ea-4bef-a100-b1b069accc56"
 }

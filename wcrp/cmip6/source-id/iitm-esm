@@ -5,9 +5,6 @@
         "activityParticipation": [
             ""
         ], 
-        "aerosol": "unnamed (prescribed MAC-v2)", 
-        "atmosphere": "GFS (192 x 94 T62; 64 levels; top level 0.2 mb)", 
-        "atmosphericChemistry": "None", 
         "cohort": [
             "Registered"
         ], 
@@ -16,21 +13,47 @@
         ], 
         "label": "IITM-ESM", 
         "labelExtended": "IITM-ESM", 
-        "landIce": "None", 
-        "landSurface": "NOAH LSM", 
-        "nominalResolutionAtmos": "", 
-        "nominalResolutionLandIce": "", 
-        "nominalResolutionOcean": "", 
-        "ocean": "MOM4p1 (tripolar, 360x200; 50 levels; top grid cell 5m)", 
-        "oceanBiogeochemistry": "TOPAZ", 
+        "modelComponent": {
+            "aerosol": {
+                "description": "unnamed (prescribed MAC-v2)", 
+                "nominalResolution": ""
+            }, 
+            "atmos": {
+                "description": "GFS (192 x 94 T62; 64 levels; top level 0.2 mb)", 
+                "nominalResolution": ""
+            }, 
+            "atmosChem": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "land": {
+                "description": "NOAH LSM", 
+                "nominalResolution": ""
+            }, 
+            "landIce": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "ocean": {
+                "description": "MOM4p1 (tripolar, 360x200; 50 levels; top grid cell 5m)", 
+                "nominalResolution": ""
+            }, 
+            "ocnBgchem": {
+                "description": "TOPAZ", 
+                "nominalResolution": ""
+            }, 
+            "seaIce": {
+                "description": "SIS", 
+                "nominalResolution": ""
+            }
+        }, 
         "releaseYear": "2015", 
-        "seaIce": "SIS", 
         "sourceID": "IITM-ESM"
     }, 
     "description": "IITM-ESM", 
-    "idx": 44, 
+    "idx": 53, 
     "label": "IITM-ESM", 
     "name": "iitm-esm", 
     "status": "pending", 
-    "uid": "c9f64eb2-91ee-4a97-b020-7ecca769a4c8"
+    "uid": "47abe0d1-eb7e-47d3-a104-169779c97d2f"
 }

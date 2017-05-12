@@ -5,9 +5,6 @@
         "activityParticipation": [
             ""
         ], 
-        "aerosol": "None, prescribed MACv2-SP", 
-        "atmosphere": "ECHAM6.3 (spectral T127; 384 x 192 longitude/latitude; 95 levels; top level 0.01 hPa)", 
-        "atmosphericChemistry": "None", 
         "cohort": [
             "Registered"
         ], 
@@ -16,21 +13,47 @@
         ], 
         "label": "MPIESM1.2-HR", 
         "labelExtended": "dynamic vegetation and nitrogen cycle switched off", 
-        "landIce": "None/prescribed", 
-        "landSurface": "JSBACH3.2", 
-        "nominalResolutionAtmos": "", 
-        "nominalResolutionLandIce": "", 
-        "nominalResolutionOcean": "", 
-        "ocean": "MPIOM1.63 (tripolar TP04; approximately 0.4deg latitude/longitude; 40 levels; top grid cell 0-12 m)", 
-        "oceanBiogeochemistry": "HAMOCC", 
+        "modelComponent": {
+            "aerosol": {
+                "description": "none, prescribed MACv2-SP", 
+                "nominalResolution": ""
+            }, 
+            "atmos": {
+                "description": "ECHAM6.3 (spectral T127; 384 x 192 longitude/latitude; 95 levels; top level 0.01 hPa)", 
+                "nominalResolution": ""
+            }, 
+            "atmosChem": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "land": {
+                "description": "JSBACH3.2", 
+                "nominalResolution": ""
+            }, 
+            "landIce": {
+                "description": "none/prescribed", 
+                "nominalResolution": ""
+            }, 
+            "ocean": {
+                "description": "MPIOM1.63 (tripolar TP04; approximately 0.4deg latitude/longitude; 40 levels; top grid cell 0-12 m)", 
+                "nominalResolution": ""
+            }, 
+            "ocnBgchem": {
+                "description": "HAMOCC", 
+                "nominalResolution": ""
+            }, 
+            "seaIce": {
+                "description": "thermodynamic (Semtner zero-layer) dynamic (Hibler 79) sea ice model", 
+                "nominalResolution": ""
+            }
+        }, 
         "releaseYear": "2017", 
-        "seaIce": "thermodynamic (Semtner zero-layer) dynamic (Hibler 79) sea ice model", 
         "sourceID": "MPIESM-1-2-HR"
     }, 
     "description": "MPIESM-1-2-HR", 
-    "idx": 13, 
+    "idx": 16, 
     "label": "MPIESM-1-2-HR", 
     "name": "mpiesm-1-2-hr", 
     "status": "pending", 
-    "uid": "710b744c-4f79-4bf5-bb05-36ef316d1a70"
+    "uid": "2ba27f91-bdf6-4f89-be67-f178e8345e6f"
 }

@@ -2,9 +2,9 @@
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "description": "seaIce", 
-    "idx": 8, 
+    "idx": 1, 
     "label": "seaIce", 
     "name": "seaice", 
     "status": "pending", 
-    "uid": "6b845823-a8d0-4843-b38b-35ac81cc73d8"
+    "uid": "8ce5a1f1-a299-4669-a5f2-fedfc43adcaf"
 }
