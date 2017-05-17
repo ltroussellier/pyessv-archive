@@ -55,8 +55,8 @@
     }, 
     "description": "CMCC-CM2-SR5", 
     "idx": 35, 
-    "label": "CMCC-CM2-SR5", 
+    "label": "cmcc-cm2-sr5", 
     "name": "cmcc-cm2-sr5", 
     "status": "pending", 
-    "uid": "a973f213-dd94-4fe1-9f06-66b4459e7b8f"
+    "uid": "b1e636af-cc87-478b-b318-e3e998d2fa84"
 }

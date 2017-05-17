@@ -34,8 +34,8 @@
     }, 
     "description": "dcppC-hindcast-noPinatubo", 
     "idx": 203, 
-    "label": "dcppC-hindcast-noPinatubo", 
+    "label": "dcppc-hindcast-nopinatubo", 
     "name": "dcppc-hindcast-nopinatubo", 
     "status": "pending", 
-    "uid": "74e69d92-b503-4b7c-8866-17672910edba"
+    "uid": "5f6165ea-e0d6-4550-adfb-079f3cbe898f"
 }

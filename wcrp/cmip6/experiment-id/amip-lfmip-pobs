@@ -32,8 +32,8 @@
     }, 
     "description": "amip-lfmip-pObs", 
     "idx": 142, 
-    "label": "amip-lfmip-pObs", 
+    "label": "amip-lfmip-pobs", 
     "name": "amip-lfmip-pobs", 
     "status": "pending", 
-    "uid": "59ddf55c-6814-411c-82eb-c56e14ad96c7"
+    "uid": "6b8e9fc0-2367-4353-acd3-126df79f5472"
 }

@@ -53,8 +53,8 @@
     }, 
     "description": "CMCC-CM2-VHR4", 
     "idx": 10, 
-    "label": "CMCC-CM2-VHR4", 
+    "label": "cmcc-cm2-vhr4", 
     "name": "cmcc-cm2-vhr4", 
     "status": "pending", 
-    "uid": "9e7df00d-8fbe-4071-a32d-ba8f45074ef0"
+    "uid": "55766a54-879a-4742-baed-6e43163fc4c5"
 }

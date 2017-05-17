@@ -31,8 +31,8 @@
     }, 
     "description": "G6SST2-solar", 
     "idx": 196, 
-    "label": "G6SST2-solar", 
+    "label": "g6sst2-solar", 
     "name": "g6sst2-solar", 
     "status": "pending", 
-    "uid": "c52e1d76-8be1-450d-a105-63c7a0cb7fef"
+    "uid": "edf6e5f3-60bb-4954-bdb7-c3cbca834135"
 }

@@ -6,8 +6,8 @@
     }, 
     "description": "NIMS-KMA", 
     "idx": 15, 
-    "label": "NIMS-KMA", 
+    "label": "nims-kma", 
     "name": "nims-kma", 
     "status": "pending", 
-    "uid": "b56fa2e4-854c-44e2-89dc-828f24db25cd"
+    "uid": "59fd9073-594a-4655-a22c-8f63538018fb"
 }

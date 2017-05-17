@@ -32,8 +32,8 @@
     }, 
     "description": "histSST-piNTCF", 
     "idx": 236, 
-    "label": "histSST-piNTCF", 
+    "label": "histsst-pintcf", 
     "name": "histsst-pintcf", 
     "status": "pending", 
-    "uid": "83e8342f-fa3d-4859-a246-b5f11f162898"
+    "uid": "0fed4a35-5e38-44bc-9cd2-42d6468a0fda"
 }

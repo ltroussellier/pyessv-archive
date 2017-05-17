@@ -52,8 +52,8 @@
     }, 
     "description": "GFDL-AM4", 
     "idx": 26, 
-    "label": "GFDL-AM4", 
+    "label": "gfdl-am4", 
     "name": "gfdl-am4", 
     "status": "pending", 
-    "uid": "59f0cfdf-cae6-4639-9013-7fa6611c25a4"
+    "uid": "a133fc7a-020f-4fc9-b192-66bebbcf6e5e"
 }

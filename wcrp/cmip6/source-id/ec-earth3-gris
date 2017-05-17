@@ -52,8 +52,8 @@
     }, 
     "description": "EC-Earth3-GrIS", 
     "idx": 28, 
-    "label": "EC-Earth3-GrIS", 
+    "label": "ec-earth3-gris", 
     "name": "ec-earth3-gris", 
     "status": "pending", 
-    "uid": "7958c76b-c2fc-47d9-8d29-ac2e9d244b61"
+    "uid": "325635f8-052d-4339-950c-f15b2b4eb3a7"
 }

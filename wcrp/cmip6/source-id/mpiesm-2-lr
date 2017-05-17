@@ -52,8 +52,8 @@
     }, 
     "description": "MPIESM-2-LR", 
     "idx": 54, 
-    "label": "MPIESM-2-LR", 
+    "label": "mpiesm-2-lr", 
     "name": "mpiesm-2-lr", 
     "status": "pending", 
-    "uid": "ece68bbf-897f-4838-9bfd-1754124fcf86"
+    "uid": "bb087b2c-804e-45c2-86e0-c716e08b03c6"
 }

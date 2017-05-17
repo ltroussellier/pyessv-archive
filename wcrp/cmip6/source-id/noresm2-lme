@@ -56,8 +56,8 @@
     }, 
     "description": "NorESM2-LME", 
     "idx": 58, 
-    "label": "NorESM2-LME", 
+    "label": "noresm2-lme", 
     "name": "noresm2-lme", 
     "status": "pending", 
-    "uid": "d17926e3-2ee1-4270-ae8c-1b60dbeb2db8"
+    "uid": "107c1fb3-e56c-46c2-9c62-3de6c966c17c"
 }

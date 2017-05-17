@@ -3,8 +3,8 @@
     "createDate": "2017-03-21 00:00:00+00:00", 
     "description": "Ofx", 
     "idx": 37, 
-    "label": "Ofx", 
+    "label": "ofx", 
     "name": "ofx", 
     "status": "pending", 
-    "uid": "1d1a0bd5-0e12-46a0-9a62-e9aa03a75000"
+    "uid": "b4163131-cab6-490b-bca9-ca40df19be3e"
 }

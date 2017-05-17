@@ -52,8 +52,8 @@
     }, 
     "description": "ACCESS-1-0", 
     "idx": 12, 
-    "label": "ACCESS-1-0", 
+    "label": "access-1-0", 
     "name": "access-1-0", 
     "status": "pending", 
-    "uid": "b359fd62-fdec-48c5-b4a8-b09ed78456c5"
+    "uid": "f66fac0b-4c14-4e41-adbf-fe98301ba03f"
 }

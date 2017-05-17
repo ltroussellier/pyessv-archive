@@ -6,8 +6,8 @@
     }, 
     "description": "CSIRO-BOM", 
     "idx": 10, 
-    "label": "CSIRO-BOM", 
+    "label": "csiro-bom", 
     "name": "csiro-bom", 
     "status": "pending", 
-    "uid": "5afbc7d0-2a3c-4665-9db1-43f317079f50"
+    "uid": "d7a5a75b-788c-4a40-9e91-0032adc7f1c8"
 }

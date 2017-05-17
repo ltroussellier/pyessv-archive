@@ -28,8 +28,8 @@
     }, 
     "description": "ism-pdControl-std", 
     "idx": 95, 
-    "label": "ism-pdControl-std", 
+    "label": "ism-pdcontrol-std", 
     "name": "ism-pdcontrol-std", 
     "status": "pending", 
-    "uid": "7cbea7e6-c217-4622-b58b-e768361adde2"
+    "uid": "637044d0-ea70-45aa-a41a-e39a9b1445af"
 }

@@ -6,8 +6,8 @@
     }, 
     "description": "NOAA-GFDL", 
     "idx": 26, 
-    "label": "NOAA-GFDL", 
+    "label": "noaa-gfdl", 
     "name": "noaa-gfdl", 
     "status": "pending", 
-    "uid": "7714e4c1-0555-48b7-9bdb-5ac1ba312b4a"
+    "uid": "36347ad7-f48b-4ccb-98ca-c98ce042c548"
 }

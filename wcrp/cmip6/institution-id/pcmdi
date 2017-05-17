@@ -6,8 +6,8 @@
     }, 
     "description": "PCMDI", 
     "idx": 24, 
-    "label": "PCMDI", 
+    "label": "pcmdi", 
     "name": "pcmdi", 
     "status": "pending", 
-    "uid": "e4b213dd-84a0-41e8-8fba-a0085263d9f2"
+    "uid": "9d83935c-d1ba-43c1-b0a9-148097baec7d"
 }

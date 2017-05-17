@@ -52,8 +52,8 @@
     }, 
     "description": "GISS-E2-1G", 
     "idx": 4, 
-    "label": "GISS-E2-1G", 
+    "label": "giss-e2-1g", 
     "name": "giss-e2-1g", 
     "status": "pending", 
-    "uid": "fda186a9-bf4b-4be7-b81b-e3af4b415c83"
+    "uid": "fddcc1aa-d43d-4478-af13-0fcb960a4656"
 }

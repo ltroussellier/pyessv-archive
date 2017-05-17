@@ -31,8 +31,8 @@
     }, 
     "description": "G7SST1-cirrus", 
     "idx": 242, 
-    "label": "G7SST1-cirrus", 
+    "label": "g7sst1-cirrus", 
     "name": "g7sst1-cirrus", 
     "status": "pending", 
-    "uid": "b2259583-6e7a-4d06-90af-d7a54d98859c"
+    "uid": "26e0c9ec-2a36-4d3f-9601-940292330233"
 }

@@ -52,8 +52,8 @@
     }, 
     "description": "EC-Earth3", 
     "idx": 47, 
-    "label": "EC-Earth3", 
+    "label": "ec-earth3", 
     "name": "ec-earth3", 
     "status": "pending", 
-    "uid": "21d96104-9614-4849-8f84-c0f052c6cbc6"
+    "uid": "9dd35e72-f3ed-49c7-9e59-70766ba52c2a"
 }

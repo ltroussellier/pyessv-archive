@@ -53,8 +53,8 @@
     }, 
     "description": "EMAC-2-53-AerChem", 
     "idx": 55, 
-    "label": "EMAC-2-53-AerChem", 
+    "label": "emac-2-53-aerchem", 
     "name": "emac-2-53-aerchem", 
     "status": "pending", 
-    "uid": "a870ffeb-1693-4a5f-930a-ea6316a76123"
+    "uid": "eb5300ef-4e8e-459b-84e1-8912e5391214"
 }

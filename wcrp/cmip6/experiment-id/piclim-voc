@@ -30,8 +30,8 @@
     }, 
     "description": "piClim-VOC", 
     "idx": 23, 
-    "label": "piClim-VOC", 
+    "label": "piclim-voc", 
     "name": "piclim-voc", 
     "status": "pending", 
-    "uid": "d93540d7-8624-453f-ae17-35191a8dc79d"
+    "uid": "efbf33b6-9969-4a01-b1b3-d9e9bc4b21bb"
 }

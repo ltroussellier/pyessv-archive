@@ -30,8 +30,8 @@
     }, 
     "description": "histSST-piCH4", 
     "idx": 238, 
-    "label": "histSST-piCH4", 
+    "label": "histsst-pich4", 
     "name": "histsst-pich4", 
     "status": "pending", 
-    "uid": "d64650c1-b2bd-4d98-aa24-7733b1e6593b"
+    "uid": "6559dfa4-c41e-4aec-9366-6a80e8e9a16e"
 }

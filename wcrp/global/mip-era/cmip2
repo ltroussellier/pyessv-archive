@@ -3,8 +3,8 @@
     "createDate": "2017-03-21 00:00:00+00:00", 
     "description": "CMIP2", 
     "idx": 2, 
-    "label": "CMIP2", 
+    "label": "cmip2", 
     "name": "cmip2", 
     "status": "pending", 
-    "uid": "103ef691-5bfe-4e3a-aae6-5c6c6ee5af29"
+    "uid": "c453bd56-f77d-4a4b-bceb-77fbabc03da3"
 }

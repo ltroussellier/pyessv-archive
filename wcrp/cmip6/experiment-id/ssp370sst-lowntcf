@@ -32,8 +32,8 @@
     }, 
     "description": "ssp370SST-lowNTCF", 
     "idx": 173, 
-    "label": "ssp370SST-lowNTCF", 
+    "label": "ssp370sst-lowntcf", 
     "name": "ssp370sst-lowntcf", 
     "status": "pending", 
-    "uid": "db9c3d42-f5d8-4f37-a060-01fe43f0d76b"
+    "uid": "7d23d29f-6c0e-4477-8def-e7ba5ee242df"
 }

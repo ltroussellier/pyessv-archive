@@ -62,8 +62,8 @@
     }, 
     "description": "GFDL-ESM4", 
     "idx": 56, 
-    "label": "GFDL-ESM4", 
+    "label": "gfdl-esm4", 
     "name": "gfdl-esm4", 
     "status": "pending", 
-    "uid": "9f67a7ed-32e2-4ffe-8d01-abf6dbebfc64"
+    "uid": "e935bdbc-c892-44e7-9ebf-e728fae019f2"
 }

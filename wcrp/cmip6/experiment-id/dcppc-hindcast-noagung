@@ -34,8 +34,8 @@
     }, 
     "description": "dcppC-hindcast-noAgung", 
     "idx": 123, 
-    "label": "dcppC-hindcast-noAgung", 
+    "label": "dcppc-hindcast-noagung", 
     "name": "dcppc-hindcast-noagung", 
     "status": "pending", 
-    "uid": "63c9c156-b33a-4f94-9065-9ad3a2b83e55"
+    "uid": "745b734d-28a2-4d6b-8399-b673202d5934"
 }

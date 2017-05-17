@@ -32,8 +32,8 @@
     }, 
     "description": "histSST-piN2O", 
     "idx": 180, 
-    "label": "histSST-piN2O", 
+    "label": "histsst-pin2o", 
     "name": "histsst-pin2o", 
     "status": "pending", 
-    "uid": "7d4b9c63-ade4-4871-b5ad-4d610ad5d86f"
+    "uid": "415f4a2c-70f5-458e-8668-8683d04bfb35"
 }

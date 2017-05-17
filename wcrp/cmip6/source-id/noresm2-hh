@@ -52,8 +52,8 @@
     }, 
     "description": "NorESM2-HH", 
     "idx": 13, 
-    "label": "NorESM2-HH", 
+    "label": "noresm2-hh", 
     "name": "noresm2-hh", 
     "status": "pending", 
-    "uid": "0fd07958-8b25-481b-8894-f701517487f2"
+    "uid": "fdb1e878-8de0-41e0-a64c-8567ea587f9f"
 }

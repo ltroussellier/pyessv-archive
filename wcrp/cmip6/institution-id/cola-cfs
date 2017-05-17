@@ -6,8 +6,8 @@
     }, 
     "description": "COLA-CFS", 
     "idx": 11, 
-    "label": "COLA-CFS", 
+    "label": "cola-cfs", 
     "name": "cola-cfs", 
     "status": "pending", 
-    "uid": "e1803d1d-7f5f-43de-905e-578a0c0277b9"
+    "uid": "71966a87-5275-4cba-adb3-edf33854286e"
 }

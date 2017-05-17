@@ -3,7 +3,8 @@
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
-            ""
+            "CMIP", 
+            "VolMIP"
         ], 
         "cohort": [
             "Registered"
@@ -16,27 +17,27 @@
         "modelComponent": {
             "aerosol": {
                 "description": "gmxe 2.2.x", 
-                "nominalResolution": ""
+                "nominalResolution": "500 km"
             }, 
             "atmos": {
-                "description": "ECHAM5.3.2 (modified; spectral T42; 128 x 64 longitude/latitude; 90 levels; top level 0.001 hPa)", 
-                "nominalResolution": ""
+                "description": "ECHAM5.3.02 (modified; spectral T42; 128 x 64 longitude/latitude; 47 levels; top level 0.01 hPa)", 
+                "nominalResolution": "500 km"
             }, 
             "atmosChem": {
                 "description": "MECCA 3.8.x", 
-                "nominalResolution": ""
+                "nominalResolution": "500 km"
             }, 
             "land": {
                 "description": "same as Atmosphere", 
-                "nominalResolution": ""
+                "nominalResolution": "500 km"
             }, 
             "landIce": {
                 "description": "none", 
                 "nominalResolution": "none"
             }, 
             "ocean": {
-                "description": "MPIOM 1.3.0-beta (bipolar GR1.5; approximately 1.5deg reducing toward the poles, 256 x 220 longitude/latitude; 40 levels; top grid cell 0-12 m)", 
-                "nominalResolution": ""
+                "description": "MPIOM 1.3.0-beta (bipolar GR1.5, approximately 1.5deg reducing toward the poles; 256 x 220 longitude/latitude; 40 levels; top grid cell 0-12 m)", 
+                "nominalResolution": "250 km"
             }, 
             "ocnBgchem": {
                 "description": "none", 
@@ -44,7 +45,7 @@
             }, 
             "seaIce": {
                 "description": "thermodynamic (Semtner zero-layer) dynamic (Hibler 79) sea ice model", 
-                "nominalResolution": ""
+                "nominalResolution": "250 km"
             }
         }, 
         "releaseYear": "2017", 
@@ -52,8 +53,8 @@
     }, 
     "description": "EMAC-2-53-Vol", 
     "idx": 36, 
-    "label": "EMAC-2-53-Vol", 
+    "label": "emac-2-53-vol", 
     "name": "emac-2-53-vol", 
     "status": "pending", 
-    "uid": "701c81fe-e457-45ae-8ff5-0b64c889923d"
+    "uid": "b2b0e025-af8a-4c46-a5f8-fc158d53e8d5"
 }

@@ -3,8 +3,8 @@
     "createDate": "2017-03-21 00:00:00+00:00", 
     "description": "CMIP6", 
     "idx": 5, 
-    "label": "CMIP6", 
+    "label": "cmip6", 
     "name": "cmip6", 
     "status": "pending", 
-    "uid": "a7c20ffb-3fe7-4b71-acfe-af0ca50b0072"
+    "uid": "fb362e98-ad18-4ecc-a6b6-fe815c428cbd"
 }

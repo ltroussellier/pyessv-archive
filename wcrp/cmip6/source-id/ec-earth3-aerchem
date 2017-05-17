@@ -52,8 +52,8 @@
     }, 
     "description": "EC-Earth3-AerChem", 
     "idx": 23, 
-    "label": "EC-Earth3-AerChem", 
+    "label": "ec-earth3-aerchem", 
     "name": "ec-earth3-aerchem", 
     "status": "pending", 
-    "uid": "255eb89c-7bc3-489d-a684-1624f84f987c"
+    "uid": "a1d04268-6c12-4cd7-972d-994a1ec345ad"
 }

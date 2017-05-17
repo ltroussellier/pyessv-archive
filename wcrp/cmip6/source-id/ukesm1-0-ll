@@ -53,8 +53,8 @@
     }, 
     "description": "UKESM1-0-LL", 
     "idx": 6, 
-    "label": "UKESM1-0-LL", 
+    "label": "ukesm1-0-ll", 
     "name": "ukesm1-0-ll", 
     "status": "pending", 
-    "uid": "693e5300-350d-48fc-a440-b8a1ba25a8d8"
+    "uid": "c4980be7-05fa-47d7-8409-191bdc11f689"
 }

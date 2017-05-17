@@ -34,8 +34,8 @@
     }, 
     "description": "dcppC-hindcast-noElChichon", 
     "idx": 70, 
-    "label": "dcppC-hindcast-noElChichon", 
+    "label": "dcppc-hindcast-noelchichon", 
     "name": "dcppc-hindcast-noelchichon", 
     "status": "pending", 
-    "uid": "0c70c626-9aec-4d45-9899-e87278be88ce"
+    "uid": "074923aa-0265-43cb-94a7-ff91755f2ce2"
 }

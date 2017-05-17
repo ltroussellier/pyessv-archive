@@ -3,8 +3,8 @@
     "createDate": "2017-03-21 00:00:00+00:00", 
     "description": "GeoMIP", 
     "idx": 11, 
-    "label": "GeoMIP", 
+    "label": "geomip", 
     "name": "geomip", 
     "status": "pending", 
-    "uid": "b1cd0ff2-0811-4e76-a0ab-3ae635b68504"
+    "uid": "fd60c347-e4f1-442f-8e11-0992b196bb08"
 }

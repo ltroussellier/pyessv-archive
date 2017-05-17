@@ -52,8 +52,8 @@
     }, 
     "description": "MIROC-ES2H", 
     "idx": 57, 
-    "label": "MIROC-ES2H", 
+    "label": "miroc-es2h", 
     "name": "miroc-es2h", 
     "status": "pending", 
-    "uid": "b1b7931a-fd7b-4e66-bb18-842d9607fac4"
+    "uid": "b00957bc-b908-439e-bab0-230361996acf"
 }

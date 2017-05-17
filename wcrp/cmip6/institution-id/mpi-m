@@ -6,8 +6,8 @@
     }, 
     "description": "MPI-M", 
     "idx": 12, 
-    "label": "MPI-M", 
+    "label": "mpi-m", 
     "name": "mpi-m", 
     "status": "pending", 
-    "uid": "26c97513-0ff1-4991-8d77-fd6b1595012c"
+    "uid": "5859da62-824e-4839-a446-abb49247882e"
 }

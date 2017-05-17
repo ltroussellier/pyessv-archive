@@ -52,8 +52,8 @@
     }, 
     "description": "NorESM2-LMEC", 
     "idx": 40, 
-    "label": "NorESM2-LMEC", 
+    "label": "noresm2-lmec", 
     "name": "noresm2-lmec", 
     "status": "pending", 
-    "uid": "10367bcc-d548-4a6e-9562-fb01d2400d8b"
+    "uid": "bfb23952-3cde-4bf7-9ec2-c188b0139459"
 }

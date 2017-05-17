@@ -52,8 +52,8 @@
     }, 
     "description": "GISS-E2-1H", 
     "idx": 7, 
-    "label": "GISS-E2-1H", 
+    "label": "giss-e2-1h", 
     "name": "giss-e2-1h", 
     "status": "pending", 
-    "uid": "de613b29-f362-4abe-913e-728ed0aaf101"
+    "uid": "ccb991f4-21b8-49ad-b41d-be0586e88fec"
 }

@@ -52,8 +52,8 @@
     }, 
     "description": "CNRM-ESM2-1-HR", 
     "idx": 18, 
-    "label": "CNRM-ESM2-1-HR", 
+    "label": "cnrm-esm2-1-hr", 
     "name": "cnrm-esm2-1-hr", 
     "status": "pending", 
-    "uid": "63c46ac2-3eda-496e-9673-771af98f464a"
+    "uid": "9c635333-7814-4177-8536-9c0aaccccb05"
 }

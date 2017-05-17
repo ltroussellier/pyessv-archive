@@ -53,8 +53,8 @@
     }, 
     "description": "CMCC-ESM2-HR5", 
     "idx": 24, 
-    "label": "CMCC-ESM2-HR5", 
+    "label": "cmcc-esm2-hr5", 
     "name": "cmcc-esm2-hr5", 
     "status": "pending", 
-    "uid": "557da285-2ab7-4def-a668-dc2fa1e6dd5c"
+    "uid": "840ce6f2-540c-4d4b-91ca-ee8e982ed1de"
 }

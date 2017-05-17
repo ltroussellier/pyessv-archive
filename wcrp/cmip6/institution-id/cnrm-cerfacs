@@ -6,8 +6,8 @@
     }, 
     "description": "CNRM-CERFACS", 
     "idx": 21, 
-    "label": "CNRM-CERFACS", 
+    "label": "cnrm-cerfacs", 
     "name": "cnrm-cerfacs", 
     "status": "pending", 
-    "uid": "9d974aa8-65d8-4aa6-a17b-58b6be8404fc"
+    "uid": "7b941737-1406-4a4e-9f6a-240e46a4c6b6"
 }

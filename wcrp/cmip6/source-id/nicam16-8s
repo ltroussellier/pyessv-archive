@@ -52,8 +52,8 @@
     }, 
     "description": "NICAM16-8S", 
     "idx": 52, 
-    "label": "NICAM16-8S", 
+    "label": "nicam16-8s", 
     "name": "nicam16-8s", 
     "status": "pending", 
-    "uid": "f80a0844-1ddc-4c33-8103-13c7f3782649"
+    "uid": "713c8d1f-dfd9-47de-bb8b-207ada7f87fa"
 }

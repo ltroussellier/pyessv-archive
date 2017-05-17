@@ -52,8 +52,8 @@
     }, 
     "description": "HadGEM3-GC31-LL", 
     "idx": 9, 
-    "label": "HadGEM3-GC31-LL", 
+    "label": "hadgem3-gc31-ll", 
     "name": "hadgem3-gc31-ll", 
     "status": "pending", 
-    "uid": "b647f791-5c38-47d3-b93b-b491fb075a64"
+    "uid": "1fbf0cb7-d4de-46fc-af1e-e5a18c657bcd"
 }

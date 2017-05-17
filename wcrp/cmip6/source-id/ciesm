@@ -58,8 +58,8 @@
     }, 
     "description": "CIESM", 
     "idx": 19, 
-    "label": "CIESM", 
+    "label": "ciesm", 
     "name": "ciesm", 
     "status": "pending", 
-    "uid": "18bb8b71-ff42-48d3-89fd-87855b788f04"
+    "uid": "27fb0a67-6e2b-4801-bc03-ed41d1319e12"
 }

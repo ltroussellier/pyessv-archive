@@ -28,8 +28,8 @@
     }, 
     "description": "ism-piControl-self", 
     "idx": 16, 
-    "label": "ism-piControl-self", 
+    "label": "ism-picontrol-self", 
     "name": "ism-picontrol-self", 
     "status": "pending", 
-    "uid": "39aa281e-0c1b-4275-a06e-0873699bfa22"
+    "uid": "b9bde5c8-3cc5-4424-81bb-0ddf32668ade"
 }

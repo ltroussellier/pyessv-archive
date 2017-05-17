@@ -31,8 +31,8 @@
     }, 
     "description": "amip-a4SST-4xCO2", 
     "idx": 217, 
-    "label": "amip-a4SST-4xCO2", 
+    "label": "amip-a4sst-4xco2", 
     "name": "amip-a4sst-4xco2", 
     "status": "pending", 
-    "uid": "0ae70ecf-3055-42f1-b398-8d26aefa2553"
+    "uid": "50805945-d023-48c8-a4b6-41dc525d4924"
 }

@@ -90,8 +90,8 @@
     }, 
     "description": "dcppA-hindcast-niff", 
     "idx": 116, 
-    "label": "dcppA-hindcast-niff", 
+    "label": "dcppa-hindcast-niff", 
     "name": "dcppa-hindcast-niff", 
     "status": "pending", 
-    "uid": "b25c44d4-3379-44bf-a895-fc4e4cb798ac"
+    "uid": "fbebe273-f7f0-486f-941f-88b14ffa1fa6"
 }

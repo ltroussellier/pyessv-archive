@@ -59,8 +59,8 @@
     }, 
     "description": "AWI-CM-1-0-LR", 
     "idx": 44, 
-    "label": "AWI-CM-1-0-LR", 
+    "label": "awi-cm-1-0-lr", 
     "name": "awi-cm-1-0-lr", 
     "status": "pending", 
-    "uid": "cce2ecc3-2ef7-4d99-acf6-5958250497bb"
+    "uid": "bd5cfddb-025c-47f8-ab25-0355381100ce"
 }

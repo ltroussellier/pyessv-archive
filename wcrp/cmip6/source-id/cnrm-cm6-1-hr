@@ -52,8 +52,8 @@
     }, 
     "description": "CNRM-CM6-1-HR", 
     "idx": 5, 
-    "label": "CNRM-CM6-1-HR", 
+    "label": "cnrm-cm6-1-hr", 
     "name": "cnrm-cm6-1-hr", 
     "status": "pending", 
-    "uid": "46cd192d-420e-44bb-9e2e-e2326fbccb47"
+    "uid": "38acbe02-c5b2-4cc7-b962-e2a389dbdacf"
 }

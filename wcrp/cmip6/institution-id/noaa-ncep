@@ -6,8 +6,8 @@
     }, 
     "description": "NOAA-NCEP", 
     "idx": 20, 
-    "label": "NOAA-NCEP", 
+    "label": "noaa-ncep", 
     "name": "noaa-ncep", 
     "status": "pending", 
-    "uid": "1898c108-d19a-4efb-a237-fa0a062dc4b6"
+    "uid": "4da8bef0-fb28-4e98-996a-2f650cef0e81"
 }
