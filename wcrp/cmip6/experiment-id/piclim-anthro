@@ -29,10 +29,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "piClim-anthro", 
-    "idx": 28, 
-    "label": "piclim-anthro", 
+    "idx": 27, 
+    "label": "piClim-anthro", 
     "name": "piclim-anthro", 
+    "nameRaw": "piClim-anthro", 
     "status": "pending", 
-    "uid": "db6d7ad6-8dc5-49c2-a0b6-b5fee6429843"
+    "uid": "1fddff08-2a9f-4cad-9969-8959e050b8bd"
 }

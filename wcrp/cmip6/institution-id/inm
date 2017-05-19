@@ -4,10 +4,10 @@
     "data": {
         "postalAddress": "Institute for Numerical Mathematics, Moscow 119991, Russia"
     }, 
-    "description": "INM", 
-    "idx": 28, 
-    "label": "inm", 
+    "idx": 27, 
+    "label": "INM", 
     "name": "inm", 
+    "nameRaw": "INM", 
     "status": "pending", 
-    "uid": "bd940c9b-d564-4f0b-8cc4-9fbbefea5199"
+    "uid": "1b14c9b0-02c7-44cf-a96b-96390fa38ee0"
 }

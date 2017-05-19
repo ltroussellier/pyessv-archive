@@ -30,10 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "ssp585-bgc", 
-    "idx": 216, 
+    "idx": 215, 
     "label": "ssp585-bgc", 
     "name": "ssp585-bgc", 
+    "nameRaw": "ssp585-bgc", 
     "status": "pending", 
-    "uid": "ab7de155-02e7-489b-9677-04cb4a79ebd1"
+    "uid": "0aedc05f-9421-4654-b6c3-b9fe0ab37b7b"
 }

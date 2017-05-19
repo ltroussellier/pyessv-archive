@@ -30,10 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "faf-heat", 
-    "idx": 24, 
+    "idx": 23, 
     "label": "faf-heat", 
     "name": "faf-heat", 
+    "nameRaw": "faf-heat", 
     "status": "pending", 
-    "uid": "ad622794-9e33-4393-b4a1-4b6e323f5e7a"
+    "uid": "10731559-df12-40c2-89fa-bb77c095ad6f"
 }

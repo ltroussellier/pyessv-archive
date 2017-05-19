@@ -29,10 +29,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "piSST-pxK", 
-    "idx": 125, 
-    "label": "pisst-pxk", 
+    "idx": 124, 
+    "label": "piSST-pxK", 
     "name": "pisst-pxk", 
+    "nameRaw": "piSST-pxK", 
     "status": "pending", 
-    "uid": "cd5bdfa6-9524-4dd9-811a-0f24cbe6cc66"
+    "uid": "dc79e48b-beb7-46e6-ad61-5133d81903ab"
 }

@@ -50,10 +50,10 @@
         "releaseYear": "2017", 
         "sourceID": "EC-Earth3-AerChem"
     }, 
-    "description": "EC-Earth3-AerChem", 
-    "idx": 23, 
-    "label": "ec-earth3-aerchem", 
+    "idx": 22, 
+    "label": "EC-Earth3-AerChem", 
     "name": "ec-earth3-aerchem", 
+    "nameRaw": "EC-Earth3-AerChem", 
     "status": "pending", 
-    "uid": "a1d04268-6c12-4cd7-972d-994a1ec345ad"
+    "uid": "3fc32d4b-2ec5-4761-8864-7c04136fe678"
 }

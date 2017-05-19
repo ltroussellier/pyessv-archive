@@ -60,10 +60,10 @@
         "releaseYear": "2017", 
         "sourceID": "NorESM2-LM"
     }, 
-    "description": "NorESM2-LM", 
-    "idx": 34, 
-    "label": "noresm2-lm", 
+    "idx": 33, 
+    "label": "NorESM2-LM", 
     "name": "noresm2-lm", 
+    "nameRaw": "NorESM2-LM", 
     "status": "pending", 
-    "uid": "44311a4f-577b-491e-815e-fb4238185e0d"
+    "uid": "cf3cf5f6-79cd-492b-978b-c212e0344f07"
 }

@@ -29,10 +29,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "ssp370SST-lowAer", 
-    "idx": 58, 
-    "label": "ssp370sst-lowaer", 
+    "idx": 57, 
+    "label": "ssp370SST-lowAer", 
     "name": "ssp370sst-lowaer", 
+    "nameRaw": "ssp370SST-lowAer", 
     "status": "pending", 
-    "uid": "8afe7ed3-b65d-46d4-8c54-7182bae05899"
+    "uid": "d88b36fc-5cf3-497b-9c2e-68a7c57d74e4"
 }

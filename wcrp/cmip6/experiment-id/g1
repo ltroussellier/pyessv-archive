@@ -30,10 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "G1", 
-    "idx": 20, 
-    "label": "g1", 
+    "idx": 19, 
+    "label": "G1", 
     "name": "g1", 
+    "nameRaw": "G1", 
     "status": "pending", 
-    "uid": "2f065dfb-d13f-4510-8003-aabb241c697d"
+    "uid": "e762fe56-e56a-4664-9794-22464eb85744"
 }

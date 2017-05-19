@@ -30,10 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "volc-long-eq", 
-    "idx": 64, 
+    "idx": 63, 
     "label": "volc-long-eq", 
     "name": "volc-long-eq", 
+    "nameRaw": "volc-long-eq", 
     "status": "pending", 
-    "uid": "1ffeaa6b-7623-42dc-9a48-4fd5f935eaa7"
+    "uid": "9b64e337-4959-4087-bd4c-ade0925a8f68"
 }

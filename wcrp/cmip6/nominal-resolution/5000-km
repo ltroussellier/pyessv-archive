@@ -1,0 +1,10 @@
+{
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "idx": 14, 
+    "label": "5000 km", 
+    "name": "5000-km", 
+    "nameRaw": "5000 km", 
+    "status": "pending", 
+    "uid": "841a11c2-dbc1-4cc4-8e23-ca230588c98c"
+}

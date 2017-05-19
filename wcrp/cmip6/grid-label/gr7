@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "gr7", 
-    "idx": 31, 
+    "idx": 30, 
     "label": "gr7", 
     "name": "gr7", 
+    "nameRaw": "gr7", 
     "status": "pending", 
-    "uid": "60d23863-d630-4a9b-b610-227c57e25047"
+    "uid": "a9170309-8902-4e3c-800d-da79266e3c15"
 }

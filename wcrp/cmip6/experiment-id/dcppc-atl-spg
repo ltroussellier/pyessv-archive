@@ -37,10 +37,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": "dcppC-atl-spg", 
-    "idx": 32, 
-    "label": "dcppc-atl-spg", 
+    "idx": 31, 
+    "label": "dcppC-atl-spg", 
     "name": "dcppc-atl-spg", 
+    "nameRaw": "dcppC-atl-spg", 
     "status": "pending", 
-    "uid": "d8e96b8a-7458-46dd-8e98-0dd083e15e2b"
+    "uid": "4914b07a-83f3-464a-8b43-3a02cc769c99"
 }

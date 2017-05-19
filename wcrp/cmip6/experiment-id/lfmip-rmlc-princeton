@@ -30,10 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "lfmip-rmLC-princeton", 
-    "idx": 187, 
-    "label": "lfmip-rmlc-princeton", 
+    "idx": 186, 
+    "label": "lfmip-rmLC-princeton", 
     "name": "lfmip-rmlc-princeton", 
+    "nameRaw": "lfmip-rmLC-princeton", 
     "status": "pending", 
-    "uid": "770745ae-5025-4fed-bfbc-2b719cf81037"
+    "uid": "04d3372f-211a-474f-8fb3-493e33b6aec8"
 }

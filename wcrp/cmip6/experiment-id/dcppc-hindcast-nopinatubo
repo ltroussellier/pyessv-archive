@@ -32,10 +32,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "dcppC-hindcast-noPinatubo", 
-    "idx": 203, 
-    "label": "dcppc-hindcast-nopinatubo", 
+    "idx": 202, 
+    "label": "dcppC-hindcast-noPinatubo", 
     "name": "dcppc-hindcast-nopinatubo", 
+    "nameRaw": "dcppC-hindcast-noPinatubo", 
     "status": "pending", 
-    "uid": "5f6165ea-e0d6-4550-adfb-079f3cbe898f"
+    "uid": "4b062ab3-0087-4f22-ad40-3677c7e7ba72"
 }

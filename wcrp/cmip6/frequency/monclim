@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "monClim", 
-    "idx": 10, 
-    "label": "monclim", 
+    "idx": 9, 
+    "label": "monClim", 
     "name": "monclim", 
+    "nameRaw": "monClim", 
     "status": "pending", 
-    "uid": "1711198a-6974-4bfa-90e8-17cd39abcb87"
+    "uid": "643d8061-91f6-46bd-92db-8ee5a3f3d256"
 }

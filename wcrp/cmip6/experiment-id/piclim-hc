@@ -28,10 +28,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "piClim-HC", 
-    "idx": 101, 
-    "label": "piclim-hc", 
+    "idx": 100, 
+    "label": "piClim-HC", 
     "name": "piclim-hc", 
+    "nameRaw": "piClim-HC", 
     "status": "pending", 
-    "uid": "90342a95-3896-4130-a232-a116219f0e32"
+    "uid": "515bad37-6bae-4b1f-8262-51acf5f3339e"
 }

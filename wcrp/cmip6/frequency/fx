@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "fx", 
-    "idx": 8, 
+    "idx": 7, 
     "label": "fx", 
     "name": "fx", 
+    "nameRaw": "fx", 
     "status": "pending", 
-    "uid": "cdef55ea-1dbe-4a06-9c34-ff42bb3afb2a"
+    "uid": "b21fe8da-1b73-4cc5-8e21-66a3fdcc2d2d"
 }

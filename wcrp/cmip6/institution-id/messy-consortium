@@ -4,10 +4,10 @@
     "data": {
         "postalAddress": "The Modular Earth Submodel System (MESSy) Consortium, represented by the Institute for Physics of the Atmosphere, Deutsches Zentrum fur Luft- und Raumfahrt (DLR), Wessling, Bavaria 82234, Germany"
     }, 
-    "description": "MESSy-Consortium", 
-    "idx": 3, 
-    "label": "messy-consortium", 
+    "idx": 2, 
+    "label": "MESSy-Consortium", 
     "name": "messy-consortium", 
+    "nameRaw": "MESSy-Consortium", 
     "status": "pending", 
-    "uid": "9b472d59-cd6d-4b6f-869f-8d97cc91f743"
+    "uid": "58f657d5-d18e-4c46-8bab-797f5fafcce2"
 }

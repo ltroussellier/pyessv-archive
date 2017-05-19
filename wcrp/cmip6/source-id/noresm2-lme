@@ -54,10 +54,10 @@
         "releaseYear": "2017", 
         "sourceID": "NorESM2-LME"
     }, 
-    "description": "NorESM2-LME", 
-    "idx": 58, 
-    "label": "noresm2-lme", 
+    "idx": 57, 
+    "label": "NorESM2-LME", 
     "name": "noresm2-lme", 
+    "nameRaw": "NorESM2-LME", 
     "status": "pending", 
-    "uid": "107c1fb3-e56c-46c2-9c62-3de6c966c17c"
+    "uid": "f94061d8-be6d-4c96-9db8-d95b2b72ac77"
 }

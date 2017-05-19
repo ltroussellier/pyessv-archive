@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "OGCM", 
-    "idx": 9, 
-    "label": "ogcm", 
+    "idx": 8, 
+    "label": "OGCM", 
     "name": "ogcm", 
+    "nameRaw": "OGCM", 
     "status": "pending", 
-    "uid": "d67a9c95-fda7-46da-b64c-36f318c91ad1"
+    "uid": "5f7a27cd-8d3f-404d-ba5d-84f5111b6c6c"
 }

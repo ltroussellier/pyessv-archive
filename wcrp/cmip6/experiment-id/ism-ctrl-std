@@ -26,10 +26,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "ism-ctrl-std", 
-    "idx": 190, 
+    "idx": 189, 
     "label": "ism-ctrl-std", 
     "name": "ism-ctrl-std", 
+    "nameRaw": "ism-ctrl-std", 
     "status": "pending", 
-    "uid": "4fb9ed5c-6e78-43e7-bf83-4bdedecc97a8"
+    "uid": "d734ac95-94bf-4bc5-b1e9-93fdbe302ebf"
 }

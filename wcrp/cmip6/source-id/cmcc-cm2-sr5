@@ -53,10 +53,10 @@
         "releaseYear": "2016", 
         "sourceID": "CMCC-CM2-SR5"
     }, 
-    "description": "CMCC-CM2-SR5", 
-    "idx": 35, 
-    "label": "cmcc-cm2-sr5", 
+    "idx": 34, 
+    "label": "CMCC-CM2-SR5", 
     "name": "cmcc-cm2-sr5", 
+    "nameRaw": "CMCC-CM2-SR5", 
     "status": "pending", 
-    "uid": "b1e636af-cc87-478b-b318-e3e998d2fa84"
+    "uid": "51746215-4aab-4727-9eac-f7b797c58103"
 }

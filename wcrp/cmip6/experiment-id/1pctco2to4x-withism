@@ -31,10 +31,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "1pctCO2to4x-withism", 
-    "idx": 100, 
-    "label": "1pctco2to4x-withism", 
+    "idx": 99, 
+    "label": "1pctCO2to4x-withism", 
     "name": "1pctco2to4x-withism", 
+    "nameRaw": "1pctCO2to4x-withism", 
     "status": "pending", 
-    "uid": "830cf55a-60bd-4c0e-b8b7-731ccba43f49"
+    "uid": "a24d360f-9c37-4dac-93c8-657bc93bb963"
 }

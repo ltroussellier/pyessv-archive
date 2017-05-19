@@ -30,10 +30,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": "volc-long-hlS", 
-    "idx": 161, 
-    "label": "volc-long-hls", 
+    "idx": 160, 
+    "label": "volc-long-hlS", 
     "name": "volc-long-hls", 
+    "nameRaw": "volc-long-hlS", 
     "status": "pending", 
-    "uid": "bce27fe5-ee7c-4d71-92d3-ce08e84bc13f"
+    "uid": "5a7e4417-9342-4895-a701-d1ef808dcfc3"
 }

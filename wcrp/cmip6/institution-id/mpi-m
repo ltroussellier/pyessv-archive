@@ -4,10 +4,10 @@
     "data": {
         "postalAddress": "Max Planck Institute for Meteorology, Hamburg 20146, Germany"
     }, 
-    "description": "MPI-M", 
-    "idx": 12, 
-    "label": "mpi-m", 
+    "idx": 11, 
+    "label": "MPI-M", 
     "name": "mpi-m", 
+    "nameRaw": "MPI-M", 
     "status": "pending", 
-    "uid": "5859da62-824e-4839-a446-abb49247882e"
+    "uid": "5d6c5bb6-5361-4d83-918c-3ddae0f8e532"
 }

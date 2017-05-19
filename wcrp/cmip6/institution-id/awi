@@ -4,10 +4,10 @@
     "data": {
         "postalAddress": "Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Am Handelshafen 12, 27570 Bremerhaven, Germany"
     }, 
-    "description": "AWI", 
-    "idx": 13, 
-    "label": "awi", 
+    "idx": 12, 
+    "label": "AWI", 
     "name": "awi", 
+    "nameRaw": "AWI", 
     "status": "pending", 
-    "uid": "28b5f950-8955-4a72-861a-30e7892646af"
+    "uid": "f3458fc8-a242-450f-b71a-95a726ad2ef3"
 }

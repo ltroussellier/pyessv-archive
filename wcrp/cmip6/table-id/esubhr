@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "Esubhr", 
-    "idx": 24, 
-    "label": "esubhr", 
+    "idx": 23, 
+    "label": "Esubhr", 
     "name": "esubhr", 
+    "nameRaw": "Esubhr", 
     "status": "pending", 
-    "uid": "3310b280-6df5-4d07-a85c-7518f98e1d90"
+    "uid": "26ae85ac-a2b2-4a07-8a8e-29301f83cf2a"
 }

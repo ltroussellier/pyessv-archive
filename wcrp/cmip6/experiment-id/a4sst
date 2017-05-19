@@ -29,10 +29,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "a4SST", 
-    "idx": 207, 
-    "label": "a4sst", 
+    "idx": 206, 
+    "label": "a4SST", 
     "name": "a4sst", 
+    "nameRaw": "a4SST", 
     "status": "pending", 
-    "uid": "1c8b1ad0-1994-4bc4-bbce-730b3a9d66dc"
+    "uid": "77e8e140-509f-45da-8788-3e2f1fbe6667"
 }

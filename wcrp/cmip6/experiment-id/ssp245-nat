@@ -30,10 +30,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": "ssp245-nat", 
-    "idx": 81, 
+    "idx": 80, 
     "label": "ssp245-nat", 
     "name": "ssp245-nat", 
+    "nameRaw": "ssp245-nat", 
     "status": "pending", 
-    "uid": "55e8cfab-1058-4049-8fae-b2faf991ec80"
+    "uid": "a52c84f2-70f8-4b3e-ab9d-786bbd3f1f3c"
 }

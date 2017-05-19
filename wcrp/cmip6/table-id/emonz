@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "EmonZ", 
-    "idx": 23, 
-    "label": "emonz", 
+    "idx": 22, 
+    "label": "EmonZ", 
     "name": "emonz", 
+    "nameRaw": "EmonZ", 
     "status": "pending", 
-    "uid": "65057d4b-952c-4b9c-90eb-41b04a2945a5"
+    "uid": "d8a6a7e2-2b33-41d3-a859-59e1ab69f2de"
 }

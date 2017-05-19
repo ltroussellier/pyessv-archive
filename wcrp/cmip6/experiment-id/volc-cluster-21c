@@ -30,10 +30,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": "volc-cluster-21C", 
-    "idx": 47, 
-    "label": "volc-cluster-21c", 
+    "idx": 46, 
+    "label": "volc-cluster-21C", 
     "name": "volc-cluster-21c", 
+    "nameRaw": "volc-cluster-21C", 
     "status": "pending", 
-    "uid": "6db8e66c-4cdd-4987-8642-66c63297d3bc"
+    "uid": "8707cdb3-5b4e-47af-9f25-724b6e9ad8fa"
 }

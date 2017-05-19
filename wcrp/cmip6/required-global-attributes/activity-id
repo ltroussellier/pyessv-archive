@@ -1,0 +1,10 @@
+{
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "idx": 1, 
+    "label": "activity_id", 
+    "name": "activity-id", 
+    "nameRaw": "activity_id", 
+    "status": "pending", 
+    "uid": "3582a657-2d0e-4c12-95dc-df4e43653275"
+}

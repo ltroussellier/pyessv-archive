@@ -4,10 +4,10 @@
     "data": {
         "postalAddress": "Centre for Climate Change Research, Indian Institute of Tropical Meteorology Pune, Maharashtra 411 008, India"
     }, 
-    "description": "CCCR-IITM", 
-    "idx": 16, 
-    "label": "cccr-iitm", 
+    "idx": 15, 
+    "label": "CCCR-IITM", 
     "name": "cccr-iitm", 
+    "nameRaw": "CCCR-IITM", 
     "status": "pending", 
-    "uid": "244c6dc4-d390-403a-811e-fc74d864f1bc"
+    "uid": "717a500f-8337-4177-a4ab-88ffbe2dd219"
 }

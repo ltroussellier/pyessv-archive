@@ -30,10 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "ssp585", 
-    "idx": 91, 
+    "idx": 90, 
     "label": "ssp585", 
     "name": "ssp585", 
+    "nameRaw": "ssp585", 
     "status": "pending", 
-    "uid": "9c1857a9-bdd2-408c-a811-cd2ee18aadf5"
+    "uid": "b7c74f24-a556-47e1-ae31-9c785405f186"
 }

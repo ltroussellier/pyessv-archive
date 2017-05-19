@@ -1,0 +1,10 @@
+{
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "idx": 29, 
+    "label": "variant_label", 
+    "name": "variant-label", 
+    "nameRaw": "variant_label", 
+    "status": "pending", 
+    "uid": "22045f0c-1765-42a6-929f-f6395967a053"
+}

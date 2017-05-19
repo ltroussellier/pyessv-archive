@@ -51,10 +51,10 @@
         "releaseYear": "2017", 
         "sourceID": "EMAC-2-53-AerChem"
     }, 
-    "description": "EMAC-2-53-AerChem", 
-    "idx": 55, 
-    "label": "emac-2-53-aerchem", 
+    "idx": 54, 
+    "label": "EMAC-2-53-AerChem", 
     "name": "emac-2-53-aerchem", 
+    "nameRaw": "EMAC-2-53-AerChem", 
     "status": "pending", 
-    "uid": "eb5300ef-4e8e-459b-84e1-8912e5391214"
+    "uid": "70193a5e-80b6-48ca-918c-06585b963933"
 }

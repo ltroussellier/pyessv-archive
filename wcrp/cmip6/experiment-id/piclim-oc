@@ -29,10 +29,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": "piClim-OC", 
-    "idx": 4, 
-    "label": "piclim-oc", 
+    "idx": 3, 
+    "label": "piClim-OC", 
     "name": "piclim-oc", 
+    "nameRaw": "piClim-OC", 
     "status": "pending", 
-    "uid": "bde8d75c-58bb-481f-aea3-87ef6cbe1e1f"
+    "uid": "3c61fc20-bc87-4e00-93bd-9a8fc49c117c"
 }

@@ -30,10 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "volc-cluster-ctrl", 
-    "idx": 192, 
+    "idx": 191, 
     "label": "volc-cluster-ctrl", 
     "name": "volc-cluster-ctrl", 
+    "nameRaw": "volc-cluster-ctrl", 
     "status": "pending", 
-    "uid": "cf2dee97-c751-488c-a7f5-1dd50989c619"
+    "uid": "e07c8e5d-a327-4d00-8883-fc543aa6aa30"
 }

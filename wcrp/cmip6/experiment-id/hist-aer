@@ -30,10 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "hist-aer", 
-    "idx": 121, 
+    "idx": 120, 
     "label": "hist-aer", 
     "name": "hist-aer", 
+    "nameRaw": "hist-aer", 
     "status": "pending", 
-    "uid": "bec90c0a-fa1c-4d8c-a7f8-1a8883b3f42f"
+    "uid": "cc6a32d2-58bf-433f-a6f3-f2160293362c"
 }

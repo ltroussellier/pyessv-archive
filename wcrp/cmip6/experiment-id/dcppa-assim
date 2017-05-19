@@ -30,10 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "dcppA-assim", 
-    "idx": 112, 
-    "label": "dcppa-assim", 
+    "idx": 111, 
+    "label": "dcppA-assim", 
     "name": "dcppa-assim", 
+    "nameRaw": "dcppA-assim", 
     "status": "pending", 
-    "uid": "5b35cada-6b52-4413-b5d5-7c90a9303f03"
+    "uid": "c917ea33-ef8b-461d-a247-30cec82ea859"
 }

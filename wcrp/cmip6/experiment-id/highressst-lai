@@ -28,10 +28,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": "highresSST-LAI", 
-    "idx": 107, 
-    "label": "highressst-lai", 
+    "idx": 106, 
+    "label": "highresSST-LAI", 
     "name": "highressst-lai", 
+    "nameRaw": "highresSST-LAI", 
     "status": "pending", 
-    "uid": "17b8d8fe-0899-4f50-880d-6661d1dba055"
+    "uid": "f81f897f-3f18-4aa0-99f6-630212509d89"
 }

@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "3hrClim", 
-    "idx": 4, 
-    "label": "3hrclim", 
+    "idx": 3, 
+    "label": "3hrClim", 
     "name": "3hrclim", 
+    "nameRaw": "3hrClim", 
     "status": "pending", 
-    "uid": "f0b66ec1-9331-43a8-a90d-b24cbca3e3f2"
+    "uid": "20fc406c-de8b-4058-8bc8-4df1bb613baf"
 }

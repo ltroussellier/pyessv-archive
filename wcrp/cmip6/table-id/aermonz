@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "AERmonZ", 
-    "idx": 8, 
-    "label": "aermonz", 
+    "idx": 7, 
+    "label": "AERmonZ", 
     "name": "aermonz", 
+    "nameRaw": "AERmonZ", 
     "status": "pending", 
-    "uid": "00c0c84f-0047-4d5f-a7d0-a0ff76e3f11c"
+    "uid": "876c2c89-5a49-4b80-ada9-549e1995bcb5"
 }

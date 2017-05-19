@@ -30,10 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "G6solar", 
-    "idx": 39, 
-    "label": "g6solar", 
+    "idx": 38, 
+    "label": "G6solar", 
     "name": "g6solar", 
+    "nameRaw": "G6solar", 
     "status": "pending", 
-    "uid": "71af3ddb-e548-4d5b-9e40-5e69dcf528fd"
+    "uid": "9c6e76e4-9e80-4c3b-ad36-9d550689212d"
 }

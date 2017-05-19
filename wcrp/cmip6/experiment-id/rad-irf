@@ -26,10 +26,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "rad-irf", 
-    "idx": 17, 
+    "idx": 16, 
     "label": "rad-irf", 
     "name": "rad-irf", 
+    "nameRaw": "rad-irf", 
     "status": "pending", 
-    "uid": "1a14f196-6dc9-4de3-96dd-56db6d3accdb"
+    "uid": "4713d501-936f-4446-b2b9-f07b9c9aec9d"
 }

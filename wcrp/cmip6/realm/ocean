@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "ocean", 
-    "idx": 5, 
+    "idx": 4, 
     "label": "ocean", 
     "name": "ocean", 
+    "nameRaw": "ocean", 
     "status": "pending", 
-    "uid": "6da1f4d4-962b-4787-9448-a06cc62ebca2"
+    "uid": "8ace63bb-cdbf-427b-8d9c-962846dcb358"
 }

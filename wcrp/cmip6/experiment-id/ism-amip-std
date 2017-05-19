@@ -26,10 +26,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": "ism-amip-std", 
-    "idx": 62, 
+    "idx": 61, 
     "label": "ism-amip-std", 
     "name": "ism-amip-std", 
+    "nameRaw": "ism-amip-std", 
     "status": "pending", 
-    "uid": "6959f4ea-55f5-495c-b49f-4fba0c1b7ec8"
+    "uid": "704e1c62-6940-4834-91fc-cc3db831135d"
 }

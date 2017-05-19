@@ -1,0 +1,10 @@
+{
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "idx": 28, 
+    "label": "variable_id", 
+    "name": "variable-id", 
+    "nameRaw": "variable_id", 
+    "status": "pending", 
+    "uid": "d36990eb-2d59-4ac9-a695-726f78591790"
+}

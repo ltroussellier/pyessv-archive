@@ -51,10 +51,10 @@
         "releaseYear": "2018", 
         "sourceID": "UKESM1-0-MMh"
     }, 
-    "description": "UKESM1-0-MMh", 
-    "idx": 50, 
-    "label": "ukesm1-0-mmh", 
+    "idx": 49, 
+    "label": "UKESM1-0-MMh", 
     "name": "ukesm1-0-mmh", 
+    "nameRaw": "UKESM1-0-MMh", 
     "status": "pending", 
-    "uid": "f164e1b2-ddb3-4a9e-b639-075e41e2fccc"
+    "uid": "49c98680-7285-4fd2-aee8-8966e12356ed"
 }

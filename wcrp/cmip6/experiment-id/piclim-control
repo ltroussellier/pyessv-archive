@@ -30,10 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "piClim-control", 
-    "idx": 119, 
-    "label": "piclim-control", 
+    "idx": 118, 
+    "label": "piClim-control", 
     "name": "piclim-control", 
+    "nameRaw": "piClim-control", 
     "status": "pending", 
-    "uid": "8f00589e-43fb-47d6-80bd-828469711ca6"
+    "uid": "55315897-ef1f-4cf2-93d3-24c93185a88b"
 }

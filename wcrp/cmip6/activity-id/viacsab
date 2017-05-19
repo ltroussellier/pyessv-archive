@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "VIACSAB", 
-    "idx": 21, 
-    "label": "viacsab", 
+    "idx": 20, 
+    "label": "VIACSAB", 
     "name": "viacsab", 
+    "nameRaw": "VIACSAB", 
     "status": "pending", 
-    "uid": "441466ba-a4bc-4a5f-ad3b-3c52b2e5c258"
+    "uid": "372e9a4e-a021-4011-8339-19c5c90916d7"
 }

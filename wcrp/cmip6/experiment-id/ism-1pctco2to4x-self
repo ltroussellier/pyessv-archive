@@ -26,10 +26,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "ism-1pctCO2to4x-self", 
-    "idx": 14, 
-    "label": "ism-1pctco2to4x-self", 
+    "idx": 13, 
+    "label": "ism-1pctCO2to4x-self", 
     "name": "ism-1pctco2to4x-self", 
+    "nameRaw": "ism-1pctCO2to4x-self", 
     "status": "pending", 
-    "uid": "d544fe49-fd17-4762-b7fe-678046a0b73b"
+    "uid": "7d6c7c99-c0b3-4b6c-b26c-2a066305db69"
 }

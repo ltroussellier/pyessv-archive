@@ -4,10 +4,10 @@
     "data": {
         "postalAddress": "Nanjing University of Information Science and Technology, Nanjing, 210044, China"
     }, 
-    "description": "NUIST", 
-    "idx": 30, 
-    "label": "nuist", 
+    "idx": 29, 
+    "label": "NUIST", 
     "name": "nuist", 
+    "nameRaw": "NUIST", 
     "status": "pending", 
-    "uid": "0f4604ae-a4c7-4dca-b081-462787f9b883"
+    "uid": "4b2f66b3-16d5-4aad-9400-0a1a6df0ce30"
 }

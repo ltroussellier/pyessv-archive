@@ -51,10 +51,10 @@
         "releaseYear": "2017", 
         "sourceID": "CMCC-CM2-HR5"
     }, 
-    "description": "CMCC-CM2-HR5", 
-    "idx": 15, 
-    "label": "cmcc-cm2-hr5", 
+    "idx": 14, 
+    "label": "CMCC-CM2-HR5", 
     "name": "cmcc-cm2-hr5", 
+    "nameRaw": "CMCC-CM2-HR5", 
     "status": "pending", 
-    "uid": "8c10e2ab-0f06-43cf-8114-565674583cb5"
+    "uid": "4b779f4c-9c13-458c-9ae3-cbe26af1b059"
 }

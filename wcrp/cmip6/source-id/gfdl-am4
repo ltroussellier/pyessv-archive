@@ -50,10 +50,10 @@
         "releaseYear": "2017", 
         "sourceID": "GFDL-AM4"
     }, 
-    "description": "GFDL-AM4", 
-    "idx": 26, 
-    "label": "gfdl-am4", 
+    "idx": 25, 
+    "label": "GFDL-AM4", 
     "name": "gfdl-am4", 
+    "nameRaw": "GFDL-AM4", 
     "status": "pending", 
-    "uid": "a133fc7a-020f-4fc9-b192-66bebbcf6e5e"
+    "uid": "a146e06c-87b0-4ae1-9c7d-aaa157ed0ffb"
 }

@@ -26,10 +26,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "ism-bsmb-std", 
-    "idx": 38, 
+    "idx": 37, 
     "label": "ism-bsmb-std", 
     "name": "ism-bsmb-std", 
+    "nameRaw": "ism-bsmb-std", 
     "status": "pending", 
-    "uid": "f9d17fa4-8cc6-47ea-bd7d-26ede36df7a9"
+    "uid": "6cba112d-da3a-45f3-ad93-5a4ad89fa440"
 }

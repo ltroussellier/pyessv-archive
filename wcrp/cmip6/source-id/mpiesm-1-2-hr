@@ -50,10 +50,10 @@
         "releaseYear": "2017", 
         "sourceID": "MPIESM-1-2-HR"
     }, 
-    "description": "MPIESM-1-2-HR", 
-    "idx": 16, 
-    "label": "mpiesm-1-2-hr", 
+    "idx": 15, 
+    "label": "MPIESM-1-2-HR", 
     "name": "mpiesm-1-2-hr", 
+    "nameRaw": "MPIESM-1-2-HR", 
     "status": "pending", 
-    "uid": "787d703d-7e7a-4398-aefe-f48e117a043e"
+    "uid": "82ba3b8f-90e3-4ec8-99e8-581361bb873c"
 }

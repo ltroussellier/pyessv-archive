@@ -31,10 +31,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": "volc-pinatubo-slab", 
-    "idx": 78, 
+    "idx": 77, 
     "label": "volc-pinatubo-slab", 
     "name": "volc-pinatubo-slab", 
+    "nameRaw": "volc-pinatubo-slab", 
     "status": "pending", 
-    "uid": "807fa6e6-ab90-4ea0-9c52-4fb189641a77"
+    "uid": "4a7d884f-e9e6-42fc-92d2-7fd10d32d556"
 }

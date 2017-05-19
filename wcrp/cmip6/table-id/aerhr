@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "AERhr", 
-    "idx": 6, 
-    "label": "aerhr", 
+    "idx": 5, 
+    "label": "AERhr", 
     "name": "aerhr", 
+    "nameRaw": "AERhr", 
     "status": "pending", 
-    "uid": "7f5637b0-05ed-4061-af23-316137a67686"
+    "uid": "7970b5d7-332b-4276-bae9-24fa2987cbef"
 }

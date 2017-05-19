@@ -4,10 +4,10 @@
     "data": {
         "postalAddress": "National Oceanic and Atmospheric Administration, Geophysical Fluid Dynamics Laboratory, Princeton, NJ 08540, USA"
     }, 
-    "description": "NOAA-GFDL", 
-    "idx": 26, 
-    "label": "noaa-gfdl", 
+    "idx": 25, 
+    "label": "NOAA-GFDL", 
     "name": "noaa-gfdl", 
+    "nameRaw": "NOAA-GFDL", 
     "status": "pending", 
-    "uid": "36347ad7-f48b-4ccb-98ca-c98ce042c548"
+    "uid": "1b78dce9-7de8-456c-8d76-6ae21654c2cb"
 }

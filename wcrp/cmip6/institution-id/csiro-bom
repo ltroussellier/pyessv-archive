@@ -4,10 +4,10 @@
     "data": {
         "postalAddress": "Commonwealth Scientific and Industrial Research Organisation and Bureau of Meteorology, Melbourne, Victoria 3208, Australia"
     }, 
-    "description": "CSIRO-BOM", 
-    "idx": 10, 
-    "label": "csiro-bom", 
+    "idx": 9, 
+    "label": "CSIRO-BOM", 
     "name": "csiro-bom", 
+    "nameRaw": "CSIRO-BOM", 
     "status": "pending", 
-    "uid": "d7a5a75b-788c-4a40-9e91-0032adc7f1c8"
+    "uid": "6baee110-f361-4400-bc66-a0b589fff88f"
 }

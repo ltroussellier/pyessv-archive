@@ -29,10 +29,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": "piClim-SO2", 
-    "idx": 86, 
-    "label": "piclim-so2", 
+    "idx": 85, 
+    "label": "piClim-SO2", 
     "name": "piclim-so2", 
+    "nameRaw": "piClim-SO2", 
     "status": "pending", 
-    "uid": "1923e36a-df20-43a6-9bca-215fcfcca7cc"
+    "uid": "36e96caf-75f5-466e-848f-24ee4c3a7e54"
 }

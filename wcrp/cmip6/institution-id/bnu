@@ -4,10 +4,10 @@
     "data": {
         "postalAddress": "Beijing Normal University, Beijing 100875, China"
     }, 
-    "description": "BNU", 
-    "idx": 19, 
-    "label": "bnu", 
+    "idx": 18, 
+    "label": "BNU", 
     "name": "bnu", 
+    "nameRaw": "BNU", 
     "status": "pending", 
-    "uid": "7ec04fa6-e088-47f8-97bf-9e51782bb2de"
+    "uid": "7d4e0563-00b8-404b-b4af-149306ecb640"
 }

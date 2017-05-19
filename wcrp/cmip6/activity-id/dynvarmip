@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "DynVarMIP", 
-    "idx": 8, 
-    "label": "dynvarmip", 
+    "idx": 7, 
+    "label": "DynVarMIP", 
     "name": "dynvarmip", 
+    "nameRaw": "DynVarMIP", 
     "status": "pending", 
-    "uid": "28a8c098-51c4-4ea0-975d-72515bf6f048"
+    "uid": "1471fe2e-2a25-415e-b0c1-62fad4be22da"
 }

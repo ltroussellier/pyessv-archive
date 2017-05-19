@@ -26,10 +26,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "ism-piControl-self", 
-    "idx": 16, 
-    "label": "ism-picontrol-self", 
+    "idx": 15, 
+    "label": "ism-piControl-self", 
     "name": "ism-picontrol-self", 
+    "nameRaw": "ism-piControl-self", 
     "status": "pending", 
-    "uid": "b9bde5c8-3cc5-4424-81bb-0ddf32668ade"
+    "uid": "d4c8a4c3-8134-4d1c-b80c-6d51740c8f12"
 }

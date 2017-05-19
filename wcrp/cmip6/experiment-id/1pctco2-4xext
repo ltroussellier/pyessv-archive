@@ -30,10 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "1pctCO2-4xext", 
-    "idx": 246, 
-    "label": "1pctco2-4xext", 
+    "idx": 245, 
+    "label": "1pctCO2-4xext", 
     "name": "1pctco2-4xext", 
+    "nameRaw": "1pctCO2-4xext", 
     "status": "pending", 
-    "uid": "72997d7e-015a-40ca-a398-d0150c1cb62c"
+    "uid": "54b659df-c073-4d14-935f-77b87acef3ee"
 }

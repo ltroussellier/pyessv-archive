@@ -4,10 +4,10 @@
     "data": {
         "postalAddress": "Meteorological Research Institute, Tsukuba, Ibaraki 305-0052, Japan"
     }, 
-    "description": "MRI", 
-    "idx": 22, 
-    "label": "mri", 
+    "idx": 21, 
+    "label": "MRI", 
     "name": "mri", 
+    "nameRaw": "MRI", 
     "status": "pending", 
-    "uid": "48dd8a61-88e3-4d23-8b30-80d137968108"
+    "uid": "4f9e4f8d-45bb-4d62-bbff-614e76d976ea"
 }

@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "E3hrPt", 
-    "idx": 17, 
-    "label": "e3hrpt", 
+    "idx": 16, 
+    "label": "E3hrPt", 
     "name": "e3hrpt", 
+    "nameRaw": "E3hrPt", 
     "status": "pending", 
-    "uid": "a454b9bb-5724-47c6-846d-b3c0a103851c"
+    "uid": "c37c9003-2403-4ae6-b6cb-670eca829e61"
 }

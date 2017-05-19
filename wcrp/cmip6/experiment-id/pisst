@@ -29,10 +29,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "piSST", 
-    "idx": 212, 
-    "label": "pisst", 
+    "idx": 211, 
+    "label": "piSST", 
     "name": "pisst", 
+    "nameRaw": "piSST", 
     "status": "pending", 
-    "uid": "47c318f4-9676-4c71-8d25-84ade3e682d4"
+    "uid": "9bc8695d-f68f-44f3-8de9-9d31fb1e8595"
 }

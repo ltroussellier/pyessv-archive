@@ -50,10 +50,10 @@
         "releaseYear": "2016", 
         "sourceID": "HadGEM3-GC31-MM"
     }, 
-    "description": "HadGEM3-GC31-MM", 
-    "idx": 39, 
-    "label": "hadgem3-gc31-mm", 
+    "idx": 38, 
+    "label": "HadGEM3-GC31-MM", 
     "name": "hadgem3-gc31-mm", 
+    "nameRaw": "HadGEM3-GC31-MM", 
     "status": "pending", 
-    "uid": "33a6808a-1c2c-4d35-a7c6-6a0e52bc9d56"
+    "uid": "a49e817a-0e49-4986-aeb0-0ca07311e7f2"
 }

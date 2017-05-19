@@ -29,10 +29,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "ssp245-stratO3", 
-    "idx": 163, 
-    "label": "ssp245-strato3", 
+    "idx": 162, 
+    "label": "ssp245-stratO3", 
     "name": "ssp245-strato3", 
+    "nameRaw": "ssp245-stratO3", 
     "status": "pending", 
-    "uid": "ae28991d-8cd8-4aac-82ff-0a58108530b7"
+    "uid": "4ac45897-a9c2-4a18-969c-97271e57aca8"
 }

@@ -26,10 +26,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "ism-historical-std", 
-    "idx": 208, 
+    "idx": 207, 
     "label": "ism-historical-std", 
     "name": "ism-historical-std", 
+    "nameRaw": "ism-historical-std", 
     "status": "pending", 
-    "uid": "84a1fac7-2dd8-4f3a-a2ab-55a6b5b4a245"
+    "uid": "efb44f90-d1f9-4cfa-9d71-745ce2dabc5d"
 }

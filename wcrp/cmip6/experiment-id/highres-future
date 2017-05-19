@@ -28,10 +28,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "highres-future", 
-    "idx": 183, 
+    "idx": 182, 
     "label": "highres-future", 
     "name": "highres-future", 
+    "nameRaw": "highres-future", 
     "status": "pending", 
-    "uid": "63fd2042-a6a3-4a74-952b-7c07d00ed122"
+    "uid": "faa3a799-fa45-421c-b006-5c8125727b05"
 }

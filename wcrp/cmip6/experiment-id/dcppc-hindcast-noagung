@@ -32,10 +32,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "dcppC-hindcast-noAgung", 
-    "idx": 123, 
-    "label": "dcppc-hindcast-noagung", 
+    "idx": 122, 
+    "label": "dcppC-hindcast-noAgung", 
     "name": "dcppc-hindcast-noagung", 
+    "nameRaw": "dcppC-hindcast-noAgung", 
     "status": "pending", 
-    "uid": "745b734d-28a2-4d6b-8399-b673202d5934"
+    "uid": "c71a8f97-58bd-4a3b-a0d7-23f84d55791a"
 }

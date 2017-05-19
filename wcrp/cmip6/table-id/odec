@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "Odec", 
-    "idx": 36, 
-    "label": "odec", 
+    "idx": 35, 
+    "label": "Odec", 
     "name": "odec", 
+    "nameRaw": "Odec", 
     "status": "pending", 
-    "uid": "3b6717a7-3c46-4cbd-8885-77ab14d51ee1"
+    "uid": "162939ab-9deb-481e-83e5-d01bafd06308"
 }

@@ -30,10 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "midPliocene-eoi400", 
-    "idx": 171, 
-    "label": "midpliocene-eoi400", 
+    "idx": 170, 
+    "label": "midPliocene-eoi400", 
     "name": "midpliocene-eoi400", 
+    "nameRaw": "midPliocene-eoi400", 
     "status": "pending", 
-    "uid": "442c413a-cf5b-42f6-b7dc-dc8350638d09"
+    "uid": "410dbb21-dca5-4212-85a9-08437b7b1d4b"
 }

@@ -1,0 +1,10 @@
+{
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "idx": 16, 
+    "label": "nominal_resolution", 
+    "name": "nominal-resolution", 
+    "nameRaw": "nominal_resolution", 
+    "status": "pending", 
+    "uid": "b8a47cc7-f219-4422-b26f-b58161443cc3"
+}

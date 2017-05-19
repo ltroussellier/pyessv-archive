@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "VolMIP", 
-    "idx": 22, 
-    "label": "volmip", 
+    "idx": 21, 
+    "label": "VolMIP", 
     "name": "volmip", 
+    "nameRaw": "VolMIP", 
     "status": "pending", 
-    "uid": "0cb4facf-18e2-4bdd-a4a1-2d5d8f8080de"
+    "uid": "8b93cb9c-c60c-480e-aef2-45cc2d95d504"
 }

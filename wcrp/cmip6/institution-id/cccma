@@ -4,10 +4,10 @@
     "data": {
         "postalAddress": "Canadian Centre for Climate Modelling and Analysis, Victoria, BC V8P 5C2, Canada"
     }, 
-    "description": "CCCma", 
-    "idx": 2, 
-    "label": "cccma", 
+    "idx": 1, 
+    "label": "CCCma", 
     "name": "cccma", 
+    "nameRaw": "CCCma", 
     "status": "pending", 
-    "uid": "ec2a347f-ae25-4cb9-b239-ab78a06d735c"
+    "uid": "d8978c5d-7d80-47c6-a449-05c810cf6a8a"
 }

@@ -1,0 +1,10 @@
+{
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "idx": 3, 
+    "label": "data_specs_version", 
+    "name": "data-specs-version", 
+    "nameRaw": "data_specs_version", 
+    "status": "pending", 
+    "uid": "2129ebbf-8e93-47cb-ae63-d903a2e5b4c4"
+}

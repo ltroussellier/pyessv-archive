@@ -50,10 +50,10 @@
         "releaseYear": "2018", 
         "sourceID": "NorESM2-HH"
     }, 
-    "description": "NorESM2-HH", 
-    "idx": 13, 
-    "label": "noresm2-hh", 
+    "idx": 12, 
+    "label": "NorESM2-HH", 
     "name": "noresm2-hh", 
+    "nameRaw": "NorESM2-HH", 
     "status": "pending", 
-    "uid": "fdb1e878-8de0-41e0-a64c-8567ea587f9f"
+    "uid": "3770ed54-71c9-48a8-8bbf-b2117159a9ac"
 }

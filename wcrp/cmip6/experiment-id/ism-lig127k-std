@@ -26,10 +26,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": "ism-lig127k-std", 
-    "idx": 61, 
+    "idx": 60, 
     "label": "ism-lig127k-std", 
     "name": "ism-lig127k-std", 
+    "nameRaw": "ism-lig127k-std", 
     "status": "pending", 
-    "uid": "335b1324-262c-48fa-a7a0-1945be3cd079"
+    "uid": "bae6629d-f41d-41f3-becd-b0e2c4aa58d9"
 }

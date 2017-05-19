@@ -30,10 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "ssp245-GHG", 
-    "idx": 1, 
-    "label": "ssp245-ghg", 
+    "idx": 0, 
+    "label": "ssp245-GHG", 
     "name": "ssp245-ghg", 
+    "nameRaw": "ssp245-GHG", 
     "status": "pending", 
-    "uid": "200b3b3d-6a2b-45d8-9c58-ed25a88a6bb9"
+    "uid": "07790240-3f0c-4ae4-a4a6-804fcbda28f4"
 }

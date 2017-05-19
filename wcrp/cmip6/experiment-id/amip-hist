@@ -29,10 +29,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "amip-hist", 
-    "idx": 10, 
+    "idx": 9, 
     "label": "amip-hist", 
     "name": "amip-hist", 
+    "nameRaw": "amip-hist", 
     "status": "pending", 
-    "uid": "c5f2c25e-78cd-4d70-b116-3f2583a52a1d"
+    "uid": "f096822d-2f01-4c8a-81af-4a14a100a672"
 }

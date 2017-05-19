@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "ocnBgchem", 
-    "idx": 8, 
-    "label": "ocnbgchem", 
+    "idx": 7, 
+    "label": "ocnBgchem", 
     "name": "ocnbgchem", 
+    "nameRaw": "ocnBgchem", 
     "status": "pending", 
-    "uid": "2b33ba5f-d12f-4824-96ba-401194b866b3"
+    "uid": "c23453c5-7546-45d7-99bc-26393c807af9"
 }

@@ -26,10 +26,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "land-noFire", 
-    "idx": 230, 
-    "label": "land-nofire", 
+    "idx": 229, 
+    "label": "land-noFire", 
     "name": "land-nofire", 
+    "nameRaw": "land-noFire", 
     "status": "pending", 
-    "uid": "dbbb781a-be3a-40f3-a247-14c00c96ddd0"
+    "uid": "34f37da4-3727-4d11-b06c-0b345846b90d"
 }

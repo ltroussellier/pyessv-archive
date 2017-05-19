@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "Oday", 
-    "idx": 35, 
-    "label": "oday", 
+    "idx": 34, 
+    "label": "Oday", 
     "name": "oday", 
+    "nameRaw": "Oday", 
     "status": "pending", 
-    "uid": "22f86b33-dc62-414d-b709-e77a19e91a68"
+    "uid": "0fa375ce-3cbf-4425-8626-e0f4eedb6048"
 }

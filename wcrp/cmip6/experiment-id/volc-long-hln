@@ -30,10 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "volc-long-hlN", 
-    "idx": 21, 
-    "label": "volc-long-hln", 
+    "idx": 20, 
+    "label": "volc-long-hlN", 
     "name": "volc-long-hln", 
+    "nameRaw": "volc-long-hlN", 
     "status": "pending", 
-    "uid": "3e66d575-d13e-4b77-a481-660748b1070e"
+    "uid": "95f117f6-1e24-420c-bc54-c51b7edd244c"
 }

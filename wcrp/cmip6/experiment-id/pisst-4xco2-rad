@@ -29,10 +29,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "piSST-4xCO2-rad", 
-    "idx": 44, 
-    "label": "pisst-4xco2-rad", 
+    "idx": 43, 
+    "label": "piSST-4xCO2-rad", 
     "name": "pisst-4xco2-rad", 
+    "nameRaw": "piSST-4xCO2-rad", 
     "status": "pending", 
-    "uid": "772c64f5-904c-4df5-a353-58b192753fc1"
+    "uid": "9a17b744-ce0e-4613-abc6-1de9682f4488"
 }

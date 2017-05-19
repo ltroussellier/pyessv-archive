@@ -28,10 +28,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "control-1950", 
-    "idx": 42, 
+    "idx": 41, 
     "label": "control-1950", 
     "name": "control-1950", 
+    "nameRaw": "control-1950", 
     "status": "pending", 
-    "uid": "04625eaf-3f3e-439a-a3fc-b9ca44c6d782"
+    "uid": "9d8d25e8-bb64-4d4f-b525-fb668ab25d1e"
 }

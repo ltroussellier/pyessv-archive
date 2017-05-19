@@ -50,10 +50,10 @@
         "releaseYear": "2017", 
         "sourceID": "EC-Earth3-Veg"
     }, 
-    "description": "EC-Earth3-Veg", 
-    "idx": 11, 
-    "label": "ec-earth3-veg", 
+    "idx": 10, 
+    "label": "EC-Earth3-Veg", 
     "name": "ec-earth3-veg", 
+    "nameRaw": "EC-Earth3-Veg", 
     "status": "pending", 
-    "uid": "e0bbc20d-a208-43bc-acc9-5107c0787df9"
+    "uid": "b717b32d-f893-4cfb-89c1-29d739d9afe1"
 }

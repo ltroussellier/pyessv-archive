@@ -26,10 +26,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "ism-ssp585-self", 
-    "idx": 189, 
+    "idx": 188, 
     "label": "ism-ssp585-self", 
     "name": "ism-ssp585-self", 
+    "nameRaw": "ism-ssp585-self", 
     "status": "pending", 
-    "uid": "c493b546-5d7f-4275-8d02-88518ee02849"
+    "uid": "28164118-12ba-44d0-bd29-369c63980331"
 }

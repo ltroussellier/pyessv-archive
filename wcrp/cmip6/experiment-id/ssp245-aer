@@ -30,10 +30,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": "ssp245-aer", 
-    "idx": 144, 
+    "idx": 143, 
     "label": "ssp245-aer", 
     "name": "ssp245-aer", 
+    "nameRaw": "ssp245-aer", 
     "status": "pending", 
-    "uid": "ddefbe2e-61e5-445e-aa01-df7975f395a3"
+    "uid": "72d3ba18-ef7e-4e90-a231-7e437ac892b2"
 }

@@ -30,10 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "ssp126", 
-    "idx": 46, 
+    "idx": 45, 
     "label": "ssp126", 
     "name": "ssp126", 
+    "nameRaw": "ssp126", 
     "status": "pending", 
-    "uid": "662d96a8-7ed5-451c-84a2-9e23b7aacb9a"
+    "uid": "716da544-0729-47c6-ae42-a0636cd675e7"
 }

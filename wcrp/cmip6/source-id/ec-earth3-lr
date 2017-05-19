@@ -50,10 +50,10 @@
         "releaseYear": "2017", 
         "sourceID": "EC-Earth3-LR"
     }, 
-    "description": "EC-Earth3-LR", 
-    "idx": 30, 
-    "label": "ec-earth3-lr", 
+    "idx": 29, 
+    "label": "EC-Earth3-LR", 
     "name": "ec-earth3-lr", 
+    "nameRaw": "EC-Earth3-LR", 
     "status": "pending", 
-    "uid": "623bfd17-9ef9-4777-8b62-ec556b7b31dd"
+    "uid": "18c9373b-1613-4375-81b3-838da83d697a"
 }

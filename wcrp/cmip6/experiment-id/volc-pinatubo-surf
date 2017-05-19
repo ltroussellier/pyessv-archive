@@ -30,10 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "volc-pinatubo-surf", 
-    "idx": 110, 
+    "idx": 109, 
     "label": "volc-pinatubo-surf", 
     "name": "volc-pinatubo-surf", 
+    "nameRaw": "volc-pinatubo-surf", 
     "status": "pending", 
-    "uid": "77a3fee1-862f-4754-b801-abba613e24dc"
+    "uid": "c399ec50-453f-4686-a542-30b80c4f7516"
 }

@@ -30,10 +30,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": "hist-CO2", 
-    "idx": 151, 
-    "label": "hist-co2", 
+    "idx": 150, 
+    "label": "hist-CO2", 
     "name": "hist-co2", 
+    "nameRaw": "hist-CO2", 
     "status": "pending", 
-    "uid": "977b79a9-eada-4656-80f8-d03e3698b656"
+    "uid": "4f07398f-2621-4214-a183-8d1c1badf4c4"
 }

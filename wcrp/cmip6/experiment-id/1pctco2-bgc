@@ -30,10 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "1pctCO2-bgc", 
-    "idx": 132, 
-    "label": "1pctco2-bgc", 
+    "idx": 131, 
+    "label": "1pctCO2-bgc", 
     "name": "1pctco2-bgc", 
+    "nameRaw": "1pctCO2-bgc", 
     "status": "pending", 
-    "uid": "05662a02-06d8-49e1-b1c1-b553ebec8e92"
+    "uid": "55bf83a4-7baa-4969-a7e2-10fb6de6fd07"
 }

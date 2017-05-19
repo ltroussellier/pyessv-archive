@@ -4,10 +4,10 @@
     "data": {
         "postalAddress": "Department of Earth System Science, Tsinghua University, Beijing 100084, China"
     }, 
-    "description": "THU", 
-    "idx": 17, 
-    "label": "thu", 
+    "idx": 16, 
+    "label": "THU", 
     "name": "thu", 
+    "nameRaw": "THU", 
     "status": "pending", 
-    "uid": "f04c6c7e-dfa8-4c26-b99f-26ead9430035"
+    "uid": "4bbd8f29-0ff2-46ff-9ca2-9fb8cad1e837"
 }

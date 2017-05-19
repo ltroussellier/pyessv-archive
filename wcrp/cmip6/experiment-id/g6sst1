@@ -29,10 +29,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "G6SST1", 
-    "idx": 15, 
-    "label": "g6sst1", 
+    "idx": 14, 
+    "label": "G6SST1", 
     "name": "g6sst1", 
+    "nameRaw": "G6SST1", 
     "status": "pending", 
-    "uid": "8fd87393-48c2-4279-8b75-8c9e514c10f7"
+    "uid": "91695b96-4f94-49f1-8bb7-a500c2fc1d5d"
 }

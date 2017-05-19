@@ -30,10 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "ssp534-over-bgc", 
-    "idx": 197, 
+    "idx": 196, 
     "label": "ssp534-over-bgc", 
     "name": "ssp534-over-bgc", 
+    "nameRaw": "ssp534-over-bgc", 
     "status": "pending", 
-    "uid": "b3af3b27-6cc6-47a5-a48d-041e8a57f871"
+    "uid": "f4bf331d-c5e1-4c9d-a6de-5abf12926fdb"
 }

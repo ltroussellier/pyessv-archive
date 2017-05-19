@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "IfxAnt", 
-    "idx": 26, 
-    "label": "ifxant", 
+    "idx": 25, 
+    "label": "IfxAnt", 
     "name": "ifxant", 
+    "nameRaw": "IfxAnt", 
     "status": "pending", 
-    "uid": "b564239a-6973-4834-8dac-4e502debc14a"
+    "uid": "d2811c88-a79a-4989-aefd-6ccac551057c"
 }

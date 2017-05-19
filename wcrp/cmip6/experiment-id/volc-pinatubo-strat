@@ -30,10 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "volc-pinatubo-strat", 
-    "idx": 194, 
+    "idx": 193, 
     "label": "volc-pinatubo-strat", 
     "name": "volc-pinatubo-strat", 
+    "nameRaw": "volc-pinatubo-strat", 
     "status": "pending", 
-    "uid": "89777f8f-85b8-4cc1-96ea-8e38b3a1d614"
+    "uid": "0312a934-67b5-4e6f-8431-f5296856633e"
 }

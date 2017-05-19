@@ -55,10 +55,10 @@
         "releaseYear": "2016", 
         "sourceID": "BNU-ESM-1-1"
     }, 
-    "description": "BNU-ESM-1-1", 
-    "idx": 37, 
-    "label": "bnu-esm-1-1", 
+    "idx": 36, 
+    "label": "BNU-ESM-1-1", 
     "name": "bnu-esm-1-1", 
+    "nameRaw": "BNU-ESM-1-1", 
     "status": "pending", 
-    "uid": "c8bc3db9-beed-4e3e-b4a4-15aaba5eeab0"
+    "uid": "701a6471-a657-429c-831f-2f9743782f26"
 }

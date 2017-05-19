@@ -30,10 +30,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": "volc-cluster-mill", 
-    "idx": 136, 
+    "idx": 135, 
     "label": "volc-cluster-mill", 
     "name": "volc-cluster-mill", 
+    "nameRaw": "volc-cluster-mill", 
     "status": "pending", 
-    "uid": "ec2d6628-21bd-4c1e-ba08-79139bfe01f6"
+    "uid": "4ae264e1-eef5-45a2-af3a-cb91d2f53cbb"
 }

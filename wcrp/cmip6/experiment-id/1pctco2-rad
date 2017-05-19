@@ -30,10 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "1pctCO2-rad", 
-    "idx": 219, 
-    "label": "1pctco2-rad", 
+    "idx": 218, 
+    "label": "1pctCO2-rad", 
     "name": "1pctco2-rad", 
+    "nameRaw": "1pctCO2-rad", 
     "status": "pending", 
-    "uid": "f9595ab8-8f3d-421b-9b2d-37901399d7f7"
+    "uid": "521f8bf5-da99-415a-aba0-e8dc5ac5ee62"
 }

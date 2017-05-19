@@ -56,10 +56,10 @@
         "releaseYear": "2017", 
         "sourceID": "CIESM"
     }, 
-    "description": "CIESM", 
-    "idx": 19, 
-    "label": "ciesm", 
+    "idx": 18, 
+    "label": "CIESM", 
     "name": "ciesm", 
+    "nameRaw": "CIESM", 
     "status": "pending", 
-    "uid": "27fb0a67-6e2b-4801-bc03-ed41d1319e12"
+    "uid": "61eb7632-7339-4009-a427-aa020b436220"
 }

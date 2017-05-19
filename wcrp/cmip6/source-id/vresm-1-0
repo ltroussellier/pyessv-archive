@@ -50,10 +50,10 @@
         "releaseYear": "2016", 
         "sourceID": "VRESM-1-0"
     }, 
-    "description": "VRESM-1-0", 
-    "idx": 46, 
-    "label": "vresm-1-0", 
+    "idx": 45, 
+    "label": "VRESM-1-0", 
     "name": "vresm-1-0", 
+    "nameRaw": "VRESM-1-0", 
     "status": "pending", 
-    "uid": "a322f735-67d7-41d3-bbd1-792ffa5c55c3"
+    "uid": "1ba8f658-6eaa-4f1a-ba65-6c3f114e90e9"
 }

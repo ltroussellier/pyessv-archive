@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "SLAB", 
-    "idx": 11, 
-    "label": "slab", 
+    "idx": 10, 
+    "label": "SLAB", 
     "name": "slab", 
+    "nameRaw": "SLAB", 
     "status": "pending", 
-    "uid": "519fc1c1-e7db-45d3-9ac6-fb404d9aa577"
+    "uid": "81afad9e-9e78-4721-9f1b-456c211c0695"
 }

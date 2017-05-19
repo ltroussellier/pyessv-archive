@@ -29,10 +29,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "amip-4xCO2", 
-    "idx": 127, 
-    "label": "amip-4xco2", 
+    "idx": 126, 
+    "label": "amip-4xCO2", 
     "name": "amip-4xco2", 
+    "nameRaw": "amip-4xCO2", 
     "status": "pending", 
-    "uid": "579dead0-942e-4292-a40c-6c79a9fda1ec"
+    "uid": "432397df-d873-4926-8f80-018d3429c135"
 }

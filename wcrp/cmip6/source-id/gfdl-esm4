@@ -60,10 +60,10 @@
         "releaseYear": "2017", 
         "sourceID": "GFDL-ESM4"
     }, 
-    "description": "GFDL-ESM4", 
-    "idx": 56, 
-    "label": "gfdl-esm4", 
+    "idx": 55, 
+    "label": "GFDL-ESM4", 
     "name": "gfdl-esm4", 
+    "nameRaw": "GFDL-ESM4", 
     "status": "pending", 
-    "uid": "e935bdbc-c892-44e7-9ebf-e728fae019f2"
+    "uid": "54c7881d-8aae-4062-86a3-4e9f8160fdac"
 }

@@ -26,10 +26,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "omip1", 
-    "idx": 214, 
+    "idx": 213, 
     "label": "omip1", 
     "name": "omip1", 
+    "nameRaw": "omip1", 
     "status": "pending", 
-    "uid": "90229c25-eedc-4808-ab03-8644a0884982"
+    "uid": "b108ca42-e961-48ce-a495-52f5a9176775"
 }

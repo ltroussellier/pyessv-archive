@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "aerosol", 
-    "idx": 7, 
+    "idx": 6, 
     "label": "aerosol", 
     "name": "aerosol", 
+    "nameRaw": "aerosol", 
     "status": "pending", 
-    "uid": "6e3d40db-3231-45b7-9768-6f68bbc3746a"
+    "uid": "2f751329-6bf1-45fb-9b27-3ba8fca8b884"
 }

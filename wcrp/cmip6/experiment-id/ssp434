@@ -30,10 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "ssp434", 
-    "idx": 6, 
+    "idx": 5, 
     "label": "ssp434", 
     "name": "ssp434", 
+    "nameRaw": "ssp434", 
     "status": "pending", 
-    "uid": "9aa616cf-f0a5-4f71-a384-9f0906b1d28d"
+    "uid": "79d078d5-b059-4e04-8616-8ae07b6dd148"
 }

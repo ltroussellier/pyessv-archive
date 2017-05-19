@@ -26,10 +26,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "land-noWoodHarv", 
-    "idx": 220, 
-    "label": "land-nowoodharv", 
+    "idx": 219, 
+    "label": "land-noWoodHarv", 
     "name": "land-nowoodharv", 
+    "nameRaw": "land-noWoodHarv", 
     "status": "pending", 
-    "uid": "b72e0ff5-597d-4206-abdd-20fb235bc48d"
+    "uid": "c2173fb0-4889-4daf-a5dc-e29d118c0d00"
 }

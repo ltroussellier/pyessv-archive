@@ -50,10 +50,10 @@
         "releaseYear": "2016", 
         "sourceID": "CAMS_CSM1-0"
     }, 
-    "description": "CAMS_CSM1-0", 
-    "idx": 2, 
-    "label": "cams-csm1-0", 
+    "idx": 1, 
+    "label": "CAMS_CSM1-0", 
     "name": "cams-csm1-0", 
+    "nameRaw": "CAMS_CSM1-0", 
     "status": "pending", 
-    "uid": "32c1a8db-e6f4-4bd7-a0f5-8fcacb3cc39d"
+    "uid": "670ebbbf-ff99-43df-a496-772eb1474dd5"
 }

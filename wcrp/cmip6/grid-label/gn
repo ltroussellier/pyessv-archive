@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "gn", 
-    "idx": 2, 
+    "idx": 1, 
     "label": "gn", 
     "name": "gn", 
+    "nameRaw": "gn", 
     "status": "pending", 
-    "uid": "0dcc1958-7f76-4ade-93ee-a796142580dc"
+    "uid": "31342bb1-c38b-4bdb-a3af-c50290e47f17"
 }

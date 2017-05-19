@@ -1,0 +1,10 @@
+{
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "idx": 26, 
+    "label": "table_id", 
+    "name": "table-id", 
+    "nameRaw": "table_id", 
+    "status": "pending", 
+    "uid": "051cfb60-54cb-4140-b9bf-3a59161b7915"
+}

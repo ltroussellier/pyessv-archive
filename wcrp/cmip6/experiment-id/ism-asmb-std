@@ -26,10 +26,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "ism-asmb-std", 
-    "idx": 48, 
+    "idx": 47, 
     "label": "ism-asmb-std", 
     "name": "ism-asmb-std", 
+    "nameRaw": "ism-asmb-std", 
     "status": "pending", 
-    "uid": "16ae8c89-92b0-48bf-ac18-2a2b8576bb59"
+    "uid": "ec3a426d-88ee-478b-aa56-08be74604c4a"
 }

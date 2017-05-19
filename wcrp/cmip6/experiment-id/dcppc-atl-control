@@ -30,10 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "dcppC-atl-control", 
-    "idx": 209, 
-    "label": "dcppc-atl-control", 
+    "idx": 208, 
+    "label": "dcppC-atl-control", 
     "name": "dcppc-atl-control", 
+    "nameRaw": "dcppC-atl-control", 
     "status": "pending", 
-    "uid": "aee761a0-a746-401b-925e-a3c8add05a67"
+    "uid": "29c256b3-6416-43d5-9546-5b07a30210af"
 }

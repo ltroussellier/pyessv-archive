@@ -50,10 +50,10 @@
         "releaseYear": "2016", 
         "sourceID": "CNRM-ESM2-1-HR"
     }, 
-    "description": "CNRM-ESM2-1-HR", 
-    "idx": 18, 
-    "label": "cnrm-esm2-1-hr", 
+    "idx": 17, 
+    "label": "CNRM-ESM2-1-HR", 
     "name": "cnrm-esm2-1-hr", 
+    "nameRaw": "CNRM-ESM2-1-HR", 
     "status": "pending", 
-    "uid": "9c635333-7814-4177-8536-9c0aaccccb05"
+    "uid": "2145544d-3cad-4b92-b319-dfd4e7942fff"
 }

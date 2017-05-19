@@ -4,10 +4,10 @@
     "data": {
         "postalAddress": "Institut Pierre Simon Laplace, Paris 75252, France"
     }, 
-    "description": "IPSL", 
-    "idx": 6, 
-    "label": "ipsl", 
+    "idx": 5, 
+    "label": "IPSL", 
     "name": "ipsl", 
+    "nameRaw": "IPSL", 
     "status": "pending", 
-    "uid": "30bbfe91-811b-42bb-bae9-505e159b6709"
+    "uid": "979e2dc7-fd5e-461a-b02f-a52a58f275df"
 }

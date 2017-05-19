@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "ESM", 
-    "idx": 6, 
-    "label": "esm", 
+    "idx": 5, 
+    "label": "ESM", 
     "name": "esm", 
+    "nameRaw": "ESM", 
     "status": "pending", 
-    "uid": "f7b5d77b-74eb-464b-af3a-b4609423fc64"
+    "uid": "08291ec2-1282-421d-91ff-afea261c4db3"
 }

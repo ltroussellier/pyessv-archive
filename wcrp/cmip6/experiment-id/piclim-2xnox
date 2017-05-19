@@ -28,10 +28,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": "piClim-2xNOx", 
-    "idx": 232, 
-    "label": "piclim-2xnox", 
+    "idx": 231, 
+    "label": "piClim-2xNOx", 
     "name": "piclim-2xnox", 
+    "nameRaw": "piClim-2xNOx", 
     "status": "pending", 
-    "uid": "8f644c99-71c1-4eac-b12a-8ad610f6c84d"
+    "uid": "ce2fa7c2-a348-4060-b651-680275757232"
 }

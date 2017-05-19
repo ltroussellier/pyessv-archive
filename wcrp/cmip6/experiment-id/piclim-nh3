@@ -29,10 +29,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": "piClim-NH3", 
-    "idx": 3, 
-    "label": "piclim-nh3", 
+    "idx": 2, 
+    "label": "piClim-NH3", 
     "name": "piclim-nh3", 
+    "nameRaw": "piClim-NH3", 
     "status": "pending", 
-    "uid": "b441f29d-9638-442a-b249-ed141543cdba"
+    "uid": "d41185a9-6579-417a-be0f-1a42b6c70f4c"
 }

@@ -26,10 +26,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "land-noLu", 
-    "idx": 240, 
-    "label": "land-nolu", 
+    "idx": 239, 
+    "label": "land-noLu", 
     "name": "land-nolu", 
+    "nameRaw": "land-noLu", 
     "status": "pending", 
-    "uid": "8b5423db-9a12-467b-b502-c3d033d8f926"
+    "uid": "5aa45bc0-a152-4f72-be71-398e4d45a06a"
 }

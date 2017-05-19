@@ -1,0 +1,10 @@
+{
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "idx": 6, 
+    "label": "forcing_index", 
+    "name": "forcing-index", 
+    "nameRaw": "forcing_index", 
+    "status": "pending", 
+    "uid": "a92b52a3-c498-4c33-b3eb-a9d2641d0a11"
+}

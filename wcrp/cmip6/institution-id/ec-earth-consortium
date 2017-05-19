@@ -4,10 +4,10 @@
     "data": {
         "postalAddress": "KNMI, The Netherlands; SMHI, Sweden; DMI, Denmark; AEMET, Spain; Met Eireann, Ireland; CNR-ISAC, Italy; Instituto de Meteorologia, Portugal; FMI, Finland; BSC, Spain; Centro de Geofisica, University of Lisbon, Portugal; ENEA, Italy; Geomar, Germany; Geophysical Institute, University of Bergen, Norway; ICHEC, Ireland; ICTP, Italy; IMAU, The Netherlands; IRV, Sweden;  Lund University, Sweden; Meteorologiska Institutionen, Stockholms University, Sweden; Niels Bohr Institute, University of Copenhagen, Denmark; NTNU, Norway; SARA, The Netherlands; Unite ASTR, Belgium; Universiteit Utrecht, The Netherlands; Universiteit Wageningen, The Netherlands; University College Dublin, Ireland; Vrije Universiteit Amsterdam, the Netherlands; University of Helsinki, Finland; KIT, Karlsruhe, Germany; USC, University of Santiago de Compostela, Spain; Uppsala Universitet, Sweden; NLeSC, Netherlands eScience Center, The Netherlands"
     }, 
-    "description": "EC-Earth-Consortium", 
-    "idx": 7, 
-    "label": "ec-earth-consortium", 
+    "idx": 6, 
+    "label": "EC-Earth-Consortium", 
     "name": "ec-earth-consortium", 
+    "nameRaw": "EC-Earth-Consortium", 
     "status": "pending", 
-    "uid": "78491030-211f-4736-bf50-ea90c8524615"
+    "uid": "fd63bce7-f5b3-4857-b995-2b3a9fbdc33c"
 }

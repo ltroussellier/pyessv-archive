@@ -30,10 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "ssp370SST-lowNTCF", 
-    "idx": 173, 
-    "label": "ssp370sst-lowntcf", 
+    "idx": 172, 
+    "label": "ssp370SST-lowNTCF", 
     "name": "ssp370sst-lowntcf", 
+    "nameRaw": "ssp370SST-lowNTCF", 
     "status": "pending", 
-    "uid": "7d23d29f-6c0e-4477-8def-e7ba5ee242df"
+    "uid": "2978de55-0f72-43fc-994a-5b7b5d5acd90"
 }

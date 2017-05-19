@@ -30,10 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "dcppC-pac-control", 
-    "idx": 18, 
-    "label": "dcppc-pac-control", 
+    "idx": 17, 
+    "label": "dcppC-pac-control", 
     "name": "dcppc-pac-control", 
+    "nameRaw": "dcppC-pac-control", 
     "status": "pending", 
-    "uid": "9e992517-3848-4246-8a54-d665bb7fcd41"
+    "uid": "9ded3dc5-9d58-41b0-b476-07bb40e18cef"
 }

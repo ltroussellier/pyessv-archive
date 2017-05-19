@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "GMMIP", 
-    "idx": 10, 
-    "label": "gmmip", 
+    "idx": 9, 
+    "label": "GMMIP", 
     "name": "gmmip", 
+    "nameRaw": "GMMIP", 
     "status": "pending", 
-    "uid": "f10b3921-a523-4ac3-a703-2fb45b0df0b5"
+    "uid": "1f3cbd68-3235-4fea-816b-493814615a4b"
 }

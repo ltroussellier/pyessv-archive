@@ -51,10 +51,10 @@
         "releaseYear": "2017", 
         "sourceID": "CMCC-ESM2-HR5"
     }, 
-    "description": "CMCC-ESM2-HR5", 
-    "idx": 24, 
-    "label": "cmcc-esm2-hr5", 
+    "idx": 23, 
+    "label": "CMCC-ESM2-HR5", 
     "name": "cmcc-esm2-hr5", 
+    "nameRaw": "CMCC-ESM2-HR5", 
     "status": "pending", 
-    "uid": "840ce6f2-540c-4d4b-91ca-ee8e982ed1de"
+    "uid": "02f888b3-9cf2-403d-bcea-e0ab4bae3fe3"
 }

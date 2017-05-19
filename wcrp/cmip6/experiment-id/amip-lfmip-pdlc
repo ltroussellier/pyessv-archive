@@ -30,10 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "amip-lfmip-pdLC", 
-    "idx": 26, 
-    "label": "amip-lfmip-pdlc", 
+    "idx": 25, 
+    "label": "amip-lfmip-pdLC", 
     "name": "amip-lfmip-pdlc", 
+    "nameRaw": "amip-lfmip-pdLC", 
     "status": "pending", 
-    "uid": "bf985a41-6bfb-42d1-ac96-5341c192e035"
+    "uid": "97a31e51-42ca-4efb-954b-8527c4d686f5"
 }

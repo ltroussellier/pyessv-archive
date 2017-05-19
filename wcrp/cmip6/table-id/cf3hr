@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "CF3hr", 
-    "idx": 10, 
-    "label": "cf3hr", 
+    "idx": 9, 
+    "label": "CF3hr", 
     "name": "cf3hr", 
+    "nameRaw": "CF3hr", 
     "status": "pending", 
-    "uid": "50d6d1a1-ae11-4731-a68b-160d32d7caf5"
+    "uid": "1ce2f9c9-7902-48d3-b36e-fcbaa31d5c39"
 }

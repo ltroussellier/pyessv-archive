@@ -50,10 +50,10 @@
         "releaseYear": "2017", 
         "sourceID": "NICAM16-7S"
     }, 
-    "description": "NICAM16-7S", 
-    "idx": 20, 
-    "label": "nicam16-7s", 
+    "idx": 19, 
+    "label": "NICAM16-7S", 
     "name": "nicam16-7s", 
+    "nameRaw": "NICAM16-7S", 
     "status": "pending", 
-    "uid": "5c3a01c1-8426-4b53-b9fa-7b5729d3307b"
+    "uid": "7cf77434-8ac3-4843-8173-5eac8722128e"
 }

@@ -29,10 +29,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "histSST-piAer", 
-    "idx": 165, 
-    "label": "histsst-piaer", 
+    "idx": 164, 
+    "label": "histSST-piAer", 
     "name": "histsst-piaer", 
+    "nameRaw": "histSST-piAer", 
     "status": "pending", 
-    "uid": "2e12d1e6-9727-4bcc-ac61-7eda3ad33c37"
+    "uid": "3949d386-933a-4dec-8754-112f44049396"
 }

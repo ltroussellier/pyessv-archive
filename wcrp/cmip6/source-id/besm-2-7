@@ -53,10 +53,10 @@
         "releaseYear": "2017", 
         "sourceID": "BESM-2-7"
     }, 
-    "description": "BESM-2-7", 
-    "idx": 17, 
-    "label": "besm-2-7", 
+    "idx": 16, 
+    "label": "BESM-2-7", 
     "name": "besm-2-7", 
+    "nameRaw": "BESM-2-7", 
     "status": "pending", 
-    "uid": "15f2b637-acf7-40ad-8c66-268cc62b2b19"
+    "uid": "3bd7e481-abde-49a4-a056-669827049d24"
 }

@@ -50,10 +50,10 @@
         "releaseYear": "2017", 
         "sourceID": "EC-Earth3-GrIS"
     }, 
-    "description": "EC-Earth3-GrIS", 
-    "idx": 28, 
-    "label": "ec-earth3-gris", 
+    "idx": 27, 
+    "label": "EC-Earth3-GrIS", 
     "name": "ec-earth3-gris", 
+    "nameRaw": "EC-Earth3-GrIS", 
     "status": "pending", 
-    "uid": "325635f8-052d-4339-950c-f15b2b4eb3a7"
+    "uid": "bbd29fc0-a058-4df6-91bb-6eac47eee70d"
 }

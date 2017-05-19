@@ -30,10 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "midHolocene", 
-    "idx": 104, 
-    "label": "midholocene", 
+    "idx": 103, 
+    "label": "midHolocene", 
     "name": "midholocene", 
+    "nameRaw": "midHolocene", 
     "status": "pending", 
-    "uid": "ac97b3b3-0015-44da-8d70-4888915d2456"
+    "uid": "f2fb5831-6253-4c0f-b39f-4d03e3878118"
 }

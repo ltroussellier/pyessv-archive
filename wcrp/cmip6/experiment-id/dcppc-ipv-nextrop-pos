@@ -30,10 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "dcppC-ipv-NexTrop-pos", 
-    "idx": 8, 
-    "label": "dcppc-ipv-nextrop-pos", 
+    "idx": 7, 
+    "label": "dcppC-ipv-NexTrop-pos", 
     "name": "dcppc-ipv-nextrop-pos", 
+    "nameRaw": "dcppC-ipv-NexTrop-pos", 
     "status": "pending", 
-    "uid": "ebbccc48-5323-4008-ae96-c8dcb4371192"
+    "uid": "42f42ba1-278d-4c3c-8c27-47215ddac5d0"
 }

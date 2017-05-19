@@ -50,10 +50,10 @@
         "releaseYear": "2016", 
         "sourceID": "GISS-E2-1H"
     }, 
-    "description": "GISS-E2-1H", 
-    "idx": 7, 
-    "label": "giss-e2-1h", 
+    "idx": 6, 
+    "label": "GISS-E2-1H", 
     "name": "giss-e2-1h", 
+    "nameRaw": "GISS-E2-1H", 
     "status": "pending", 
-    "uid": "ccb991f4-21b8-49ad-b41d-be0586e88fec"
+    "uid": "e38d12b7-3cfb-4882-9254-9d116b662af4"
 }

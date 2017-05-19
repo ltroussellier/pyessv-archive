@@ -50,10 +50,10 @@
         "releaseYear": "2017", 
         "sourceID": "NorESM2-LMEC"
     }, 
-    "description": "NorESM2-LMEC", 
-    "idx": 40, 
-    "label": "noresm2-lmec", 
+    "idx": 39, 
+    "label": "NorESM2-LMEC", 
     "name": "noresm2-lmec", 
+    "nameRaw": "NorESM2-LMEC", 
     "status": "pending", 
-    "uid": "bfb23952-3cde-4bf7-9ec2-c188b0139459"
+    "uid": "67016ce5-06b9-4555-850b-0219d9c0d38a"
 }

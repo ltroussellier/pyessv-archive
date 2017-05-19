@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "E6hrZ", 
-    "idx": 18, 
-    "label": "e6hrz", 
+    "idx": 17, 
+    "label": "E6hrZ", 
     "name": "e6hrz", 
+    "nameRaw": "E6hrZ", 
     "status": "pending", 
-    "uid": "097bb260-6cea-483c-a5b3-fbe158ecf403"
+    "uid": "7205843c-cc62-4e1d-939b-9d2952a4b74c"
 }

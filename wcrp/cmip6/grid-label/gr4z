@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "gr4z", 
-    "idx": 22, 
+    "idx": 21, 
     "label": "gr4z", 
     "name": "gr4z", 
+    "nameRaw": "gr4z", 
     "status": "pending", 
-    "uid": "750dd452-8d44-467d-8fcb-de69e2f1906a"
+    "uid": "d43bc678-78f1-4d6e-b3a5-50dcf61f41d6"
 }

@@ -28,10 +28,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "piClim-O3", 
-    "idx": 235, 
-    "label": "piclim-o3", 
+    "idx": 234, 
+    "label": "piClim-O3", 
     "name": "piclim-o3", 
+    "nameRaw": "piClim-O3", 
     "status": "pending", 
-    "uid": "f6fe6a23-7fa1-4845-9fe0-c2f835a6e29d"
+    "uid": "aef4ea77-defa-4b34-85fb-3eae34e19243"
 }

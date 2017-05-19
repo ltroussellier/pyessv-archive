@@ -31,10 +31,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "ssp370", 
-    "idx": 164, 
+    "idx": 163, 
     "label": "ssp370", 
     "name": "ssp370", 
+    "nameRaw": "ssp370", 
     "status": "pending", 
-    "uid": "3417d9d9-3e68-42e8-a536-30ec78a02c2b"
+    "uid": "6a4d5b31-d3a8-4b8e-907c-a376e56e9278"
 }

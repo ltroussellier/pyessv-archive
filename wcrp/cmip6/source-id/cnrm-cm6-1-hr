@@ -50,10 +50,10 @@
         "releaseYear": "2016", 
         "sourceID": "CNRM-CM6-1-HR"
     }, 
-    "description": "CNRM-CM6-1-HR", 
-    "idx": 5, 
-    "label": "cnrm-cm6-1-hr", 
+    "idx": 4, 
+    "label": "CNRM-CM6-1-HR", 
     "name": "cnrm-cm6-1-hr", 
+    "nameRaw": "CNRM-CM6-1-HR", 
     "status": "pending", 
-    "uid": "38acbe02-c5b2-4cc7-b962-e2a389dbdacf"
+    "uid": "c2f9a6ce-07b1-448b-b555-8f7e3619b92b"
 }

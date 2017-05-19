@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "ImonGre", 
-    "idx": 29, 
-    "label": "imongre", 
+    "idx": 28, 
+    "label": "ImonGre", 
     "name": "imongre", 
+    "nameRaw": "ImonGre", 
     "status": "pending", 
-    "uid": "98753a05-e772-470c-a284-a3e80a53da83"
+    "uid": "067d8eba-8657-4f57-8b43-c198944eb74c"
 }

@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "AerChemMIP", 
-    "idx": 1, 
-    "label": "aerchemmip", 
+    "idx": 0, 
+    "label": "AerChemMIP", 
     "name": "aerchemmip", 
+    "nameRaw": "AerChemMIP", 
     "status": "pending", 
-    "uid": "f13d6407-edf5-4468-83cf-90f0c5a24136"
+    "uid": "2fddb860-330f-4194-94e8-f56989a517f8"
 }

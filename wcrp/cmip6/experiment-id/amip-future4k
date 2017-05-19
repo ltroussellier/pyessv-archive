@@ -29,10 +29,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "amip-future4K", 
-    "idx": 131, 
-    "label": "amip-future4k", 
+    "idx": 130, 
+    "label": "amip-future4K", 
     "name": "amip-future4k", 
+    "nameRaw": "amip-future4K", 
     "status": "pending", 
-    "uid": "95152838-f447-4bbc-893b-8409675f46b7"
+    "uid": "e85b4093-7f3f-4a45-86e2-71f862559671"
 }

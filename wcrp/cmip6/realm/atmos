@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "atmos", 
-    "idx": 6, 
+    "idx": 5, 
     "label": "atmos", 
     "name": "atmos", 
+    "nameRaw": "atmos", 
     "status": "pending", 
-    "uid": "77d6bfb0-1bf4-4280-a0a3-ddc286eca3e1"
+    "uid": "c909bb78-0349-483e-beec-14f0f870e44a"
 }

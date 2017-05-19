@@ -51,10 +51,10 @@
         "releaseYear": "2017", 
         "sourceID": "GFDL-CM4"
     }, 
-    "description": "GFDL-CM4", 
-    "idx": 45, 
-    "label": "gfdl-cm4", 
+    "idx": 44, 
+    "label": "GFDL-CM4", 
     "name": "gfdl-cm4", 
+    "nameRaw": "GFDL-CM4", 
     "status": "pending", 
-    "uid": "3ba13a99-06a8-48be-94c7-11fb9ffce68c"
+    "uid": "c85c325d-4ecc-4996-823b-8277755e3964"
 }

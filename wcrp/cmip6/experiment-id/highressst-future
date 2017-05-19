@@ -28,10 +28,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": "highresSST-future", 
-    "idx": 49, 
-    "label": "highressst-future", 
+    "idx": 48, 
+    "label": "highresSST-future", 
     "name": "highressst-future", 
+    "nameRaw": "highresSST-future", 
     "status": "pending", 
-    "uid": "de17697e-8eda-4221-b642-6354ebc2511a"
+    "uid": "63d8186a-1a06-48a9-ab02-2c9e0818afd7"
 }

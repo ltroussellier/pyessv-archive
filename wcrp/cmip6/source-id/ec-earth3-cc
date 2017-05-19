@@ -50,10 +50,10 @@
         "releaseYear": "2017", 
         "sourceID": "EC-Earth3-CC"
     }, 
-    "description": "EC-Earth3-CC", 
-    "idx": 48, 
-    "label": "ec-earth3-cc", 
+    "idx": 47, 
+    "label": "EC-Earth3-CC", 
     "name": "ec-earth3-cc", 
+    "nameRaw": "EC-Earth3-CC", 
     "status": "pending", 
-    "uid": "d346994e-dba3-450d-a488-f199ac68f618"
+    "uid": "3769b63b-e666-4a0b-9a41-6689445797bb"
 }

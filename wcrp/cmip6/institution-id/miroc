@@ -4,10 +4,10 @@
     "data": {
         "postalAddress": "JAMSTEC (Japan Agency for Marine-Earth Science and Technology, Kanagawa 236-0001, Japan), AORI (Atmosphere and Ocean Research Institute, The University of Tokyo, Chiba 277-8564, Japan), NIES (National Institute for Environmental Studies, Ibaraki 305-8506, Japan), and AICS (RIKEN Advanced Institute for Computational Science, Hyogo 650-0047, Japan)"
     }, 
-    "description": "MIROC", 
-    "idx": 4, 
-    "label": "miroc", 
+    "idx": 3, 
+    "label": "MIROC", 
     "name": "miroc", 
+    "nameRaw": "MIROC", 
     "status": "pending", 
-    "uid": "b238cc2f-d72a-4e94-b052-db1e445868cc"
+    "uid": "7106e045-405f-4a4d-9871-e230485b848a"
 }

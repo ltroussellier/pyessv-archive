@@ -29,10 +29,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "piSST-4xCO2", 
-    "idx": 36, 
-    "label": "pisst-4xco2", 
+    "idx": 35, 
+    "label": "piSST-4xCO2", 
     "name": "pisst-4xco2", 
+    "nameRaw": "piSST-4xCO2", 
     "status": "pending", 
-    "uid": "6c7e7605-3037-455a-801e-8dd10530b3f3"
+    "uid": "74f9401e-d1b1-43fc-844a-a5ea529f748a"
 }

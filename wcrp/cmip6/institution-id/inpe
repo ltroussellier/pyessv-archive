@@ -4,10 +4,10 @@
     "data": {
         "postalAddress": "National Institute for Space Research, Cachoeira Paulista, SP 12630-000, Brazil"
     }, 
-    "description": "INPE", 
-    "idx": 18, 
-    "label": "inpe", 
+    "idx": 17, 
+    "label": "INPE", 
     "name": "inpe", 
+    "nameRaw": "INPE", 
     "status": "pending", 
-    "uid": "7f8e822a-6036-42dc-8067-c045f873ea3f"
+    "uid": "1214df9c-ac7f-4d24-a6bd-8ede16d550c1"
 }

@@ -30,10 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "G7cirrus", 
-    "idx": 113, 
-    "label": "g7cirrus", 
+    "idx": 112, 
+    "label": "G7cirrus", 
     "name": "g7cirrus", 
+    "nameRaw": "G7cirrus", 
     "status": "pending", 
-    "uid": "78e3d2ab-bb98-4dbb-9cf0-6e6569297e2d"
+    "uid": "70fe3a8d-df9b-4401-8fd3-8bd71f2154fd"
 }

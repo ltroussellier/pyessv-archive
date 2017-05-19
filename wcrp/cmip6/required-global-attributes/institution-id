@@ -1,0 +1,10 @@
+{
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "idx": 13, 
+    "label": "institution_id", 
+    "name": "institution-id", 
+    "nameRaw": "institution_id", 
+    "status": "pending", 
+    "uid": "4dcbe130-2c1b-48d5-9036-fcc640fc25c9"
+}

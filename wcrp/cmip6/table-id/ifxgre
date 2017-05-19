@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "IfxGre", 
-    "idx": 27, 
-    "label": "ifxgre", 
+    "idx": 26, 
+    "label": "IfxGre", 
     "name": "ifxgre", 
+    "nameRaw": "IfxGre", 
     "status": "pending", 
-    "uid": "b0fd3bc1-f35f-411d-aa42-8f6d8ae4ec93"
+    "uid": "1789c64e-8f55-4ce9-b026-f3444dfb1c1e"
 }

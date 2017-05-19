@@ -30,10 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "ssp460", 
-    "idx": 156, 
+    "idx": 155, 
     "label": "ssp460", 
     "name": "ssp460", 
+    "nameRaw": "ssp460", 
     "status": "pending", 
-    "uid": "54df35c9-27be-4f7b-a32f-19ebcca96a2a"
+    "uid": "e0a81d9d-a635-4716-9190-c0eed3127641"
 }

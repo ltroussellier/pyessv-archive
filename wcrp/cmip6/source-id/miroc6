@@ -50,10 +50,10 @@
         "releaseYear": "2017", 
         "sourceID": "MIROC6"
     }, 
-    "description": "MIROC6", 
-    "idx": 51, 
-    "label": "miroc6", 
+    "idx": 50, 
+    "label": "MIROC6", 
     "name": "miroc6", 
+    "nameRaw": "MIROC6", 
     "status": "pending", 
-    "uid": "28556364-a702-4758-add1-393e8a9600c4"
+    "uid": "c066981e-e417-46ef-b2e3-4aa671e27050"
 }

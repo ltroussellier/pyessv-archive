@@ -29,10 +29,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": "piClim-2xDMS", 
-    "idx": 9, 
-    "label": "piclim-2xdms", 
+    "idx": 8, 
+    "label": "piClim-2xDMS", 
     "name": "piclim-2xdms", 
+    "nameRaw": "piClim-2xDMS", 
     "status": "pending", 
-    "uid": "13ca4b41-9c2a-42e2-ae8f-3259a6261541"
+    "uid": "8a3ce182-e8d0-4112-b607-498579f1905c"
 }

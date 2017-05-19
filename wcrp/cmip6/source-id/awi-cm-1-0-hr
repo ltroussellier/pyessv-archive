@@ -54,10 +54,10 @@
         "releaseYear": "2017", 
         "sourceID": "AWI-CM-1-0-HR"
     }, 
-    "description": "AWI-CM-1-0-HR", 
-    "idx": 49, 
-    "label": "awi-cm-1-0-hr", 
+    "idx": 48, 
+    "label": "AWI-CM-1-0-HR", 
     "name": "awi-cm-1-0-hr", 
+    "nameRaw": "AWI-CM-1-0-HR", 
     "status": "pending", 
-    "uid": "9e601036-25fe-41f5-9028-f83976dbd5e6"
+    "uid": "6a4e535e-6ee4-4a8c-87f1-00e9cce69326"
 }

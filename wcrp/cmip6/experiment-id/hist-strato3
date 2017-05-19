@@ -29,10 +29,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "hist-stratO3", 
-    "idx": 92, 
-    "label": "hist-strato3", 
+    "idx": 91, 
+    "label": "hist-stratO3", 
     "name": "hist-strato3", 
+    "nameRaw": "hist-stratO3", 
     "status": "pending", 
-    "uid": "9c255452-ccc2-49e6-b51c-dfefa75ba260"
+    "uid": "9a1ee1ae-8a38-4a33-b783-1ffa331c4258"
 }

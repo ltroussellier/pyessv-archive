@@ -1,0 +1,10 @@
+{
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "idx": 15, 
+    "label": "mip_era", 
+    "name": "mip-era", 
+    "nameRaw": "mip_era", 
+    "status": "pending", 
+    "uid": "abe8c619-b73f-4294-80f5-af6b37914955"
+}

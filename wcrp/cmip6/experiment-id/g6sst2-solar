@@ -29,10 +29,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "G6SST2-solar", 
-    "idx": 196, 
-    "label": "g6sst2-solar", 
+    "idx": 195, 
+    "label": "G6SST2-solar", 
     "name": "g6sst2-solar", 
+    "nameRaw": "G6SST2-solar", 
     "status": "pending", 
-    "uid": "edf6e5f3-60bb-4954-bdb7-c3cbca834135"
+    "uid": "76ce5970-a0aa-4689-925f-823ab260254d"
 }

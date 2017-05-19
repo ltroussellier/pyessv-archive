@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "HighResMIP", 
-    "idx": 12, 
-    "label": "highresmip", 
+    "idx": 11, 
+    "label": "HighResMIP", 
     "name": "highresmip", 
+    "nameRaw": "HighResMIP", 
     "status": "pending", 
-    "uid": "529f0a03-97b5-4133-8f7c-82c5f2321193"
+    "uid": "887772d0-e1a7-4fb8-b1e5-75e7b2b5589e"
 }

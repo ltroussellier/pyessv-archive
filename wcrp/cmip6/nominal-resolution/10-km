@@ -1,0 +1,10 @@
+{
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "idx": 2, 
+    "label": "10 km", 
+    "name": "10-km", 
+    "nameRaw": "10 km", 
+    "status": "pending", 
+    "uid": "b742a9c9-24f0-47c5-b8b5-2b3ca41975b6"
+}

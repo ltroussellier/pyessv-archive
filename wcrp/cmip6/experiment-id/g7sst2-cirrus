@@ -29,10 +29,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "G7SST2-cirrus", 
-    "idx": 188, 
-    "label": "g7sst2-cirrus", 
+    "idx": 187, 
+    "label": "G7SST2-cirrus", 
     "name": "g7sst2-cirrus", 
+    "nameRaw": "G7SST2-cirrus", 
     "status": "pending", 
-    "uid": "147029b5-4a3a-474c-ba6b-31212bce568d"
+    "uid": "283f21ac-787d-4527-8eac-3249c844def9"
 }

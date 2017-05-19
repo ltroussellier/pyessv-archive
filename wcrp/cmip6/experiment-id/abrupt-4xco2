@@ -30,10 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "abrupt-4xCO2", 
-    "idx": 96, 
-    "label": "abrupt-4xco2", 
+    "idx": 95, 
+    "label": "abrupt-4xCO2", 
     "name": "abrupt-4xco2", 
+    "nameRaw": "abrupt-4xCO2", 
     "status": "pending", 
-    "uid": "3ef0ff62-a3f2-40ec-97fb-115f52cdcc46"
+    "uid": "f32f7d2e-0f95-404c-9c9a-ed9bd85b6c4e"
 }

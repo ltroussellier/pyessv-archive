@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "CORDEX", 
-    "idx": 5, 
-    "label": "cordex", 
+    "idx": 4, 
+    "label": "CORDEX", 
     "name": "cordex", 
+    "nameRaw": "CORDEX", 
     "status": "pending", 
-    "uid": "ef673418-1b68-4960-b8b8-5f412fb94115"
+    "uid": "28889b21-9514-4c22-ba37-3e6c63ba8d14"
 }

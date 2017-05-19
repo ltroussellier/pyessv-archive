@@ -4,10 +4,10 @@
     "data": {
         "postalAddress": "Met Office Hadley Centre, Fitzroy Road, Exeter, Devon, EX1 3PB, UK"
     }, 
-    "description": "MOHC", 
-    "idx": 5, 
-    "label": "mohc", 
+    "idx": 4, 
+    "label": "MOHC", 
     "name": "mohc", 
+    "nameRaw": "MOHC", 
     "status": "pending", 
-    "uid": "f7bff723-80c8-4886-8493-518a13626d86"
+    "uid": "9f77c801-84fd-4817-aeb1-290b93d011b7"
 }

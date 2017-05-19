@@ -30,10 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "sspxy", 
-    "idx": 98, 
+    "idx": 97, 
     "label": "sspxy", 
     "name": "sspxy", 
+    "nameRaw": "sspxy", 
     "status": "pending", 
-    "uid": "9705a257-4f82-4bb4-a210-0cffd05b6f30"
+    "uid": "efde240c-29fe-4e02-b7f8-cff70ea9e27f"
 }

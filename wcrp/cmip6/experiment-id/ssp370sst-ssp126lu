@@ -29,10 +29,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "ssp370SST-ssp126Lu", 
-    "idx": 102, 
-    "label": "ssp370sst-ssp126lu", 
+    "idx": 101, 
+    "label": "ssp370SST-ssp126Lu", 
     "name": "ssp370sst-ssp126lu", 
+    "nameRaw": "ssp370SST-ssp126Lu", 
     "status": "pending", 
-    "uid": "833ebef9-0fd3-4dd5-835b-fc2bc197e184"
+    "uid": "01a95757-e6db-4680-8163-339ad4dcdd18"
 }

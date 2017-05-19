@@ -28,10 +28,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": "highresSST-p4K", 
-    "idx": 202, 
-    "label": "highressst-p4k", 
+    "idx": 201, 
+    "label": "highresSST-p4K", 
     "name": "highressst-p4k", 
+    "nameRaw": "highresSST-p4K", 
     "status": "pending", 
-    "uid": "89808366-97d0-42ee-91d9-e9ae3876295a"
+    "uid": "35d5c803-9341-4dc4-840d-d276949bdd51"
 }

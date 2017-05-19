@@ -50,10 +50,10 @@
         "releaseYear": "2011", 
         "sourceID": "ACCESS-1-0"
     }, 
-    "description": "ACCESS-1-0", 
-    "idx": 12, 
-    "label": "access-1-0", 
+    "idx": 11, 
+    "label": "ACCESS-1-0", 
     "name": "access-1-0", 
+    "nameRaw": "ACCESS-1-0", 
     "status": "pending", 
-    "uid": "f66fac0b-4c14-4e41-adbf-fe98301ba03f"
+    "uid": "3e838b9f-b542-4cf2-a077-a2d56946e07d"
 }

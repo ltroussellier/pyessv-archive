@@ -57,10 +57,10 @@
         "releaseYear": "2017", 
         "sourceID": "AWI-CM-1-0-LR"
     }, 
-    "description": "AWI-CM-1-0-LR", 
-    "idx": 44, 
-    "label": "awi-cm-1-0-lr", 
+    "idx": 43, 
+    "label": "AWI-CM-1-0-LR", 
     "name": "awi-cm-1-0-lr", 
+    "nameRaw": "AWI-CM-1-0-LR", 
     "status": "pending", 
-    "uid": "bd5cfddb-025c-47f8-ab25-0355381100ce"
+    "uid": "794d1c70-1a17-40b8-b489-f85754c90cc7"
 }

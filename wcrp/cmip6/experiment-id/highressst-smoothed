@@ -28,10 +28,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": "highresSST-smoothed", 
-    "idx": 148, 
-    "label": "highressst-smoothed", 
+    "idx": 147, 
+    "label": "highresSST-smoothed", 
     "name": "highressst-smoothed", 
+    "nameRaw": "highresSST-smoothed", 
     "status": "pending", 
-    "uid": "3e88a525-654a-4388-9aec-a86f79a778a7"
+    "uid": "f6783322-1e15-455c-978b-3d19e27b8c40"
 }

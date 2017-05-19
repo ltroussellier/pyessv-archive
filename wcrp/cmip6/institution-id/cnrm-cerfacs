@@ -4,10 +4,10 @@
     "data": {
         "postalAddress": "CNRM (Centre National de Recherches Meteorologiques, Toulouse 31057, France), CERFACS (Centre Europeen de Recherche et de Formation Avancee en Calcul Scientifique, Toulouse 31100, France)"
     }, 
-    "description": "CNRM-CERFACS", 
-    "idx": 21, 
-    "label": "cnrm-cerfacs", 
+    "idx": 20, 
+    "label": "CNRM-CERFACS", 
     "name": "cnrm-cerfacs", 
+    "nameRaw": "CNRM-CERFACS", 
     "status": "pending", 
-    "uid": "7b941737-1406-4a4e-9f6a-240e46a4c6b6"
+    "uid": "39531d85-583b-4c78-af09-52597d5a4bfd"
 }

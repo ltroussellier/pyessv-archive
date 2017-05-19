@@ -30,10 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "volc-pinatubo-full", 
-    "idx": 247, 
+    "idx": 246, 
     "label": "volc-pinatubo-full", 
     "name": "volc-pinatubo-full", 
+    "nameRaw": "volc-pinatubo-full", 
     "status": "pending", 
-    "uid": "e80bcfcb-96ae-46c9-94c3-c74ab2220f87"
+    "uid": "e5011e27-a05c-4b2c-a6ea-b97286846da3"
 }

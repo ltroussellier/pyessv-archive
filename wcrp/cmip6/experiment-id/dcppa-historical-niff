@@ -86,10 +86,10 @@
         ], 
         "tier": "4"
     }, 
-    "description": "dcppA-historical-niff", 
-    "idx": 2, 
-    "label": "dcppa-historical-niff", 
+    "idx": 1, 
+    "label": "dcppA-historical-niff", 
     "name": "dcppa-historical-niff", 
+    "nameRaw": "dcppA-historical-niff", 
     "status": "pending", 
-    "uid": "b37c28eb-2f0d-4a17-bd37-b3239b064af7"
+    "uid": "dd3390fe-7d40-479f-bc02-825cd078410b"
 }

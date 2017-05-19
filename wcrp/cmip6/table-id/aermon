@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "AERmon", 
-    "idx": 7, 
-    "label": "aermon", 
+    "idx": 6, 
+    "label": "AERmon", 
     "name": "aermon", 
+    "nameRaw": "AERmon", 
     "status": "pending", 
-    "uid": "d2900aff-96d2-45d4-ada2-870f90dda1e0"
+    "uid": "5dabc953-2700-483b-bdbf-6b1a6a3fd7e5"
 }

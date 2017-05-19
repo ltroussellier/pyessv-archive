@@ -28,10 +28,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "piClim-CH4", 
-    "idx": 33, 
-    "label": "piclim-ch4", 
+    "idx": 32, 
+    "label": "piClim-CH4", 
     "name": "piclim-ch4", 
+    "nameRaw": "piClim-CH4", 
     "status": "pending", 
-    "uid": "1268aee1-df29-40a0-999b-33c454e2ae37"
+    "uid": "383c180d-661e-4ce5-8771-9eee154eb2d9"
 }

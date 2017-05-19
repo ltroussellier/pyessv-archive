@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "FAFMIP", 
-    "idx": 9, 
-    "label": "fafmip", 
+    "idx": 8, 
+    "label": "FAFMIP", 
     "name": "fafmip", 
+    "nameRaw": "FAFMIP", 
     "status": "pending", 
-    "uid": "1bdc3f30-dc9e-4550-8299-4fb32463c995"
+    "uid": "e106e269-bfb9-42c5-9cce-15386175f79d"
 }

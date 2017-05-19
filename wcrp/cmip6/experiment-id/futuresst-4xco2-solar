@@ -29,10 +29,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "futureSST-4xCO2-solar", 
-    "idx": 133, 
-    "label": "futuresst-4xco2-solar", 
+    "idx": 132, 
+    "label": "futureSST-4xCO2-solar", 
     "name": "futuresst-4xco2-solar", 
+    "nameRaw": "futureSST-4xCO2-solar", 
     "status": "pending", 
-    "uid": "4ba8ae4b-9723-412b-962c-c9ba6da6509a"
+    "uid": "b95717bd-3dc8-4c26-83b0-62b02914110a"
 }

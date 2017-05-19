@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "gr9z", 
-    "idx": 42, 
+    "idx": 41, 
     "label": "gr9z", 
     "name": "gr9z", 
+    "nameRaw": "gr9z", 
     "status": "pending", 
-    "uid": "dab6e8ec-b6f0-4163-b71d-aef06e98c040"
+    "uid": "3421394e-20f6-4597-91c7-01129c9a5f0c"
 }

@@ -31,10 +31,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": "control-slab", 
-    "idx": 57, 
+    "idx": 56, 
     "label": "control-slab", 
     "name": "control-slab", 
+    "nameRaw": "control-slab", 
     "status": "pending", 
-    "uid": "c144016e-00dc-46c7-af0c-814f3c206e24"
+    "uid": "069a3972-78bc-48b8-9d1f-770be6e14530"
 }

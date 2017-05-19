@@ -26,10 +26,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "ism-pdControl-std", 
-    "idx": 95, 
-    "label": "ism-pdcontrol-std", 
+    "idx": 94, 
+    "label": "ism-pdControl-std", 
     "name": "ism-pdcontrol-std", 
+    "nameRaw": "ism-pdControl-std", 
     "status": "pending", 
-    "uid": "637044d0-ea70-45aa-a41a-e39a9b1445af"
+    "uid": "205c8cae-479c-4b8b-8bae-6b036d6d23ba"
 }

@@ -50,10 +50,10 @@
         "releaseYear": "2017", 
         "sourceID": "MIROC-ES2L"
     }, 
-    "description": "MIROC-ES2L", 
-    "idx": 59, 
-    "label": "miroc-es2l", 
+    "idx": 58, 
+    "label": "MIROC-ES2L", 
     "name": "miroc-es2l", 
+    "nameRaw": "MIROC-ES2L", 
     "status": "pending", 
-    "uid": "82bf0ef9-aa5a-4c17-85cc-5b908ea27532"
+    "uid": "622c54cd-1f1d-4df5-a7db-9dfdcf04462a"
 }

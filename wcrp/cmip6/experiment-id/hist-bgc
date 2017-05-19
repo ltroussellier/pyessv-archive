@@ -30,10 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "hist-bgc", 
-    "idx": 130, 
+    "idx": 129, 
     "label": "hist-bgc", 
     "name": "hist-bgc", 
+    "nameRaw": "hist-bgc", 
     "status": "pending", 
-    "uid": "a5f7b5a0-7ddb-4680-9b22-21ce040a27b2"
+    "uid": "63e8bb68-963a-411c-b7a2-a9ef26f21c62"
 }

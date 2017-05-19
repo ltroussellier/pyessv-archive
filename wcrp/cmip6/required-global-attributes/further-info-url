@@ -1,0 +1,10 @@
+{
+    "_type": "pyessv._model.term", 
+    "createDate": "2017-03-21 00:00:00+00:00", 
+    "idx": 8, 
+    "label": "further_info_url", 
+    "name": "further-info-url", 
+    "nameRaw": "further_info_url", 
+    "status": "pending", 
+    "uid": "afa71810-91b8-4ea9-b051-f31204051d07"
+}

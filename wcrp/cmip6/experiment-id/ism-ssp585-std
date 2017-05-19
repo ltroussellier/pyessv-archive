@@ -26,10 +26,10 @@
         ], 
         "tier": "2"
     }, 
-    "description": "ism-ssp585-std", 
-    "idx": 59, 
+    "idx": 58, 
     "label": "ism-ssp585-std", 
     "name": "ism-ssp585-std", 
+    "nameRaw": "ism-ssp585-std", 
     "status": "pending", 
-    "uid": "989d2e02-3b1d-4f6f-a094-d96d728abf6d"
+    "uid": "103f4845-7c59-4989-b681-5d6f9e2d8144"
 }

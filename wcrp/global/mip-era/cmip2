@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "CMIP2", 
-    "idx": 2, 
-    "label": "cmip2", 
+    "idx": 1, 
+    "label": "CMIP2", 
     "name": "cmip2", 
+    "nameRaw": "CMIP2", 
     "status": "pending", 
-    "uid": "c453bd56-f77d-4a4b-bceb-77fbabc03da3"
+    "uid": "057d7eda-2302-4303-9594-6e46b95dd25b"
 }

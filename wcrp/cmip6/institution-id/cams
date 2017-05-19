@@ -4,10 +4,10 @@
     "data": {
         "postalAddress": "Chinese Academy of Meteorological Sciences, Beijing 100081, China"
     }, 
-    "description": "CAMS", 
-    "idx": 8, 
-    "label": "cams", 
+    "idx": 7, 
+    "label": "CAMS", 
     "name": "cams", 
+    "nameRaw": "CAMS", 
     "status": "pending", 
-    "uid": "fc439274-2262-42ee-ae6f-c8c1e4d85c54"
+    "uid": "e7112052-4105-46b5-9825-014ca03c39d3"
 }

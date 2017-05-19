@@ -28,10 +28,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": "highresSST-4co2", 
-    "idx": 40, 
-    "label": "highressst-4co2", 
+    "idx": 39, 
+    "label": "highresSST-4co2", 
     "name": "highressst-4co2", 
+    "nameRaw": "highresSST-4co2", 
     "status": "pending", 
-    "uid": "6a3ea4a4-5a40-4c87-a299-c19efbc605f3"
+    "uid": "1b706aff-aba4-465c-9270-c3665aaceb43"
 }

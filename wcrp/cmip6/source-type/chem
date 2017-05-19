@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "CHEM", 
-    "idx": 5, 
-    "label": "chem", 
+    "idx": 4, 
+    "label": "CHEM", 
     "name": "chem", 
+    "nameRaw": "CHEM", 
     "status": "pending", 
-    "uid": "8029f5ac-a106-41c6-8175-f3ad5bbba07b"
+    "uid": "0bf09cb2-fde2-48da-becd-e8a09222fff8"
 }

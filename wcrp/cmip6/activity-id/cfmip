@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "CFMIP", 
-    "idx": 3, 
-    "label": "cfmip", 
+    "idx": 2, 
+    "label": "CFMIP", 
     "name": "cfmip", 
+    "nameRaw": "CFMIP", 
     "status": "pending", 
-    "uid": "5b070513-4a88-4cba-aa29-0cf4c4237044"
+    "uid": "3a9d584c-a8f7-4c3f-ac57-06c1ec1c7980"
 }

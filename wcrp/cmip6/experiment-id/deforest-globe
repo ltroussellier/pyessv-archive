@@ -30,10 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "deforest-globe", 
-    "idx": 176, 
+    "idx": 175, 
     "label": "deforest-globe", 
     "name": "deforest-globe", 
+    "nameRaw": "deforest-globe", 
     "status": "pending", 
-    "uid": "4955b1b8-80b6-4b7d-b151-a0b791710ebe"
+    "uid": "8c4e3135-87d4-4df5-97eb-2fdca6511d4c"
 }

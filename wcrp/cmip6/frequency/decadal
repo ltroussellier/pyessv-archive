@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "decadal", 
-    "idx": 7, 
+    "idx": 6, 
     "label": "decadal", 
     "name": "decadal", 
+    "nameRaw": "decadal", 
     "status": "pending", 
-    "uid": "807f73d4-7e9a-430d-8972-c6f8b33a3d23"
+    "uid": "b25a0ef9-a0d3-4351-8c10-23ae5701f32f"
 }

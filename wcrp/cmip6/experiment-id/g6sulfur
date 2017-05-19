@@ -30,10 +30,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "G6sulfur", 
-    "idx": 195, 
-    "label": "g6sulfur", 
+    "idx": 194, 
+    "label": "G6sulfur", 
     "name": "g6sulfur", 
+    "nameRaw": "G6sulfur", 
     "status": "pending", 
-    "uid": "942db044-6825-41f3-acc7-60c0e54de3f0"
+    "uid": "5c60a0cf-f7d6-4e33-9643-2ecd71b21fb8"
 }

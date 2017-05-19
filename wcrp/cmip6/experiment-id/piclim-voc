@@ -28,10 +28,10 @@
         ], 
         "tier": "3"
     }, 
-    "description": "piClim-VOC", 
-    "idx": 23, 
-    "label": "piclim-voc", 
+    "idx": 22, 
+    "label": "piClim-VOC", 
     "name": "piclim-voc", 
+    "nameRaw": "piClim-VOC", 
     "status": "pending", 
-    "uid": "efbf33b6-9969-4a01-b1b3-d9e9bc4b21bb"
+    "uid": "7da52c4d-648c-4882-a124-d7542b2252eb"
 }

@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "description": "PMIP", 
-    "idx": 17, 
-    "label": "pmip", 
+    "idx": 16, 
+    "label": "PMIP", 
     "name": "pmip", 
+    "nameRaw": "PMIP", 
     "status": "pending", 
-    "uid": "63bd2830-c862-4dd1-a7c8-d06d94d3fe5b"
+    "uid": "799adc22-c8aa-4fca-94f3-6197a6c2287c"
 }

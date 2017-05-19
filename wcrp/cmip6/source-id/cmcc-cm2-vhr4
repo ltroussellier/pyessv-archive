@@ -51,10 +51,10 @@
         "releaseYear": "2017", 
         "sourceID": "CMCC-CM2-VHR4"
     }, 
-    "description": "CMCC-CM2-VHR4", 
-    "idx": 10, 
-    "label": "cmcc-cm2-vhr4", 
+    "idx": 9, 
+    "label": "CMCC-CM2-VHR4", 
     "name": "cmcc-cm2-vhr4", 
+    "nameRaw": "CMCC-CM2-VHR4", 
     "status": "pending", 
-    "uid": "55766a54-879a-4742-baed-6e43163fc4c5"
+    "uid": "85c982a6-8df0-4522-b01a-f0999d6fd50f"
 }

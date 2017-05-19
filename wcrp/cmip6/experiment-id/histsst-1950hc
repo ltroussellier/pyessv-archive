@@ -28,10 +28,10 @@
         ], 
         "tier": "1"
     }, 
-    "description": "histSST-1950HC", 
-    "idx": 56, 
-    "label": "histsst-1950hc", 
+    "idx": 55, 
+    "label": "histSST-1950HC", 
     "name": "histsst-1950hc", 
+    "nameRaw": "histSST-1950HC", 
     "status": "pending", 
-    "uid": "92a77038-0171-4e7d-8307-c3ec7aa4e329"
+    "uid": "d459ba27-3488-4191-8518-7354e951db20"
 }
