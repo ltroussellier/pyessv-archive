@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "amip-p4k-lwoff", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 66, 
     "label": "amip-p4K-lwoff", 
-    "name": "amip-p4k-lwoff", 
-    "nameRaw": "amip-p4K-lwoff", 
+    "rawName": "amip-p4K-lwoff", 
     "status": "pending", 
-    "uid": "1086e35f-ce00-4a19-958d-ef96bdcdb536"
+    "uid": "2e17cba0-f4da-4c1a-aee0-8828570dbff1"
 }

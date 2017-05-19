@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "conventions", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 0, 
     "label": "Conventions", 
-    "name": "conventions", 
-    "nameRaw": "Conventions", 
+    "rawName": "Conventions", 
     "status": "pending", 
-    "uid": "22935974-750c-471c-bb36-191428f5a3ef"
+    "uid": "81dcc75c-4db9-4e8a-9185-9a3a288dc8a9"
 }

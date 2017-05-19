@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "e3hr", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 15, 
     "label": "E3hr", 
-    "name": "e3hr", 
-    "nameRaw": "E3hr", 
+    "rawName": "E3hr", 
     "status": "pending", 
-    "uid": "23b0997c-375a-43ab-bfda-731b594fc04b"
+    "uid": "a90faa09-81d1-4360-b8f4-e0153d2a1198"
 }

@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "lgm", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 166, 
     "label": "lgm", 
-    "name": "lgm", 
-    "nameRaw": "lgm", 
+    "rawName": "lgm", 
     "status": "pending", 
-    "uid": "88e118d2-dfdd-4859-bb66-56d562ef26e7"
+    "uid": "2cf5e637-bc50-4ed5-bdd7-4444b82f5a86"
 }

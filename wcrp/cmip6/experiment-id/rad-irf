@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "rad-irf", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 16, 
     "label": "rad-irf", 
-    "name": "rad-irf", 
-    "nameRaw": "rad-irf", 
+    "rawName": "rad-irf", 
     "status": "pending", 
-    "uid": "4713d501-936f-4446-b2b9-f07b9c9aec9d"
+    "uid": "3c136e5f-c319-4ee1-bb99-504ad33cd755"
 }

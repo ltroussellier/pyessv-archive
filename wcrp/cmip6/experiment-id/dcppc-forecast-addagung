@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "dcppc-forecast-addagung", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -34,8 +35,7 @@
     }, 
     "idx": 226, 
     "label": "dcppC-forecast-addAgung", 
-    "name": "dcppc-forecast-addagung", 
-    "nameRaw": "dcppC-forecast-addAgung", 
+    "rawName": "dcppC-forecast-addAgung", 
     "status": "pending", 
-    "uid": "895a17f0-6d24-4dad-9379-75d7082e07c8"
+    "uid": "70ab3484-ea1d-49c6-bf39-6833f38c60de"
 }

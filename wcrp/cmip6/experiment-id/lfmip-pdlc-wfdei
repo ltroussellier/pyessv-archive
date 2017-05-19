@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "lfmip-pdlc-wfdei", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 96, 
     "label": "lfmip-pdLC-wfdei", 
-    "name": "lfmip-pdlc-wfdei", 
-    "nameRaw": "lfmip-pdLC-wfdei", 
+    "rawName": "lfmip-pdLC-wfdei", 
     "status": "pending", 
-    "uid": "f6426376-f179-4986-9b15-a006eed2a517"
+    "uid": "61f34c8a-190c-4c17-9a2a-c8c04b95c01e"
 }

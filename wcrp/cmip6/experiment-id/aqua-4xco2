@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "aqua-4xco2", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 133, 
     "label": "aqua-4xCO2", 
-    "name": "aqua-4xco2", 
-    "nameRaw": "aqua-4xCO2", 
+    "rawName": "aqua-4xCO2", 
     "status": "pending", 
-    "uid": "037ffb0d-e2fa-4a99-9d86-6948c0b1292c"
+    "uid": "a9f69cfb-05be-47aa-9998-d3778ff2fb90"
 }

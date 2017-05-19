@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "picontrol-withism", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -33,8 +34,7 @@
     }, 
     "idx": 180, 
     "label": "piControl-withism", 
-    "name": "picontrol-withism", 
-    "nameRaw": "piControl-withism", 
+    "rawName": "piControl-withism", 
     "status": "pending", 
-    "uid": "fc781b97-3017-4500-a062-d81eae1a438c"
+    "uid": "6c315a8d-14b4-49af-b021-6eeff5c4da42"
 }

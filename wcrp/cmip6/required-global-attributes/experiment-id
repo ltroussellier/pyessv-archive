@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "experiment-id", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 5, 
     "label": "experiment_id", 
-    "name": "experiment-id", 
-    "nameRaw": "experiment_id", 
+    "rawName": "experiment_id", 
     "status": "pending", 
-    "uid": "aebe0981-2fb1-4c62-ac90-160fa20d7a8c"
+    "uid": "ef174f32-a93c-4d36-81b2-01d4fee7601a"
 }

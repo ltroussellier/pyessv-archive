@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "picontrol", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 116, 
     "label": "piControl", 
-    "name": "picontrol", 
-    "nameRaw": "piControl", 
+    "rawName": "piControl", 
     "status": "pending", 
-    "uid": "3e9d410b-75a3-4ed2-a8bc-e4e6ed1b65a1"
+    "uid": "e24ed26b-48c9-4cae-a8fe-5bf9eeddf9f6"
 }

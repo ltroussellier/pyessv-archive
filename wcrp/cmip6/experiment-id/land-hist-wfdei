@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "land-hist-wfdei", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 240, 
     "label": "land-hist-wfdei", 
-    "name": "land-hist-wfdei", 
-    "nameRaw": "land-hist-wfdei", 
+    "rawName": "land-hist-wfdei", 
     "status": "pending", 
-    "uid": "b786eddf-dc82-45ad-a89d-84d9703dfde1"
+    "uid": "792fb2d8-6829-425a-a3e9-97b5fdefd5ac"
 }

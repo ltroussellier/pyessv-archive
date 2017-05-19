@@ -1,13 +1,13 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "nuist", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "postalAddress": "Nanjing University of Information Science and Technology, Nanjing, 210044, China"
     }, 
     "idx": 29, 
     "label": "NUIST", 
-    "name": "nuist", 
-    "nameRaw": "NUIST", 
+    "rawName": "NUIST", 
     "status": "pending", 
-    "uid": "4b2f66b3-16d5-4aad-9400-0a1a6df0ce30"
+    "uid": "398f5dcf-82dd-4049-a0ce-a9630db8e8ff"
 }

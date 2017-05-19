@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "hist-ghg", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 76, 
     "label": "hist-GHG", 
-    "name": "hist-ghg", 
-    "nameRaw": "hist-GHG", 
+    "rawName": "hist-GHG", 
     "status": "pending", 
-    "uid": "50947f75-d6bd-42b0-bc94-b6f19be2957d"
+    "uid": "e9065a12-7bf3-44fd-9245-9983c68d0e4f"
 }

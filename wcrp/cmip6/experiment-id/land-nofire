@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "land-nofire", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 229, 
     "label": "land-noFire", 
-    "name": "land-nofire", 
-    "nameRaw": "land-noFire", 
+    "rawName": "land-noFire", 
     "status": "pending", 
-    "uid": "34f37da4-3727-4d11-b06c-0b345846b90d"
+    "uid": "7f1fa197-1cbf-40f1-98fd-fa93ee895c77"
 }

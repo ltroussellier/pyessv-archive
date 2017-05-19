@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "piclim-n2o", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -30,8 +31,7 @@
     }, 
     "idx": 73, 
     "label": "piClim-N2O", 
-    "name": "piclim-n2o", 
-    "nameRaw": "piClim-N2O", 
+    "rawName": "piClim-N2O", 
     "status": "pending", 
-    "uid": "82b78a50-ad48-416c-a854-6fe598b28d5f"
+    "uid": "6bcd44c4-c3b9-4611-8aeb-93e909bce9db"
 }

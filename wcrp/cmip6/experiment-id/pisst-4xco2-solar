@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "pisst-4xco2-solar", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 11, 
     "label": "piSST-4xCO2-solar", 
-    "name": "pisst-4xco2-solar", 
-    "nameRaw": "piSST-4xCO2-solar", 
+    "rawName": "piSST-4xCO2-solar", 
     "status": "pending", 
-    "uid": "3719f794-3890-4273-b8dd-2740350ea42f"
+    "uid": "f78fee2a-6870-4ffb-81f3-4f5f18ae5a54"
 }

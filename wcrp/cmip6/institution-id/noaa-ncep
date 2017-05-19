@@ -1,13 +1,13 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "noaa-ncep", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "postalAddress": "National Oceanic and Atmospheric Administration, National Centers for Environmental Prediction, Camp Springs, MD 20746, USA"
     }, 
     "idx": 19, 
     "label": "NOAA-NCEP", 
-    "name": "noaa-ncep", 
-    "nameRaw": "NOAA-NCEP", 
+    "rawName": "NOAA-NCEP", 
     "status": "pending", 
-    "uid": "5f9e76b7-6d17-4f10-ad8c-713c396cbc75"
+    "uid": "da23ef6d-26e6-46a0-972d-11887f386b12"
 }

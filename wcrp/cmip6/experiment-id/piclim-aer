@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "piclim-aer", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 52, 
     "label": "piClim-aer", 
-    "name": "piclim-aer", 
-    "nameRaw": "piClim-aer", 
+    "rawName": "piClim-aer", 
     "status": "pending", 
-    "uid": "0cb33fbe-41e4-408d-8666-4fd4ab48b861"
+    "uid": "cbcf401f-14f4-439f-85b3-2fe6905c2405"
 }

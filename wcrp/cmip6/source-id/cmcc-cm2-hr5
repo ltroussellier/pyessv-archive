@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "cmcc-cm2-hr5", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -53,8 +54,7 @@
     }, 
     "idx": 14, 
     "label": "CMCC-CM2-HR5", 
-    "name": "cmcc-cm2-hr5", 
-    "nameRaw": "CMCC-CM2-HR5", 
+    "rawName": "CMCC-CM2-HR5", 
     "status": "pending", 
-    "uid": "4b779f4c-9c13-458c-9ae3-cbe26af1b059"
+    "uid": "afa2d7ae-e36f-42d5-98b1-c2e4327451fb"
 }

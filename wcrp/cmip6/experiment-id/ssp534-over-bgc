@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "ssp534-over-bgc", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 196, 
     "label": "ssp534-over-bgc", 
-    "name": "ssp534-over-bgc", 
-    "nameRaw": "ssp534-over-bgc", 
+    "rawName": "ssp534-over-bgc", 
     "status": "pending", 
-    "uid": "f4bf331d-c5e1-4c9d-a6de-5abf12926fdb"
+    "uid": "15b5e3ad-4a22-486f-ac32-565c0dc789f4"
 }

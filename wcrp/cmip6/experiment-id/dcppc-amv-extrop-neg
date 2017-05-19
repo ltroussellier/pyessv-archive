@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "dcppc-amv-extrop-neg", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 70, 
     "label": "dcppC-amv-ExTrop-neg", 
-    "name": "dcppc-amv-extrop-neg", 
-    "nameRaw": "dcppC-amv-ExTrop-neg", 
+    "rawName": "dcppC-amv-ExTrop-neg", 
     "status": "pending", 
-    "uid": "eb4a1737-4264-4504-a69b-c8ab9742e234"
+    "uid": "8ca98bd1-f1cc-4f88-b14f-8d309c41fd52"
 }

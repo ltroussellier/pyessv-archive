@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "cmcc-esm2-sr5", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -55,8 +56,7 @@
     }, 
     "idx": 26, 
     "label": "CMCC-ESM2-SR5", 
-    "name": "cmcc-esm2-sr5", 
-    "nameRaw": "CMCC-ESM2-SR5", 
+    "rawName": "CMCC-ESM2-SR5", 
     "status": "pending", 
-    "uid": "cadd3d5e-a6ba-4edd-8839-b6d826673766"
+    "uid": "14fcb5cb-bcda-4b91-bceb-919ae1e16e5f"
 }

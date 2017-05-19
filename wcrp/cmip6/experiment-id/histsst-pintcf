@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "histsst-pintcf", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 235, 
     "label": "histSST-piNTCF", 
-    "name": "histsst-pintcf", 
-    "nameRaw": "histSST-piNTCF", 
+    "rawName": "histSST-piNTCF", 
     "status": "pending", 
-    "uid": "e561047c-ac9f-46bf-97e0-af4c64fcc9d5"
+    "uid": "54091bfd-d56f-4a09-85fd-8db8f575081f"
 }

@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "noresm2-hh", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -52,8 +53,7 @@
     }, 
     "idx": 12, 
     "label": "NorESM2-HH", 
-    "name": "noresm2-hh", 
-    "nameRaw": "NorESM2-HH", 
+    "rawName": "NorESM2-HH", 
     "status": "pending", 
-    "uid": "3770ed54-71c9-48a8-8bbf-b2117159a9ac"
+    "uid": "83151653-175c-437e-bd68-cd831ab4aca9"
 }

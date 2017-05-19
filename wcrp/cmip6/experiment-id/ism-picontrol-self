@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "ism-picontrol-self", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 15, 
     "label": "ism-piControl-self", 
-    "name": "ism-picontrol-self", 
-    "nameRaw": "ism-piControl-self", 
+    "rawName": "ism-piControl-self", 
     "status": "pending", 
-    "uid": "d4c8a4c3-8134-4d1c-b80c-6d51740c8f12"
+    "uid": "e10a464c-f828-48cb-9493-f1e75b897c8f"
 }

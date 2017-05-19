@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "cf3hr", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 9, 
     "label": "CF3hr", 
-    "name": "cf3hr", 
-    "nameRaw": "CF3hr", 
+    "rawName": "CF3hr", 
     "status": "pending", 
-    "uid": "1ce2f9c9-7902-48d3-b36e-fcbaa31d5c39"
+    "uid": "2400fc96-7ef9-4ef1-87ba-9bddf26443c4"
 }

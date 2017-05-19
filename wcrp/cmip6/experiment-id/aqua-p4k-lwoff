@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "aqua-p4k-lwoff", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 238, 
     "label": "aqua-p4K-lwoff", 
-    "name": "aqua-p4k-lwoff", 
-    "nameRaw": "aqua-p4K-lwoff", 
+    "rawName": "aqua-p4K-lwoff", 
     "status": "pending", 
-    "uid": "81b065ee-9246-4c9f-bf75-30cf66f981e5"
+    "uid": "dd608dbd-d595-431a-91e3-02fbcad844e2"
 }

@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "1pctco2", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 82, 
     "label": "1pctCO2", 
-    "name": "1pctco2", 
-    "nameRaw": "1pctCO2", 
+    "rawName": "1pctCO2", 
     "status": "pending", 
-    "uid": "eddafa1b-c24f-4a8a-8a73-3ab86dde2f56"
+    "uid": "2ea180b8-bb76-48ac-9064-bdc7aec117d4"
 }

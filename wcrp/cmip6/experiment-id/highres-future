@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "highres-future", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -30,8 +31,7 @@
     }, 
     "idx": 182, 
     "label": "highres-future", 
-    "name": "highres-future", 
-    "nameRaw": "highres-future", 
+    "rawName": "highres-future", 
     "status": "pending", 
-    "uid": "faa3a799-fa45-421c-b006-5c8125727b05"
+    "uid": "d1a0308c-e1e7-4943-8d2e-e38a76319450"
 }

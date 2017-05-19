@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "faf-water", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 107, 
     "label": "faf-water", 
-    "name": "faf-water", 
-    "nameRaw": "faf-water", 
+    "rawName": "faf-water", 
     "status": "pending", 
-    "uid": "5b544aba-eaaf-4084-99ce-f9050017e681"
+    "uid": "0e02a739-a7a4-4d72-a5bf-1faecacfd9dc"
 }

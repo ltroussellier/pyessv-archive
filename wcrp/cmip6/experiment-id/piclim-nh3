@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "piclim-nh3", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 2, 
     "label": "piClim-NH3", 
-    "name": "piclim-nh3", 
-    "nameRaw": "piClim-NH3", 
+    "rawName": "piClim-NH3", 
     "status": "pending", 
-    "uid": "d41185a9-6579-417a-be0f-1a42b6c70f4c"
+    "uid": "fdec905a-4cbb-4ae8-a971-f18fa22987a8"
 }

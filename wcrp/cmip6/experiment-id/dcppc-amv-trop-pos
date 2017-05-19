@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "dcppc-amv-trop-pos", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 227, 
     "label": "dcppC-amv-Trop-pos", 
-    "name": "dcppc-amv-trop-pos", 
-    "nameRaw": "dcppC-amv-Trop-pos", 
+    "rawName": "dcppC-amv-Trop-pos", 
     "status": "pending", 
-    "uid": "983f9891-7de0-4ded-9065-0dd7c6a48fae"
+    "uid": "4334344c-3034-4fd5-a2f2-b4f090597a24"
 }

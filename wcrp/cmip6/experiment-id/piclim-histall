@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "piclim-histall", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 18, 
     "label": "piClim-histall", 
-    "name": "piclim-histall", 
-    "nameRaw": "piClim-histall", 
+    "rawName": "piClim-histall", 
     "status": "pending", 
-    "uid": "5721ecd5-1a93-432f-9312-74f936d40a2a"
+    "uid": "822488b5-8827-48a6-a41c-26c03aeb491a"
 }

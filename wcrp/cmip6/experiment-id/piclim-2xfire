@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "piclim-2xfire", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 161, 
     "label": "piClim-2xfire", 
-    "name": "piclim-2xfire", 
-    "nameRaw": "piClim-2xfire", 
+    "rawName": "piClim-2xfire", 
     "status": "pending", 
-    "uid": "247406d1-1835-4be0-942f-be8af749dd62"
+    "uid": "ab43b876-8c24-4055-a76d-868d1710c926"
 }

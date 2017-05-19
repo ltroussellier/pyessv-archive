@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "volc-cluster-21c", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 46, 
     "label": "volc-cluster-21C", 
-    "name": "volc-cluster-21c", 
-    "nameRaw": "volc-cluster-21C", 
+    "rawName": "volc-cluster-21C", 
     "status": "pending", 
-    "uid": "8707cdb3-5b4e-47af-9f25-724b6e9ad8fa"
+    "uid": "375b9ad8-f4a3-40e8-8b99-967f942619ef"
 }

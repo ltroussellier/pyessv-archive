@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "mpiesm-1-2-hr", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -52,8 +53,7 @@
     }, 
     "idx": 15, 
     "label": "MPIESM-1-2-HR", 
-    "name": "mpiesm-1-2-hr", 
-    "nameRaw": "MPIESM-1-2-HR", 
+    "rawName": "MPIESM-1-2-HR", 
     "status": "pending", 
-    "uid": "82ba3b8f-90e3-4ec8-99e8-581361bb873c"
+    "uid": "0566d2d8-f76b-437b-bc2c-3f22ffc5a86f"
 }

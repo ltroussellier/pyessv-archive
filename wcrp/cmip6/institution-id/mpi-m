@@ -1,13 +1,13 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "mpi-m", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "postalAddress": "Max Planck Institute for Meteorology, Hamburg 20146, Germany"
     }, 
     "idx": 11, 
     "label": "MPI-M", 
-    "name": "mpi-m", 
-    "nameRaw": "MPI-M", 
+    "rawName": "MPI-M", 
     "status": "pending", 
-    "uid": "5d6c5bb6-5361-4d83-918c-3ddae0f8e532"
+    "uid": "2cc1e393-30b6-4765-a415-6d1f1d5894c0"
 }

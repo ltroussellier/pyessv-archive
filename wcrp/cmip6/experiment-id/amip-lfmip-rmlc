@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "amip-lfmip-rmlc", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 44, 
     "label": "amip-lfmip-rmLC", 
-    "name": "amip-lfmip-rmlc", 
-    "nameRaw": "amip-lfmip-rmLC", 
+    "rawName": "amip-lfmip-rmLC", 
     "status": "pending", 
-    "uid": "fc2f5901-13d3-41be-97b7-86cc1b963021"
+    "uid": "829f382a-8a29-4e90-b14c-827bd851693c"
 }

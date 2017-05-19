@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "piclim-2xdust", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 225, 
     "label": "piClim-2xdust", 
-    "name": "piclim-2xdust", 
-    "nameRaw": "piClim-2xdust", 
+    "rawName": "piClim-2xdust", 
     "status": "pending", 
-    "uid": "d19b526f-f509-40e7-8fec-7a6fd254b90d"
+    "uid": "2e07b3cc-dfc9-4fcf-867c-1fea6a1ab082"
 }

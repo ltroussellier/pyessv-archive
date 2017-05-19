@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "volc-cluster-ctrl", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 191, 
     "label": "volc-cluster-ctrl", 
-    "name": "volc-cluster-ctrl", 
-    "nameRaw": "volc-cluster-ctrl", 
+    "rawName": "volc-cluster-ctrl", 
     "status": "pending", 
-    "uid": "e07c8e5d-a327-4d00-8883-fc543aa6aa30"
+    "uid": "f4cac9e8-53bd-4d48-9f6a-977bc84a8451"
 }

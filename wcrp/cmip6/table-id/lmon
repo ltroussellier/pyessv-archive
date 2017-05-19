@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "lmon", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 32, 
     "label": "Lmon", 
-    "name": "lmon", 
-    "nameRaw": "Lmon", 
+    "rawName": "Lmon", 
     "status": "pending", 
-    "uid": "fdeb550f-419d-49e8-8adb-c6b643c0755e"
+    "uid": "228176e5-8db2-4143-8a06-ff941d0699e6"
 }

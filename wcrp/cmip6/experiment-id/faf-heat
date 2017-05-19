@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "faf-heat", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 23, 
     "label": "faf-heat", 
-    "name": "faf-heat", 
-    "nameRaw": "faf-heat", 
+    "rawName": "faf-heat", 
     "status": "pending", 
-    "uid": "10731559-df12-40c2-89fa-bb77c095ad6f"
+    "uid": "9121cbd3-d112-49c3-8513-a4d3efd05245"
 }

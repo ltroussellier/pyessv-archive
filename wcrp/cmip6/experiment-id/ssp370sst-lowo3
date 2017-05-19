@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "ssp370sst-lowo3", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -30,8 +31,7 @@
     }, 
     "idx": 242, 
     "label": "ssp370SST-lowO3", 
-    "name": "ssp370sst-lowo3", 
-    "nameRaw": "ssp370SST-lowO3", 
+    "rawName": "ssp370SST-lowO3", 
     "status": "pending", 
-    "uid": "b3aca25f-2287-4b1a-8526-e88fbcf53558"
+    "uid": "0d270a9a-ee22-4c6a-82b0-2b65b9aa6f0d"
 }

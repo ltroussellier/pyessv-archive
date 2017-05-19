@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "ism-bsmb-std", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 37, 
     "label": "ism-bsmb-std", 
-    "name": "ism-bsmb-std", 
-    "nameRaw": "ism-bsmb-std", 
+    "rawName": "ism-bsmb-std", 
     "status": "pending", 
-    "uid": "6cba112d-da3a-45f3-ad93-5a4ad89fa440"
+    "uid": "d84c31f4-d909-4313-9848-af8927d6c242"
 }

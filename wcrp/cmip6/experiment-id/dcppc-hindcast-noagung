@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "dcppc-hindcast-noagung", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -34,8 +35,7 @@
     }, 
     "idx": 122, 
     "label": "dcppC-hindcast-noAgung", 
-    "name": "dcppc-hindcast-noagung", 
-    "nameRaw": "dcppC-hindcast-noAgung", 
+    "rawName": "dcppC-hindcast-noAgung", 
     "status": "pending", 
-    "uid": "c71a8f97-58bd-4a3b-a0d7-23f84d55791a"
+    "uid": "9644725e-f3c8-47ef-8af2-a8c3689e3703"
 }

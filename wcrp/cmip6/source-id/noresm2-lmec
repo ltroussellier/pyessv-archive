@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "noresm2-lmec", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -52,8 +53,7 @@
     }, 
     "idx": 39, 
     "label": "NorESM2-LMEC", 
-    "name": "noresm2-lmec", 
-    "nameRaw": "NorESM2-LMEC", 
+    "rawName": "NorESM2-LMEC", 
     "status": "pending", 
-    "uid": "67016ce5-06b9-4555-850b-0219d9c0d38a"
+    "uid": "fbbce002-bca6-4806-951b-981b7012dc1f"
 }

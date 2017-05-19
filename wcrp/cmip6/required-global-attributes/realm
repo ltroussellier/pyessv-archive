@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "realm", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 20, 
     "label": "realm", 
-    "name": "realm", 
-    "nameRaw": "realm", 
+    "rawName": "realm", 
     "status": "pending", 
-    "uid": "e73fb29d-0e44-4aec-a083-5153e203f1f7"
+    "uid": "aa9fbaca-ae82-4eb2-8a80-fd0875581bb7"
 }

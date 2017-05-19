@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "volc-pinatubo-surf", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 109, 
     "label": "volc-pinatubo-surf", 
-    "name": "volc-pinatubo-surf", 
-    "nameRaw": "volc-pinatubo-surf", 
+    "rawName": "volc-pinatubo-surf", 
     "status": "pending", 
-    "uid": "c399ec50-453f-4686-a542-30b80c4f7516"
+    "uid": "be890bf9-4da0-418d-9e5a-ecb713312ee9"
 }

@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "land-crop-nofert", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 236, 
     "label": "land-crop-noFert", 
-    "name": "land-crop-nofert", 
-    "nameRaw": "land-crop-noFert", 
+    "rawName": "land-crop-noFert", 
     "status": "pending", 
-    "uid": "ca77b136-3c80-4f7f-9d69-b76766dd980a"
+    "uid": "967b55ab-f37a-437d-8ee1-03d8444aaee9"
 }

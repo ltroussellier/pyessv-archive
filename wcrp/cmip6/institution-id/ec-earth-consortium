@@ -1,13 +1,13 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "ec-earth-consortium", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "postalAddress": "KNMI, The Netherlands; SMHI, Sweden; DMI, Denmark; AEMET, Spain; Met Eireann, Ireland; CNR-ISAC, Italy; Instituto de Meteorologia, Portugal; FMI, Finland; BSC, Spain; Centro de Geofisica, University of Lisbon, Portugal; ENEA, Italy; Geomar, Germany; Geophysical Institute, University of Bergen, Norway; ICHEC, Ireland; ICTP, Italy; IMAU, The Netherlands; IRV, Sweden;  Lund University, Sweden; Meteorologiska Institutionen, Stockholms University, Sweden; Niels Bohr Institute, University of Copenhagen, Denmark; NTNU, Norway; SARA, The Netherlands; Unite ASTR, Belgium; Universiteit Utrecht, The Netherlands; Universiteit Wageningen, The Netherlands; University College Dublin, Ireland; Vrije Universiteit Amsterdam, the Netherlands; University of Helsinki, Finland; KIT, Karlsruhe, Germany; USC, University of Santiago de Compostela, Spain; Uppsala Universitet, Sweden; NLeSC, Netherlands eScience Center, The Netherlands"
     }, 
     "idx": 6, 
     "label": "EC-Earth-Consortium", 
-    "name": "ec-earth-consortium", 
-    "nameRaw": "EC-Earth-Consortium", 
+    "rawName": "EC-Earth-Consortium", 
     "status": "pending", 
-    "uid": "fd63bce7-f5b3-4857-b995-2b3a9fbdc33c"
+    "uid": "e7c164a8-20a6-4d9c-b0f1-39fca406d3cf"
 }

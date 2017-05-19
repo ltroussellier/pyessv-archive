@@ -1,13 +1,13 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "nerc", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "postalAddress": "Natural Environment Research Council, STFC-RAL, Harwell, Oxford, OX11 0QX, UK"
     }, 
     "idx": 24, 
     "label": "NERC", 
-    "name": "nerc", 
-    "nameRaw": "NERC", 
+    "rawName": "NERC", 
     "status": "pending", 
-    "uid": "37766c4c-1d14-4bcc-a58c-c47784d189a5"
+    "uid": "c27b75dd-cc97-44aa-ab60-e609e1b904cf"
 }

@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "land-nopasture", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 127, 
     "label": "land-noPasture", 
-    "name": "land-nopasture", 
-    "nameRaw": "land-noPasture", 
+    "rawName": "land-noPasture", 
     "status": "pending", 
-    "uid": "01c07909-bb07-4c5f-82ef-2caf5998e61f"
+    "uid": "b299ab83-bc78-4812-ba30-086e82e34d0c"
 }

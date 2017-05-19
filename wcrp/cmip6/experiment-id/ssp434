@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "ssp434", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 5, 
     "label": "ssp434", 
-    "name": "ssp434", 
-    "nameRaw": "ssp434", 
+    "rawName": "ssp434", 
     "status": "pending", 
-    "uid": "79d078d5-b059-4e04-8616-8ae07b6dd148"
+    "uid": "6b62de25-acee-4547-9117-3c5245cf34db"
 }

@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "tracking-id", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 27, 
     "label": "tracking_id", 
-    "name": "tracking-id", 
-    "nameRaw": "tracking_id", 
+    "rawName": "tracking_id", 
     "status": "pending", 
-    "uid": "cf05b81f-7949-479e-90c7-0c4509af9a98"
+    "uid": "19af0217-e561-40e0-9c56-fc5a9b1668b7"
 }

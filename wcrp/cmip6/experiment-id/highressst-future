@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "highressst-future", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -30,8 +31,7 @@
     }, 
     "idx": 48, 
     "label": "highresSST-future", 
-    "name": "highressst-future", 
-    "nameRaw": "highresSST-future", 
+    "rawName": "highresSST-future", 
     "status": "pending", 
-    "uid": "63d8186a-1a06-48a9-ab02-2c9e0818afd7"
+    "uid": "cff55561-de45-4d3d-a90c-3e56bae1523e"
 }

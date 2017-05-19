@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "hist-all-nat2", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 184, 
     "label": "hist-all-nat2", 
-    "name": "hist-all-nat2", 
-    "nameRaw": "hist-all-nat2", 
+    "rawName": "hist-all-nat2", 
     "status": "pending", 
-    "uid": "001c5d85-4184-45a0-a674-8415922d93ca"
+    "uid": "ff1450f5-799b-4f2c-bb8d-6e3993ddb85b"
 }

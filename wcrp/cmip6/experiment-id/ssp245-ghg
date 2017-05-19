@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "ssp245-ghg", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 0, 
     "label": "ssp245-GHG", 
-    "name": "ssp245-ghg", 
-    "nameRaw": "ssp245-GHG", 
+    "rawName": "ssp245-GHG", 
     "status": "pending", 
-    "uid": "07790240-3f0c-4ae4-a4a6-804fcbda28f4"
+    "uid": "14554a4f-9fc2-4082-a604-cd6cb90beab3"
 }

@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "hist-volc", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 183, 
     "label": "hist-volc", 
-    "name": "hist-volc", 
-    "nameRaw": "hist-volc", 
+    "rawName": "hist-volc", 
     "status": "pending", 
-    "uid": "c0cbe319-8cba-493f-9637-16e8f68841e8"
+    "uid": "f29fa2e5-ad16-482c-8348-5780b3098b95"
 }

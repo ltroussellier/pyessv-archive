@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "esm-picontrol", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 117, 
     "label": "esm-piControl", 
-    "name": "esm-picontrol", 
-    "nameRaw": "esm-piControl", 
+    "rawName": "esm-piControl", 
     "status": "pending", 
-    "uid": "682c8666-e9ce-4c45-93b7-133ea178449d"
+    "uid": "d33a13de-2c22-43b9-9954-cb2d18e845c7"
 }

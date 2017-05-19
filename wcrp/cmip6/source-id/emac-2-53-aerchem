@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "emac-2-53-aerchem", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -53,8 +54,7 @@
     }, 
     "idx": 54, 
     "label": "EMAC-2-53-AerChem", 
-    "name": "emac-2-53-aerchem", 
-    "nameRaw": "EMAC-2-53-AerChem", 
+    "rawName": "EMAC-2-53-AerChem", 
     "status": "pending", 
-    "uid": "70193a5e-80b6-48ca-918c-06585b963933"
+    "uid": "3891d9f9-927a-45a6-9979-0afe1800907e"
 }

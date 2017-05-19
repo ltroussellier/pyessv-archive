@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "land", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 7, 
     "label": "LAND", 
-    "name": "land", 
-    "nameRaw": "LAND", 
+    "rawName": "LAND", 
     "status": "pending", 
-    "uid": "3dd89561-5ad5-44ea-932a-a0266dbe709a"
+    "uid": "08ac28ae-e65f-426b-ad56-7f658f6730a7"
 }

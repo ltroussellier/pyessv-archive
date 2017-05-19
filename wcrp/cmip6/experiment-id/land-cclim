@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "land-cclim", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 119, 
     "label": "land-cClim", 
-    "name": "land-cclim", 
-    "nameRaw": "land-cClim", 
+    "rawName": "land-cClim", 
     "status": "pending", 
-    "uid": "b5a3b758-2848-42ca-b5cc-a818beb77333"
+    "uid": "2b78c051-51ab-4d91-9de9-abb56b47aca4"
 }

@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "lig127k", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 92, 
     "label": "lig127k", 
-    "name": "lig127k", 
-    "nameRaw": "lig127k", 
+    "rawName": "lig127k", 
     "status": "pending", 
-    "uid": "5a9ff22a-7b1c-4e65-ba6c-ceeb5cf6640f"
+    "uid": "54e25292-5d50-4a03-862d-9b951332f33c"
 }

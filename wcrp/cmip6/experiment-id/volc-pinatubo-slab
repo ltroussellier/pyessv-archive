@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "volc-pinatubo-slab", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -33,8 +34,7 @@
     }, 
     "idx": 77, 
     "label": "volc-pinatubo-slab", 
-    "name": "volc-pinatubo-slab", 
-    "nameRaw": "volc-pinatubo-slab", 
+    "rawName": "volc-pinatubo-slab", 
     "status": "pending", 
-    "uid": "4a7d884f-e9e6-42fc-92d2-7fd10d32d556"
+    "uid": "ce5482d2-2111-469a-8066-50a5aa64df3b"
 }

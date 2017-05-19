@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "ism-1pctco2to4x-self", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 13, 
     "label": "ism-1pctCO2to4x-self", 
-    "name": "ism-1pctco2to4x-self", 
-    "nameRaw": "ism-1pctCO2to4x-self", 
+    "rawName": "ism-1pctCO2to4x-self", 
     "status": "pending", 
-    "uid": "7d6c7c99-c0b3-4b6c-b26c-2a066305db69"
+    "uid": "aa5d219a-29e6-4d72-98c7-9bd129e4d68a"
 }

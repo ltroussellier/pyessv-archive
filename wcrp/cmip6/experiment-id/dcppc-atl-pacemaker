@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "dcppc-atl-pacemaker", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -33,8 +34,7 @@
     }, 
     "idx": 146, 
     "label": "dcppC-atl-pacemaker", 
-    "name": "dcppc-atl-pacemaker", 
-    "nameRaw": "dcppC-atl-pacemaker", 
+    "rawName": "dcppC-atl-pacemaker", 
     "status": "pending", 
-    "uid": "6ded8a4e-c850-40ab-9c4c-8a302b48371b"
+    "uid": "1c1f7090-eb29-4a14-876c-4c087f519563"
 }

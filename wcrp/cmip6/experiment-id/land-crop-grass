@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "land-crop-grass", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 26, 
     "label": "land-crop-grass", 
-    "name": "land-crop-grass", 
-    "nameRaw": "land-crop-grass", 
+    "rawName": "land-crop-grass", 
     "status": "pending", 
-    "uid": "8faebef1-5cb7-47db-90b1-eca0d930f8a9"
+    "uid": "8cdbe71a-46f3-4d30-a3c7-cf9778575b30"
 }

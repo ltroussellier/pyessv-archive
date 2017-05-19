@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "pisst-pxk", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 124, 
     "label": "piSST-pxK", 
-    "name": "pisst-pxk", 
-    "nameRaw": "piSST-pxK", 
+    "rawName": "piSST-pxK", 
     "status": "pending", 
-    "uid": "dc79e48b-beb7-46e6-ad61-5133d81903ab"
+    "uid": "5abb8824-16c8-43da-b3ea-27d86c2a1c97"
 }

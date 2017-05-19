@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "ssp245-aer", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 143, 
     "label": "ssp245-aer", 
-    "name": "ssp245-aer", 
-    "nameRaw": "ssp245-aer", 
+    "rawName": "ssp245-aer", 
     "status": "pending", 
-    "uid": "72d3ba18-ef7e-4e90-a231-7e437ac892b2"
+    "uid": "769be9ea-def1-4c41-8087-55d7e51747d9"
 }

@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "amip-lwoff", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 79, 
     "label": "amip-lwoff", 
-    "name": "amip-lwoff", 
-    "nameRaw": "amip-lwoff", 
+    "rawName": "amip-lwoff", 
     "status": "pending", 
-    "uid": "d801d35c-4549-409a-ad88-b08eed4bb3d8"
+    "uid": "459e52ee-c4e2-4c23-9c78-a9b473dbea5f"
 }

@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "piclim-bc", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 203, 
     "label": "piClim-BC", 
-    "name": "piclim-bc", 
-    "nameRaw": "piClim-BC", 
+    "rawName": "piClim-BC", 
     "status": "pending", 
-    "uid": "ec49d815-51aa-40e0-bcce-639a3e0ce8da"
+    "uid": "6e4cdec4-0f48-4625-8bbc-595056573840"
 }

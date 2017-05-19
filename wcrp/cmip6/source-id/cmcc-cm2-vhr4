@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "cmcc-cm2-vhr4", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -53,8 +54,7 @@
     }, 
     "idx": 9, 
     "label": "CMCC-CM2-VHR4", 
-    "name": "cmcc-cm2-vhr4", 
-    "nameRaw": "CMCC-CM2-VHR4", 
+    "rawName": "CMCC-CM2-VHR4", 
     "status": "pending", 
-    "uid": "85c982a6-8df0-4522-b01a-f0999d6fd50f"
+    "uid": "07d6313c-0c03-4e94-9698-6e38c0d8a2e0"
 }

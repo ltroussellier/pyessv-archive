@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "ism-pdcontrol-std", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 94, 
     "label": "ism-pdControl-std", 
-    "name": "ism-pdcontrol-std", 
-    "nameRaw": "ism-pdControl-std", 
+    "rawName": "ism-pdControl-std", 
     "status": "pending", 
-    "uid": "205c8cae-479c-4b8b-8bae-6b036d6d23ba"
+    "uid": "82f4a364-1b6a-4c49-a627-38f7d2bc0e46"
 }

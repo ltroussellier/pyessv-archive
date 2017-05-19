@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "dcppc-forecast-addelchichon", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -34,8 +35,7 @@
     }, 
     "idx": 197, 
     "label": "dcppC-forecast-addElChichon", 
-    "name": "dcppc-forecast-addelchichon", 
-    "nameRaw": "dcppC-forecast-addElChichon", 
+    "rawName": "dcppC-forecast-addElChichon", 
     "status": "pending", 
-    "uid": "922aff54-7824-499b-96c7-dcc7483dcfbf"
+    "uid": "b06a3bff-5340-4768-9ea9-a8384d3827e0"
 }

@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "simon", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 40, 
     "label": "SImon", 
-    "name": "simon", 
-    "nameRaw": "SImon", 
+    "rawName": "SImon", 
     "status": "pending", 
-    "uid": "a01bae5c-4474-4d91-9e79-b531ed3a9c46"
+    "uid": "dbc88a81-2ac0-4df4-84e9-9fb0cc53deae"
 }

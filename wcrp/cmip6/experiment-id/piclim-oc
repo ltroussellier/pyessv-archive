@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "piclim-oc", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 3, 
     "label": "piClim-OC", 
-    "name": "piclim-oc", 
-    "nameRaw": "piClim-OC", 
+    "rawName": "piClim-OC", 
     "status": "pending", 
-    "uid": "3c61fc20-bc87-4e00-93bd-9a8fc49c117c"
+    "uid": "8da6562f-9f99-4ddd-83b0-7bc16037c993"
 }

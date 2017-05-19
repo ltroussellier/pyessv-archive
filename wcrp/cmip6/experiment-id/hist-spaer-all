@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "hist-spaer-all", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 167, 
     "label": "hist-spAer-all", 
-    "name": "hist-spaer-all", 
-    "nameRaw": "hist-spAer-all", 
+    "rawName": "hist-spAer-all", 
     "status": "pending", 
-    "uid": "4e14fafc-2d36-4741-907a-51523e0072fe"
+    "uid": "c842d2ca-c3cc-4cc2-b2a8-d6d48fc78331"
 }

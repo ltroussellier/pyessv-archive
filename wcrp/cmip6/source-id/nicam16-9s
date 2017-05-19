@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "nicam16-9s", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -52,8 +53,7 @@
     }, 
     "idx": 28, 
     "label": "NICAM16-9S", 
-    "name": "nicam16-9s", 
-    "nameRaw": "NICAM16-9S", 
+    "rawName": "NICAM16-9S", 
     "status": "pending", 
-    "uid": "0591dec7-e655-475a-929f-7086dfbfd8f5"
+    "uid": "2fe0712a-ab55-4c84-a654-b101e5659bd1"
 }

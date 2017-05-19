@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "ukesm1-0-ll", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -53,8 +54,7 @@
     }, 
     "idx": 5, 
     "label": "UKESM1-0-LL", 
-    "name": "ukesm1-0-ll", 
-    "nameRaw": "UKESM1-0-LL", 
+    "rawName": "UKESM1-0-LL", 
     "status": "pending", 
-    "uid": "63a27bb7-f398-4948-bdd8-7e5d8f37c553"
+    "uid": "ef3a585c-f643-446b-802a-34ce1041d39c"
 }

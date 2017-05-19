@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "amip-tip", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 104, 
     "label": "amip-TIP", 
-    "name": "amip-tip", 
-    "nameRaw": "amip-TIP", 
+    "rawName": "amip-TIP", 
     "status": "pending", 
-    "uid": "ef286da0-d47f-48bb-b72c-7e19feadbdad"
+    "uid": "0d62846e-e4fb-4630-9083-a28c118464bd"
 }

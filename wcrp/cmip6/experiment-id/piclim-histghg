@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "piclim-histghg", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 29, 
     "label": "piClim-histghg", 
-    "name": "piclim-histghg", 
-    "nameRaw": "piClim-histghg", 
+    "rawName": "piClim-histghg", 
     "status": "pending", 
-    "uid": "cf9b0ec4-03ea-4283-9982-cd493926ea64"
+    "uid": "88bbac8e-a66e-4aef-8040-22727a553040"
 }

@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "midpliocene-eoi400", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 170, 
     "label": "midPliocene-eoi400", 
-    "name": "midpliocene-eoi400", 
-    "nameRaw": "midPliocene-eoi400", 
+    "rawName": "midPliocene-eoi400", 
     "status": "pending", 
-    "uid": "410dbb21-dca5-4212-85a9-08437b7b1d4b"
+    "uid": "21ae504f-a1f5-43ce-bb69-b9eaae039c4e"
 }

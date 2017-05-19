@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "edayz", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 19, 
     "label": "EdayZ", 
-    "name": "edayz", 
-    "nameRaw": "EdayZ", 
+    "rawName": "EdayZ", 
     "status": "pending", 
-    "uid": "c6486d38-0cb3-4b7c-aef0-d79425d8ae6d"
+    "uid": "7aca775d-8c4e-45fe-888f-b9156a791626"
 }

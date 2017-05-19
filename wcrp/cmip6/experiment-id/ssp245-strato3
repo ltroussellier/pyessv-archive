@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "ssp245-strato3", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 162, 
     "label": "ssp245-stratO3", 
-    "name": "ssp245-strato3", 
-    "nameRaw": "ssp245-stratO3", 
+    "rawName": "ssp245-stratO3", 
     "status": "pending", 
-    "uid": "4ac45897-a9c2-4a18-969c-97271e57aca8"
+    "uid": "c5e31e57-186e-4737-9d1e-5f3c6f158ba0"
 }

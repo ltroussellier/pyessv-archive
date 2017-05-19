@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "faf-stress", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 98, 
     "label": "faf-stress", 
-    "name": "faf-stress", 
-    "nameRaw": "faf-stress", 
+    "rawName": "faf-stress", 
     "status": "pending", 
-    "uid": "7e64642e-e98e-468f-8d52-c86f3c16326e"
+    "uid": "7f87289c-aa98-47a1-9da1-97ea1cec4fc3"
 }

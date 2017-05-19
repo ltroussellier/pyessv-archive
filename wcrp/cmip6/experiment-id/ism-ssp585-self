@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "ism-ssp585-self", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 188, 
     "label": "ism-ssp585-self", 
-    "name": "ism-ssp585-self", 
-    "nameRaw": "ism-ssp585-self", 
+    "rawName": "ism-ssp585-self", 
     "status": "pending", 
-    "uid": "28164118-12ba-44d0-bd29-369c63980331"
+    "uid": "2f0a4cdb-5df6-40d2-9641-45bc04efc0a1"
 }

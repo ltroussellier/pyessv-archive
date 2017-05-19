@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "piclim-control", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 118, 
     "label": "piClim-control", 
-    "name": "piclim-control", 
-    "nameRaw": "piClim-control", 
+    "rawName": "piClim-control", 
     "status": "pending", 
-    "uid": "55315897-ef1f-4cf2-93d3-24c93185a88b"
+    "uid": "a6bcf67b-7923-4a8e-ac56-2d9200ff65aa"
 }

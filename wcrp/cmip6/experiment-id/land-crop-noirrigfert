@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "land-crop-noirrigfert", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 158, 
     "label": "land-crop-noIrrigFert", 
-    "name": "land-crop-noirrigfert", 
-    "nameRaw": "land-crop-noIrrigFert", 
+    "rawName": "land-crop-noIrrigFert", 
     "status": "pending", 
-    "uid": "1d626a1a-22ce-41d1-b7dc-7c9360d45eed"
+    "uid": "014bdd34-8493-444f-bf12-248581fa0bae"
 }

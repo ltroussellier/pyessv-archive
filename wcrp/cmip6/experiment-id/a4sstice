@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "a4sstice", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 220, 
     "label": "a4SSTice", 
-    "name": "a4sstice", 
-    "nameRaw": "a4SSTice", 
+    "rawName": "a4SSTice", 
     "status": "pending", 
-    "uid": "d92789a6-30e8-4d8c-8316-a423173b6c36"
+    "uid": "a17013c4-1682-4da7-9b20-7c79d17f4537"
 }

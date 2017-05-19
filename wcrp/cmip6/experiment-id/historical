@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "historical", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 102, 
     "label": "historical", 
-    "name": "historical", 
-    "nameRaw": "historical", 
+    "rawName": "historical", 
     "status": "pending", 
-    "uid": "15d19a20-b32d-48ac-bbd8-c41ed7fca647"
+    "uid": "1a36f79f-e442-4245-8f2b-dcad0275a027"
 }

@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "dcppc-atl-control", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 208, 
     "label": "dcppC-atl-control", 
-    "name": "dcppc-atl-control", 
-    "nameRaw": "dcppC-atl-control", 
+    "rawName": "dcppC-atl-control", 
     "status": "pending", 
-    "uid": "29c256b3-6416-43d5-9546-5b07a30210af"
+    "uid": "c3f1d59a-0655-4eed-ac61-78ce3321b83b"
 }

@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "100-km", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 3, 
     "label": "100 km", 
-    "name": "100-km", 
-    "nameRaw": "100 km", 
+    "rawName": "100 km", 
     "status": "pending", 
-    "uid": "bdce9a41-0a49-4d39-8949-ab3dbcb2de64"
+    "uid": "8529dca1-500a-433f-93b3-501f3a18b25d"
 }

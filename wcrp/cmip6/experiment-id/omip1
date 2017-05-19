@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "omip1", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 213, 
     "label": "omip1", 
-    "name": "omip1", 
-    "nameRaw": "omip1", 
+    "rawName": "omip1", 
     "status": "pending", 
-    "uid": "b108ca42-e961-48ce-a495-52f5a9176775"
+    "uid": "8528e71d-f5d9-4b5c-80d7-a38f3858439b"
 }

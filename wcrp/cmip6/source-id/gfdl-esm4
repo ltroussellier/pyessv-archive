@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "gfdl-esm4", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -62,8 +63,7 @@
     }, 
     "idx": 55, 
     "label": "GFDL-ESM4", 
-    "name": "gfdl-esm4", 
-    "nameRaw": "GFDL-ESM4", 
+    "rawName": "GFDL-ESM4", 
     "status": "pending", 
-    "uid": "54c7881d-8aae-4062-86a3-4e9f8160fdac"
+    "uid": "333bca1e-9589-49fa-a4a0-2496f3f9d6af"
 }

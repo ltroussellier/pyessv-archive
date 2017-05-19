@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "piclim-histaer", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 212, 
     "label": "piClim-histaer", 
-    "name": "piclim-histaer", 
-    "nameRaw": "piClim-histaer", 
+    "rawName": "piClim-histaer", 
     "status": "pending", 
-    "uid": "9e1b1235-6475-4852-a787-cddcec14ff58"
+    "uid": "0390ed64-2d85-4860-8635-538403f5cb20"
 }

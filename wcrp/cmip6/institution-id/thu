@@ -1,13 +1,13 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "thu", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "postalAddress": "Department of Earth System Science, Tsinghua University, Beijing 100084, China"
     }, 
     "idx": 16, 
     "label": "THU", 
-    "name": "thu", 
-    "nameRaw": "THU", 
+    "rawName": "THU", 
     "status": "pending", 
-    "uid": "4bbd8f29-0ff2-46ff-9ca2-9fb8cad1e837"
+    "uid": "3442d212-4f5d-463d-b130-a1698f05a2d0"
 }

@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "1-km", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 1, 
     "label": "1 km", 
-    "name": "1-km", 
-    "nameRaw": "1 km", 
+    "rawName": "1 km", 
     "status": "pending", 
-    "uid": "769ec2cc-e472-4d9d-b0e7-7a176c68a944"
+    "uid": "0373ed7c-7522-45e9-87d3-400e45b1ded3"
 }

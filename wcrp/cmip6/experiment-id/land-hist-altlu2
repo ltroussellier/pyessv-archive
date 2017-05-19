@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "land-hist-altlu2", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 113, 
     "label": "land-hist-altLu2", 
-    "name": "land-hist-altlu2", 
-    "nameRaw": "land-hist-altLu2", 
+    "rawName": "land-hist-altLu2", 
     "status": "pending", 
-    "uid": "178b6b2f-1f26-485d-a8f9-925c8eaf9110"
+    "uid": "b4f946c0-bcd0-4cbd-be14-a4d31a017546"
 }

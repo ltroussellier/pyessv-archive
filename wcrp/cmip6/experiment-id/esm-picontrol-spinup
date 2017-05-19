@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "esm-picontrol-spinup", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 223, 
     "label": "esm-piControl-spinup", 
-    "name": "esm-picontrol-spinup", 
-    "nameRaw": "esm-piControl-spinup", 
+    "rawName": "esm-piControl-spinup", 
     "status": "pending", 
-    "uid": "a02862f9-2f5f-426c-b1fa-2ddc5a29304e"
+    "uid": "72529d6e-3f33-45c4-a217-06f8324bc5d2"
 }

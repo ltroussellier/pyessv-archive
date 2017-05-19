@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "lfmip-initlc", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 205, 
     "label": "lfmip-initLC", 
-    "name": "lfmip-initlc", 
-    "nameRaw": "lfmip-initLC", 
+    "rawName": "lfmip-initLC", 
     "status": "pending", 
-    "uid": "ab556824-d4d2-44e1-8e51-fef3ca08a51c"
+    "uid": "ae2d2ea6-5e5f-4789-a48a-155166bf8dea"
 }

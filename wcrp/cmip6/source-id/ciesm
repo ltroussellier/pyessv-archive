@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "ciesm", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -58,8 +59,7 @@
     }, 
     "idx": 18, 
     "label": "CIESM", 
-    "name": "ciesm", 
-    "nameRaw": "CIESM", 
+    "rawName": "CIESM", 
     "status": "pending", 
-    "uid": "61eb7632-7339-4009-a427-aa020b436220"
+    "uid": "e9ecb485-2578-4259-98a4-19e517181d83"
 }

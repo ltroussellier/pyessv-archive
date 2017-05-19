@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "amip-lfmip-pobs", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 141, 
     "label": "amip-lfmip-pObs", 
-    "name": "amip-lfmip-pobs", 
-    "nameRaw": "amip-lfmip-pObs", 
+    "rawName": "amip-lfmip-pObs", 
     "status": "pending", 
-    "uid": "cf50b547-231a-4560-9167-50d14cd23d0a"
+    "uid": "1d690ccb-f5be-4e9b-b0e2-2bf67f67b29a"
 }

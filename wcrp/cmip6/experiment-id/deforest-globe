@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "deforest-globe", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 175, 
     "label": "deforest-globe", 
-    "name": "deforest-globe", 
-    "nameRaw": "deforest-globe", 
+    "rawName": "deforest-globe", 
     "status": "pending", 
-    "uid": "8c4e3135-87d4-4df5-97eb-2fdca6511d4c"
+    "uid": "b5e3d6f6-d4a8-43e9-88bf-7891143c2639"
 }

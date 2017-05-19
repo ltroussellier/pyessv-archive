@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "amip-a4sst-4xco2", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 216, 
     "label": "amip-a4SST-4xCO2", 
-    "name": "amip-a4sst-4xco2", 
-    "nameRaw": "amip-a4SST-4xCO2", 
+    "rawName": "amip-a4SST-4xCO2", 
     "status": "pending", 
-    "uid": "f2cf3e13-748a-4d67-a950-eede9b31d5de"
+    "uid": "f6415a4c-8d4a-482b-87b6-dc27d48ad639"
 }

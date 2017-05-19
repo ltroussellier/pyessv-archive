@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "scenariomip", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 19, 
     "label": "ScenarioMIP", 
-    "name": "scenariomip", 
-    "nameRaw": "ScenarioMIP", 
+    "rawName": "ScenarioMIP", 
     "status": "pending", 
-    "uid": "50fbb775-9c6d-4355-8279-942d83ae2774"
+    "uid": "a3bfd037-9341-4999-97c4-3da41923bffa"
 }

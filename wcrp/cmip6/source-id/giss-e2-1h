@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "giss-e2-1h", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -52,8 +53,7 @@
     }, 
     "idx": 6, 
     "label": "GISS-E2-1H", 
-    "name": "giss-e2-1h", 
-    "nameRaw": "GISS-E2-1H", 
+    "rawName": "GISS-E2-1H", 
     "status": "pending", 
-    "uid": "e38d12b7-3cfb-4882-9254-9d116b662af4"
+    "uid": "3489dc22-5025-477a-89b8-eb0d269700ee"
 }

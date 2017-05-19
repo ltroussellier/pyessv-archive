@@ -1,13 +1,13 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "cccma", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "postalAddress": "Canadian Centre for Climate Modelling and Analysis, Victoria, BC V8P 5C2, Canada"
     }, 
     "idx": 1, 
     "label": "CCCma", 
-    "name": "cccma", 
-    "nameRaw": "CCCma", 
+    "rawName": "CCCma", 
     "status": "pending", 
-    "uid": "d8978c5d-7d80-47c6-a449-05c810cf6a8a"
+    "uid": "8c4a5e37-7193-46dc-978e-cd4cee2f60de"
 }

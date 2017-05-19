@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "dcppc-amv-extrop-pos", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 177, 
     "label": "dcppC-amv-ExTrop-pos", 
-    "name": "dcppc-amv-extrop-pos", 
-    "nameRaw": "dcppC-amv-ExTrop-pos", 
+    "rawName": "dcppC-amv-ExTrop-pos", 
     "status": "pending", 
-    "uid": "f0d5e19b-ad29-482d-bed0-ed901922824b"
+    "uid": "c2783e86-aded-4dfc-9c55-2314f1f28f2c"
 }

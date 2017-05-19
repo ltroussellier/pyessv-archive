@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "picontrol-spinup", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 142, 
     "label": "piControl-spinup", 
-    "name": "picontrol-spinup", 
-    "nameRaw": "piControl-spinup", 
+    "rawName": "piControl-spinup", 
     "status": "pending", 
-    "uid": "d43ba190-13d9-4f5d-8922-a8f675716f8e"
+    "uid": "91a83052-f021-4934-9f84-2690e4b4bf1f"
 }

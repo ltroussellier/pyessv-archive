@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "piclim-ntcf", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 204, 
     "label": "piClim-NTCF", 
-    "name": "piclim-ntcf", 
-    "nameRaw": "piClim-NTCF", 
+    "rawName": "piClim-NTCF", 
     "status": "pending", 
-    "uid": "bd49c9cc-ec54-46d0-b411-4859508fe072"
+    "uid": "4217d85a-21b5-4c18-9d26-72ef8a1d3579"
 }

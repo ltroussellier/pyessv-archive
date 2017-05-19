@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "subhr", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 10, 
     "label": "subhr", 
-    "name": "subhr", 
-    "nameRaw": "subhr", 
+    "rawName": "subhr", 
     "status": "pending", 
-    "uid": "707ff234-9d81-4b98-92e1-e0be541cf58b"
+    "uid": "bcddd29b-a0a3-48fb-82f8-f9d5d39c054f"
 }

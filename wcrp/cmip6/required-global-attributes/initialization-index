@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "initialization-index", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 11, 
     "label": "initialization_index", 
-    "name": "initialization-index", 
-    "nameRaw": "initialization_index", 
+    "rawName": "initialization_index", 
     "status": "pending", 
-    "uid": "540b19d8-20f0-492d-8b20-921d8e8c24da"
+    "uid": "50413b24-f495-4347-b4a0-c427c9732503"
 }

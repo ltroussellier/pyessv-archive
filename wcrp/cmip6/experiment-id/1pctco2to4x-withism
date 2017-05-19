@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "1pctco2to4x-withism", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -33,8 +34,7 @@
     }, 
     "idx": 99, 
     "label": "1pctCO2to4x-withism", 
-    "name": "1pctco2to4x-withism", 
-    "nameRaw": "1pctCO2to4x-withism", 
+    "rawName": "1pctCO2to4x-withism", 
     "status": "pending", 
-    "uid": "a24d360f-9c37-4dac-93c8-657bc93bb963"
+    "uid": "45de69d1-0339-41de-a1b9-956a07033b6a"
 }

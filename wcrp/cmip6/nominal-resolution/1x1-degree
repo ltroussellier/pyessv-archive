@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "1x1-degree", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 6, 
     "label": "1x1 degree", 
-    "name": "1x1-degree", 
-    "nameRaw": "1x1 degree", 
+    "rawName": "1x1 degree", 
     "status": "pending", 
-    "uid": "d491715a-ad6f-4762-b985-5386f449d762"
+    "uid": "3e84be31-75f3-47b3-8548-a20858225d79"
 }

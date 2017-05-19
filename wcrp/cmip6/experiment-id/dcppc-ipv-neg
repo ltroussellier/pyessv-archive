@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "dcppc-ipv-neg", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 125, 
     "label": "dcppC-ipv-neg", 
-    "name": "dcppc-ipv-neg", 
-    "nameRaw": "dcppC-ipv-neg", 
+    "rawName": "dcppC-ipv-neg", 
     "status": "pending", 
-    "uid": "87d90efa-0019-499c-8b90-359e31f72246"
+    "uid": "e62d4a51-284f-4946-b2d2-375536a9b9cd"
 }

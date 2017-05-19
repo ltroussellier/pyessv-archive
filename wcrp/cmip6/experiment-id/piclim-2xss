@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "piclim-2xss", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 137, 
     "label": "piClim-2xss", 
-    "name": "piclim-2xss", 
-    "nameRaw": "piClim-2xss", 
+    "rawName": "piClim-2xss", 
     "status": "pending", 
-    "uid": "5d9b566f-8266-46e2-b573-ffb595a5d327"
+    "uid": "d49eaeff-97c0-4f2f-904b-ec55456a593d"
 }

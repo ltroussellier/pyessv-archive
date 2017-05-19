@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "pisst", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 211, 
     "label": "piSST", 
-    "name": "pisst", 
-    "nameRaw": "piSST", 
+    "rawName": "piSST", 
     "status": "pending", 
-    "uid": "9bc8695d-f68f-44f3-8de9-9d31fb1e8595"
+    "uid": "94a1e414-b73f-4103-9110-48f03ccae029"
 }

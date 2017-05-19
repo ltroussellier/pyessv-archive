@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "hist-resamo", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 33, 
     "label": "hist-resAMO", 
-    "name": "hist-resamo", 
-    "nameRaw": "hist-resAMO", 
+    "rawName": "hist-resAMO", 
     "status": "pending", 
-    "uid": "32eb85ce-04db-4527-b822-a0081a00a725"
+    "uid": "6d8fd372-8c91-4634-b029-e6b002d94100"
 }

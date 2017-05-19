@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "cams-csm1-0", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -52,8 +53,7 @@
     }, 
     "idx": 1, 
     "label": "CAMS_CSM1-0", 
-    "name": "cams-csm1-0", 
-    "nameRaw": "CAMS_CSM1-0", 
+    "rawName": "CAMS_CSM1-0", 
     "status": "pending", 
-    "uid": "670ebbbf-ff99-43df-a496-772eb1474dd5"
+    "uid": "8e97a2a7-4184-4398-85d0-86d208ca0e32"
 }

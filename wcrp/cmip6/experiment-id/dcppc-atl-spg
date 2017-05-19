@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "dcppc-atl-spg", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -39,8 +40,7 @@
     }, 
     "idx": 31, 
     "label": "dcppC-atl-spg", 
-    "name": "dcppc-atl-spg", 
-    "nameRaw": "dcppC-atl-spg", 
+    "rawName": "dcppC-atl-spg", 
     "status": "pending", 
-    "uid": "4914b07a-83f3-464a-8b43-3a02cc769c99"
+    "uid": "bd75cc9e-dd00-4ce0-87ac-6ca82bce439b"
 }

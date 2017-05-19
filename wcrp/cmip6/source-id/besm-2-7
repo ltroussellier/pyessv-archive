@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "besm-2-7", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -55,8 +56,7 @@
     }, 
     "idx": 16, 
     "label": "BESM-2-7", 
-    "name": "besm-2-7", 
-    "nameRaw": "BESM-2-7", 
+    "rawName": "BESM-2-7", 
     "status": "pending", 
-    "uid": "3bd7e481-abde-49a4-a056-669827049d24"
+    "uid": "c39885e7-eefa-4014-9a20-7341aa2aa01a"
 }

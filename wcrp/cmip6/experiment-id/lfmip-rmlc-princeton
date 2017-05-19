@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "lfmip-rmlc-princeton", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 186, 
     "label": "lfmip-rmLC-princeton", 
-    "name": "lfmip-rmlc-princeton", 
-    "nameRaw": "lfmip-rmLC-princeton", 
+    "rawName": "lfmip-rmLC-princeton", 
     "status": "pending", 
-    "uid": "04d3372f-211a-474f-8fb3-493e33b6aec8"
+    "uid": "c3ed46f0-c98f-4172-b971-8e9ea8cd37fd"
 }

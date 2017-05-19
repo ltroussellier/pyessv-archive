@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "iitm-esm", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -52,8 +53,7 @@
     }, 
     "idx": 52, 
     "label": "IITM-ESM", 
-    "name": "iitm-esm", 
-    "nameRaw": "IITM-ESM", 
+    "rawName": "IITM-ESM", 
     "status": "pending", 
-    "uid": "96e2a82c-402b-40c2-9472-1e3ed9c532e8"
+    "uid": "84e0d17d-8c37-4e1d-805a-aa4eba87765d"
 }

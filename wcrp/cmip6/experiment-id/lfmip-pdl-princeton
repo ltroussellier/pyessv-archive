@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "lfmip-pdl-princeton", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 157, 
     "label": "lfmip-pdL-princeton", 
-    "name": "lfmip-pdl-princeton", 
-    "nameRaw": "lfmip-pdL-princeton", 
+    "rawName": "lfmip-pdL-princeton", 
     "status": "pending", 
-    "uid": "701792d1-8e4c-4591-93a5-96cd8fe847ea"
+    "uid": "6e67d0f1-6ec4-4203-b304-5400ccecc367"
 }

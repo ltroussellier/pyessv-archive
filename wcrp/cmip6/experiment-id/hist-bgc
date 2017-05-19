@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "hist-bgc", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 129, 
     "label": "hist-bgc", 
-    "name": "hist-bgc", 
-    "nameRaw": "hist-bgc", 
+    "rawName": "hist-bgc", 
     "status": "pending", 
-    "uid": "63e8bb68-963a-411c-b7a2-a9ef26f21c62"
+    "uid": "77ab1384-8279-4570-878e-f42955b4f0c2"
 }

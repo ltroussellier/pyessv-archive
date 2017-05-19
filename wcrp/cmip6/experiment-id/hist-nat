@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "hist-nat", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 217, 
     "label": "hist-nat", 
-    "name": "hist-nat", 
-    "nameRaw": "hist-nat", 
+    "rawName": "hist-nat", 
     "status": "pending", 
-    "uid": "f7fd09f2-cf0e-4486-aa44-bd95827000c9"
+    "uid": "3d211179-2b4f-433b-b7a7-e1bc72a10566"
 }

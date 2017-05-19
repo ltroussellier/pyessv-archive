@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "g6sulfur", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 194, 
     "label": "G6sulfur", 
-    "name": "g6sulfur", 
-    "nameRaw": "G6sulfur", 
+    "rawName": "G6sulfur", 
     "status": "pending", 
-    "uid": "5c60a0cf-f7d6-4e33-9643-2ecd71b21fb8"
+    "uid": "20ecdbf3-2cd0-41d6-8847-7cca68368c91"
 }

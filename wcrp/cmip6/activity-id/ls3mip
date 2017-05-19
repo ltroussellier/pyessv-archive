@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "ls3mip", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 13, 
     "label": "LS3MIP", 
-    "name": "ls3mip", 
-    "nameRaw": "LS3MIP", 
+    "rawName": "LS3MIP", 
     "status": "pending", 
-    "uid": "dfe7e302-c699-4c7f-86da-d198be9ad91d"
+    "uid": "1077b473-0818-4c29-9a95-07eed371e0d4"
 }

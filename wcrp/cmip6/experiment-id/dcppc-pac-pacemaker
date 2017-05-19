@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "dcppc-pac-pacemaker", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -33,8 +34,7 @@
     }, 
     "idx": 199, 
     "label": "dcppC-pac-pacemaker", 
-    "name": "dcppc-pac-pacemaker", 
-    "nameRaw": "dcppC-pac-pacemaker", 
+    "rawName": "dcppC-pac-pacemaker", 
     "status": "pending", 
-    "uid": "a51c957a-1fe6-4405-bc49-1dac82293845"
+    "uid": "354beb25-fcf2-43bb-8898-3d84d1389e44"
 }

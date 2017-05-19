@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "histsst-pin2o", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 179, 
     "label": "histSST-piN2O", 
-    "name": "histsst-pin2o", 
-    "nameRaw": "histSST-piN2O", 
+    "rawName": "histSST-piN2O", 
     "status": "pending", 
-    "uid": "b42ff9dd-6696-4eeb-b62e-772e797449b8"
+    "uid": "01f21f45-48f9-4282-a2e2-b47646d3c30a"
 }

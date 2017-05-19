@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "lfmip-rmlc", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 64, 
     "label": "lfmip-rmLC", 
-    "name": "lfmip-rmlc", 
-    "nameRaw": "lfmip-rmLC", 
+    "rawName": "lfmip-rmLC", 
     "status": "pending", 
-    "uid": "a25cf5b8-c79e-4164-ba2a-2c7b2b6dad06"
+    "uid": "a1934449-e093-4a1b-8018-9e0d63df58e7"
 }

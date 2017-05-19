@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "highressst-present", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -30,8 +31,7 @@
     }, 
     "idx": 209, 
     "label": "highresSST-present", 
-    "name": "highressst-present", 
-    "nameRaw": "highresSST-present", 
+    "rawName": "highresSST-present", 
     "status": "pending", 
-    "uid": "8569b71a-2bf4-4dea-a0de-642c9fa3a0c5"
+    "uid": "8b05ebf2-8c45-4b36-88d2-84f150a79c19"
 }

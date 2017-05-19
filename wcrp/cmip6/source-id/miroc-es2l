@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "miroc-es2l", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -52,8 +53,7 @@
     }, 
     "idx": 58, 
     "label": "MIROC-ES2L", 
-    "name": "miroc-es2l", 
-    "nameRaw": "MIROC-ES2L", 
+    "rawName": "MIROC-ES2L", 
     "status": "pending", 
-    "uid": "622c54cd-1f1d-4df5-a7db-9dfdcf04462a"
+    "uid": "94c917d9-59dd-4f3c-adb3-71a05037b164"
 }

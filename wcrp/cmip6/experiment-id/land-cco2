@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "land-cco2", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 105, 
     "label": "land-cCO2", 
-    "name": "land-cco2", 
-    "nameRaw": "land-cCO2", 
+    "rawName": "land-cCO2", 
     "status": "pending", 
-    "uid": "1610f609-f91f-404d-a587-9e88c93e8cb0"
+    "uid": "c9dae667-a6db-44d3-a7f3-c6082d4729b2"
 }

@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "lfmip-rmlc-cruncep", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 224, 
     "label": "lfmip-rmLC-cruNcep", 
-    "name": "lfmip-rmlc-cruncep", 
-    "nameRaw": "lfmip-rmLC-cruNcep", 
+    "rawName": "lfmip-rmLC-cruNcep", 
     "status": "pending", 
-    "uid": "41324950-77ac-44f5-99e7-cebf8c63d9a1"
+    "uid": "1a9d16ff-4152-45b4-8073-037334df79df"
 }

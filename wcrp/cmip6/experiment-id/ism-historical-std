@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "ism-historical-std", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 207, 
     "label": "ism-historical-std", 
-    "name": "ism-historical-std", 
-    "nameRaw": "ism-historical-std", 
+    "rawName": "ism-historical-std", 
     "status": "pending", 
-    "uid": "efb44f90-d1f9-4cfa-9d71-745ce2dabc5d"
+    "uid": "9637e4ca-de85-4cdb-86e9-1ec0b80f62a5"
 }

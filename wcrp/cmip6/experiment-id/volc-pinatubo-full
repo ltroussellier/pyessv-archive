@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "volc-pinatubo-full", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 246, 
     "label": "volc-pinatubo-full", 
-    "name": "volc-pinatubo-full", 
-    "nameRaw": "volc-pinatubo-full", 
+    "rawName": "volc-pinatubo-full", 
     "status": "pending", 
-    "uid": "e5011e27-a05c-4b2c-a6ea-b97286846da3"
+    "uid": "93a3e96a-ce96-4ad0-ae66-b96c708c0c04"
 }

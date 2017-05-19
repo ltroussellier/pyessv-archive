@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "land-nowoodharv", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 219, 
     "label": "land-noWoodHarv", 
-    "name": "land-nowoodharv", 
-    "nameRaw": "land-noWoodHarv", 
+    "rawName": "land-noWoodHarv", 
     "status": "pending", 
-    "uid": "c2173fb0-4889-4daf-a5dc-e29d118c0d00"
+    "uid": "a303f9fe-92f2-48e0-a8b4-3f8f839f159f"
 }

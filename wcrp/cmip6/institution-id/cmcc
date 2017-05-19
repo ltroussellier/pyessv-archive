@@ -1,13 +1,13 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "cmcc", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "postalAddress": "Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici, Lecce 73100, Italy"
     }, 
     "idx": 8, 
     "label": "CMCC", 
-    "name": "cmcc", 
-    "nameRaw": "CMCC", 
+    "rawName": "CMCC", 
     "status": "pending", 
-    "uid": "96a918e2-35be-4755-9bb0-891f1a425256"
+    "uid": "f2dc93e7-5fc5-4158-b7b2-76828e9640de"
 }

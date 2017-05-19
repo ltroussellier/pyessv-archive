@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "rfmip", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 17, 
     "label": "RFMIP", 
-    "name": "rfmip", 
-    "nameRaw": "RFMIP", 
+    "rawName": "RFMIP", 
     "status": "pending", 
-    "uid": "98bc9f44-6604-4f75-9958-968411c286d4"
+    "uid": "12e53d1f-15fc-4caf-85a3-e6e1e2917977"
 }

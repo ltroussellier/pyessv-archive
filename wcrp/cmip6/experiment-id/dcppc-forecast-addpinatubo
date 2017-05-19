@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "dcppc-forecast-addpinatubo", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -35,8 +36,7 @@
     }, 
     "idx": 176, 
     "label": "dcppC-forecast-addPinatubo", 
-    "name": "dcppc-forecast-addpinatubo", 
-    "nameRaw": "dcppC-forecast-addPinatubo", 
+    "rawName": "dcppC-forecast-addPinatubo", 
     "status": "pending", 
-    "uid": "c5fc2e83-87ff-4ec9-9fd1-8461c6bd42e4"
+    "uid": "da4e4a4c-502f-4453-829e-fb87ada69a42"
 }

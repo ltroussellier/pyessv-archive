@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "mpiesm-2-lr", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -52,8 +53,7 @@
     }, 
     "idx": 53, 
     "label": "MPIESM-2-LR", 
-    "name": "mpiesm-2-lr", 
-    "nameRaw": "MPIESM-2-LR", 
+    "rawName": "MPIESM-2-LR", 
     "status": "pending", 
-    "uid": "c9ad985f-7953-4979-930b-7b6d785989df"
+    "uid": "13d02bec-0bee-4bb6-93aa-fa4660d49581"
 }

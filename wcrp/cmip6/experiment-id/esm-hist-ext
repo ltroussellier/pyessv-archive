@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "esm-hist-ext", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 21, 
     "label": "esm-hist-ext", 
-    "name": "esm-hist-ext", 
-    "nameRaw": "esm-hist-ext", 
+    "rawName": "esm-hist-ext", 
     "status": "pending", 
-    "uid": "793b0beb-d586-4c14-b9f7-2806a204f526"
+    "uid": "7e4ecceb-c802-408c-b718-d9b8652e078b"
 }

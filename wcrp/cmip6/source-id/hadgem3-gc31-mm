@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "hadgem3-gc31-mm", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -52,8 +53,7 @@
     }, 
     "idx": 38, 
     "label": "HadGEM3-GC31-MM", 
-    "name": "hadgem3-gc31-mm", 
-    "nameRaw": "HadGEM3-GC31-MM", 
+    "rawName": "HadGEM3-GC31-MM", 
     "status": "pending", 
-    "uid": "a49e817a-0e49-4986-aeb0-0ca07311e7f2"
+    "uid": "cef7ea58-ba23-4b70-9028-9c317080fd32"
 }

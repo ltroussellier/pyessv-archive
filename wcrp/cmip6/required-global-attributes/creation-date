@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "creation-date", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 2, 
     "label": "creation_date", 
-    "name": "creation-date", 
-    "nameRaw": "creation_date", 
+    "rawName": "creation_date", 
     "status": "pending", 
-    "uid": "762dd74a-c490-40fb-b0f5-1fbea01f7094"
+    "uid": "0cf0efea-f49b-4c54-a0ae-78d113ede064"
 }

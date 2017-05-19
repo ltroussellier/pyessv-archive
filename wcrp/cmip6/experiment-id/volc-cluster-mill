@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "volc-cluster-mill", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 135, 
     "label": "volc-cluster-mill", 
-    "name": "volc-cluster-mill", 
-    "nameRaw": "volc-cluster-mill", 
+    "rawName": "volc-cluster-mill", 
     "status": "pending", 
-    "uid": "4ae264e1-eef5-45a2-af3a-cb91d2f53cbb"
+    "uid": "8f74b722-c005-41d3-b503-48b35f7bf490"
 }

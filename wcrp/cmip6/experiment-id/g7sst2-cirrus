@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "g7sst2-cirrus", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 187, 
     "label": "G7SST2-cirrus", 
-    "name": "g7sst2-cirrus", 
-    "nameRaw": "G7SST2-cirrus", 
+    "rawName": "G7SST2-cirrus", 
     "status": "pending", 
-    "uid": "283f21ac-787d-4527-8eac-3249c844def9"
+    "uid": "a818d77e-a532-4abe-8f0b-f6e3156ea72e"
 }

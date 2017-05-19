@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "dcppa-historical-niff", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -88,8 +89,7 @@
     }, 
     "idx": 1, 
     "label": "dcppA-historical-niff", 
-    "name": "dcppa-historical-niff", 
-    "nameRaw": "dcppA-historical-niff", 
+    "rawName": "dcppA-historical-niff", 
     "status": "pending", 
-    "uid": "dd3390fe-7d40-479f-bc02-825cd078410b"
+    "uid": "c0ce44f7-b9c0-4dd3-986b-97a44079f329"
 }

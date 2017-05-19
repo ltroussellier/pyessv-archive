@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "volc-long-hls", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 160, 
     "label": "volc-long-hlS", 
-    "name": "volc-long-hls", 
-    "nameRaw": "volc-long-hlS", 
+    "rawName": "volc-long-hlS", 
     "status": "pending", 
-    "uid": "5a7e4417-9342-4895-a701-d1ef808dcfc3"
+    "uid": "0778131d-25d0-4278-b82d-df0156c569c8"
 }

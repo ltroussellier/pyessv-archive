@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "g6sst1", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 14, 
     "label": "G6SST1", 
-    "name": "g6sst1", 
-    "nameRaw": "G6SST1", 
+    "rawName": "G6SST1", 
     "status": "pending", 
-    "uid": "91695b96-4f94-49f1-8bb7-a500c2fc1d5d"
+    "uid": "cee64ad3-f27f-4120-bfe0-2c6a3654db40"
 }

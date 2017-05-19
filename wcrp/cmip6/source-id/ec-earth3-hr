@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "ec-earth3-hr", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -52,8 +53,7 @@
     }, 
     "idx": 24, 
     "label": "EC-Earth3-HR", 
-    "name": "ec-earth3-hr", 
-    "nameRaw": "EC-Earth3-HR", 
+    "rawName": "EC-Earth3-HR", 
     "status": "pending", 
-    "uid": "395991dd-9e45-49ff-8336-8cad7abdc0b6"
+    "uid": "6390e809-422f-45f2-814e-5f32f404833c"
 }

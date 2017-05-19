@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "amip-m4k", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 81, 
     "label": "amip-m4K", 
-    "name": "amip-m4k", 
-    "nameRaw": "amip-m4K", 
+    "rawName": "amip-m4K", 
     "status": "pending", 
-    "uid": "850104eb-9c82-4ac3-97e5-72a726f75f04"
+    "uid": "af819682-3f80-4e30-83b2-9d3e591050eb"
 }

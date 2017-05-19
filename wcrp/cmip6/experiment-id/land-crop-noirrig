@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "land-crop-noirrig", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 89, 
     "label": "land-crop-noIrrig", 
-    "name": "land-crop-noirrig", 
-    "nameRaw": "land-crop-noIrrig", 
+    "rawName": "land-crop-noIrrig", 
     "status": "pending", 
-    "uid": "280810f2-9c02-49b8-8ffa-ef845aa44ea5"
+    "uid": "7b8f42fc-ff24-4b06-b93d-3b595f902d81"
 }

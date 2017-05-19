@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "gr3g", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 16, 
     "label": "gr3g", 
-    "name": "gr3g", 
-    "nameRaw": "gr3g", 
+    "rawName": "gr3g", 
     "status": "pending", 
-    "uid": "58089daf-6013-4d36-aaa2-c5c4bf98c2a8"
+    "uid": "78d5296b-d23d-44db-88c0-7b37ce6c3967"
 }

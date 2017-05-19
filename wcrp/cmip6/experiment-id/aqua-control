@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "aqua-control", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 190, 
     "label": "aqua-control", 
-    "name": "aqua-control", 
-    "nameRaw": "aqua-control", 
+    "rawName": "aqua-control", 
     "status": "pending", 
-    "uid": "2527159f-6824-46ec-9222-7660a98d999d"
+    "uid": "b26048d7-052d-4824-978d-c631f83cede4"
 }

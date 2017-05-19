@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "hist-nolu", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 185, 
     "label": "hist-noLu", 
-    "name": "hist-nolu", 
-    "nameRaw": "hist-noLu", 
+    "rawName": "hist-noLu", 
     "status": "pending", 
-    "uid": "276f3a75-8d46-4530-928a-dad4dbb2868b"
+    "uid": "ec411ccd-272f-468a-83cf-a8b2cb6ff8d0"
 }

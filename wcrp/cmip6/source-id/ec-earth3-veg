@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "ec-earth3-veg", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -52,8 +53,7 @@
     }, 
     "idx": 10, 
     "label": "EC-Earth3-Veg", 
-    "name": "ec-earth3-veg", 
-    "nameRaw": "EC-Earth3-Veg", 
+    "rawName": "EC-Earth3-Veg", 
     "status": "pending", 
-    "uid": "b717b32d-f893-4cfb-89c1-29d739d9afe1"
+    "uid": "fd84cd25-fdc8-4c8b-8f81-25aeabce2599"
 }

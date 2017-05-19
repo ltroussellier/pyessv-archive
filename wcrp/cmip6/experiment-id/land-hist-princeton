@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "land-hist-princeton", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 134, 
     "label": "land-hist-princeton", 
-    "name": "land-hist-princeton", 
-    "nameRaw": "land-hist-princeton", 
+    "rawName": "land-hist-princeton", 
     "status": "pending", 
-    "uid": "93aabf4e-188a-43e1-bba2-25dece576f26"
+    "uid": "1e47e463-eecb-4822-92b9-695ad66247b3"
 }

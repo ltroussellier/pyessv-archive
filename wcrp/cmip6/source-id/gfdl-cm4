@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "gfdl-cm4", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -53,8 +54,7 @@
     }, 
     "idx": 44, 
     "label": "GFDL-CM4", 
-    "name": "gfdl-cm4", 
-    "nameRaw": "GFDL-CM4", 
+    "rawName": "GFDL-CM4", 
     "status": "pending", 
-    "uid": "c85c325d-4ecc-4996-823b-8277755e3964"
+    "uid": "ae94fdb5-d48c-4f6f-9703-6b9f505fbc63"
 }

@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "amip-future4k", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 130, 
     "label": "amip-future4K", 
-    "name": "amip-future4k", 
-    "nameRaw": "amip-future4K", 
+    "rawName": "amip-future4K", 
     "status": "pending", 
-    "uid": "e85b4093-7f3f-4a45-86e2-71f862559671"
+    "uid": "c484005d-df56-425c-bcee-a00f9f52ebe5"
 }

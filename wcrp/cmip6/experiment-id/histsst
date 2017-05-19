@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "histsst", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 156, 
     "label": "histSST", 
-    "name": "histsst", 
-    "nameRaw": "histSST", 
+    "rawName": "histSST", 
     "status": "pending", 
-    "uid": "a63dce4c-6212-407a-9f14-66dd88799ad1"
+    "uid": "c4c3e54f-ebd6-4d44-a4d9-4e9de493e8e5"
 }

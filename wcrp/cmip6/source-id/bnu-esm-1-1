@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "bnu-esm-1-1", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -57,8 +58,7 @@
     }, 
     "idx": 36, 
     "label": "BNU-ESM-1-1", 
-    "name": "bnu-esm-1-1", 
-    "nameRaw": "BNU-ESM-1-1", 
+    "rawName": "BNU-ESM-1-1", 
     "status": "pending", 
-    "uid": "701a6471-a657-429c-831f-2f9743782f26"
+    "uid": "5c9bcbbc-1a52-488c-a31f-9a3566b5b548"
 }

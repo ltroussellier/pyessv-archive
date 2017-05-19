@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "seaice", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 0, 
     "label": "seaIce", 
-    "name": "seaice", 
-    "nameRaw": "seaIce", 
+    "rawName": "seaIce", 
     "status": "pending", 
-    "uid": "deb15c70-a711-41b6-b0be-e0deb9c303b5"
+    "uid": "f63e3a63-a8ae-4c79-8d16-aeaede2b5203"
 }

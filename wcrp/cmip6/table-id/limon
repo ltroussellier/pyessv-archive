@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "limon", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 31, 
     "label": "LImon", 
-    "name": "limon", 
-    "nameRaw": "LImon", 
+    "rawName": "LImon", 
     "status": "pending", 
-    "uid": "633ba306-8dbd-4d9a-82f4-4f97aba27a4a"
+    "uid": "4177892c-0604-4f6b-b939-439f0cdf083a"
 }

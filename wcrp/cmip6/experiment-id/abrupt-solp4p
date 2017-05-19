@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "abrupt-solp4p", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 65, 
     "label": "abrupt-solp4p", 
-    "name": "abrupt-solp4p", 
-    "nameRaw": "abrupt-solp4p", 
+    "rawName": "abrupt-solp4p", 
     "status": "pending", 
-    "uid": "6f6c759b-7710-458e-b0b6-fe967f11c7da"
+    "uid": "87ab22ed-b826-417d-955b-6beb03aff025"
 }

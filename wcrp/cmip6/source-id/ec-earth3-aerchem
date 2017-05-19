@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "ec-earth3-aerchem", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -52,8 +53,7 @@
     }, 
     "idx": 22, 
     "label": "EC-Earth3-AerChem", 
-    "name": "ec-earth3-aerchem", 
-    "nameRaw": "EC-Earth3-AerChem", 
+    "rawName": "EC-Earth3-AerChem", 
     "status": "pending", 
-    "uid": "3fc32d4b-2ec5-4761-8864-7c04136fe678"
+    "uid": "a7413ffd-c277-49f5-b38f-24568cf29e49"
 }

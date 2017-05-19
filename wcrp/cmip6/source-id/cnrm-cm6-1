@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "cnrm-cm6-1", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -52,8 +53,7 @@
     }, 
     "idx": 32, 
     "label": "CNRM-CM6-1", 
-    "name": "cnrm-cm6-1", 
-    "nameRaw": "CNRM-CM6-1", 
+    "rawName": "CNRM-CM6-1", 
     "status": "pending", 
-    "uid": "ae53a776-4ba3-4440-9735-e5896392b4c6"
+    "uid": "34e193d2-3a3f-4ada-9dd6-76ee17bbaf41"
 }

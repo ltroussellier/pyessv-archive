@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "iyrgre", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 30, 
     "label": "IyrGre", 
-    "name": "iyrgre", 
-    "nameRaw": "IyrGre", 
+    "rawName": "IyrGre", 
     "status": "pending", 
-    "uid": "01277e2e-6a47-4229-bc1d-6173b58d2368"
+    "uid": "fa66bb8a-6c63-483d-9fbb-78396c90b5b1"
 }

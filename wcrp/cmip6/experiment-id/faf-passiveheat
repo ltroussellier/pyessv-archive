@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "faf-passiveheat", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 28, 
     "label": "faf-passiveheat", 
-    "name": "faf-passiveheat", 
-    "nameRaw": "faf-passiveheat", 
+    "rawName": "faf-passiveheat", 
     "status": "pending", 
-    "uid": "2ff9373d-754f-44bc-86d2-6ddbb3e822d5"
+    "uid": "cf2eab63-7992-4921-afcf-82c40cf97995"
 }

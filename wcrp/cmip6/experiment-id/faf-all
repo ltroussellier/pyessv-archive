@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "faf-all", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 12, 
     "label": "faf-all", 
-    "name": "faf-all", 
-    "nameRaw": "faf-all", 
+    "rawName": "faf-all", 
     "status": "pending", 
-    "uid": "13fb11b7-1398-4321-aa15-6ce7ffe2ee62"
+    "uid": "52be1fc3-f26f-4204-b37e-d686b8194be0"
 }

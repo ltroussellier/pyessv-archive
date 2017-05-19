@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "1pctco2-rad", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 218, 
     "label": "1pctCO2-rad", 
-    "name": "1pctco2-rad", 
-    "nameRaw": "1pctCO2-rad", 
+    "rawName": "1pctCO2-rad", 
     "status": "pending", 
-    "uid": "521f8bf5-da99-415a-aba0-e8dc5ac5ee62"
+    "uid": "4106811f-9758-418f-b570-cb218235a14f"
 }

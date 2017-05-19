@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "gfdl-am4", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -52,8 +53,7 @@
     }, 
     "idx": 25, 
     "label": "GFDL-AM4", 
-    "name": "gfdl-am4", 
-    "nameRaw": "GFDL-AM4", 
+    "rawName": "GFDL-AM4", 
     "status": "pending", 
-    "uid": "a146e06c-87b0-4ae1-9c7d-aaa157ed0ffb"
+    "uid": "770b2680-e618-4ad8-ace8-53bea166ffec"
 }

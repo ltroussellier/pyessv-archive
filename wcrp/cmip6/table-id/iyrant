@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "iyrant", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 29, 
     "label": "IyrAnt", 
-    "name": "iyrant", 
-    "nameRaw": "IyrAnt", 
+    "rawName": "IyrAnt", 
     "status": "pending", 
-    "uid": "6d700cd8-4359-4d2b-9afd-fd445ec02501"
+    "uid": "4682ea78-27c6-496f-b293-20095e649589"
 }

@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "land-nolu", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 239, 
     "label": "land-noLu", 
-    "name": "land-nolu", 
-    "nameRaw": "land-noLu", 
+    "rawName": "land-noLu", 
     "status": "pending", 
-    "uid": "5aa45bc0-a152-4f72-be71-398e4d45a06a"
+    "uid": "66d61e06-3258-4089-b7a6-3fbbbd34df5b"
 }

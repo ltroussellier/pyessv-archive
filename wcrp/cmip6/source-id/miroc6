@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "miroc6", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -52,8 +53,7 @@
     }, 
     "idx": 50, 
     "label": "MIROC6", 
-    "name": "miroc6", 
-    "nameRaw": "MIROC6", 
+    "rawName": "MIROC6", 
     "status": "pending", 
-    "uid": "c066981e-e417-46ef-b2e3-4aa671e27050"
+    "uid": "41a81632-6cd9-4262-948d-cd027307a98c"
 }

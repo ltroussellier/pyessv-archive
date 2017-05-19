@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "midholocene", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 103, 
     "label": "midHolocene", 
-    "name": "midholocene", 
-    "nameRaw": "midHolocene", 
+    "rawName": "midHolocene", 
     "status": "pending", 
-    "uid": "f2fb5831-6253-4c0f-b39f-4d03e3878118"
+    "uid": "b219b444-69dd-4e96-bcf8-943a776b500e"
 }

@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "oyr", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 38, 
     "label": "Oyr", 
-    "name": "oyr", 
-    "nameRaw": "Oyr", 
+    "rawName": "Oyr", 
     "status": "pending", 
-    "uid": "0f8d9c28-0df7-4a0a-9fe1-0babdfb7ea02"
+    "uid": "0acc816e-6c37-434a-a7a6-f9df935b19d7"
 }

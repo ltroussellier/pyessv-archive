@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "gr9a", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 39, 
     "label": "gr9a", 
-    "name": "gr9a", 
-    "nameRaw": "gr9a", 
+    "rawName": "gr9a", 
     "status": "pending", 
-    "uid": "482bda28-ea42-42bb-9219-72d6c465a31d"
+    "uid": "d4e747e9-188f-43de-93dc-03a099cb54b7"
 }

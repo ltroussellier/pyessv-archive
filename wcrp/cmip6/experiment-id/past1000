@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "past1000", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 88, 
     "label": "past1000", 
-    "name": "past1000", 
-    "nameRaw": "past1000", 
+    "rawName": "past1000", 
     "status": "pending", 
-    "uid": "d728b515-04fa-4392-be35-8edf4d26c3b0"
+    "uid": "3322aa20-72d9-4031-86b6-ee768658ecaf"
 }

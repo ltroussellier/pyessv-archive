@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "dcppa-hindcast-niff", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -90,8 +91,7 @@
     }, 
     "idx": 115, 
     "label": "dcppA-hindcast-niff", 
-    "name": "dcppa-hindcast-niff", 
-    "nameRaw": "dcppA-hindcast-niff", 
+    "rawName": "dcppA-hindcast-niff", 
     "status": "pending", 
-    "uid": "c63419fe-a01b-42db-a306-3de10d01eb33"
+    "uid": "a35b716d-4f8c-413e-ad6d-69a08f83d635"
 }

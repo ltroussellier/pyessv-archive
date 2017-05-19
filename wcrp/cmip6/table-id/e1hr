@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "e1hr", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 13, 
     "label": "E1hr", 
-    "name": "e1hr", 
-    "nameRaw": "E1hr", 
+    "rawName": "E1hr", 
     "status": "pending", 
-    "uid": "83a511c0-4849-4bb8-9988-973975977e52"
+    "uid": "5770c4ba-512c-4c7a-a6ca-62218872e43c"
 }

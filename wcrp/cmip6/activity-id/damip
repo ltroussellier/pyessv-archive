@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "damip", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 5, 
     "label": "DAMIP", 
-    "name": "damip", 
-    "nameRaw": "DAMIP", 
+    "rawName": "DAMIP", 
     "status": "pending", 
-    "uid": "17d2ae3c-a9a6-4fad-aa02-41a00aea709d"
+    "uid": "aeecc6f3-9023-49be-9914-d0bfdc8dfea1"
 }

@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "dcppc-pac-control", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 17, 
     "label": "dcppC-pac-control", 
-    "name": "dcppc-pac-control", 
-    "nameRaw": "dcppC-pac-control", 
+    "rawName": "dcppC-pac-control", 
     "status": "pending", 
-    "uid": "9ded3dc5-9d58-41b0-b476-07bb40e18cef"
+    "uid": "19410706-0258-43cc-99e7-ae1d8c0d36ca"
 }

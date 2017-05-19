@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "dcppc-amv-pos", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 24, 
     "label": "dcppC-amv-pos", 
-    "name": "dcppc-amv-pos", 
-    "nameRaw": "dcppC-amv-pos", 
+    "rawName": "dcppC-amv-pos", 
     "status": "pending", 
-    "uid": "e03e993d-cdf8-4231-8921-0df7b589b38f"
+    "uid": "31640a56-feb0-430a-8f4d-1e905a7f1895"
 }

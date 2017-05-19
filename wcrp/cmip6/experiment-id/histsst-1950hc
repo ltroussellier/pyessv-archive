@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "histsst-1950hc", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -30,8 +31,7 @@
     }, 
     "idx": 55, 
     "label": "histSST-1950HC", 
-    "name": "histsst-1950hc", 
-    "nameRaw": "histSST-1950HC", 
+    "rawName": "histSST-1950HC", 
     "status": "pending", 
-    "uid": "d459ba27-3488-4191-8518-7354e951db20"
+    "uid": "844cc6b1-6103-429f-9fbb-49b779398574"
 }

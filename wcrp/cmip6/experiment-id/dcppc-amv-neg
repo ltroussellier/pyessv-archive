@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "dcppc-amv-neg", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 198, 
     "label": "dcppC-amv-neg", 
-    "name": "dcppc-amv-neg", 
-    "nameRaw": "dcppC-amv-neg", 
+    "rawName": "dcppC-amv-neg", 
     "status": "pending", 
-    "uid": "f7c2e683-d6b2-4e4a-813c-5bb9186813f0"
+    "uid": "e575d635-e8ad-4715-ac91-8b6606e2934f"
 }

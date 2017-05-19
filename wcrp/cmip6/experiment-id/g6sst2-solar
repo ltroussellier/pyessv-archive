@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "g6sst2-solar", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 195, 
     "label": "G6SST2-solar", 
-    "name": "g6sst2-solar", 
-    "nameRaw": "G6SST2-solar", 
+    "rawName": "G6SST2-solar", 
     "status": "pending", 
-    "uid": "76ce5970-a0aa-4689-925f-823ab260254d"
+    "uid": "31a3aee2-80b0-4e23-8ae1-b3b37b6b8837"
 }

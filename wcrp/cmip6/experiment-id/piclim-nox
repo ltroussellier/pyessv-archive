@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "piclim-nox", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -30,8 +31,7 @@
     }, 
     "idx": 136, 
     "label": "piClim-NOx", 
-    "name": "piclim-nox", 
-    "nameRaw": "piClim-NOx", 
+    "rawName": "piClim-NOx", 
     "status": "pending", 
-    "uid": "78c02354-feb9-432f-a5ba-0bd0a2d4322b"
+    "uid": "382ce275-c53e-4228-933f-c9be3d1dff14"
 }

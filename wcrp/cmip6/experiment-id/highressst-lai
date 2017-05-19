@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "highressst-lai", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -30,8 +31,7 @@
     }, 
     "idx": 106, 
     "label": "highresSST-LAI", 
-    "name": "highressst-lai", 
-    "nameRaw": "highresSST-LAI", 
+    "rawName": "highresSST-LAI", 
     "status": "pending", 
-    "uid": "f81f897f-3f18-4aa0-99f6-630212509d89"
+    "uid": "1dd7ce0a-0ba4-4db5-9b51-0ea33be8a66e"
 }

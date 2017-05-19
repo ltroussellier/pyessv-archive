@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "ism-historical-self", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 108, 
     "label": "ism-historical-self", 
-    "name": "ism-historical-self", 
-    "nameRaw": "ism-historical-self", 
+    "rawName": "ism-historical-self", 
     "status": "pending", 
-    "uid": "b095495f-bb49-4acf-a4a5-7f916642e877"
+    "uid": "d57fc54b-7a04-4c49-ae98-8924c39672d1"
 }

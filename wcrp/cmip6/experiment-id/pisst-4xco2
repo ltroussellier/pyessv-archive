@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "pisst-4xco2", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 35, 
     "label": "piSST-4xCO2", 
-    "name": "pisst-4xco2", 
-    "nameRaw": "piSST-4xCO2", 
+    "rawName": "piSST-4xCO2", 
     "status": "pending", 
-    "uid": "74f9401e-d1b1-43fc-844a-a5ea529f748a"
+    "uid": "ab00e65b-f2e1-40bd-ab23-e0e42566dc9a"
 }

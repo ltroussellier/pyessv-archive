@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "highressst-p4k", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -30,8 +31,7 @@
     }, 
     "idx": 201, 
     "label": "highresSST-p4K", 
-    "name": "highressst-p4k", 
-    "nameRaw": "highresSST-p4K", 
+    "rawName": "highresSST-p4K", 
     "status": "pending", 
-    "uid": "35d5c803-9341-4dc4-840d-d276949bdd51"
+    "uid": "79d8233a-1c24-4534-9b08-72c8230e03d1"
 }

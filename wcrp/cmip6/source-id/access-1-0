@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "access-1-0", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -52,8 +53,7 @@
     }, 
     "idx": 11, 
     "label": "ACCESS-1-0", 
-    "name": "access-1-0", 
-    "nameRaw": "ACCESS-1-0", 
+    "rawName": "ACCESS-1-0", 
     "status": "pending", 
-    "uid": "3e838b9f-b542-4cf2-a077-a2d56946e07d"
+    "uid": "55c1942c-4e99-4299-938a-3b125996b004"
 }

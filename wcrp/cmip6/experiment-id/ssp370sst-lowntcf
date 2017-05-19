@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "ssp370sst-lowntcf", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 172, 
     "label": "ssp370SST-lowNTCF", 
-    "name": "ssp370sst-lowntcf", 
-    "nameRaw": "ssp370SST-lowNTCF", 
+    "rawName": "ssp370SST-lowNTCF", 
     "status": "pending", 
-    "uid": "2978de55-0f72-43fc-994a-5b7b5d5acd90"
+    "uid": "1628ef78-f479-46ea-b5f8-905896b01984"
 }

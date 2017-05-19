@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "aqua-control-lwoff", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 181, 
     "label": "aqua-control-lwoff", 
-    "name": "aqua-control-lwoff", 
-    "nameRaw": "aqua-control-lwoff", 
+    "rawName": "aqua-control-lwoff", 
     "status": "pending", 
-    "uid": "e597b333-5db5-4280-8ea5-81646cdb443e"
+    "uid": "dcceb3b9-c363-43d7-8451-6efea2ccc7f3"
 }

@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "piclim-spaer-anthro", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 151, 
     "label": "piClim-spAer-anthro", 
-    "name": "piclim-spaer-anthro", 
-    "nameRaw": "piClim-spAer-anthro", 
+    "rawName": "piClim-spAer-anthro", 
     "status": "pending", 
-    "uid": "07f23a80-65f3-41e6-bfc2-5d71d7a18e5d"
+    "uid": "da203465-de1f-488a-90a9-9a970049da3c"
 }

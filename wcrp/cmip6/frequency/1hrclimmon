@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "1hrclimmon", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 1, 
     "label": "1hrClimMon", 
-    "name": "1hrclimmon", 
-    "nameRaw": "1hrClimMon", 
+    "rawName": "1hrClimMon", 
     "status": "pending", 
-    "uid": "578cae0c-7c29-429f-952a-17fff93dbc0b"
+    "uid": "01774060-b189-4405-91d3-bfdb65ea05f3"
 }

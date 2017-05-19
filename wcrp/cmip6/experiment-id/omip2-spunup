@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "omip2-spunup", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 230, 
     "label": "omip2-spunup", 
-    "name": "omip2-spunup", 
-    "nameRaw": "omip2-spunup", 
+    "rawName": "omip2-spunup", 
     "status": "pending", 
-    "uid": "d93caa5e-b1ac-4016-8550-00d105268021"
+    "uid": "c02436d2-da6c-4471-a5b7-3d91ab33a2d0"
 }

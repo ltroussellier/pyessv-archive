@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "control-1950", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -30,8 +31,7 @@
     }, 
     "idx": 41, 
     "label": "control-1950", 
-    "name": "control-1950", 
-    "nameRaw": "control-1950", 
+    "rawName": "control-1950", 
     "status": "pending", 
-    "uid": "9d8d25e8-bb64-4d4f-b525-fb668ab25d1e"
+    "uid": "574a3865-6bd6-4907-8255-e57349e97ee4"
 }

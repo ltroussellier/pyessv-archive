@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "emac-2-53-vol", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -53,8 +54,7 @@
     }, 
     "idx": 35, 
     "label": "EMAC-2-53-Vol", 
-    "name": "emac-2-53-vol", 
-    "nameRaw": "EMAC-2-53-Vol", 
+    "rawName": "EMAC-2-53-Vol", 
     "status": "pending", 
-    "uid": "0e54f2a9-ea0d-4967-af8b-85435bf4865c"
+    "uid": "027201d7-c548-4847-b63b-27c4ce110408"
 }

@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "bgcm", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 3, 
     "label": "BGCM", 
-    "name": "bgcm", 
-    "nameRaw": "BGCM", 
+    "rawName": "BGCM", 
     "status": "pending", 
-    "uid": "b1e56d99-c50f-4589-92f3-a37fe72b22dd"
+    "uid": "f50fe002-906c-49d0-a983-a7ef1822cf8b"
 }

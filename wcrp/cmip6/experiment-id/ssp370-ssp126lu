@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "ssp370-ssp126lu", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 121, 
     "label": "ssp370-ssp126Lu", 
-    "name": "ssp370-ssp126lu", 
-    "nameRaw": "ssp370-ssp126Lu", 
+    "rawName": "ssp370-ssp126Lu", 
     "status": "pending", 
-    "uid": "4507e858-9f9f-40a1-9618-c31acc793312"
+    "uid": "69cdeb3d-a129-4ea1-9fec-204899c63622"
 }

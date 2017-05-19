@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "dcppc-hindcast-nopinatubo", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -34,8 +35,7 @@
     }, 
     "idx": 202, 
     "label": "dcppC-hindcast-noPinatubo", 
-    "name": "dcppc-hindcast-nopinatubo", 
-    "nameRaw": "dcppC-hindcast-noPinatubo", 
+    "rawName": "dcppC-hindcast-noPinatubo", 
     "status": "pending", 
-    "uid": "4b062ab3-0087-4f22-ad40-3677c7e7ba72"
+    "uid": "cb75b740-5720-4777-8d97-856889a781e6"
 }

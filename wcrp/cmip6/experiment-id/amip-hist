@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "amip-hist", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 9, 
     "label": "amip-hist", 
-    "name": "amip-hist", 
-    "nameRaw": "amip-hist", 
+    "rawName": "amip-hist", 
     "status": "pending", 
-    "uid": "f096822d-2f01-4c8a-81af-4a14a100a672"
+    "uid": "4d64280e-df75-436e-9b33-7a75c0394b95"
 }

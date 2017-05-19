@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "highressst-smoothed", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -30,8 +31,7 @@
     }, 
     "idx": 147, 
     "label": "highresSST-smoothed", 
-    "name": "highressst-smoothed", 
-    "nameRaw": "highresSST-smoothed", 
+    "rawName": "highresSST-smoothed", 
     "status": "pending", 
-    "uid": "f6783322-1e15-455c-978b-3d19e27b8c40"
+    "uid": "a313de98-27e1-4c36-b89b-55710c34e5ea"
 }

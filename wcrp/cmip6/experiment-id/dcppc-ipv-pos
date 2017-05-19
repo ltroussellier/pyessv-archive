@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "dcppc-ipv-pos", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 6, 
     "label": "dcppC-ipv-pos", 
-    "name": "dcppc-ipv-pos", 
-    "nameRaw": "dcppC-ipv-pos", 
+    "rawName": "dcppC-ipv-pos", 
     "status": "pending", 
-    "uid": "af5b462a-6bb7-4d1a-907c-10e79ba16769"
+    "uid": "95a75df8-1fe5-4b92-9635-1f59149c6ed0"
 }

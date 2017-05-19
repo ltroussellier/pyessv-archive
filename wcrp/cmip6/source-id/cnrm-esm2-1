@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "cnrm-esm2-1", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -52,8 +53,7 @@
     }, 
     "idx": 31, 
     "label": "CNRM-ESM2-1", 
-    "name": "cnrm-esm2-1", 
-    "nameRaw": "CNRM-ESM2-1", 
+    "rawName": "CNRM-ESM2-1", 
     "status": "pending", 
-    "uid": "4861f127-a421-4f30-afdc-71d612ce076a"
+    "uid": "1a3dafd3-2ed8-4c26-a75d-8ac7b06ecb62"
 }

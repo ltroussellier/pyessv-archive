@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "a4sst", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 206, 
     "label": "a4SST", 
-    "name": "a4sst", 
-    "nameRaw": "a4SST", 
+    "rawName": "a4SST", 
     "status": "pending", 
-    "uid": "77e8e140-509f-45da-8788-3e2f1fbe6667"
+    "uid": "defda4a0-a7d4-436b-91a1-806429beec77"
 }

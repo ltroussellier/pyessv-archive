@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "dcppc-hindcast-noelchichon", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -34,8 +35,7 @@
     }, 
     "idx": 69, 
     "label": "dcppC-hindcast-noElChichon", 
-    "name": "dcppc-hindcast-noelchichon", 
-    "nameRaw": "dcppC-hindcast-noElChichon", 
+    "rawName": "dcppC-hindcast-noElChichon", 
     "status": "pending", 
-    "uid": "4f25ac35-2630-45af-92e6-924939254520"
+    "uid": "a4c7e525-c007-4545-b1ea-a0023725e579"
 }

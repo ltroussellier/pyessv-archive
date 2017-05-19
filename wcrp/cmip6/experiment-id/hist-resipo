@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "hist-resipo", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 74, 
     "label": "hist-resIPO", 
-    "name": "hist-resipo", 
-    "nameRaw": "hist-resIPO", 
+    "rawName": "hist-resIPO", 
     "status": "pending", 
-    "uid": "b4a18be6-112a-461e-8f30-80202ad6025c"
+    "uid": "fb8aff85-14c3-4420-b70e-f9de85c9b70c"
 }

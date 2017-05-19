@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "awi-cm-1-0-mr", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
@@ -57,8 +58,7 @@
     }, 
     "idx": 20, 
     "label": "AWI-CM-1-0-MR", 
-    "name": "awi-cm-1-0-mr", 
-    "nameRaw": "AWI-CM-1-0-MR", 
+    "rawName": "AWI-CM-1-0-MR", 
     "status": "pending", 
-    "uid": "481bcc95-db68-4297-af48-c498a98b2bf7"
+    "uid": "0610f8f5-dd5e-461f-8835-b911237a09d8"
 }

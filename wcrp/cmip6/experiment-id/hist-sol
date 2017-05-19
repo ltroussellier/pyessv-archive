@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "hist-sol", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 139, 
     "label": "hist-sol", 
-    "name": "hist-sol", 
-    "nameRaw": "hist-sol", 
+    "rawName": "hist-sol", 
     "status": "pending", 
-    "uid": "74cc4264-d8a1-418b-9f16-d8479887cb13"
+    "uid": "0b2fa7b7-4045-414e-812f-620eb91e778c"
 }

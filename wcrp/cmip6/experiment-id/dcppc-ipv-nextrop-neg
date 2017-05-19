@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "dcppc-ipv-nextrop-neg", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 152, 
     "label": "dcppC-ipv-NexTrop-neg", 
-    "name": "dcppc-ipv-nextrop-neg", 
-    "nameRaw": "dcppC-ipv-NexTrop-neg", 
+    "rawName": "dcppC-ipv-NexTrop-neg", 
     "status": "pending", 
-    "uid": "121b4cbe-9a29-4f73-979a-a01011c7f5df"
+    "uid": "54398eff-4dc4-45de-ba53-73fff63798b0"
 }

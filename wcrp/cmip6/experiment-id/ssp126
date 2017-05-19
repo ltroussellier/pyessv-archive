@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "ssp126", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 45, 
     "label": "ssp126", 
-    "name": "ssp126", 
-    "nameRaw": "ssp126", 
+    "rawName": "ssp126", 
     "status": "pending", 
-    "uid": "716da544-0729-47c6-ae42-a0636cd675e7"
+    "uid": "dc853ed6-e310-4cc8-8316-ae5812c56db8"
 }

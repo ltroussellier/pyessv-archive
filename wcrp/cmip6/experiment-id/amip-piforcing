@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "amip-piforcing", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 222, 
     "label": "amip-piForcing", 
-    "name": "amip-piforcing", 
-    "nameRaw": "amip-piForcing", 
+    "rawName": "amip-piForcing", 
     "status": "pending", 
-    "uid": "ba3dab59-c5f8-4f6a-9abc-e02e069131aa"
+    "uid": "a2f67fca-253a-4e0e-b280-f06ddbf4ab9c"
 }

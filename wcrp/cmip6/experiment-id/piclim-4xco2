@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "piclim-4xco2", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 243, 
     "label": "piClim-4xCO2", 
-    "name": "piclim-4xco2", 
-    "nameRaw": "piClim-4xCO2", 
+    "rawName": "piClim-4xCO2", 
     "status": "pending", 
-    "uid": "7aa11c67-7708-4283-86ed-ebf6f6cb2259"
+    "uid": "5556562f-0b44-412a-8747-cae5aa2bb4c3"
 }

@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "piclim-voc", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -30,8 +31,7 @@
     }, 
     "idx": 22, 
     "label": "piClim-VOC", 
-    "name": "piclim-voc", 
-    "nameRaw": "piClim-VOC", 
+    "rawName": "piClim-VOC", 
     "status": "pending", 
-    "uid": "7da52c4d-648c-4882-a124-d7542b2252eb"
+    "uid": "c092b347-1ad4-43a9-95aa-d630f1b71331"
 }

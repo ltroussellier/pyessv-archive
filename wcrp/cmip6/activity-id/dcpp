@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "dcpp", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 6, 
     "label": "DCPP", 
-    "name": "dcpp", 
-    "nameRaw": "DCPP", 
+    "rawName": "DCPP", 
     "status": "pending", 
-    "uid": "bf616680-3a2e-4423-9a9c-788144f61ae8"
+    "uid": "51d51f74-ca14-4d0c-aa79-8b294c77744e"
 }

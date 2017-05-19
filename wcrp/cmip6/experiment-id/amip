@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "amip", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 247, 
     "label": "amip", 
-    "name": "amip", 
-    "nameRaw": "amip", 
+    "rawName": "amip", 
     "status": "pending", 
-    "uid": "7ed677af-a79e-4ea5-a805-2dd727ca33c5"
+    "uid": "60087318-5365-4041-af73-d220def90cfc"
 }

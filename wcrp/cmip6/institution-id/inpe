@@ -1,13 +1,13 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "inpe", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "postalAddress": "National Institute for Space Research, Cachoeira Paulista, SP 12630-000, Brazil"
     }, 
     "idx": 17, 
     "label": "INPE", 
-    "name": "inpe", 
-    "nameRaw": "INPE", 
+    "rawName": "INPE", 
     "status": "pending", 
-    "uid": "1214df9c-ac7f-4d24-a6bd-8ede16d550c1"
+    "uid": "7743ff92-f115-4c6a-8eb5-7cba1e508743"
 }

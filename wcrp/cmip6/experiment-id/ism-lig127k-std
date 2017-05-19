@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "ism-lig127k-std", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 60, 
     "label": "ism-lig127k-std", 
-    "name": "ism-lig127k-std", 
-    "nameRaw": "ism-lig127k-std", 
+    "rawName": "ism-lig127k-std", 
     "status": "pending", 
-    "uid": "bae6629d-f41d-41f3-becd-b0e2c4aa58d9"
+    "uid": "b65f40b5-cbcd-446a-8336-0e751e7a9891"
 }

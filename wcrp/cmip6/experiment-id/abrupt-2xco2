@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "abrupt-2xco2", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 68, 
     "label": "abrupt-2xCO2", 
-    "name": "abrupt-2xco2", 
-    "nameRaw": "abrupt-2xCO2", 
+    "rawName": "abrupt-2xCO2", 
     "status": "pending", 
-    "uid": "b26f3f75-b914-4311-be04-827482672403"
+    "uid": "e510b1bb-3c6d-4158-ab9a-4572c2d268a9"
 }

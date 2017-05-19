@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "land-hist-cruncep", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 221, 
     "label": "land-hist-cruNcep", 
-    "name": "land-hist-cruncep", 
-    "nameRaw": "land-hist-cruNcep", 
+    "rawName": "land-hist-cruNcep", 
     "status": "pending", 
-    "uid": "6b687e3c-5992-449c-92cd-2da6a0d33753"
+    "uid": "49289f94-1720-4aa1-a71f-ebd5b50c708c"
 }

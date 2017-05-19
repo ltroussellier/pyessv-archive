@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "realization-index", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 19, 
     "label": "realization_index", 
-    "name": "realization-index", 
-    "nameRaw": "realization_index", 
+    "rawName": "realization_index", 
     "status": "pending", 
-    "uid": "eff1bc6e-03d4-4e1f-aa66-df00e17da591"
+    "uid": "28c5293a-a17c-456e-8253-acd0614ae418"
 }

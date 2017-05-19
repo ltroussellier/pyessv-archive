@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "ssp460", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -32,8 +33,7 @@
     }, 
     "idx": 155, 
     "label": "ssp460", 
-    "name": "ssp460", 
-    "nameRaw": "ssp460", 
+    "rawName": "ssp460", 
     "status": "pending", 
-    "uid": "e0a81d9d-a635-4716-9190-c0eed3127641"
+    "uid": "16b5ff35-3bd5-4873-8d64-d16ca6e58391"
 }

@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "aer", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 0, 
     "label": "AER", 
-    "name": "aer", 
-    "nameRaw": "AER", 
+    "rawName": "AER", 
     "status": "pending", 
-    "uid": "0af8237d-c916-4767-9671-db93c0976158"
+    "uid": "88733b33-1ddb-4e80-90f8-41dd0320e70d"
 }

@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "omip", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 15, 
     "label": "OMIP", 
-    "name": "omip", 
-    "nameRaw": "OMIP", 
+    "rawName": "OMIP", 
     "status": "pending", 
-    "uid": "856c44b6-0f09-4cc6-b2cc-fb7121c47946"
+    "uid": "53adb147-923d-4780-8d53-b92a19c5b01d"
 }

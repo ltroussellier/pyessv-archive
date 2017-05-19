@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "ism-asmb-std", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 47, 
     "label": "ism-asmb-std", 
-    "name": "ism-asmb-std", 
-    "nameRaw": "ism-asmb-std", 
+    "rawName": "ism-asmb-std", 
     "status": "pending", 
-    "uid": "ec3a426d-88ee-478b-aa56-08be74604c4a"
+    "uid": "b8e1b2f2-8f0b-4d78-a76c-91321015ead3"
 }

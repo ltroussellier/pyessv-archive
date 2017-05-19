@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "control-slab", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -33,8 +34,7 @@
     }, 
     "idx": 56, 
     "label": "control-slab", 
-    "name": "control-slab", 
-    "nameRaw": "control-slab", 
+    "rawName": "control-slab", 
     "status": "pending", 
-    "uid": "069a3972-78bc-48b8-9d1f-770be6e14530"
+    "uid": "4c46a102-f979-4765-8f85-397d4b7616f4"
 }

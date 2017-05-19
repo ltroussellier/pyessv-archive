@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "ism-ctrl-std", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 189, 
     "label": "ism-ctrl-std", 
-    "name": "ism-ctrl-std", 
-    "nameRaw": "ism-ctrl-std", 
+    "rawName": "ism-ctrl-std", 
     "status": "pending", 
-    "uid": "d734ac95-94bf-4bc5-b1e9-93fdbe302ebf"
+    "uid": "6d937bb9-641b-4932-8e5a-27a188b4e5b9"
 }

@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "piclim-lu", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -31,8 +32,7 @@
     }, 
     "idx": 159, 
     "label": "piClim-lu", 
-    "name": "piclim-lu", 
-    "nameRaw": "piClim-lu", 
+    "rawName": "piClim-lu", 
     "status": "pending", 
-    "uid": "12b32240-aa53-440d-b134-cc76871ec678"
+    "uid": "f4ce190e-f729-4209-a3d1-6e4c889603f3"
 }

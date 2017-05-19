@@ -1,13 +1,13 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "cccr-iitm", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "postalAddress": "Centre for Climate Change Research, Indian Institute of Tropical Meteorology Pune, Maharashtra 411 008, India"
     }, 
     "idx": 15, 
     "label": "CCCR-IITM", 
-    "name": "cccr-iitm", 
-    "nameRaw": "CCCR-IITM", 
+    "rawName": "CCCR-IITM", 
     "status": "pending", 
-    "uid": "717a500f-8337-4177-a4ab-88ffbe2dd219"
+    "uid": "c4c5a0b4-ba3d-4fe8-adc1-a2d1aa1adca6"
 }

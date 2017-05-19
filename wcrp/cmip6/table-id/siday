@@ -1,10 +1,10 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "siday", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "idx": 39, 
     "label": "SIday", 
-    "name": "siday", 
-    "nameRaw": "SIday", 
+    "rawName": "SIday", 
     "status": "pending", 
-    "uid": "a64c03d7-c68c-4152-967b-6dc4bfb9c34c"
+    "uid": "dc9a4f49-c81f-461b-ab88-38e37b86997b"
 }

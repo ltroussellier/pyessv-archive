@@ -1,5 +1,6 @@
 {
     "_type": "pyessv._model.term", 
+    "canonicalName": "land-noshiftcultivate", 
     "createDate": "2017-03-21 00:00:00+00:00", 
     "data": {
         "activityID": [
@@ -28,8 +29,7 @@
     }, 
     "idx": 93, 
     "label": "land-noShiftCultivate", 
-    "name": "land-noshiftcultivate", 
-    "nameRaw": "land-noShiftCultivate", 
+    "rawName": "land-noShiftCultivate", 
     "status": "pending", 
-    "uid": "d512106e-6ac0-4fca-83f0-d89fb0af6a64"
+    "uid": "934a64d9-906c-48c1-8e7b-1a7405fa18e3"
 }
