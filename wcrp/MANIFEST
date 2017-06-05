@@ -58,6 +58,7 @@
                         "messy-consortium:3868b12f-6349-4c77-86a4-e6826ade9379", 
                         "miroc:9f1b93ad-30db-4685-aa12-073205464ea1", 
                         "mohc:e418578d-f2c9-42b8-9222-3ee313a90746", 
+                        "ipsl:46f24bbd-fa0d-4a7b-8630-78508a774b97", 
                         "ec-earth-consortium:ddad54a2-37ae-4634-9d8f-90346644ac02", 
                         "cams:dc00eefb-cc98-4d98-8424-f5613d3eb8e1", 
                         "cmcc:8177c37f-f2f2-4829-be9d-cae8fcae0733", 
@@ -80,7 +81,6 @@
                         "noaa-gfdl:56065fc9-08ec-4572-a6a6-52cd9d9d1d68", 
                         "lasg-iap:fd91ea03-663b-4e98-a8ff-226a9d33d9e2", 
                         "inm:08c2bb09-aae5-4680-8af5-d9db4c2eb42e", 
-                        "ipsl1:4830aef0-469d-4346-b27d-682b982b2adf", 
                         "ncc:7d3d6b81-6c79-4c99-b8f6-8666ab7e65e4", 
                         "nuist:65d09d28-65a7-406e-bcdf-c9947a413aa2", 
                         "fio-ronm:58ea5afa-82ed-47dc-8ae0-b9c93e31afb2"
