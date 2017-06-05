@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "efx", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 20, 
     "label": "Efx", 
     "rawName": "Efx", 
     "status": "pending", 
-    "uid": "9be8ef4f-f4c5-4aef-a421-5c938218ff6d"
+    "uid": "4142b944-bf38-4419-bf20-78459622bd1a"
 }

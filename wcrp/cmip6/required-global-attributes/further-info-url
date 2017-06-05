@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "further-info-url", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 8, 
     "label": "further_info_url", 
     "rawName": "further_info_url", 
     "status": "pending", 
-    "uid": "fb1716c9-9190-468f-b53a-84028afe8056"
+    "uid": "a658ba9d-9bb8-4be0-8dbe-056ffd21ff3c"
 }

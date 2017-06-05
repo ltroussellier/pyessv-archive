@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "e6hrz", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 17, 
     "label": "E6hrZ", 
     "rawName": "E6hrZ", 
     "status": "pending", 
-    "uid": "4f949a58-69e7-4be3-9b7b-f3fa92a9f6b1"
+    "uid": "9fb10908-c93e-42c5-a799-cb4176cb8265"
 }

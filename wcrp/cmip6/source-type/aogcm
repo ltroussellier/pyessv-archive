@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "aogcm", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 2, 
     "label": "AOGCM", 
     "rawName": "AOGCM", 
     "status": "pending", 
-    "uid": "386f7aa8-75cb-4c23-8a82-d3b53a8ad058"
+    "uid": "6b180eae-a8d4-4bb0-b344-bde8b02e8634"
 }

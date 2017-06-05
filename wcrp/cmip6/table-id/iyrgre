@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "iyrgre", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 30, 
     "label": "IyrGre", 
     "rawName": "IyrGre", 
     "status": "pending", 
-    "uid": "bff51e45-c666-4303-b5a7-936aa9b7c902"
+    "uid": "c4d79db2-c707-4785-8bd5-130949f6fe58"
 }

@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "cfmon", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 11, 
     "label": "CFmon", 
     "rawName": "CFmon", 
     "status": "pending", 
-    "uid": "ec0febb5-9d77-4382-81a0-8a86a29e5f8a"
+    "uid": "1bfc1c88-5342-4b14-a04f-a76b810036d5"
 }

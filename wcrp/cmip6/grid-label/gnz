@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "gnz", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 4, 
     "label": "gnz", 
     "rawName": "gnz", 
     "status": "pending", 
-    "uid": "5a4362fe-9193-4138-88b8-7e952de8e998"
+    "uid": "3b7df3bd-5c75-4414-be00-316bc83c8e47"
 }

@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "esm", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 5, 
     "label": "ESM", 
     "rawName": "ESM", 
     "status": "pending", 
-    "uid": "e4792401-f8da-4a3c-8b69-920f9de4f7f9"
+    "uid": "c7b3e816-adaf-46fe-9d05-dcb7106c2d32"
 }

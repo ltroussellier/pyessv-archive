@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "atmoschem", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 3, 
     "label": "atmosChem", 
     "rawName": "atmosChem", 
     "status": "pending", 
-    "uid": "c2d00c2a-f06b-4070-86f1-ecca169fb7b1"
+    "uid": "61b61644-bc94-4fa1-8c8d-c923a9e94140"
 }

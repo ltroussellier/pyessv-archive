@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "geomip", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 10, 
     "label": "GeoMIP", 
     "rawName": "GeoMIP", 
     "status": "pending", 
-    "uid": "92959888-57b1-4c96-9fa0-42307c7163b8"
+    "uid": "1e760bde-ad64-4508-b0f0-b2907530e766"
 }

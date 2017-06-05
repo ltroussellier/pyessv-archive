@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "gr", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 5, 
     "label": "gr", 
     "rawName": "gr", 
     "status": "pending", 
-    "uid": "3fde072e-74a1-4009-b9b1-7a54ab50c764"
+    "uid": "087b9c3e-56b0-4cee-95e0-7ae3fc2e1f71"
 }

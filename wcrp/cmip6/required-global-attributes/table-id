@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "table-id", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 26, 
     "label": "table_id", 
     "rawName": "table_id", 
     "status": "pending", 
-    "uid": "cac54f1a-6f1c-457a-846b-5af202ad493a"
+    "uid": "70cedc71-16c1-45cf-bb88-085d281a9049"
 }

@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "aerday", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 4, 
     "label": "AERday", 
     "rawName": "AERday", 
     "status": "pending", 
-    "uid": "58d08e59-c70b-4b4c-a482-3793813e723f"
+    "uid": "e680361a-a34f-4aef-9129-b1b35f9a12e2"
 }

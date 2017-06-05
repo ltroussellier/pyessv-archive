@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "gr8z", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 37, 
     "label": "gr8z", 
     "rawName": "gr8z", 
     "status": "pending", 
-    "uid": "81cd7c1d-3d4d-4d34-91af-2005cb567ba0"
+    "uid": "f8509208-9b57-44cc-a458-259c2a53d0a8"
 }

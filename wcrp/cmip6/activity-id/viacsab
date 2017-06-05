@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "viacsab", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 20, 
     "label": "VIACSAB", 
     "rawName": "VIACSAB", 
     "status": "pending", 
-    "uid": "51ac8ee9-564a-4f30-9f2e-7abee8715ba1"
+    "uid": "6ee08284-74e7-4384-a102-c18a51371390"
 }

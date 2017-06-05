@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "rad", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 9, 
     "label": "RAD", 
     "rawName": "RAD", 
     "status": "pending", 
-    "uid": "a711391d-f1cb-4a9b-b247-3f11684ef797"
+    "uid": "198dfd7a-32aa-42a5-912d-7479b1687055"
 }

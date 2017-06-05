@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "eday", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 18, 
     "label": "Eday", 
     "rawName": "Eday", 
     "status": "pending", 
-    "uid": "c2fc02fe-463e-484e-8479-821c92d474d8"
+    "uid": "d05cafaf-f7dc-47cd-a9b2-ffea5fd0f66a"
 }

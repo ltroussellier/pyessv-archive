@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "esubhr", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 23, 
     "label": "Esubhr", 
     "rawName": "Esubhr", 
     "status": "pending", 
-    "uid": "ed2a6548-7bd6-4820-8c98-4312fd920e47"
+    "uid": "2fe4f990-fdb0-417e-a5ea-d8183749568d"
 }

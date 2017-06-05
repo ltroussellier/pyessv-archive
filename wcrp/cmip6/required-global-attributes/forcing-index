@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "forcing-index", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 6, 
     "label": "forcing_index", 
     "rawName": "forcing_index", 
     "status": "pending", 
-    "uid": "e0f4740b-e0fa-43ac-9cb4-d1678113524e"
+    "uid": "44178ee0-5288-437f-b3c5-242ea08888a0"
 }

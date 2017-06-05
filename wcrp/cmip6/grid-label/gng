@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "gng", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 3, 
     "label": "gng", 
     "rawName": "gng", 
     "status": "pending", 
-    "uid": "f912553c-b0f8-4db5-8d9c-86b23c19e99e"
+    "uid": "c0436457-79a8-444a-9d5a-1acdb9bba49e"
 }

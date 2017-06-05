@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "oclim", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 33, 
     "label": "Oclim", 
     "rawName": "Oclim", 
     "status": "pending", 
-    "uid": "817e2517-9d2b-4315-8a42-6210b54f666e"
+    "uid": "557d3d29-44ef-4b23-b4af-bcb62b20d01d"
 }

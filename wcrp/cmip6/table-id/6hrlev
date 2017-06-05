@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "6hrlev", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 1, 
     "label": "6hrLev", 
     "rawName": "6hrLev", 
     "status": "pending", 
-    "uid": "802a34bf-fd4f-4359-94e9-6e479851b252"
+    "uid": "a2e99b40-e22b-4f66-a73c-048bdf9f4990"
 }

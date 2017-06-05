@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "agcm", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 1, 
     "label": "AGCM", 
     "rawName": "AGCM", 
     "status": "pending", 
-    "uid": "c1cb547d-bed0-4bbd-ac1a-7bb47542370d"
+    "uid": "4170b82a-96d3-4757-b812-ddf6cb4b54fe"
 }

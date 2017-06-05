@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "gna", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 2, 
     "label": "gna", 
     "rawName": "gna", 
     "status": "pending", 
-    "uid": "209250d6-0c04-48fe-8f17-e451410d260b"
+    "uid": "cbad65f8-d603-43f6-9c50-c4f0dd835ded"
 }

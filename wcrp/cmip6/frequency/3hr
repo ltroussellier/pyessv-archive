@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "3hr", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 2, 
     "label": "3hr", 
     "rawName": "3hr", 
     "status": "pending", 
-    "uid": "680af99b-5446-4005-8580-b46403d84b4a"
+    "uid": "50b2fbe7-e54e-4319-8931-5e2c0b7f9e9f"
 }

@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "c4mip", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 1, 
     "label": "C4MIP", 
     "rawName": "C4MIP", 
     "status": "pending", 
-    "uid": "3bdb9645-8eea-4a94-9cdd-3a8949cc6aeb"
+    "uid": "7a015185-283a-4a94-ad4c-7f5a95ac34f6"
 }

@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "yr", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "idx": 11, 
+    "data": {}, 
+    "idx": 10, 
     "label": "yr", 
     "rawName": "yr", 
     "status": "pending", 
-    "uid": "3e50c141-7734-452d-95e3-15b04d11644f"
+    "uid": "9882a8e7-3bd0-4a3e-b68e-09183d656a61"
 }

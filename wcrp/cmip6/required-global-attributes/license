@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "license", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 14, 
     "label": "license", 
     "rawName": "license", 
     "status": "pending", 
-    "uid": "8773b7f6-5b4b-4639-9a9c-bb47ecd44917"
+    "uid": "c8867426-a915-4814-b4b2-510efff82332"
 }

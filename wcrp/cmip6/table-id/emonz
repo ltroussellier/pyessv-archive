@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "emonz", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 22, 
     "label": "EmonZ", 
     "rawName": "EmonZ", 
     "status": "pending", 
-    "uid": "46e3036c-863b-4bdc-8b93-fa2462cc9f76"
+    "uid": "0adb3171-826d-4b4a-ab3f-a5277740d048"
 }

@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "cfsubhr", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 12, 
     "label": "CFsubhr", 
     "rawName": "CFsubhr", 
     "status": "pending", 
-    "uid": "8ba8daba-e70d-4ed0-9b31-fcabeff291f6"
+    "uid": "ef00f332-1bf1-4438-8ae1-bfdd09fd4643"
 }

@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "source-id", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 22, 
     "label": "source_id", 
     "rawName": "source_id", 
     "status": "pending", 
-    "uid": "ee6c125c-4c8d-4ffc-b706-de04c0020b9c"
+    "uid": "cafa06a0-26ec-4781-9a9d-05f5bafd1043"
 }

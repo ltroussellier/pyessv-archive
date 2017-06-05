@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "cmip6", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 4, 
     "label": "CMIP6", 
     "rawName": "CMIP6", 
     "status": "pending", 
-    "uid": "dddc97cb-34bc-4175-9130-6392e1bbc36d"
+    "uid": "5a2570cf-0099-4d3d-9bf4-df80d512f292"
 }

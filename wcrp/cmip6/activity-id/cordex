@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "cordex", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 4, 
     "label": "CORDEX", 
     "rawName": "CORDEX", 
     "status": "pending", 
-    "uid": "b0b9d20a-6733-4c68-a321-45fdda06400a"
+    "uid": "3ac688ad-a93c-4f4d-83af-58edad90a1c2"
 }

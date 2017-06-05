@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "e1hrclimmon", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 14, 
     "label": "E1hrClimMon", 
     "rawName": "E1hrClimMon", 
     "status": "pending", 
-    "uid": "aeac21fe-c555-4301-bd7b-5258aa83eab1"
+    "uid": "7c5a1871-700e-4029-90d2-b8f39d68fc4e"
 }

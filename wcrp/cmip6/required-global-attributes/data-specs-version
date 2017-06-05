@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "data-specs-version", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 3, 
     "label": "data_specs_version", 
     "rawName": "data_specs_version", 
     "status": "pending", 
-    "uid": "6240d8d8-79c2-4f20-9e1b-2a3ddda3428b"
+    "uid": "808aa0d9-9e99-4687-bb04-0571ca7469c1"
 }

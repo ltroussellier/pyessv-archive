@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "product", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 18, 
     "label": "product", 
     "rawName": "product", 
     "status": "pending", 
-    "uid": "578a3c5d-7c2b-498c-bc46-d7f38afbbc12"
+    "uid": "8f41978c-2240-4258-a940-cf938265a89f"
 }

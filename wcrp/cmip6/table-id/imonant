@@ -2,9 +2,10 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "imonant", 
     "createDate": "2017-03-21 00:00:00+00:00", 
+    "data": {}, 
     "idx": 27, 
     "label": "ImonAnt", 
     "rawName": "ImonAnt", 
     "status": "pending", 
-    "uid": "ac8894dc-3039-42d8-be14-d6c52d44d1fd"
+    "uid": "21f011d1-fc38-4388-8b25-ee7fbd04435c"
 }
