@@ -2,10 +2,9 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "variant-label", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "data": {}, 
     "idx": 29, 
     "label": "variant_label", 
     "rawName": "variant_label", 
     "status": "pending", 
-    "uid": "09697be9-8df8-41c9-acc0-4ad4e99c9dca"
+    "uid": "892eb6fb-352a-4355-84d2-246a7042a010"
 }

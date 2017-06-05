@@ -2,10 +2,9 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "sub-experiment", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "data": {}, 
     "idx": 24, 
     "label": "sub_experiment", 
     "rawName": "sub_experiment", 
     "status": "pending", 
-    "uid": "95dac7d4-d312-4749-99e1-5605ce75e658"
+    "uid": "d5e97a93-e7ce-405b-bf6a-eaeae736a1cc"
 }

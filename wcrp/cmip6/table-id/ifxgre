@@ -2,10 +2,9 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "ifxgre", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "data": {}, 
     "idx": 26, 
     "label": "IfxGre", 
     "rawName": "IfxGre", 
     "status": "pending", 
-    "uid": "d5052bf6-affa-4c6e-89c9-5e8fa1e2de07"
+    "uid": "15ac2db3-bbe4-43e9-86d3-dab812959e73"
 }

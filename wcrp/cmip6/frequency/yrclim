@@ -2,10 +2,9 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "yrclim", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "data": {}, 
     "idx": 11, 
     "label": "yrClim", 
     "rawName": "yrClim", 
     "status": "pending", 
-    "uid": "40ec7498-aa41-4c44-aec9-149c2b3403bc"
+    "uid": "cc3ec364-583e-42a7-b27b-07707c8031de"
 }

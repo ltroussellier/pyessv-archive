@@ -2,10 +2,9 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "landice", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "data": {}, 
     "idx": 2, 
     "label": "landIce", 
     "rawName": "landIce", 
     "status": "pending", 
-    "uid": "7f1e4f4a-2842-4bdf-9efa-10eed1333cb3"
+    "uid": "c97b40ad-24d6-4afc-900b-634c582c39ba"
 }

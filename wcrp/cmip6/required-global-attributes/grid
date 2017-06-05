@@ -2,10 +2,9 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "grid", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "data": {}, 
     "idx": 9, 
     "label": "grid", 
     "rawName": "grid", 
     "status": "pending", 
-    "uid": "66017b11-3dda-4b9c-8189-9d6e7489d635"
+    "uid": "585149d7-fbbb-4293-9e7e-6e2afa850ef4"
 }

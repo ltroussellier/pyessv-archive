@@ -2,10 +2,9 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "ofx", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "data": {}, 
     "idx": 36, 
     "label": "Ofx", 
     "rawName": "Ofx", 
     "status": "pending", 
-    "uid": "cd8245e7-c871-48ab-b79e-99b533ccba17"
+    "uid": "ec7f516f-0b11-4c6f-9b8b-7f0a8995f056"
 }

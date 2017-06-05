@@ -2,10 +2,9 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "mip-era", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "data": {}, 
     "idx": 15, 
     "label": "mip_era", 
     "rawName": "mip_era", 
     "status": "pending", 
-    "uid": "d0c90243-351c-4a2f-a08e-500037630586"
+    "uid": "c419e278-5b32-44aa-a249-466c455eb7cc"
 }

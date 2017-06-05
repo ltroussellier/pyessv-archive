@@ -2,10 +2,9 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "aerosol", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "data": {}, 
     "idx": 6, 
     "label": "aerosol", 
     "rawName": "aerosol", 
     "status": "pending", 
-    "uid": "b8823940-8a4e-4ee7-9cde-2009ce47deec"
+    "uid": "94f88ffb-af06-4566-a357-1c1a8fb3c0aa"
 }

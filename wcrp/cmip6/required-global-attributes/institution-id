@@ -2,10 +2,9 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "institution-id", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "data": {}, 
     "idx": 13, 
     "label": "institution_id", 
     "rawName": "institution_id", 
     "status": "pending", 
-    "uid": "cc7bcf94-b23d-4cba-b8e7-618d4c845a4f"
+    "uid": "a484556a-0c86-402b-a8b3-34665b72ebe3"
 }

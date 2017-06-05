@@ -2,10 +2,9 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "frequency", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "data": {}, 
     "idx": 7, 
     "label": "frequency", 
     "rawName": "frequency", 
     "status": "pending", 
-    "uid": "c60314f1-7cfd-4e57-ab7b-ee7ff3d12515"
+    "uid": "71fb124b-b0d2-450e-8651-30423c8a7c94"
 }

@@ -2,10 +2,9 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "simip", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "data": {}, 
     "idx": 18, 
     "label": "SIMIP", 
     "rawName": "SIMIP", 
     "status": "pending", 
-    "uid": "a121f2b6-1236-4d9b-aa9c-04d90a424333"
+    "uid": "fd983894-bb22-454b-a708-1d129ebd8ed5"
 }

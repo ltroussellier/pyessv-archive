@@ -2,10 +2,9 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "dcpp", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "data": {}, 
     "idx": 6, 
     "label": "DCPP", 
     "rawName": "DCPP", 
     "status": "pending", 
-    "uid": "ac3055bc-753f-481f-a498-6194a54cf566"
+    "uid": "31af2c24-2b48-44ff-860f-de5dc411563a"
 }

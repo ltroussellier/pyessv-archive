@@ -2,10 +2,9 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "emon", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "data": {}, 
     "idx": 21, 
     "label": "Emon", 
     "rawName": "Emon", 
     "status": "pending", 
-    "uid": "29abaae8-fc8c-4b59-8b80-bb4a0ae90b05"
+    "uid": "8db37b68-d17c-4f24-84be-1441b60014a2"
 }

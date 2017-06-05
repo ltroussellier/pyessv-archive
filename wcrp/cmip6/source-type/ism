@@ -2,10 +2,9 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "ism", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "data": {}, 
     "idx": 6, 
     "label": "ISM", 
     "rawName": "ISM", 
     "status": "pending", 
-    "uid": "1be2573b-9769-41b0-9834-2dada7731f70"
+    "uid": "b24e9084-4352-4ffb-8505-5087896f3eee"
 }

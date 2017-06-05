@@ -2,10 +2,9 @@
     "_type": "pyessv._model.term", 
     "canonicalName": "cfday", 
     "createDate": "2017-03-21 00:00:00+00:00", 
-    "data": {}, 
     "idx": 10, 
     "label": "CFday", 
     "rawName": "CFday", 
     "status": "pending", 
-    "uid": "bd703139-bc3d-40fd-910f-3ee781473842"
+    "uid": "c4721fcb-35a8-45f4-9651-08503e9ce913"
 }
