@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "nicam16-9d-l78", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
             ""
@@ -12,7 +12,6 @@
         "institutionID": [
             "MIROC"
         ], 
-        "label": "NICAM16-9D-L78", 
         "labelExtended": "NICAM.16 gl09-L78 with NDW6", 
         "modelComponent": {
             "aerosol": {

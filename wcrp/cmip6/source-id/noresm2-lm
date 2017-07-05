@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "noresm2-lm", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
             "AerChemMIP", 
@@ -22,7 +22,6 @@
         "institutionID": [
             "NCC"
         ], 
-        "label": "NorESM2-LM", 
         "labelExtended": "NorESM2-LM (low atmosphere-medium ocean resolution, GHG concentration driven)", 
         "modelComponent": {
             "aerosol": {
@@ -61,7 +60,7 @@
         "releaseYear": "2017", 
         "sourceID": "NorESM2-LM"
     }, 
-    "idx": 34, 
+    "idx": 37, 
     "label": "NorESM2-LM", 
     "rawName": "NorESM2-LM", 
     "status": "pending", 

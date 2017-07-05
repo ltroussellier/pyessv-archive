@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "dcppb-forecast", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "B1 (and B2.1, B2.2) Ongoing decadal forecasts. First full forecast year follows start year (e.g., for s2017, first full forecast year is 2018)", 
         "endYear": "5 years after start year", 
         "experiment": "forecast initialized from observations with forcing from ssp245", 
         "experimentID": "dcppB-forecast", 
@@ -45,6 +44,7 @@
         ], 
         "tier": "1"
     }, 
+    "description": "B1 (and B2.1, B2.2) Ongoing decadal forecasts. First full forecast year follows start year (e.g., for s2017, first full forecast year is 2018)", 
     "idx": 148, 
     "label": "dcppB-forecast", 
     "rawName": "dcppB-forecast", 

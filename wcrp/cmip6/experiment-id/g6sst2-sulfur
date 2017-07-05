@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "g6sst2-sulfur", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "GeoMIP"
@@ -10,7 +10,6 @@
             "AER", 
             "CHEM"
         ], 
-        "description": "Time slice at 2100 (G6sulfur)", 
         "endYear": "", 
         "experiment": "SSTs from year 2020 of SSP5-8.5; forcings and other prescribed conditions from year 2100 of G6sulfur", 
         "experimentID": "G6SST2-sulfur", 
@@ -30,7 +29,8 @@
         ], 
         "tier": "2"
     }, 
-    "idx": 52, 
+    "description": "Time slice at 2100 (G6sulfur)", 
+    "idx": 51, 
     "label": "G6SST2-sulfur", 
     "rawName": "G6SST2-sulfur", 
     "status": "pending", 

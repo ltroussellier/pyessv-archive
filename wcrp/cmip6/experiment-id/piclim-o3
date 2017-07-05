@@ -1,13 +1,12 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "piclim-o3", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
         ], 
         "additionalAllowedModelComponents": "", 
-        "description": "Perturbation from 1850 control using 2014 ozone precursor emissions", 
         "endYear": "", 
         "experiment": "pre-industrial climatological SSTs and forcing, but with 2014 ozone precursor emissions", 
         "experimentID": "piClim-O3", 
@@ -29,7 +28,8 @@
         ], 
         "tier": "2"
     }, 
-    "idx": 234, 
+    "description": "Perturbation from 1850 control using 2014 ozone precursor emissions", 
+    "idx": 233, 
     "label": "piClim-O3", 
     "rawName": "piClim-O3", 
     "status": "pending", 

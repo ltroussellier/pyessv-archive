@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "dcppa-assim", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "A2.3 Assimilation runs used to generate initial conditions for hindcasts", 
         "endYear": "2016", 
         "experiment": "Assimilation run paralleling the historical simulation, which may be used to generate hindcast initial conditions", 
         "experimentID": "dcppA-assim", 
@@ -31,7 +30,8 @@
         ], 
         "tier": "2"
     }, 
-    "idx": 111, 
+    "description": "A2.3 Assimilation runs used to generate initial conditions for hindcasts", 
+    "idx": 110, 
     "label": "dcppA-assim", 
     "rawName": "dcppA-assim", 
     "status": "pending", 

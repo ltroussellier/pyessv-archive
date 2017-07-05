@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "awi-cm-1-0-hr", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
             "CORDEX", 
@@ -16,7 +16,6 @@
         "institutionID": [
             "AWI"
         ], 
-        "label": "AWI-CM 1.0 HR", 
         "labelExtended": "AWI-CM 1.0 HR", 
         "modelComponent": {
             "aerosol": {
@@ -55,8 +54,8 @@
         "releaseYear": "2017", 
         "sourceID": "AWI-CM-1-0-HR"
     }, 
-    "idx": 49, 
-    "label": "AWI-CM-1-0-HR", 
+    "idx": 53, 
+    "label": "AWI-CM 1.0 HR", 
     "rawName": "AWI-CM-1-0-HR", 
     "status": "pending", 
     "uid": "54e8c887-7ed6-4980-a1f5-3cc99b7f7347"

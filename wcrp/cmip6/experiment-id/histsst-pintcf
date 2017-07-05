@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "histsst-pintcf", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
@@ -10,7 +10,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "Historical WMGHG concentrations and halocarbons emissions, 1850 NTCF emissions, prescribed SSTs", 
         "endYear": "2014", 
         "experiment": "historical SSTs and historical forcing, but with pre-industrial NTCF emissions", 
         "experimentID": "histSST-piNTCF", 
@@ -31,7 +30,8 @@
         ], 
         "tier": "1"
     }, 
-    "idx": 235, 
+    "description": "Historical WMGHG concentrations and halocarbons emissions, 1850 NTCF emissions, prescribed SSTs", 
+    "idx": 234, 
     "label": "histSST-piNTCF", 
     "rawName": "histSST-piNTCF", 
     "status": "pending", 

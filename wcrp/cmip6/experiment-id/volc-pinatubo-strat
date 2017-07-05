@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "volc-pinatubo-strat", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "VolMIP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "As volc-pinatubo-full, but with prescribed perturbation to the total (LW+SW) radiative heating rates", 
         "endYear": "", 
         "experiment": "Pinatubo experiment with partial radiative forcing, includes only stratospheric warming", 
         "experimentID": "volc-pinatubo-strat", 
@@ -31,7 +30,8 @@
         ], 
         "tier": "1"
     }, 
-    "idx": 193, 
+    "description": "As volc-pinatubo-full, but with prescribed perturbation to the total (LW+SW) radiative heating rates", 
+    "idx": 192, 
     "label": "volc-pinatubo-strat", 
     "rawName": "volc-pinatubo-strat", 
     "status": "pending", 

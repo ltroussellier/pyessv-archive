@@ -1,10 +1,12 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "cnrm-esm2-1-hr", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
-            ""
+            "CMIP", 
+            "OMIP", 
+            "ScenarioMIP"
         ], 
         "cohort": [
             "Registered"
@@ -12,43 +14,42 @@
         "institutionID": [
             "CNRM-CERFACS"
         ], 
-        "label": "CNRM-ESM2-1-HR", 
         "labelExtended": "CNRM-ESM2-1-HR", 
         "modelComponent": {
             "aerosol": {
-                "description": "TACTIC (v2.0)", 
-                "nominalResolution": ""
+                "description": "TACTIC_v2", 
+                "nominalResolution": "100 km"
             }, 
             "atmos": {
-                "description": "Arpege 6.2 (Tl359; 91 levels; top level 78.4 km)", 
-                "nominalResolution": ""
+                "description": "Arpege 6.3 (T359; Gaussian Reduced with 181724 grid points in total distributed over 360 latitude circles (with 720 grid points per latitude circle between 32.2degN and 32.2degS reducing to 18 grid points per latitude circle at 89.6degN and 89.6degS); 91 levels; top level 78.4 km)", 
+                "nominalResolution": "100 km"
             }, 
             "atmosChem": {
-                "description": "OZL_v2", 
-                "nominalResolution": ""
+                "description": "REPROBUS-C_v2", 
+                "nominalResolution": "100 km"
             }, 
             "land": {
                 "description": "Surfex 8.0c", 
-                "nominalResolution": ""
+                "nominalResolution": "100 km"
             }, 
             "landIce": {
                 "description": "none", 
                 "nominalResolution": "none"
             }, 
             "ocean": {
-                "description": "Nemo 3.6 (eORCA025; tripolar primarily 1/4deg latitude/longitude; 75 levels; top grid cell 0-1 m)", 
-                "nominalResolution": ""
+                "description": "Nemo 3.6 (eORCA025, tripolar primarily 1/4deg; 1442 x 1050 longitude/latitude; 75 levels; top grid cell 0-1 m)", 
+                "nominalResolution": "25 km"
             }, 
             "ocnBgchem": {
                 "description": "Pisces 2.s", 
-                "nominalResolution": ""
+                "nominalResolution": "25 km"
             }, 
             "seaIce": {
                 "description": "Gelato 6.1", 
-                "nominalResolution": ""
+                "nominalResolution": "25 km"
             }
         }, 
-        "releaseYear": "2016", 
+        "releaseYear": "2017", 
         "sourceID": "CNRM-ESM2-1-HR"
     }, 
     "idx": 17, 

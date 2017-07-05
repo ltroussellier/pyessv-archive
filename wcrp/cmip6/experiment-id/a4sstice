@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "a4sstice", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -10,7 +10,6 @@
             "AER", 
             "CHEM"
         ], 
-        "description": "As piSST, but with monthly-varying SSTs and sea-ice taken from years 111-140 of each model's own abrupt4xCO2 experiment instead of from piControl", 
         "endYear": "", 
         "experiment": "as piSST but with SSTs and sea ice from abrupt4xCO2", 
         "experimentID": "a4SSTice", 
@@ -30,7 +29,8 @@
         ], 
         "tier": "2"
     }, 
-    "idx": 220, 
+    "description": "As piSST, but with monthly-varying SSTs and sea-ice taken from years 111-140 of each model's own abrupt4xCO2 experiment instead of from piControl", 
+    "idx": 219, 
     "label": "a4SSTice", 
     "rawName": "a4SSTice", 
     "status": "pending", 

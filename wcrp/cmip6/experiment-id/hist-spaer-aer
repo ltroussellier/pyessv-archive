@@ -1,13 +1,12 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "hist-spaer-aer", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "RFMIP"
         ], 
         "additionalAllowedModelComponents": "", 
-        "description": "Prescribed anthropogenic aerosol optical properties. Changes in aerosols only", 
         "endYear": "2014", 
         "experiment": "historical simulation with specified anthropogenic aerosols, no other forcings", 
         "experimentID": "hist-spAer-aer", 
@@ -27,6 +26,7 @@
         ], 
         "tier": "2"
     }, 
+    "description": "Prescribed anthropogenic aerosol optical properties. Changes in aerosols only", 
     "idx": 149, 
     "label": "hist-spAer-aer", 
     "rawName": "hist-spAer-aer", 

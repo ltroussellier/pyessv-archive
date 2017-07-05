@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "pisst-4xco2-rad", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -10,7 +10,6 @@
             "AER", 
             "CHEM"
         ], 
-        "description": "Same as piSST but CO2 as seen by the radiation scheme is quadrupled", 
         "endYear": "", 
         "experiment": "as piSST with radiation-only seeing 4xCO2", 
         "experimentID": "piSST-4xCO2-rad", 
@@ -30,7 +29,8 @@
         ], 
         "tier": "2"
     }, 
-    "idx": 43, 
+    "description": "Same as piSST but CO2 as seen by the radiation scheme is quadrupled", 
+    "idx": 42, 
     "label": "piSST-4xCO2-rad", 
     "rawName": "piSST-4xCO2-rad", 
     "status": "pending", 

@@ -1,13 +1,12 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "histsst-pich4", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
         ], 
         "additionalAllowedModelComponents": "", 
-        "description": "Historical (non-CH4) WMGHG concentrations and NTCF emissions, 1850 CH4 concentrations", 
         "endYear": "2014", 
         "experiment": "historical SSTs and historical forcing, but with pre-industrial methane concentrations", 
         "experimentID": "histSST-piCH4", 
@@ -29,6 +28,7 @@
         ], 
         "tier": "1"
     }, 
+    "description": "Historical (non-CH4) WMGHG concentrations and NTCF emissions, 1850 CH4 concentrations", 
     "idx": 237, 
     "label": "histSST-piCH4", 
     "rawName": "histSST-piCH4", 

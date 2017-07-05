@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "dcppc-amv-trop-pos", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "C1.8 Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs", 
         "endYear": "", 
         "experiment": "idealized positive tropical AMV anomaly pattern", 
         "experimentID": "dcppC-amv-Trop-pos", 
@@ -31,7 +30,8 @@
         ], 
         "tier": "2"
     }, 
-    "idx": 227, 
+    "description": "C1.8 Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs", 
+    "idx": 226, 
     "label": "dcppC-amv-Trop-pos", 
     "rawName": "dcppC-amv-Trop-pos", 
     "status": "pending", 

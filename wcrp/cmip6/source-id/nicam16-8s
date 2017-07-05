@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "nicam16-8s", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
             ""
@@ -12,7 +12,6 @@
         "institutionID": [
             "MIROC"
         ], 
-        "label": "NICAM16-8S", 
         "labelExtended": "NICAM.16 gl08-L38 with NSW6", 
         "modelComponent": {
             "aerosol": {
@@ -51,7 +50,7 @@
         "releaseYear": "2017", 
         "sourceID": "NICAM16-8S"
     }, 
-    "idx": 52, 
+    "idx": 56, 
     "label": "NICAM16-8S", 
     "rawName": "NICAM16-8S", 
     "status": "pending", 

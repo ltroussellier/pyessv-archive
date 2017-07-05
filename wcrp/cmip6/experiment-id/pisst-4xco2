@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "pisst-4xco2", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -10,7 +10,6 @@
             "AER", 
             "CHEM"
         ], 
-        "description": "Same as piSST but CO2 is quadrupled. The increase in CO2 is seen by both the radiation scheme and vegetation", 
         "endYear": "", 
         "experiment": "as piSST with radiation and vegetation seeing 4xCO2", 
         "experimentID": "piSST-4xCO2", 
@@ -30,6 +29,7 @@
         ], 
         "tier": "2"
     }, 
+    "description": "Same as piSST but CO2 is quadrupled. The increase in CO2 is seen by both the radiation scheme and vegetation", 
     "idx": 35, 
     "label": "piSST-4xCO2", 
     "rawName": "piSST-4xCO2", 

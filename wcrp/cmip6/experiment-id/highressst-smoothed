@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "highressst-smoothed", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "HighResMIP"
@@ -9,7 +9,6 @@
         "additionalAllowedModelComponents": [
             "AER"
         ], 
-        "description": "Forced global atmosphere-land simulations as highresSST-present, but using smoothed SST to investigate impact of SST variability", 
         "endYear": "2014", 
         "experiment": "smoothed SST version of highresSST-present", 
         "experimentID": "highresSST-smoothed", 
@@ -29,6 +28,7 @@
         ], 
         "tier": "3"
     }, 
+    "description": "Forced global atmosphere-land simulations as highresSST-present, but using smoothed SST to investigate impact of SST variability", 
     "idx": 147, 
     "label": "highresSST-smoothed", 
     "rawName": "highresSST-smoothed", 

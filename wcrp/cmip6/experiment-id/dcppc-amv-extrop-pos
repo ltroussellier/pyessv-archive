@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "dcppc-amv-extrop-pos", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "C1.7Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs", 
         "endYear": "", 
         "experiment": "Idealized climate impact of positive extratropical AMV anomaly pattern", 
         "experimentID": "dcppC-amv-ExTrop-pos", 
@@ -31,7 +30,8 @@
         ], 
         "tier": "2"
     }, 
-    "idx": 177, 
+    "description": "C1.7Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs", 
+    "idx": 176, 
     "label": "dcppC-amv-ExTrop-pos", 
     "rawName": "dcppC-amv-ExTrop-pos", 
     "status": "pending", 

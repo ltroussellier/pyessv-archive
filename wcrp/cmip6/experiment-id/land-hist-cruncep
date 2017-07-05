@@ -1,13 +1,12 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "land-hist-cruncep", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LS3MIP"
         ], 
         "additionalAllowedModelComponents": "", 
-        "description": "Land only simulations", 
         "endYear": "2014", 
         "experiment": "as land-hist with CRU-NCEP forcings", 
         "experimentID": "land-hist-cruNcep", 
@@ -27,7 +26,8 @@
         ], 
         "tier": "2"
     }, 
-    "idx": 221, 
+    "description": "Land only simulations", 
+    "idx": 220, 
     "label": "land-hist-cruNcep", 
     "rawName": "land-hist-cruNcep", 
     "status": "pending", 

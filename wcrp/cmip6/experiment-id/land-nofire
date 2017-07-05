@@ -1,13 +1,12 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "land-nofire", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LUMIP"
         ], 
         "additionalAllowedModelComponents": "", 
-        "description": "Same as land-hist but with anthropogenic ignition and suppression held to 1850 levels", 
         "endYear": "2014", 
         "experiment": "historical land-only with no human fire management", 
         "experimentID": "land-noFire", 
@@ -27,7 +26,8 @@
         ], 
         "tier": "2"
     }, 
-    "idx": 229, 
+    "description": "Same as land-hist but with anthropogenic ignition and suppression held to 1850 levels", 
+    "idx": 228, 
     "label": "land-noFire", 
     "rawName": "land-noFire", 
     "status": "pending", 

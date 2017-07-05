@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "volc-long-hls", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "VolMIP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "Idealized Southern Hemisphere high-latitude eruption emitting 28.1 Tg of SO2. Experiment initialized from PiControl", 
         "endYear": "", 
         "experiment": "Idealized Southern Hemisphere high-latitude eruption emitting 28.1 Tg of SO2", 
         "experimentID": "volc-long-hlS", 
@@ -31,7 +30,8 @@
         ], 
         "tier": "3"
     }, 
-    "idx": 160, 
+    "description": "Idealized Southern Hemisphere high-latitude eruption emitting 28.1 Tg of SO2. Experiment initialized from PiControl", 
+    "idx": 159, 
     "label": "volc-long-hlS", 
     "rawName": "volc-long-hlS", 
     "status": "pending", 

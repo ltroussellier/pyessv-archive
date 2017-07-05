@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "ssp119", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "ScenarioMIP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "Future scenario with low radiative forcing throughout reaching about 1.9 W/m2 in 2100 based on SSP1. Concentration-driven", 
         "endYear": "2100", 
         "experiment": "low-end scenario reaching 1.9 W m-2, based on SSP1", 
         "experimentID": "ssp119", 
@@ -31,7 +30,8 @@
         ], 
         "tier": "2"
     }, 
-    "idx": 215, 
+    "description": "Future scenario with low radiative forcing throughout reaching about 1.9 W/m2 in 2100 based on SSP1. Concentration-driven", 
+    "idx": 214, 
     "label": "ssp119", 
     "rawName": "ssp119", 
     "status": "pending", 

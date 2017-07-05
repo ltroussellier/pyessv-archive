@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "noresm2-lmec", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
             "AerChemMIP"
@@ -12,7 +12,6 @@
         "institutionID": [
             "NCC"
         ], 
-        "label": "NorESM2-LMEC", 
         "labelExtended": "NorESM2-LMEC (low atmosphere-medium ocean resolution, GHG emission driven, complex atmospheric chemistry)", 
         "modelComponent": {
             "aerosol": {
@@ -51,7 +50,7 @@
         "releaseYear": "2017", 
         "sourceID": "NorESM2-LMEC"
     }, 
-    "idx": 40, 
+    "idx": 44, 
     "label": "NorESM2-LMEC", 
     "rawName": "NorESM2-LMEC", 
     "status": "pending", 

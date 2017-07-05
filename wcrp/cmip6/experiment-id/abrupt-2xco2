@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "abrupt-2xco2", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "Identical to the DECK abrupt-4xCO2, but at 2xCO2", 
         "endYear": "", 
         "experiment": "abrupt doubling of CO2", 
         "experimentID": "abrupt-2xCO2", 
@@ -31,7 +30,8 @@
         ], 
         "tier": "2"
     }, 
-    "idx": 69, 
+    "description": "Identical to the DECK abrupt-4xCO2, but at 2xCO2", 
+    "idx": 68, 
     "label": "abrupt-2xCO2", 
     "rawName": "abrupt-2xCO2", 
     "status": "pending", 

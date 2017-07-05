@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "ssp460", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "ScenarioMIP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "Future scenario with medium radiative forcing by the end of century. Following approximately RCP6.0 global forcing pathway but with new forcing based on SSP4. Concentration-driven", 
         "endYear": "2100", 
         "experiment": "update of RCP6.0 based on SSP4", 
         "experimentID": "ssp460", 
@@ -31,6 +30,7 @@
         ], 
         "tier": "2"
     }, 
+    "description": "Future scenario with medium radiative forcing by the end of century. Following approximately RCP6.0 global forcing pathway but with new forcing based on SSP4. Concentration-driven", 
     "idx": 155, 
     "label": "ssp460", 
     "rawName": "ssp460", 

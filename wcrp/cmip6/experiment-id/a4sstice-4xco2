@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "a4sstice-4xco2", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -10,7 +10,6 @@
             "AER", 
             "CHEM"
         ], 
-        "description": "As a4SSTice, but CO2 is quadrupled, and the increase in CO2 is seen by both the radiation scheme and vegetation", 
         "endYear": "", 
         "experiment": "as piSST but with SSTs and sea ice from abrupt4xCO2, and 4xCO2 seen by radiation and vegetation", 
         "experimentID": "a4SSTice-4xCO2", 
@@ -30,6 +29,7 @@
         ], 
         "tier": "2"
     }, 
+    "description": "As a4SSTice, but CO2 is quadrupled, and the increase in CO2 is seen by both the radiation scheme and vegetation", 
     "idx": 154, 
     "label": "a4SSTice-4xCO2", 
     "rawName": "a4SSTice-4xCO2", 

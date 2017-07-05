@@ -1,10 +1,20 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "cnrm-cm6-1", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
-            ""
+            "CFMIP", 
+            "CMIP", 
+            "DAMIP", 
+            "DCPP", 
+            "FAFMIP", 
+            "GMMIP", 
+            "ISMIP6", 
+            "LS3MIP", 
+            "PMIP", 
+            "RFMIP", 
+            "ScenarioMIP"
         ], 
         "cohort": [
             "Registered"
@@ -12,32 +22,31 @@
         "institutionID": [
             "CNRM-CERFACS"
         ], 
-        "label": "CNRM-CM6-1", 
         "labelExtended": "CNRM-CM6-1", 
         "modelComponent": {
             "aerosol": {
-                "description": "climatological fields computed by TACTIC (v2.0)", 
-                "nominalResolution": ""
+                "description": "prescribed monthly fields computed by TACTIC_v2 scheme", 
+                "nominalResolution": "250 km"
             }, 
             "atmos": {
-                "description": "Arpege 6.2 (Tl127; 91 levels; top level 78.4 km)", 
-                "nominalResolution": ""
+                "description": "Arpege 6.3 (T127; Gaussian Reduced with 24572 grid points in total distributed over 128 latitude circles (with 256 grid points per latitude circle between 30degN and 30degS reducing to 20 grid points per latitude circle at 88.9degN and 88.9degS); 91 levels; top level 78.4 km)", 
+                "nominalResolution": "250 km"
             }, 
             "atmosChem": {
                 "description": "OZL_v2", 
-                "nominalResolution": ""
+                "nominalResolution": "250 km"
             }, 
             "land": {
                 "description": "Surfex 8.0c", 
-                "nominalResolution": ""
+                "nominalResolution": "250 km"
             }, 
             "landIce": {
-                "description": "none (except for some FAFMIP experiments)", 
-                "nominalResolution": "none"
+                "description": "GRISLI: Collaborating with l'Institut des Geosciences de l'Environnement in Grenoble on offline ice-sheet simulations", 
+                "nominalResolution": "250 km"
             }, 
             "ocean": {
-                "description": "Nemo 3.6 (eORCA1; tripolar primarily 1deg latitude/longitude; 75 levels; top grid cell 0-1 m)", 
-                "nominalResolution": ""
+                "description": "Nemo 3.6 (eORCA1, tripolar primarily 1deg; 362 x 294 longitude/latitude; 75 levels; top grid cell 0-1 m)", 
+                "nominalResolution": "100 km"
             }, 
             "ocnBgchem": {
                 "description": "none", 
@@ -45,13 +54,13 @@
             }, 
             "seaIce": {
                 "description": "Gelato 6.1", 
-                "nominalResolution": ""
+                "nominalResolution": "100 km"
             }
         }, 
-        "releaseYear": "2016", 
+        "releaseYear": "2017", 
         "sourceID": "CNRM-CM6-1"
     }, 
-    "idx": 33, 
+    "idx": 36, 
     "label": "CNRM-CM6-1", 
     "rawName": "CNRM-CM6-1", 
     "status": "pending", 

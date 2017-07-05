@@ -1,13 +1,12 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "land-crop-grass", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LUMIP"
         ], 
         "additionalAllowedModelComponents": "", 
-        "description": "Same as land-hist but with all new crop and pastureland treated as unmanaged grassland", 
         "endYear": "2014", 
         "experiment": "historical land-only with cropland as natural grassland", 
         "experimentID": "land-crop-grass", 
@@ -27,6 +26,7 @@
         ], 
         "tier": "2"
     }, 
+    "description": "Same as land-hist but with all new crop and pastureland treated as unmanaged grassland", 
     "idx": 26, 
     "label": "land-crop-grass", 
     "rawName": "land-crop-grass", 

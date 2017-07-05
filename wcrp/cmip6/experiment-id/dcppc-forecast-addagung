@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "dcppc-forecast-addagung", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "C3.4 Effects of volcanoes on decadal prediction and predictability of forced and internal variability components. First full hindcast year is 2015", 
         "endYear": "5 - 10 years after start year", 
         "experiment": "2015 forecast with added Agung forcing", 
         "experimentID": "dcppC-forecast-addAgung", 
@@ -33,7 +32,8 @@
         ], 
         "tier": "3"
     }, 
-    "idx": 226, 
+    "description": "C3.4 Effects of volcanoes on decadal prediction and predictability of forced and internal variability components. First full hindcast year is 2015", 
+    "idx": 225, 
     "label": "dcppC-forecast-addAgung", 
     "rawName": "dcppC-forecast-addAgung", 
     "status": "pending", 

@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "miroc-es2l", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
             ""
@@ -12,7 +12,6 @@
         "institutionID": [
             "MIROC"
         ], 
-        "label": "MIROC-ES2L", 
         "labelExtended": "MIROC-ES2L", 
         "modelComponent": {
             "aerosol": {
@@ -51,7 +50,7 @@
         "releaseYear": "2017", 
         "sourceID": "MIROC-ES2L"
     }, 
-    "idx": 59, 
+    "idx": 63, 
     "label": "MIROC-ES2L", 
     "rawName": "MIROC-ES2L", 
     "status": "pending", 

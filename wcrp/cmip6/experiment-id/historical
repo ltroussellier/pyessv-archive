@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "historical", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "CMIP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "CMIP6 historical", 
         "endYear": "2014", 
         "experiment": "all-forcing simulation of the recent past", 
         "experimentID": "historical", 
@@ -31,7 +30,8 @@
         ], 
         "tier": "1"
     }, 
-    "idx": 102, 
+    "description": "CMIP6 historical", 
+    "idx": 101, 
     "label": "historical", 
     "rawName": "historical", 
     "status": "pending", 

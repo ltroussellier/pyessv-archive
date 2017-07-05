@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "ssp585-withism", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "ISMIP6"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "Future climate from ScenarioMIP SSP5-8.5 simulation that includes interactive ice sheets. Set up follows the standard SSP5-8.5 experiment", 
         "endYear": "2300", 
         "experiment": "ssp585 with interactive ice sheet", 
         "experimentID": "ssp585-withism", 
@@ -32,7 +31,8 @@
         ], 
         "tier": "2"
     }, 
-    "idx": 200, 
+    "description": "Future climate from ScenarioMIP SSP5-8.5 simulation that includes interactive ice sheets. Set up follows the standard SSP5-8.5 experiment", 
+    "idx": 199, 
     "label": "ssp585-withism", 
     "rawName": "ssp585-withism", 
     "status": "pending", 

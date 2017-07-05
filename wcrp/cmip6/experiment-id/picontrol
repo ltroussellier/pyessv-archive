@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "picontrol", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "CMIP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "DECK: control", 
         "endYear": "", 
         "experiment": "pre-industrial control", 
         "experimentID": "piControl", 
@@ -31,7 +30,8 @@
         ], 
         "tier": "1"
     }, 
-    "idx": 116, 
+    "description": "DECK: control", 
+    "idx": 115, 
     "label": "piControl", 
     "rawName": "piControl", 
     "status": "pending", 

@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "lig127k", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "PMIP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "main forcings: astronomical parameters, trace gases, dust (forcing, or feedback if dust cycle represented in model)", 
         "endYear": "", 
         "experiment": "last interglacial (127k)", 
         "experimentID": "lig127k", 
@@ -31,7 +30,8 @@
         ], 
         "tier": "1"
     }, 
-    "idx": 93, 
+    "description": "main forcings: astronomical parameters, trace gases, dust (forcing, or feedback if dust cycle represented in model)", 
+    "idx": 92, 
     "label": "lig127k", 
     "rawName": "lig127k", 
     "status": "pending", 

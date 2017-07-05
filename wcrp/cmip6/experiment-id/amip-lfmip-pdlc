@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "amip-lfmip-pdlc", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LS3MIP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "Prescribed land conditions 1980-2014 climate; AMIP SSTs", 
         "endYear": "2014", 
         "experiment": "prescribed land (from current climatology) and AMIP SSTs", 
         "experimentID": "amip-lfmip-pdLC", 
@@ -31,6 +30,7 @@
         ], 
         "tier": "2"
     }, 
+    "description": "Prescribed land conditions 1980-2014 climate; AMIP SSTs", 
     "idx": 25, 
     "label": "amip-lfmip-pdLC", 
     "rawName": "amip-lfmip-pdLC", 

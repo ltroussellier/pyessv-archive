@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "amip-lfmip-pobs", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LS3MIP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "Land-hist land conditions; AMIP SSTs", 
         "endYear": "2014", 
         "experiment": "prescribed land (from pseudo-observations) and AMIP SSTs", 
         "experimentID": "amip-lfmip-pObs", 
@@ -31,7 +30,8 @@
         ], 
         "tier": "2"
     }, 
-    "idx": 141, 
+    "description": "Land-hist land conditions; AMIP SSTs", 
+    "idx": 140, 
     "label": "amip-lfmip-pObs", 
     "rawName": "amip-lfmip-pObs", 
     "status": "pending", 

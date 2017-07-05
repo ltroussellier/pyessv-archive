@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "faf-passiveheat", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "FAFMIP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "1xCO2 experiment, parallel to piControl, with a flux of passive tracer added at the ocean surface at the same rate as the surface net heat flux anomaly applied in the FAFMIP heat experiment", 
         "endYear": "", 
         "experiment": "control plus surface flux of passive heat tracer into ocean", 
         "experimentID": "faf-passiveheat", 
@@ -31,6 +30,7 @@
         ], 
         "tier": "2"
     }, 
+    "description": "1xCO2 experiment, parallel to piControl, with a flux of passive tracer added at the ocean surface at the same rate as the surface net heat flux anomaly applied in the FAFMIP heat experiment", 
     "idx": 28, 
     "label": "faf-passiveheat", 
     "rawName": "faf-passiveheat", 

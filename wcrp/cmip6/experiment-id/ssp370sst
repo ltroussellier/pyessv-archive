@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "ssp370sst", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
@@ -9,7 +9,6 @@
         "additionalAllowedModelComponents": [
             "CHEM"
         ], 
-        "description": "Future SSP3-7.0, with SSTs prescribed from ssp370", 
         "endYear": "2055", 
         "experiment": "SSP3-7.0, with SSTs prescribed from ssp370", 
         "experimentID": "ssp370SST", 
@@ -30,6 +29,7 @@
         ], 
         "tier": "1"
     }, 
+    "description": "Future SSP3-7.0, with SSTs prescribed from ssp370", 
     "idx": 153, 
     "label": "ssp370SST", 
     "rawName": "ssp370SST", 

@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "dcppc-atl-spg", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "C2.1 (and C2.2) Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs. First full hindcast year follows start year (e.g., for s1992, first full hindcast year is 1993)", 
         "endYear": "5 - 10 years after start year", 
         "experiment": "predictability of 1990s warming of Atlantic sub-polar gyre", 
         "experimentID": "dcppC-atl-spg", 
@@ -38,6 +37,7 @@
         ], 
         "tier": "3"
     }, 
+    "description": "C2.1 (and C2.2) Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs. First full hindcast year follows start year (e.g., for s1992, first full hindcast year is 1993)", 
     "idx": 31, 
     "label": "dcppC-atl-spg", 
     "rawName": "dcppC-atl-spg", 

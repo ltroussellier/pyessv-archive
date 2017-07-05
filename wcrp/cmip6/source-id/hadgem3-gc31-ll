@@ -1,10 +1,15 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "hadgem3-gc31-ll", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
-            ""
+            "CFMIP", 
+            "CMIP", 
+            "DAMIP", 
+            "FAFMIP", 
+            "PMIP", 
+            "RFMIP"
         ], 
         "cohort": [
             "Registered"
@@ -12,16 +17,15 @@
         "institutionID": [
             "MOHC"
         ], 
-        "label": "HadGEM3-GC31-LL", 
         "labelExtended": "HadGEM3-GC3.1-N96ORCA1", 
         "modelComponent": {
             "aerosol": {
                 "description": "UKCA-GLOMAP-mode", 
-                "nominalResolution": ""
+                "nominalResolution": "250 km"
             }, 
             "atmos": {
-                "description": "MetUM-HadGEM3-GA7.1 (192 x 144 N96; 85 levels; top level 85km)", 
-                "nominalResolution": ""
+                "description": "MetUM-HadGEM3-GA7.1 (N96; 192 x 144 longitude/latitude; 85 levels; top level 85 km)", 
+                "nominalResolution": "250 km"
             }, 
             "atmosChem": {
                 "description": "none", 
@@ -29,23 +33,23 @@
             }, 
             "land": {
                 "description": "JULES-HadGEM3-GL7.1", 
-                "nominalResolution": ""
+                "nominalResolution": "250 km"
             }, 
             "landIce": {
                 "description": "none", 
                 "nominalResolution": "none"
             }, 
             "ocean": {
-                "description": "NEMO-HadGEM3-GO6.0 (ORCA1 tripolar primarily 1 deg latitude/longitude with meridional refinement down to 1/3 degree in the tropics; 75 levels; top grid cell 0-1m)", 
-                "nominalResolution": ""
+                "description": "NEMO-HadGEM3-GO6.0 (ORCA1 tripolar primarily 1 deg with meridional refinement down to 1/3 degree in the tropics; 400 x 180 longitude/latitude; 75 levels; top grid cell 0-1 m)", 
+                "nominalResolution": "100 km"
             }, 
             "ocnBgchem": {
                 "description": "none", 
                 "nominalResolution": "none"
             }, 
             "seaIce": {
-                "description": "CICE-HadGEM3-GSI8 (ORCA1 tripolar primarily 1 deg latitude/longitude)", 
-                "nominalResolution": ""
+                "description": "CICE-HadGEM3-GSI8 (ORCA1 tripolar primarily 1 deg; 360 x 180 longitude/latitude)", 
+                "nominalResolution": "100 km"
             }
         }, 
         "releaseYear": "2016", 

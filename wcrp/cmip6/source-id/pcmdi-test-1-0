@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "pcmdi-test-1-0", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
             "CMIP"
@@ -12,7 +12,6 @@
         "institutionID": [
             "PCMDI"
         ], 
-        "label": "PCMDI-test 1.0", 
         "labelExtended": "PCMDI-test 1.0 (This entry is free text for users to contribute verbose information)", 
         "modelComponent": {
             "aerosol": {
@@ -51,8 +50,8 @@
         "releaseYear": "1989", 
         "sourceID": "PCMDI-test-1-0"
     }, 
-    "idx": 38, 
-    "label": "PCMDI-test-1-0", 
+    "idx": 41, 
+    "label": "PCMDI-test 1.0", 
     "rawName": "PCMDI-test-1-0", 
     "status": "pending", 
     "uid": "58df780f-6ea2-4755-8315-689d58357cd1"

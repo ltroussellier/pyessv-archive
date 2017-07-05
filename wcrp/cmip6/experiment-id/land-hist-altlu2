@@ -1,13 +1,12 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "land-hist-altlu2", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LUMIP"
         ], 
         "additionalAllowedModelComponents": "", 
-        "description": "Land only simulations", 
         "endYear": "2014", 
         "experiment": "historical land-only alternate land use history", 
         "experimentID": "land-hist-altLu2", 
@@ -27,7 +26,8 @@
         ], 
         "tier": "2"
     }, 
-    "idx": 113, 
+    "description": "Land only simulations", 
+    "idx": 112, 
     "label": "land-hist-altLu2", 
     "rawName": "land-hist-altLu2", 
     "status": "pending", 

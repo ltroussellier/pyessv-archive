@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "historical-withism", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "ISMIP6"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "Historical simulation that includes interactive ice sheets. Set up follows the historical experiment", 
         "endYear": "2014", 
         "experiment": "historical with interactive ice sheet", 
         "experimentID": "historical-withism", 
@@ -32,7 +31,8 @@
         ], 
         "tier": "2"
     }, 
-    "idx": 174, 
+    "description": "Historical simulation that includes interactive ice sheets. Set up follows the historical experiment", 
+    "idx": 173, 
     "label": "historical-withism", 
     "rawName": "historical-withism", 
     "status": "pending", 

@@ -1,8 +1,8 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "6hr", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
-    "idx": 3, 
+    "createDate": "2017-06-21 00:00:00+00:00", 
+    "idx": 6, 
     "label": "6hr", 
     "rawName": "6hr", 
     "status": "pending", 

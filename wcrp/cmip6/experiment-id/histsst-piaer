@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "histsst-piaer", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
@@ -9,7 +9,6 @@
         "additionalAllowedModelComponents": [
             "CHEM"
         ], 
-        "description": "Historical WMGHG, halocarbon concentrations and tropospheric ozone precursors emissions, 1850 aerosol precursor emissions, prescribed SSTs", 
         "endYear": "2014", 
         "experiment": "historical SSTs and historical forcing, but with pre-industrial aerosol emissions", 
         "experimentID": "histSST-piAer", 
@@ -30,7 +29,8 @@
         ], 
         "tier": "2"
     }, 
-    "idx": 164, 
+    "description": "Historical WMGHG, halocarbon concentrations and tropospheric ozone precursors emissions, 1850 aerosol precursor emissions, prescribed SSTs", 
+    "idx": 163, 
     "label": "histSST-piAer", 
     "rawName": "histSST-piAer", 
     "status": "pending", 

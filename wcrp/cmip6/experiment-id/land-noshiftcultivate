@@ -1,13 +1,12 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "land-noshiftcultivate", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LUMIP"
         ], 
         "additionalAllowedModelComponents": "", 
-        "description": "Same as land-hist except shifting cultivation turned off. An additional LUC transitions dataset will be provided as a data layer within LUMIP LUH2 dataset with shifting cultivation deactivated", 
         "endYear": "2014", 
         "experiment": "historical land-only with shifting cultivation turned off", 
         "experimentID": "land-noShiftCultivate", 
@@ -27,7 +26,8 @@
         ], 
         "tier": "2"
     }, 
-    "idx": 94, 
+    "description": "Same as land-hist except shifting cultivation turned off. An additional LUC transitions dataset will be provided as a data layer within LUMIP LUH2 dataset with shifting cultivation deactivated", 
+    "idx": 93, 
     "label": "land-noShiftCultivate", 
     "rawName": "land-noShiftCultivate", 
     "status": "pending", 

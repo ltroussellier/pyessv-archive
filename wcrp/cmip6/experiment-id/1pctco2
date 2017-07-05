@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "1pctco2", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "CMIP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "DECK: 1pctCO2", 
         "endYear": "", 
         "experiment": "1 percent per year increase in CO2", 
         "experimentID": "1pctCO2", 
@@ -31,7 +30,8 @@
         ], 
         "tier": "1"
     }, 
-    "idx": 83, 
+    "description": "DECK: 1pctCO2", 
+    "idx": 82, 
     "label": "1pctCO2", 
     "rawName": "1pctCO2", 
     "status": "pending", 

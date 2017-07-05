@@ -1,13 +1,12 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "histsst-pio3", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
         ], 
         "additionalAllowedModelComponents": "", 
-        "description": "Historical WMGHG, halocarbon concentrations and aerosol precursor emissions, 1850 tropospheric ozone precursors emissions, prescribed SSTs", 
         "endYear": "2014", 
         "experiment": "historical SSTs and historical forcing, but with pre-industrial ozone precursor emissions", 
         "experimentID": "histSST-piO3", 
@@ -29,7 +28,8 @@
         ], 
         "tier": "2"
     }, 
-    "idx": 138, 
+    "description": "Historical WMGHG, halocarbon concentrations and aerosol precursor emissions, 1850 tropospheric ozone precursors emissions, prescribed SSTs", 
+    "idx": 137, 
     "label": "histSST-piO3", 
     "rawName": "histSST-piO3", 
     "status": "pending", 

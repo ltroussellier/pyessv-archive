@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "noresm2-lme", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
             "C4MIP", 
@@ -16,7 +16,6 @@
         "institutionID": [
             "NCC"
         ], 
-        "label": "NorESM2-LME", 
         "labelExtended": "NorESM2-LME (low atmosphere-medium ocean resolution, GHG emission driven)", 
         "modelComponent": {
             "aerosol": {
@@ -55,7 +54,7 @@
         "releaseYear": "2017", 
         "sourceID": "NorESM2-LME"
     }, 
-    "idx": 58, 
+    "idx": 62, 
     "label": "NorESM2-LME", 
     "rawName": "NorESM2-LME", 
     "status": "pending", 

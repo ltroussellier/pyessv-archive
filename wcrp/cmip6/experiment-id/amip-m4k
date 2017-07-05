@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "amip-m4k", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -10,7 +10,6 @@
             "AER", 
             "CHEM"
         ], 
-        "description": "As amip experiment but SSTs are subject to a uniform cooling of 4K", 
         "endYear": "2014", 
         "experiment": "AMIP with uniform 4K SST decrease", 
         "experimentID": "amip-m4K", 
@@ -30,7 +29,8 @@
         ], 
         "tier": "2"
     }, 
-    "idx": 82, 
+    "description": "As amip experiment but SSTs are subject to a uniform cooling of 4K", 
+    "idx": 81, 
     "label": "amip-m4K", 
     "rawName": "amip-m4K", 
     "status": "pending", 

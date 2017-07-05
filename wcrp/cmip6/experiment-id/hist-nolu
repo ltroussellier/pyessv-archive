@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "hist-nolu", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LUMIP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "Same as CMIP6 historical but with land cover held at 1850, no human activity; concentration driven", 
         "endYear": "2014", 
         "experiment": "historical with no land-use change", 
         "experimentID": "hist-noLu", 
@@ -31,7 +30,8 @@
         ], 
         "tier": "1"
     }, 
-    "idx": 185, 
+    "description": "Same as CMIP6 historical but with land cover held at 1850, no human activity; concentration driven", 
+    "idx": 184, 
     "label": "hist-noLu", 
     "rawName": "hist-noLu", 
     "status": "pending", 

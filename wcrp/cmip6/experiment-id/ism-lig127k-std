@@ -1,13 +1,12 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "ism-lig127k-std", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "ISMIP6"
         ], 
         "additionalAllowedModelComponents": "", 
-        "description": "Last interglacial simulation of ice sheet evolution driven by PMIP lig127k", 
         "endYear": "", 
         "experiment": "offline ice sheet forced by ISMIP6-specified AGCM last interglacial output", 
         "experimentID": "ism-lig127k-std", 
@@ -27,7 +26,8 @@
         ], 
         "tier": "3"
     }, 
-    "idx": 61, 
+    "description": "Last interglacial simulation of ice sheet evolution driven by PMIP lig127k", 
+    "idx": 60, 
     "label": "ism-lig127k-std", 
     "rawName": "ism-lig127k-std", 
     "status": "pending", 

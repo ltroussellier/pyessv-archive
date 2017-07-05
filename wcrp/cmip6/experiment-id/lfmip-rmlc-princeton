@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "lfmip-rmlc-princeton", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LS3MIP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "Prescribed land conditions 30yr running mean with Land-Hist-princeton", 
         "endYear": "2100", 
         "experiment": "as LFMIP-rmLC with Land-Hist-princeton", 
         "experimentID": "lfmip-rmLC-princeton", 
@@ -31,7 +30,8 @@
         ], 
         "tier": "2"
     }, 
-    "idx": 186, 
+    "description": "Prescribed land conditions 30yr running mean with Land-Hist-princeton", 
+    "idx": 185, 
     "label": "lfmip-rmLC-princeton", 
     "rawName": "lfmip-rmLC-princeton", 
     "status": "pending", 

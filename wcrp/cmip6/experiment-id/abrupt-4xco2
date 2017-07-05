@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "abrupt-4xco2", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "CMIP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "DECK: abrupt4xCO2", 
         "endYear": "", 
         "experiment": "abrupt quadrupling of CO2", 
         "experimentID": "abrupt-4xCO2", 
@@ -31,7 +30,8 @@
         ], 
         "tier": "1"
     }, 
-    "idx": 96, 
+    "description": "DECK: abrupt4xCO2", 
+    "idx": 95, 
     "label": "abrupt-4xCO2", 
     "rawName": "abrupt-4xCO2", 
     "status": "pending", 

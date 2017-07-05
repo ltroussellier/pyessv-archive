@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "cmcc-cm2-hr4", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
             "CMIP", 
@@ -13,7 +13,6 @@
         "institutionID": [
             "CMCC"
         ], 
-        "label": "CMCC-CM2-HR4", 
         "labelExtended": "CMCC-CM2-HR4", 
         "modelComponent": {
             "aerosol": {

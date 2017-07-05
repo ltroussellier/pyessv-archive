@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "piclim-lu", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "RFMIP"
@@ -10,7 +10,6 @@
             "AER", 
             "CHEM"
         ], 
-        "description": "As in RFMIP-ERF-PI-Cntrl but with present-day land use", 
         "endYear": "", 
         "experiment": "effective radiative forcing by present-day land use", 
         "experimentID": "piClim-lu", 
@@ -30,7 +29,8 @@
         ], 
         "tier": "1"
     }, 
-    "idx": 159, 
+    "description": "As in RFMIP-ERF-PI-Cntrl but with present-day land use", 
+    "idx": 158, 
     "label": "piClim-lu", 
     "rawName": "piClim-lu", 
     "status": "pending", 

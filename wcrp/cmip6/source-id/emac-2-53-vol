@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "emac-2-53-vol", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
             "CMIP", 
@@ -13,7 +13,6 @@
         "institutionID": [
             "MESSy-Consortium"
         ], 
-        "label": "EMAC-2-53-Vol", 
         "labelExtended": "EMAC-2-53-x-Vol", 
         "modelComponent": {
             "aerosol": {
@@ -52,7 +51,7 @@
         "releaseYear": "2017", 
         "sourceID": "EMAC-2-53-Vol"
     }, 
-    "idx": 36, 
+    "idx": 39, 
     "label": "EMAC-2-53-Vol", 
     "rawName": "EMAC-2-53-Vol", 
     "status": "pending", 

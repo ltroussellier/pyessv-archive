@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "piclim-histall", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "RFMIP"
@@ -10,7 +10,6 @@
             "AER", 
             "CHEM"
         ], 
-        "description": "Time-varying forcing. SST and sea ice fixed at preindustrial control. Interactive vegetation", 
         "endYear": "2100", 
         "experiment": "transient effective radiative forcing", 
         "experimentID": "piClim-histall", 
@@ -30,6 +29,7 @@
         ], 
         "tier": "2"
     }, 
+    "description": "Time-varying forcing. SST and sea ice fixed at preindustrial control. Interactive vegetation", 
     "idx": 18, 
     "label": "piClim-histall", 
     "rawName": "piClim-histall", 

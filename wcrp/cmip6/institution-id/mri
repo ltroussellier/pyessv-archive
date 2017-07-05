@@ -1,11 +1,11 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "mri", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "postalAddress": "Meteorological Research Institute, Tsukuba, Ibaraki 305-0052, Japan"
     }, 
-    "idx": 21, 
+    "idx": 19, 
     "label": "MRI", 
     "rawName": "MRI", 
     "status": "pending", 

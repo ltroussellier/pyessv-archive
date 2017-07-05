@@ -1,11 +1,11 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "nasa-giss", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "postalAddress": "Goddard Institute for Space Studies, New York, NY 10025, USA"
     }, 
-    "idx": 22, 
+    "idx": 20, 
     "label": "NASA-GISS", 
     "rawName": "NASA-GISS", 
     "status": "pending", 

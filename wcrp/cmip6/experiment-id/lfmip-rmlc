@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "lfmip-rmlc", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LS3MIP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "Prescribed land conditions 30yr running mean", 
         "endYear": "2100", 
         "experiment": "prescribed land conditions (from running mean climatology) and initialized from \"historical\" run year 1980", 
         "experimentID": "lfmip-rmLC", 
@@ -31,7 +30,8 @@
         ], 
         "tier": "2"
     }, 
-    "idx": 65, 
+    "description": "Prescribed land conditions 30yr running mean", 
+    "idx": 64, 
     "label": "lfmip-rmLC", 
     "rawName": "lfmip-rmLC", 
     "status": "pending", 

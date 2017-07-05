@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "piclim-so2", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
@@ -9,7 +9,6 @@
         "additionalAllowedModelComponents": [
             "CHEM"
         ], 
-        "description": "Perturbation from 1850 control using 2014 SO2 emissions", 
         "endYear": "", 
         "experiment": "pre-industrial climatological SSTs and forcing, but with 2014 SO2 emissions", 
         "experimentID": "piClim-SO2", 
@@ -30,7 +29,8 @@
         ], 
         "tier": "3"
     }, 
-    "idx": 86, 
+    "description": "Perturbation from 1850 control using 2014 SO2 emissions", 
+    "idx": 85, 
     "label": "piClim-SO2", 
     "rawName": "piClim-SO2", 
     "status": "pending", 

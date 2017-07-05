@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "aqua-control-lwoff", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -10,7 +10,6 @@
             "AER", 
             "CHEM"
         ], 
-        "description": "As aqua-control experiment, but with cloud-radiative effects switched off in the LW radiation code", 
         "endYear": "", 
         "experiment": "aquaplanet control with longwave cloud radiative effects off", 
         "experimentID": "aqua-control-lwoff", 
@@ -30,7 +29,8 @@
         ], 
         "tier": "2"
     }, 
-    "idx": 181, 
+    "description": "As aqua-control experiment, but with cloud-radiative effects switched off in the LW radiation code", 
+    "idx": 180, 
     "label": "aqua-control-lwoff", 
     "rawName": "aqua-control-lwoff", 
     "status": "pending", 

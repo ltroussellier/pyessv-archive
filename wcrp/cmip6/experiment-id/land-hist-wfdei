@@ -1,13 +1,12 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "land-hist-wfdei", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LS3MIP"
         ], 
         "additionalAllowedModelComponents": "", 
-        "description": "Land only simulations", 
         "endYear": "2014", 
         "experiment": "as land-hist with WFDEI forcings", 
         "experimentID": "land-hist-wfdei", 
@@ -27,6 +26,7 @@
         ], 
         "tier": "2"
     }, 
+    "description": "Land only simulations", 
     "idx": 240, 
     "label": "land-hist-wfdei", 
     "rawName": "land-hist-wfdei", 

@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "dcppc-hindcast-noagung", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "C3.3 Effects of volcanoes on decadal prediction and predictability of forced and internal variability components. First full hindcast year is 1962", 
         "endYear": "5 - 10 years after start year", 
         "experiment": "hindcast but with only background volcanic forcing to be the same as that used in the 2015 forecast", 
         "experimentID": "dcppC-hindcast-noAgung", 
@@ -33,7 +32,8 @@
         ], 
         "tier": "2"
     }, 
-    "idx": 122, 
+    "description": "C3.3 Effects of volcanoes on decadal prediction and predictability of forced and internal variability components. First full hindcast year is 1962", 
+    "idx": 121, 
     "label": "dcppC-hindcast-noAgung", 
     "rawName": "dcppC-hindcast-noAgung", 
     "status": "pending", 

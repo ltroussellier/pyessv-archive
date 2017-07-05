@@ -1,11 +1,11 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "inm", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "postalAddress": "Institute for Numerical Mathematics, Moscow 119991, Russia"
+        "postalAddress": "Institute for Numerical Mathematics, Russian Academy of Science, Moscow 119991, Russia"
     }, 
-    "idx": 27, 
+    "idx": 24, 
     "label": "INM", 
     "rawName": "INM", 
     "status": "pending", 

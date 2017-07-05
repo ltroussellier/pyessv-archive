@@ -1,10 +1,27 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "mri-esm2-0", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
-            ""
+            "AerChemMIP", 
+            "C4MIP", 
+            "CFMIP", 
+            "CMIP", 
+            "CORDEX", 
+            "DAMIP", 
+            "DCPP", 
+            "DynVarMIP", 
+            "FAFMIP", 
+            "GMMIP", 
+            "GeoMIP", 
+            "LS3MIP", 
+            "OMIP", 
+            "PMIP", 
+            "RFMIP", 
+            "SIMIP", 
+            "ScenarioMIP", 
+            "VolMIP"
         ], 
         "cohort": [
             "Registered"
@@ -12,24 +29,23 @@
         "institutionID": [
             "MRI"
         ], 
-        "label": "MRI-ESM2.0", 
         "labelExtended": "MRI-ESM2.0", 
         "modelComponent": {
             "aerosol": {
-                "description": "MASINGAR mk2r4", 
-                "nominalResolution": ""
+                "description": "MASINGAR mk2r4 (TL95; 192 x 96 longitude/latitude; 80 levels; top level 0.01 hPa)", 
+                "nominalResolution": "250 km"
             }, 
             "atmos": {
-                "description": "MRI-AGCM3.5 (320 x 160 TL159; 80 levels; top level 0.01 hPa)", 
-                "nominalResolution": ""
+                "description": "MRI-AGCM3.5 (TL159; 320 x 160 longitude/latitude; 80 levels; top level 0.01 hPa)", 
+                "nominalResolution": "100 km"
             }, 
             "atmosChem": {
-                "description": "MRI-CCM2.1", 
-                "nominalResolution": ""
+                "description": "MRI-CCM2.1 (T42; 128 x 64 longitude/latitude; 80 levels; top level 0.01 hPa)", 
+                "nominalResolution": "250 km"
             }, 
             "land": {
                 "description": "HAL 1.0", 
-                "nominalResolution": ""
+                "nominalResolution": "100 km"
             }, 
             "landIce": {
                 "description": "none", 
@@ -37,22 +53,22 @@
             }, 
             "ocean": {
                 "description": "MRI.COM4.4 (tripolar primarily 0.5 deg latitude/1 deg longitude with meridional refinement down to 0.3 deg within 10 degrees north and south of the equator; 360 x 364 longitude/latitude; 61 levels; top grid cell 0-2 m)", 
-                "nominalResolution": ""
+                "nominalResolution": "100 km"
             }, 
             "ocnBgchem": {
                 "description": "MRI.COM4.4", 
-                "nominalResolution": ""
+                "nominalResolution": "100 km"
             }, 
             "seaIce": {
                 "description": "MRI.COM4.4", 
-                "nominalResolution": ""
+                "nominalResolution": "100 km"
             }
         }, 
         "releaseYear": "2017", 
         "sourceID": "MRI-ESM2-0"
     }, 
     "idx": 7, 
-    "label": "MRI-ESM2-0", 
+    "label": "MRI-ESM2.0", 
     "rawName": "MRI-ESM2-0", 
     "status": "pending", 
     "uid": "b88c95eb-2a94-48c8-aeba-4871731bdd7d"

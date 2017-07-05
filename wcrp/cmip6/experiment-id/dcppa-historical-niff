@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "dcppa-historical-niff", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "A4.2 Hindcasts initialized from historical climate simulations as in DCPP-A2.2, but with no information from the future. First full hindcast year follows start year (e.g., for s1960, first full hindcast year is 1961)", 
         "endYear": "5 - 10 years after start year", 
         "experiment": "hindcast initialized from historical climate simulation but without using knowledge of subsequent historical forcing", 
         "experimentID": "dcppA-historical-niff", 
@@ -87,6 +86,7 @@
         ], 
         "tier": "4"
     }, 
+    "description": "A4.2 Hindcasts initialized from historical climate simulations as in DCPP-A2.2, but with no information from the future. First full hindcast year follows start year (e.g., for s1960, first full hindcast year is 1961)", 
     "idx": 1, 
     "label": "dcppA-historical-niff", 
     "rawName": "dcppA-historical-niff", 

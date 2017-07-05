@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "esm-ssp585-ssp126lu", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LUMIP"
@@ -10,7 +10,6 @@
             "AER", 
             "CHEM"
         ], 
-        "description": "Additional land use policy sensitivity simulation for high radiative forcing scenario, keep all forcings the same as in C4MIP esmssp5-8.5 scenario except use SSP1-2.6 land use; emission driven", 
         "endYear": "2100", 
         "experiment": "emissions-driven SSP5-8.5 with SSP1-2.6 land use", 
         "experimentID": "esm-ssp585-ssp126Lu", 
@@ -31,7 +30,8 @@
         ], 
         "tier": "1"
     }, 
-    "idx": 49, 
+    "description": "Additional land use policy sensitivity simulation for high radiative forcing scenario, keep all forcings the same as in C4MIP esmssp5-8.5 scenario except use SSP1-2.6 land use; emission driven", 
+    "idx": 48, 
     "label": "esm-ssp585-ssp126Lu", 
     "rawName": "esm-ssp585-ssp126Lu", 
     "status": "pending", 

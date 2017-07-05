@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "cmcc-cm2-sr5", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
             "CMIP", 
@@ -15,7 +15,6 @@
         "institutionID": [
             "CMCC"
         ], 
-        "label": "CMCC-CM2-SR5", 
         "labelExtended": "CMCC-CM2-SR5", 
         "modelComponent": {
             "aerosol": {
@@ -54,7 +53,7 @@
         "releaseYear": "2016", 
         "sourceID": "CMCC-CM2-SR5"
     }, 
-    "idx": 35, 
+    "idx": 38, 
     "label": "CMCC-CM2-SR5", 
     "rawName": "CMCC-CM2-SR5", 
     "status": "pending", 

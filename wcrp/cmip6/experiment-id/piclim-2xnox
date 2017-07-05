@@ -1,13 +1,12 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "piclim-2xnox", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
         ], 
         "additionalAllowedModelComponents": "", 
-        "description": "1850 control with doubled emissions of lightning NOx", 
         "endYear": "", 
         "experiment": "pre-industrial climatological SSTs and forcing, but with doubled production of NOx due to lightning", 
         "experimentID": "piClim-2xNOx", 
@@ -29,7 +28,8 @@
         ], 
         "tier": "3"
     }, 
-    "idx": 231, 
+    "description": "1850 control with doubled emissions of lightning NOx", 
+    "idx": 230, 
     "label": "piClim-2xNOx", 
     "rawName": "piClim-2xNOx", 
     "status": "pending", 

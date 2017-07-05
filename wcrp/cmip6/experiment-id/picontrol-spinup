@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "picontrol-spinup", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "CMIP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "DECK: spin-up portion of the control", 
         "endYear": "", 
         "experiment": "pre-industrial control (spin-up)", 
         "experimentID": "piControl-spinup", 
@@ -31,7 +30,8 @@
         ], 
         "tier": "2"
     }, 
-    "idx": 142, 
+    "description": "DECK: spin-up portion of the control", 
+    "idx": 141, 
     "label": "piControl-spinup", 
     "rawName": "piControl-spinup", 
     "status": "pending", 

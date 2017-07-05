@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "volc-pinatubo-slab", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "VolMIP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "As volc-pinatubo-full, but with a slab ocean", 
         "endYear": "", 
         "experiment": "Pinatubo experiment with slab ocean", 
         "experimentID": "volc-pinatubo-slab", 
@@ -32,7 +31,8 @@
         ], 
         "tier": "3"
     }, 
-    "idx": 78, 
+    "description": "As volc-pinatubo-full, but with a slab ocean", 
+    "idx": 77, 
     "label": "volc-pinatubo-slab", 
     "rawName": "volc-pinatubo-slab", 
     "status": "pending", 

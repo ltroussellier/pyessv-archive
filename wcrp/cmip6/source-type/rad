@@ -1,8 +1,8 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "rad", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
-    "idx": 9, 
+    "createDate": "2017-06-21 00:00:00+00:00", 
+    "idx": 8, 
     "label": "RAD", 
     "rawName": "RAD", 
     "status": "pending", 

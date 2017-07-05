@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "ssp370", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "ScenarioMIP", 
@@ -12,7 +12,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "Future scenario with high radiative forcing by the end of century. Reaches about 7.0 W/m2 by 2100; fills gap in RCP forcing pathways between 6.0 and 8.5 W/m2. Concentration-driven", 
         "endYear": "2100", 
         "experiment": "gap-filling scenario reaching 7.0 based on SSP3", 
         "experimentID": "ssp370", 
@@ -32,7 +31,8 @@
         ], 
         "tier": "1"
     }, 
-    "idx": 163, 
+    "description": "Future scenario with high radiative forcing by the end of century. Reaches about 7.0 W/m2 by 2100; fills gap in RCP forcing pathways between 6.0 and 8.5 W/m2. Concentration-driven", 
+    "idx": 162, 
     "label": "ssp370", 
     "rawName": "ssp370", 
     "status": "pending", 

@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "amip-tip-nosh", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "GMMIP"
@@ -10,7 +10,6 @@
             "AER", 
             "CHEM"
         ], 
-        "description": "Surface sensible heat released at the elevation above 500m over the TIP is not allowed to heat the atmosphere. Same model as DECK", 
         "endYear": "2014", 
         "experiment": "same as \"amip\" run, but sensible heat not allowed for elevations of the Tibetan-Iranian Plateau and Himalayas above 500m", 
         "experimentID": "amip-TIP-nosh", 
@@ -30,7 +29,8 @@
         ], 
         "tier": "3"
     }, 
-    "idx": 73, 
+    "description": "Surface sensible heat released at the elevation above 500m over the TIP is not allowed to heat the atmosphere. Same model as DECK", 
+    "idx": 72, 
     "label": "amip-TIP-nosh", 
     "rawName": "amip-TIP-nosh", 
     "status": "pending", 

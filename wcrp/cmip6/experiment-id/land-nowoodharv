@@ -1,13 +1,12 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "land-nowoodharv", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LUMIP"
         ], 
         "additionalAllowedModelComponents": "", 
-        "description": "Same as land-hist but with wood harvest maintained at 1850 amounts/areas", 
         "endYear": "2014", 
         "experiment": "historical land-only with no wood harvest", 
         "experimentID": "land-noWoodHarv", 
@@ -27,7 +26,8 @@
         ], 
         "tier": "2"
     }, 
-    "idx": 219, 
+    "description": "Same as land-hist but with wood harvest maintained at 1850 amounts/areas", 
+    "idx": 218, 
     "label": "land-noWoodHarv", 
     "rawName": "land-noWoodHarv", 
     "status": "pending", 

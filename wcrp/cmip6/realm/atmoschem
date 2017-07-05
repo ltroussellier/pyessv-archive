@@ -1,7 +1,9 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "atmoschem", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
+    "data": {}, 
+    "description": "Atmospheric Chemistry", 
     "idx": 3, 
     "label": "atmosChem", 
     "rawName": "atmosChem", 

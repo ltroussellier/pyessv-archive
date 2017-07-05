@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonicalName": "s2000", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
+    "data": {}, 
+    "description": "initialized near end of year 2000", 
+    "idx": 0, 
+    "label": "s2000", 
+    "rawName": "s2000", 
+    "status": "pending", 
+    "uid": "feb754a1-63b4-46fb-aee5-846e99689de1"
+}

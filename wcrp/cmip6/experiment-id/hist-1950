@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "hist-1950", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "HighResMIP"
@@ -9,7 +9,6 @@
         "additionalAllowedModelComponents": [
             "AER"
         ], 
-        "description": "Coupled integrationswith historic external forcings (as in highresSST-present)", 
         "endYear": "2014", 
         "experiment": "coupled historical 1950-2014", 
         "experimentID": "hist-1950", 
@@ -29,6 +28,7 @@
         ], 
         "tier": "2"
     }, 
+    "description": "Coupled integrationswith historic external forcings (as in highresSST-present)", 
     "idx": 30, 
     "label": "hist-1950", 
     "rawName": "hist-1950", 

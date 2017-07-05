@@ -1,14 +1,13 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "land-hist", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LS3MIP", 
             "LUMIP"
         ], 
         "additionalAllowedModelComponents": "", 
-        "description": "Land only simulations", 
         "endYear": "2014", 
         "experiment": "historical land-only", 
         "experimentID": "land-hist", 
@@ -28,7 +27,8 @@
         ], 
         "tier": "1"
     }, 
-    "idx": 165, 
+    "description": "Land only simulations", 
+    "idx": 164, 
     "label": "land-hist", 
     "rawName": "land-hist", 
     "status": "pending", 

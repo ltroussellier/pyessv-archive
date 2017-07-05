@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "lfmip-initlc", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LS3MIP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "Initialized pseudo-observations land", 
         "endYear": "2014", 
         "experiment": "initialized from \"historical\" run year 1980, but with land conditions initialized from pseudo-observations", 
         "experimentID": "lfmip-initLC", 
@@ -31,7 +30,8 @@
         ], 
         "tier": "2"
     }, 
-    "idx": 205, 
+    "description": "Initialized pseudo-observations land", 
+    "idx": 204, 
     "label": "lfmip-initLC", 
     "rawName": "lfmip-initLC", 
     "status": "pending", 

@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "volc-pinatubo-surf", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "VolMIP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "As volc-pinatubo-full, but with prescribed perturbation to the shortwave flux to mimic the attenuation of solar radiation by volcanic aerosols", 
         "endYear": "", 
         "experiment": "Pinatubo experiment with partial radiative forcing, solar radiation scattering only", 
         "experimentID": "volc-pinatubo-surf", 
@@ -31,7 +30,8 @@
         ], 
         "tier": "1"
     }, 
-    "idx": 109, 
+    "description": "As volc-pinatubo-full, but with prescribed perturbation to the shortwave flux to mimic the attenuation of solar radiation by volcanic aerosols", 
+    "idx": 108, 
     "label": "volc-pinatubo-surf", 
     "rawName": "volc-pinatubo-surf", 
     "status": "pending", 

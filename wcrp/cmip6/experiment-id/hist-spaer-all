@@ -1,13 +1,12 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "hist-spaer-all", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "RFMIP"
         ], 
         "additionalAllowedModelComponents": "", 
-        "description": "Prescribed anthropogenic aerosol optical properties. All forcings", 
         "endYear": "2014", 
         "experiment": "historical simulation with specified anthropogenic aerosols", 
         "experimentID": "hist-spAer-all", 
@@ -27,7 +26,8 @@
         ], 
         "tier": "1"
     }, 
-    "idx": 167, 
+    "description": "Prescribed anthropogenic aerosol optical properties. All forcings", 
+    "idx": 166, 
     "label": "hist-spAer-all", 
     "rawName": "hist-spAer-all", 
     "status": "pending", 

@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "ssp245-ghg", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "DAMIP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "Extension of well-mixed GHG-only run under SSP2-4.5. Models with interactive chemistry schemes should either turn off the chemistry or use a preindustrial climatology of stratospheric and tropospheric ozone in their radiation schemes", 
         "endYear": "2100", 
         "experiment": "well-mixed GHG-only SSP2-4.5 run", 
         "experimentID": "ssp245-GHG", 
@@ -31,6 +30,7 @@
         ], 
         "tier": "2"
     }, 
+    "description": "Extension of well-mixed GHG-only run under SSP2-4.5. Models with interactive chemistry schemes should either turn off the chemistry or use a preindustrial climatology of stratospheric and tropospheric ozone in their radiation schemes", 
     "idx": 0, 
     "label": "ssp245-GHG", 
     "rawName": "ssp245-GHG", 

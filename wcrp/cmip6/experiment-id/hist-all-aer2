@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "hist-all-aer2", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "DAMIP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "Historical ALL forcing run with alternate estimates of aerosol concentrations/emissions", 
         "endYear": "2020", 
         "experiment": "historical ALL-forcing run with alternate estimates of aerosol forcing", 
         "experimentID": "hist-all-aer2", 
@@ -31,6 +30,7 @@
         ], 
         "tier": "3"
     }, 
+    "description": "Historical ALL forcing run with alternate estimates of aerosol concentrations/emissions", 
     "idx": 34, 
     "label": "hist-all-aer2", 
     "rawName": "hist-all-aer2", 

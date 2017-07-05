@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "gfdl-cm4", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
             "CMIP", 
@@ -13,7 +13,6 @@
         "institutionID": [
             "NOAA-GFDL"
         ], 
-        "label": "GFDL-CM4", 
         "labelExtended": "GFDL-CM4", 
         "modelComponent": {
             "aerosol": {
@@ -52,7 +51,7 @@
         "releaseYear": "2017", 
         "sourceID": "GFDL-CM4"
     }, 
-    "idx": 45, 
+    "idx": 49, 
     "label": "GFDL-CM4", 
     "rawName": "GFDL-CM4", 
     "status": "pending", 

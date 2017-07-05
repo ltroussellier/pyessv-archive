@@ -1,13 +1,12 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "piclim-ch4", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
         ], 
         "additionalAllowedModelComponents": "", 
-        "description": "Perturbation from 1850 control using 2014 CH4 concentrations", 
         "endYear": "", 
         "experiment": "pre-industrial climatological SSTs and forcing, but with 2014 methane concentrations (including chemistry)", 
         "experimentID": "piClim-CH4", 
@@ -29,6 +28,7 @@
         ], 
         "tier": "1"
     }, 
+    "description": "Perturbation from 1850 control using 2014 CH4 concentrations", 
     "idx": 32, 
     "label": "piClim-CH4", 
     "rawName": "piClim-CH4", 

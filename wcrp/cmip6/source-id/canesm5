@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "canesm5", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
             "C4MIP", 
@@ -29,7 +29,6 @@
         "institutionID": [
             "CCCma"
         ], 
-        "label": "CanESM5", 
         "labelExtended": "CanESM5", 
         "modelComponent": {
             "aerosol": {

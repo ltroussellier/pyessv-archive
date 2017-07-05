@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "past1000", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "PMIP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "main forcings: trace gases, volcanoes, solar variability, land use", 
         "endYear": "1849", 
         "experiment": "last millennium", 
         "experimentID": "past1000", 
@@ -31,7 +30,8 @@
         ], 
         "tier": "1"
     }, 
-    "idx": 89, 
+    "description": "main forcings: trace gases, volcanoes, solar variability, land use", 
+    "idx": 88, 
     "label": "past1000", 
     "rawName": "past1000", 
     "status": "pending", 

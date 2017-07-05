@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "bnu-esm-1-1", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
             "C4MIP", 
@@ -17,7 +17,6 @@
         "institutionID": [
             "BNU"
         ], 
-        "label": "BNU-ESM 1.1", 
         "labelExtended": "BNU-ESM 1.1", 
         "modelComponent": {
             "aerosol": {
@@ -56,8 +55,8 @@
         "releaseYear": "2016", 
         "sourceID": "BNU-ESM-1-1"
     }, 
-    "idx": 37, 
-    "label": "BNU-ESM-1-1", 
+    "idx": 40, 
+    "label": "BNU-ESM 1.1", 
     "rawName": "BNU-ESM-1-1", 
     "status": "pending", 
     "uid": "4406d038-724b-49f2-8e7b-32e8876b801a"

@@ -1,0 +1,58 @@
+{
+    "_type": "term", 
+    "canonicalName": "inm-cm5-0", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
+    "data": {
+        "activityParticipation": [
+            "CMIP"
+        ], 
+        "cohort": [
+            "Registered"
+        ], 
+        "institutionID": [
+            "INM"
+        ], 
+        "labelExtended": "INM-CM5-0", 
+        "modelComponent": {
+            "aerosol": {
+                "description": "INM-AER1", 
+                "nominalResolution": "150 km"
+            }, 
+            "atmos": {
+                "description": "INM-AM5-0 (2x1.5; 180 x 120 longitude/latitude; 73 levels; top level sigma = 0.0002)", 
+                "nominalResolution": "150 km"
+            }, 
+            "atmosChem": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "land": {
+                "description": "INM-LND1", 
+                "nominalResolution": "150 km"
+            }, 
+            "landIce": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "ocean": {
+                "description": "INM-OM5 (North Pole shifted to 60N, 90E. 0.5x0.25; 720 x 720 longitude/latitude; 40 levels; vertical sigma coordinate)", 
+                "nominalResolution": "40 km"
+            }, 
+            "ocnBgchem": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "seaIce": {
+                "description": "INM-ICE1", 
+                "nominalResolution": "40 km"
+            }
+        }, 
+        "releaseYear": "2016", 
+        "sourceID": "INM-CM5-0"
+    }, 
+    "idx": 33, 
+    "label": "INM-CM5-0", 
+    "rawName": "INM-CM5-0", 
+    "status": "pending", 
+    "uid": "af833cfe-5c22-4b5b-9882-65a7d7b84fab"
+}

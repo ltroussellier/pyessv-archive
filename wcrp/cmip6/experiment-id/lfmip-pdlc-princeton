@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
-    "canonicalName": "lfmip-pdl-princeton", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "_type": "term", 
+    "canonicalName": "lfmip-pdlc-princeton", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "LS3MIP"
@@ -11,10 +11,9 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "Prescribed land conditions 1980-2014 climate with Land-Hist-princeton", 
         "endYear": "2100", 
         "experiment": "as LFMIP-pdLC with Land-Hist-princeton", 
-        "experimentID": "lfmip-pdL-princeton", 
+        "experimentID": "lfmip-pdLC-princeton", 
         "minNumberYrsPerSim": "121", 
         "parentActivityID": [
             "CMIP"
@@ -31,9 +30,10 @@
         ], 
         "tier": "2"
     }, 
-    "idx": 157, 
-    "label": "lfmip-pdL-princeton", 
-    "rawName": "lfmip-pdL-princeton", 
+    "description": "Prescribed land conditions 1980-2014 climate with Land-Hist-princeton", 
+    "idx": 142, 
+    "label": "lfmip-pdLC-princeton", 
+    "rawName": "lfmip-pdLC-princeton", 
     "status": "pending", 
-    "uid": "162ea1d9-c8cb-4401-a74f-26ed0a68d196"
+    "uid": "26436330-ed1c-441d-9b69-aa1119978cc9"
 }

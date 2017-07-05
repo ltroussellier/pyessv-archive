@@ -1,11 +1,11 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "bnu", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "postalAddress": "Beijing Normal University, Beijing 100875, China"
     }, 
-    "idx": 18, 
+    "idx": 17, 
     "label": "BNU", 
     "rawName": "BNU", 
     "status": "pending", 

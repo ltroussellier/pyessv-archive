@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "hist-volc", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "DAMIP"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "Historical volcanic-only run", 
         "endYear": "2020", 
         "experiment": "historical volcanic-only run", 
         "experimentID": "hist-volc", 
@@ -31,7 +30,8 @@
         ], 
         "tier": "3"
     }, 
-    "idx": 183, 
+    "description": "Historical volcanic-only run", 
+    "idx": 182, 
     "label": "hist-volc", 
     "rawName": "hist-volc", 
     "status": "pending", 

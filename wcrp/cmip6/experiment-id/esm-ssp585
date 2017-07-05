@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "esm-ssp585", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "C4MIP"
@@ -10,7 +10,6 @@
             "AER", 
             "CHEM"
         ], 
-        "description": "Emissions-driven future scenario simulation", 
         "endYear": "2100", 
         "experiment": "emission-driven RCP8.5 based on SSP5", 
         "experimentID": "esm-ssp585", 
@@ -31,7 +30,8 @@
         ], 
         "tier": "1"
     }, 
-    "idx": 168, 
+    "description": "Emissions-driven future scenario simulation", 
+    "idx": 167, 
     "label": "esm-ssp585", 
     "rawName": "esm-ssp585", 
     "status": "pending", 

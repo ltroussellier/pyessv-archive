@@ -1,7 +1,7 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "1pctco2to4x-withism", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "ISMIP6"
@@ -11,7 +11,6 @@
             "CHEM", 
             "BGC"
         ], 
-        "description": "Idealized 1%/yr CO2 increase to 4xC02 over 140yrs and kept constant at 4xCO2 for an additional 200 to 400 yrs simulation that includes interactive ice sheets", 
         "endYear": "", 
         "experiment": "simulation with interactive ice sheet forced by 1 percent per year increase in CO2 to 4xCO2 (subsequently held fixed)", 
         "experimentID": "1pctCO2to4x-withism", 
@@ -32,7 +31,8 @@
         ], 
         "tier": "1"
     }, 
-    "idx": 99, 
+    "description": "Idealized 1%/yr CO2 increase to 4xC02 over 140yrs and kept constant at 4xCO2 for an additional 200 to 400 yrs simulation that includes interactive ice sheets", 
+    "idx": 98, 
     "label": "1pctCO2to4x-withism", 
     "rawName": "1pctCO2to4x-withism", 
     "status": "pending", 

@@ -1,13 +1,12 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "piclim-voc", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
         ], 
         "additionalAllowedModelComponents": "", 
-        "description": "Perturbation from 1850 control using 2014 CO/VOC emissions", 
         "endYear": "", 
         "experiment": "pre-industrial climatological SSTs and forcing, but with 2014 VOC emissions", 
         "experimentID": "piClim-VOC", 
@@ -29,6 +28,7 @@
         ], 
         "tier": "3"
     }, 
+    "description": "Perturbation from 1850 control using 2014 CO/VOC emissions", 
     "idx": 22, 
     "label": "piClim-VOC", 
     "rawName": "piClim-VOC", 

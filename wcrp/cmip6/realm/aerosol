@@ -1,7 +1,9 @@
 {
-    "_type": "pyessv._model.term", 
+    "_type": "term", 
     "canonicalName": "aerosol", 
-    "createDate": "2017-03-21 00:00:00+00:00", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
+    "data": {}, 
+    "description": "Aerosol", 
     "idx": 6, 
     "label": "aerosol", 
     "rawName": "aerosol", 
