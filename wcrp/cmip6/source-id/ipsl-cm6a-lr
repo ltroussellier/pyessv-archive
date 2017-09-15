@@ -1,0 +1,70 @@
+{
+    "_type": "term", 
+    "canonicalName": "ipsl-cm6a-lr", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
+    "data": {
+        "activityParticipation": [
+            "C4MIP", 
+            "CFMIP", 
+            "DCPP", 
+            "FAFMIP", 
+            "GMMIP", 
+            "GeoMIP", 
+            "LS3MIP", 
+            "LUMIP", 
+            "OMIP", 
+            "PMIP", 
+            "RFMIP", 
+            "ScenarioMIP", 
+            "VolMIP"
+        ], 
+        "cohort": [
+            "Registered"
+        ], 
+        "institutionID": [
+            "IPSL"
+        ], 
+        "labelExtended": "IPSL-CM6A-LR", 
+        "modelComponent": {
+            "aerosol": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "atmos": {
+                "description": "LMDZ (NPv6, N96; 144 x 143 longitude/latitude; 79 levels; top level 40000 m)", 
+                "nominalResolution": "200 km"
+            }, 
+            "atmosChem": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "land": {
+                "description": "ORCHIDEE (v2.0, Water/Carbon/Energy mode)", 
+                "nominalResolution": "200 km"
+            }, 
+            "landIce": {
+                "description": "none", 
+                "nominalResolution": "none"
+            }, 
+            "ocean": {
+                "description": "NEMO-OPA (eORCA1.3, tripolar primarily 1deg; 362 x 332 longitude/latitude; 75 levels; top grid cell 0-2 m)", 
+                "nominalResolution": "100 km"
+            }, 
+            "ocnBgchem": {
+                "description": "NEMO-PISCES", 
+                "nominalResolution": "100 km"
+            }, 
+            "seaIce": {
+                "description": "NEMO-LIM3", 
+                "nominalResolution": "100 km"
+            }
+        }, 
+        "releaseYear": "2017", 
+        "sourceID": "IPSL-CM6A-LR"
+    }, 
+    "idx": 61, 
+    "label": "IPSL-CM6A-LR", 
+    "rawName": "IPSL-CM6A-LR", 
+    "status": "pending", 
+    "uid": "af6d66ef-97c8-41d6-accf-0b0600fa0538"
+}

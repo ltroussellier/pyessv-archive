@@ -4,7 +4,7 @@
     "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
-            ""
+            "CFMIP"
         ], 
         "cohort": [
             "Registered"
@@ -16,11 +16,11 @@
         "modelComponent": {
             "aerosol": {
                 "description": "Prescribed MACv2-SP", 
-                "nominalResolution": ""
+                "nominalResolution": "10 km"
             }, 
             "atmos": {
                 "description": "NICAM.16 (14km icosahedral grid; 2,621,442 grid cells (=10*4^9+2); 78 levels; top level 40 km)", 
-                "nominalResolution": ""
+                "nominalResolution": "10 km"
             }, 
             "atmosChem": {
                 "description": "none", 
@@ -28,7 +28,7 @@
             }, 
             "land": {
                 "description": "MATSIRO6 (w/o MOSAIC)", 
-                "nominalResolution": ""
+                "nominalResolution": "10 km"
             }, 
             "landIce": {
                 "description": "none", 

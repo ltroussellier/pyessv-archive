@@ -36,7 +36,7 @@
                 "nominalResolution": "none"
             }, 
             "land": {
-                "description": "JSBACH3.2", 
+                "description": "JSBACH3.20", 
                 "nominalResolution": "100 km"
             }, 
             "landIce": {
@@ -44,7 +44,7 @@
                 "nominalResolution": "none"
             }, 
             "ocean": {
-                "description": "MPIOM1.63 (tripolar TP04, approximately 0.4deg; 900 x 450 longitude/latitude; 40 levels; top grid cell 0-12 m)", 
+                "description": "MPIOM1.63 (tripolar TP04, approximately 0.4deg; 802 x 404 longitude/latitude; 40 levels; top grid cell 0-12 m)", 
                 "nominalResolution": "50 km"
             }, 
             "ocnBgchem": {

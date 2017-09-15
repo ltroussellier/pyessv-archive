@@ -4,7 +4,8 @@
     "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
-            ""
+            "DynVarMIP", 
+            "HighResMIP"
         ], 
         "cohort": [
             "Registered"
@@ -16,11 +17,11 @@
         "modelComponent": {
             "aerosol": {
                 "description": "Prescribed MACv2-SP", 
-                "nominalResolution": ""
+                "nominalResolution": "25 km"
             }, 
             "atmos": {
                 "description": "NICAM.16 (28km icosahedral grid; 655,362 grid cells (=10*4^8+2); 38 levels; top level 40 km)", 
-                "nominalResolution": ""
+                "nominalResolution": "25 km"
             }, 
             "atmosChem": {
                 "description": "none", 
@@ -28,7 +29,7 @@
             }, 
             "land": {
                 "description": "MATSIRO6 (w/o MOSAIC)", 
-                "nominalResolution": ""
+                "nominalResolution": "25 km"
             }, 
             "landIce": {
                 "description": "none", 
@@ -50,7 +51,7 @@
         "releaseYear": "2017", 
         "sourceID": "NICAM16-8S"
     }, 
-    "idx": 56, 
+    "idx": 57, 
     "label": "NICAM16-8S", 
     "rawName": "NICAM16-8S", 
     "status": "pending", 

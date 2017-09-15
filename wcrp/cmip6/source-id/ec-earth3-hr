@@ -36,7 +36,7 @@
                 "nominalResolution": "none"
             }, 
             "ocean": {
-                "description": "NEMO3.6 (ORCA1; tripolar primarily 0.25 degrees; 1442 x 1921 longitude/latitude; 75 levels; top grid cell 0-1 m)", 
+                "description": "NEMO3.6 (ORCA025; tripolar primarily 0.25 degrees; 1442 x 1921 longitude/latitude; 75 levels; top grid cell 0-1 m)", 
                 "nominalResolution": "25 km"
             }, 
             "ocnBgchem": {

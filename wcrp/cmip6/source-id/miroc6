@@ -4,7 +4,20 @@
     "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
-            ""
+            "CFMIP", 
+            "CMIP", 
+            "DAMIP", 
+            "DCPP", 
+            "DynVarMIP", 
+            "FAFMIP", 
+            "GMMIP", 
+            "HighResMIP", 
+            "LS3MIP", 
+            "OMIP", 
+            "RFMIP", 
+            "SIMIP", 
+            "ScenarioMIP", 
+            "VIACSAB"
         ], 
         "cohort": [
             "Registered"
@@ -16,11 +29,11 @@
         "modelComponent": {
             "aerosol": {
                 "description": "SPRINTARS6.0", 
-                "nominalResolution": ""
+                "nominalResolution": "100 km"
             }, 
             "atmos": {
-                "description": "CCSR AGCM (T85; 256x128; 81 levels; top level 0.004 hPa)", 
-                "nominalResolution": ""
+                "description": "CCSR AGCM (T85; 256 x 128 longitude/latitude; 81 levels; top level 0.004 hPa)", 
+                "nominalResolution": "100 km"
             }, 
             "atmosChem": {
                 "description": "none", 
@@ -28,15 +41,15 @@
             }, 
             "land": {
                 "description": "MATSIRO6.0", 
-                "nominalResolution": ""
+                "nominalResolution": "100 km"
             }, 
             "landIce": {
                 "description": "none", 
                 "nominalResolution": "none"
             }, 
             "ocean": {
-                "description": "COCO4.9 (360x256x63; tripolar primarily 1deg; 63 levels; top grid cell 0-2 m)", 
-                "nominalResolution": ""
+                "description": "COCO4.9 (tripolar primarily 1deg; 360 x 256 longitude/latitude; 63 levels; top grid cell 0-2 m)", 
+                "nominalResolution": "100 km"
             }, 
             "ocnBgchem": {
                 "description": "none", 
@@ -44,13 +57,13 @@
             }, 
             "seaIce": {
                 "description": "COCO4.9", 
-                "nominalResolution": ""
+                "nominalResolution": "100 km"
             }
         }, 
         "releaseYear": "2017", 
         "sourceID": "MIROC6"
     }, 
-    "idx": 55, 
+    "idx": 56, 
     "label": "MIROC6", 
     "rawName": "MIROC6", 
     "status": "pending", 

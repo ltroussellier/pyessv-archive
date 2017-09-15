@@ -4,7 +4,16 @@
     "createDate": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activityParticipation": [
-            ""
+            "C4MIP", 
+            "CMIP", 
+            "DynVarMIP", 
+            "GeoMIP", 
+            "LUMIP", 
+            "OMIP", 
+            "PMIP", 
+            "ScenarioMIP", 
+            "VIACSAB", 
+            "VolMIP"
         ], 
         "cohort": [
             "Registered"
@@ -16,11 +25,11 @@
         "modelComponent": {
             "aerosol": {
                 "description": "SPRINTARS6.0", 
-                "nominalResolution": ""
+                "nominalResolution": "250 km"
             }, 
             "atmos": {
                 "description": "CCSR AGCM (T42; 128 x 64 longitude/latitude; 40 levels; top level 3 hPa)", 
-                "nominalResolution": ""
+                "nominalResolution": "250 km"
             }, 
             "atmosChem": {
                 "description": "none", 
@@ -28,7 +37,7 @@
             }, 
             "land": {
                 "description": "MATSIRO6.0+VISIT-e ver.1.0", 
-                "nominalResolution": ""
+                "nominalResolution": "250 km"
             }, 
             "landIce": {
                 "description": "none", 
@@ -36,21 +45,21 @@
             }, 
             "ocean": {
                 "description": "COCO4.9 (tripolar primarily 1deg; 360 x 256 longitude/latitude; 63 levels; top grid cell 0-2 m)", 
-                "nominalResolution": ""
+                "nominalResolution": "100 km"
             }, 
             "ocnBgchem": {
                 "description": "OECO ver.2.0; NPZD-type with C/N/P/Fe/O cycles", 
-                "nominalResolution": ""
+                "nominalResolution": "100 km"
             }, 
             "seaIce": {
                 "description": "COCO4.9", 
-                "nominalResolution": ""
+                "nominalResolution": "100 km"
             }
         }, 
         "releaseYear": "2017", 
         "sourceID": "MIROC-ES2L"
     }, 
-    "idx": 63, 
+    "idx": 65, 
     "label": "MIROC-ES2L", 
     "rawName": "MIROC-ES2L", 
     "status": "pending", 

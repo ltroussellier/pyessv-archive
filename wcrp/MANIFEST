@@ -314,16 +314,20 @@
                     "termRegex": "^[a-z0-9\\-]*$", 
                     "terms": [
                         "1hr:796b3c3f-9b27-42ea-a7eb-e3a34e35725d", 
-                        "1hrclimmon:ea1918f9-29f7-47b6-a324-b8dbac10e69c", 
+                        "1hrcm:85db32a3-6456-4d16-a20e-f3d479a8f40b", 
+                        "1hrpt:f3e5335f-b1b0-4af3-b0f3-8bdb886beb18", 
                         "3hr:c76e2139-62ad-4d50-b16f-b62e8139003d", 
+                        "3hrpt:7e0e76e1-775f-4cc3-9437-9172fb21a4d0", 
                         "6hr:4f3de8b4-6f12-4647-a0ae-80a2ee16d3f5", 
+                        "6hrpt:3d2b68c1-3c22-44c1-bd9c-9a57f8586e11", 
                         "day:80cc3a40-bc5c-41e9-ab70-cf02b9032575", 
                         "dec:fbf4a04d-1804-4fe8-8f2a-250cd9c50043", 
                         "fx:0de235a5-75f8-4352-b55b-756a8579d382", 
                         "mon:58709167-5572-4656-b856-2034e518a300", 
-                        "monclim:746ecc54-546d-43c4-a9ca-b1ac429e013c", 
-                        "subhr:e896ddad-06e8-4899-8211-865e9b265e10", 
-                        "yr:c41302bd-3a7d-44d5-a034-0fff1027d340"
+                        "monc:bf0451b3-bc4a-4bf8-b00e-469ecff5a52b", 
+                        "subhrpt:f02a757a-2802-4abd-ae42-d38d3333c82a", 
+                        "yr:c41302bd-3a7d-44d5-a034-0fff1027d340", 
+                        "yrpt:4241be4e-e01f-4cd9-b26a-dc5e2f1c8a4e"
                     ], 
                     "uid": "a37effb6-9aa3-425d-91e4-ef19239996b2"
                 }, 
@@ -420,6 +424,7 @@
                         "noaa-gfdl:56065fc9-08ec-4572-a6a6-52cd9d9d1d68", 
                         "nuist:65d09d28-65a7-406e-bcdf-c9947a413aa2", 
                         "pcmdi:6e872a06-d2c9-448d-b5e1-9f049ebc62c6", 
+                        "snu:63e450ad-9771-4894-b8a5-c005f13c5808", 
                         "thu:f57a6107-ce45-4b3f-8007-f4a19b19d86c"
                     ], 
                     "uid": "7d4c8d3b-9d8f-4ffb-8378-50651cdd943f"
@@ -565,6 +570,7 @@
                         "inm-cm4-8:8243b01a-cbea-4e42-af7a-04bd1b7d4cc1", 
                         "inm-cm5-0:af833cfe-5c22-4b5b-9882-65a7d7b84fab", 
                         "inm-cm5-h:0f66e95c-fb2d-44fd-af25-3f707f269cb9", 
+                        "ipsl-cm6a-lr:af6d66ef-97c8-41d6-accf-0b0600fa0538", 
                         "miroc-es2h:d70809cb-7a10-4166-8a3e-daf33f10b73b", 
                         "miroc-es2l:0ee3a84d-d885-46b1-bc8d-6c02f990b025", 
                         "miroc6:7e1fcb4c-8f9e-4070-bfb4-d916fb3f9b6c", 
@@ -583,6 +589,7 @@
                         "noresm2-mh:e0521866-2305-4494-a411-05a229a85dc5", 
                         "noresm2-mm:2ff2f6fd-5d89-4718-8e46-110c92b48b02", 
                         "pcmdi-test-1-0:58df780f-6ea2-4755-8315-689d58357cd1", 
+                        "sam0-unicon:7bebc611-f0d2-490a-9d9c-fe276fac65bb", 
                         "ukesm1-0-ll:22af6b33-3e9f-4a53-a204-a30c71a54699", 
                         "ukesm1-0-mmh:c9ebc98a-38f3-47b2-8c6e-995a82b4b6b2", 
                         "vresm-1-0:245ced91-5819-4e21-a0b7-38861b5a6931"

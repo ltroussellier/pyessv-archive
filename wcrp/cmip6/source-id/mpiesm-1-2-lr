@@ -43,7 +43,7 @@
                 "nominalResolution": "none"
             }, 
             "land": {
-                "description": "JSBACH3.2", 
+                "description": "JSBACH3.20", 
                 "nominalResolution": "200 km"
             }, 
             "landIce": {
@@ -51,8 +51,8 @@
                 "nominalResolution": "none"
             }, 
             "ocean": {
-                "description": "MPIOM1.63 (bipolar GR1.5, approximately 1.5deg; 240 x 120 longitude/latitude; 40 levels; top grid cell 0-12 m)", 
-                "nominalResolution": "200 km"
+                "description": "MPIOM1.63 (bipolar GR1.5, approximately 1.5deg; 256 x 220 longitude/latitude; 40 levels; top grid cell 0-12 m)", 
+                "nominalResolution": "100 km"
             }, 
             "ocnBgchem": {
                 "description": "HAMOCC", 

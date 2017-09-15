@@ -29,7 +29,7 @@
                 "nominalResolution": "none"
             }, 
             "land": {
-                "description": "JSBACH4.2", 
+                "description": "JSBACH4.20", 
                 "nominalResolution": "200 km"
             }, 
             "landIce": {
@@ -52,7 +52,7 @@
         "releaseYear": "2017", 
         "sourceID": "MPIESM-2-LR"
     }, 
-    "idx": 58, 
+    "idx": 59, 
     "label": "MPIESM2", 
     "rawName": "MPIESM-2-LR", 
     "status": "pending", 

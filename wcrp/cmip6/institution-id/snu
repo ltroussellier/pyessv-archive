@@ -1,0 +1,13 @@
+{
+    "_type": "term", 
+    "canonicalName": "snu", 
+    "createDate": "2017-06-21 00:00:00+00:00", 
+    "data": {
+        "postalAddress": "Seoul National University, Seoul 08826, Republic of Korea"
+    }, 
+    "idx": 25, 
+    "label": "SNU", 
+    "rawName": "SNU", 
+    "status": "pending", 
+    "uid": "63e450ad-9771-4894-b8a5-c005f13c5808"
+}
