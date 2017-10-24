@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "lambert-conformal", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Lambert_Conformal", 
+    "idx": 21, 
+    "label": "Lambert_Conformal", 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:lambert-conformal", 
+    "raw_name": "lambert_conformal", 
+    "status": "pending", 
+    "uid": "456518f6-509a-45df-b26e-1d63982034f9"
+}

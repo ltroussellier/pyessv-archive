@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "c4mip", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "C4MIP", 
+    "idx": 1, 
+    "label": "C4MIP", 
+    "namespace": "esgf-publisher:cmip6:activity:c4mip", 
+    "status": "pending", 
+    "uid": "a67fd010-03e5-43aa-9a3c-12c4d2af4a9c"
+}

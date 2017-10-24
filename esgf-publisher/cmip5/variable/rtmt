@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rtmt", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rtmt", 
+    "idx": 415, 
+    "namespace": "esgf-publisher:cmip5:variable:rtmt", 
+    "status": "pending", 
+    "uid": "0f78a506-bc78-4447-9126-caedf0bcb3ee"
+}

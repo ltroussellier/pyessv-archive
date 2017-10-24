@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "zos", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "zos", 
+    "idx": 593, 
+    "namespace": "esgf-publisher:cmip5:variable:zos", 
+    "status": "pending", 
+    "uid": "fd673268-44ad-418c-9c80-80aa8bd45de5"
+}

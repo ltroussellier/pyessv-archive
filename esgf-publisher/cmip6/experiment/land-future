@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "land-future", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Land only simulations", 
+    "idx": 191, 
+    "namespace": "esgf-publisher:cmip6:experiment:land-future", 
+    "status": "pending", 
+    "uid": "c6a3c8e3-0f9c-46c9-8120-36de37a10575"
+}

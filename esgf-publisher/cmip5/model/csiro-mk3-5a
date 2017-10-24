@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "csiro-mk3-5a", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CSIRO-Mk3-5A", 
+    "idx": 20, 
+    "label": "CSIRO-Mk3-5A", 
+    "namespace": "esgf-publisher:cmip5:model:csiro-mk3-5a", 
+    "status": "pending", 
+    "uid": "b6dcb22a-2951-4c4a-a629-131110e18f65"
+}

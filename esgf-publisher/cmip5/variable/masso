@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "masso", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "masso", 
+    "idx": 270, 
+    "namespace": "esgf-publisher:cmip5:variable:masso", 
+    "status": "pending", 
+    "uid": "5bf660d3-866d-4c58-a96a-d03c29d79935"
+}

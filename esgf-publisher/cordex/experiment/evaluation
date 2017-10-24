@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "evaluation", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Evaluation", 
+    "idx": 0, 
+    "namespace": "esgf-publisher:cordex:experiment:evaluation", 
+    "status": "pending", 
+    "uid": "f0fc27d0-cbab-49b6-8e28-b067522c48b3"
+}

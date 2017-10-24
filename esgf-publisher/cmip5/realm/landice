@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "landice", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "landIce", 
+    "idx": 3, 
+    "label": "landIce", 
+    "namespace": "esgf-publisher:cmip5:realm:landice", 
+    "status": "pending", 
+    "uid": "380966f5-8462-4ed0-aa7b-a84032828b4b"
+}

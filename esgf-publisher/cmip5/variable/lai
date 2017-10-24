@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "lai", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "lai", 
+    "idx": 257, 
+    "namespace": "esgf-publisher:cmip5:variable:lai", 
+    "status": "pending", 
+    "uid": "c1430b17-2fb6-4881-b664-ffabb8efcf63"
+}

@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "cmcc-cesm", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CMCC-CESM", 
+    "idx": 15, 
+    "label": "CMCC-CESM", 
+    "namespace": "esgf-publisher:cmip5:model:cmcc-cesm", 
+    "status": "pending", 
+    "uid": "a8a03199-0b05-4b21-b93a-5148523433c1"
+}

@@ -1,36 +1,35 @@
 {
     "_type": "term", 
-    "canonicalName": "land-hist", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "land-hist", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "LS3MIP", 
             "LUMIP"
         ], 
-        "additionalAllowedModelComponents": "", 
-        "endYear": "2014", 
+        "additional_allowed_model_components": "", 
+        "end_year": "2014", 
         "experiment": "historical land-only", 
-        "experimentID": "land-hist", 
-        "minNumberYrsPerSim": "165", 
-        "parentActivityID": [
+        "experiment_id": "land-hist", 
+        "min_number_yrs_per_sim": "165", 
+        "parent_activity_id": [
             "no parent"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "no parent"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "LAND"
         ], 
-        "startYear": "1850 or 1700", 
-        "subExperimentID": [
+        "start_year": "1850 or 1700", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "1"
     }, 
     "description": "Land only simulations", 
     "idx": 164, 
-    "label": "land-hist", 
-    "rawName": "land-hist", 
+    "namespace": "wcrp:cmip6:experiment-id:land-hist", 
     "status": "pending", 
     "uid": "60658860-7795-4b4c-9f59-80d9a1daaf97"
 }

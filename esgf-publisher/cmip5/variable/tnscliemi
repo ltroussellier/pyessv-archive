@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tnscliemi", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tnscliemi", 
+    "idx": 500, 
+    "namespace": "esgf-publisher:cmip5:variable:tnscliemi", 
+    "status": "pending", 
+    "uid": "11fb925b-e82a-41f2-a93b-c0a26795c82a"
+}

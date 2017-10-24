@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "co3satcalc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "co3satcalc", 
+    "idx": 87, 
+    "namespace": "esgf-publisher:cmip5:variable:co3satcalc", 
+    "status": "pending", 
+    "uid": "172b8542-f0dd-466d-b1ba-19253128d0cd"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "umo", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "umo", 
+    "idx": 552, 
+    "namespace": "esgf-publisher:cmip5:variable:umo", 
+    "status": "pending", 
+    "uid": "46ef8b0f-e40d-46ac-8f82-bda677771dda"
+}

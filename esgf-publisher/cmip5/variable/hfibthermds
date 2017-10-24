@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hfibthermds", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "hfibthermds", 
+    "idx": 220, 
+    "namespace": "esgf-publisher:cmip5:variable:hfibthermds", 
+    "status": "pending", 
+    "uid": "67f2d53f-35ab-4bb6-8935-2dca41e7f934"
+}

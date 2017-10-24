@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sfdsi", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "sfdsi", 
+    "idx": 430, 
+    "namespace": "esgf-publisher:cmip5:variable:sfdsi", 
+    "status": "pending", 
+    "uid": "73da7a5a-5162-47df-a8da-e005528d976c"
+}

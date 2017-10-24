@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "ulg", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ULg", 
+    "idx": 30, 
+    "label": "ULg", 
+    "namespace": "esgf-publisher:cordex:institute:ulg", 
+    "status": "pending", 
+    "uid": "470ab34c-6c51-4705-bd33-4a2fe1dfc80f"
+}

@@ -1,27 +1,27 @@
 {
     "_type": "term", 
-    "canonicalName": "land-nopasture", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "land-nopasture", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "LUMIP"
         ], 
-        "additionalAllowedModelComponents": "", 
-        "endYear": "2014", 
+        "additional_allowed_model_components": "", 
+        "end_year": "2014", 
         "experiment": "historical land-only with constant pastureland", 
-        "experimentID": "land-noPasture", 
-        "minNumberYrsPerSim": "165", 
-        "parentActivityID": [
+        "experiment_id": "land-noPasture", 
+        "min_number_yrs_per_sim": "165", 
+        "parent_activity_id": [
             "no parent"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "no parent"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "LAND"
         ], 
-        "startYear": "1850 or 1700", 
-        "subExperimentID": [
+        "start_year": "1850 or 1700", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
@@ -29,7 +29,8 @@
     "description": "Same as land-hist but with grazing and other management on pastureland held at 1850 levels/distribution, i.e. all new pastureland is treated as unmanaged grassland (as in land-crop-grass)", 
     "idx": 126, 
     "label": "land-noPasture", 
-    "rawName": "land-noPasture", 
+    "namespace": "wcrp:cmip6:experiment-id:land-nopasture", 
+    "raw_name": "land-noPasture", 
     "status": "pending", 
     "uid": "1e45428e-d9aa-4334-8ce2-306a05754f6e"
 }

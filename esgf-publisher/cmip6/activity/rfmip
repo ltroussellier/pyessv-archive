@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "rfmip", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "RFMIP", 
+    "idx": 17, 
+    "label": "RFMIP", 
+    "namespace": "esgf-publisher:cmip6:activity:rfmip", 
+    "status": "pending", 
+    "uid": "6c3b7b5d-049e-47fa-9e51-85ceefe92e0b"
+}

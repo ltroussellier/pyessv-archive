@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "mrlso", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "mrlso", 
+    "idx": 279, 
+    "namespace": "esgf-publisher:cmip5:variable:mrlso", 
+    "status": "pending", 
+    "uid": "aa4ba73f-0da4-4c24-ae41-f5d984e8a33f"
+}

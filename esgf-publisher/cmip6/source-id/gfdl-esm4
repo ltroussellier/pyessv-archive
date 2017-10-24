@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "gfdl-esm4", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "GFDL-ESM4", 
+    "idx": 31, 
+    "label": "GFDL-ESM4", 
+    "namespace": "esgf-publisher:cmip6:source-id:gfdl-esm4", 
+    "status": "pending", 
+    "uid": "487d8eef-0eae-4013-8d20-8eb86fa2fe44"
+}

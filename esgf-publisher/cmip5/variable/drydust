@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "drydust", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "drydust", 
+    "idx": 124, 
+    "namespace": "esgf-publisher:cmip5:variable:drydust", 
+    "status": "pending", 
+    "uid": "8709cdc2-ed53-4fb7-898b-33bd4bdc0a08"
+}

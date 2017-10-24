@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tnsclw", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tnsclw", 
+    "idx": 509, 
+    "namespace": "esgf-publisher:cmip5:variable:tnsclw", 
+    "status": "pending", 
+    "uid": "fcb8ff9b-b4a0-497b-a66a-b63afa00d56e"
+}

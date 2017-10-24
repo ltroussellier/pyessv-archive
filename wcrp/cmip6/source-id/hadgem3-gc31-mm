@@ -1,9 +1,9 @@
 {
     "_type": "term", 
-    "canonicalName": "hadgem3-gc31-mm", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "hadgem3-gc31-mm", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityParticipation": [
+        "activity_participation": [
             "DCPP", 
             "GMMIP", 
             "LS3MIP", 
@@ -12,50 +12,51 @@
         "cohort": [
             "Registered"
         ], 
-        "institutionID": [
+        "institution_id": [
             "MOHC"
         ], 
-        "labelExtended": "HadGEM3-GC3.1-N216ORCA025", 
-        "modelComponent": {
+        "label_extended": "HadGEM3-GC3.1-N216ORCA025", 
+        "model_component": {
             "aerosol": {
                 "description": "UKCA-GLOMAP-mode", 
-                "nominalResolution": "100 km"
+                "nominal_resolution": "100 km"
             }, 
             "atmos": {
                 "description": "MetUM-HadGEM3-GA7.1 (N216; 432 x 324 longitude/latitude; 85 levels; top level 85 km)", 
-                "nominalResolution": "100 km"
+                "nominal_resolution": "100 km"
             }, 
             "atmosChem": {
                 "description": "none", 
-                "nominalResolution": "none"
+                "nominal_resolution": "none"
             }, 
             "land": {
                 "description": "JULES-HadGEM3-GL7.1", 
-                "nominalResolution": "100 km"
+                "nominal_resolution": "100 km"
             }, 
             "landIce": {
                 "description": "none", 
-                "nominalResolution": "none"
+                "nominal_resolution": "none"
             }, 
             "ocean": {
                 "description": "NEMO-HadGEM3-GO6.0 (ORCA025 tripolar primarily 0.25 deg; 1440 x 720 longitude/latitude; 75 levels; top grid cell 0-1 m)", 
-                "nominalResolution": "25 km"
+                "nominal_resolution": "25 km"
             }, 
             "ocnBgchem": {
                 "description": "none", 
-                "nominalResolution": "none"
+                "nominal_resolution": "none"
             }, 
             "seaIce": {
                 "description": "CICE-HadGEM3-GSI8 (ORCA025 tripolar primarily 0.25 deg; 1440 x 720 longitude/latitude)", 
-                "nominalResolution": "25 km"
+                "nominal_resolution": "25 km"
             }
         }, 
-        "releaseYear": "2016", 
-        "sourceID": "HadGEM3-GC31-MM"
+        "release_year": "2016", 
+        "source_id": "HadGEM3-GC31-MM"
     }, 
-    "idx": 43, 
+    "idx": 45, 
     "label": "HadGEM3-GC31-MM", 
-    "rawName": "HadGEM3-GC31-MM", 
+    "namespace": "wcrp:cmip6:source-id:hadgem3-gc31-mm", 
+    "raw_name": "HadGEM3-GC31-MM", 
     "status": "pending", 
     "uid": "283d9657-f586-4212-9eff-e3a881071b0f"
 }

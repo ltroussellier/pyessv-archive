@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "ucan-wrf331g", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "UCAN-WRF331G", 
+    "idx": 37, 
+    "label": "UCAN-WRF331G", 
+    "namespace": "esgf-publisher:cordex:rcm-model:ucan-wrf331g", 
+    "status": "pending", 
+    "uid": "0eee87e1-6fad-43f7-a51e-6445f90aa7d6"
+}

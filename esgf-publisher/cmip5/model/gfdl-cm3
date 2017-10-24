@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "gfdl-cm3", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "GFDL-CM3", 
+    "idx": 30, 
+    "label": "GFDL-CM3", 
+    "namespace": "esgf-publisher:cmip5:model:gfdl-cm3", 
+    "status": "pending", 
+    "uid": "dede884e-4aa6-4f76-9d72-c1084eb25ba1"
+}

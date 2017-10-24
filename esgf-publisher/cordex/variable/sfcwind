@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "sfcwind", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "sfcWind", 
+    "idx": 107, 
+    "label": "sfcWind", 
+    "namespace": "esgf-publisher:cordex:variable:sfcwind", 
+    "status": "pending", 
+    "uid": "6a749c02-181c-42fd-99bd-abb29d9e7d35"
+}

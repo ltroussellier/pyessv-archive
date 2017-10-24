@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "land-nofire", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Same as land-hist but with anthropogenic ignition and suppression held to 1850 levels", 
+    "idx": 228, 
+    "label": "land-noFire", 
+    "namespace": "esgf-publisher:cmip6:experiment:land-nofire", 
+    "raw_name": "land-noFire", 
+    "status": "pending", 
+    "uid": "065dd9f4-7278-46a3-a147-06ccf1903ac8"
+}

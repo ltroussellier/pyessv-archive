@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sftlf", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "sftlf", 
+    "idx": 433, 
+    "namespace": "esgf-publisher:cmip5:variable:sftlf", 
+    "status": "pending", 
+    "uid": "b9a5268d-4eb6-4e80-839d-c93be589bf57"
+}

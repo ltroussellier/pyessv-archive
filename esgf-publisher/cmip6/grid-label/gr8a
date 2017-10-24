@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "gr8a", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "gr8a", 
+    "idx": 35, 
+    "namespace": "esgf-publisher:cmip6:grid-label:gr8a", 
+    "status": "pending", 
+    "uid": "59879627-c824-414e-ba39-eaaa98691a45"
+}

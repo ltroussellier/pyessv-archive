@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "aqua-4xco2", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Extended version of CMIP5/CFMIP-2 aqua4xCO2 experiment. Aquaplanet experiment where SSTs are held at control values and the CO2 seen by the radiation scheme is quadrupled", 
+    "idx": 132, 
+    "label": "aqua-4xCO2", 
+    "namespace": "esgf-publisher:cmip6:experiment:aqua-4xco2", 
+    "raw_name": "aqua-4xCO2", 
+    "status": "pending", 
+    "uid": "ca78016b-bf11-4c57-9c95-3b7481994fde"
+}

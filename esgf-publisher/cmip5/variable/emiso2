@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "emiso2", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "emiso2", 
+    "idx": 144, 
+    "namespace": "esgf-publisher:cmip5:variable:emiso2", 
+    "status": "pending", 
+    "uid": "db634a1c-5fd4-4d95-863e-6dda63d0abee"
+}

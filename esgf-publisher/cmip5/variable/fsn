@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "fsn", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "fsn", 
+    "idx": 202, 
+    "namespace": "esgf-publisher:cmip5:variable:fsn", 
+    "status": "pending", 
+    "uid": "1b2f2274-91ea-4eef-9999-bbaec55d93be"
+}

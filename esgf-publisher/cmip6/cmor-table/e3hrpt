@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "e3hrpt", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "E3hrPt", 
+    "idx": 16, 
+    "label": "E3hrPt", 
+    "namespace": "esgf-publisher:cmip6:cmor-table:e3hrpt", 
+    "status": "pending", 
+    "uid": "1fa44970-d367-42d8-991f-7249220e1a5a"
+}

@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "parasolrefl", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "parasolRefl", 
+    "idx": 314, 
+    "label": "parasolRefl", 
+    "namespace": "esgf-publisher:cmip5:variable:parasolrefl", 
+    "status": "pending", 
+    "uid": "e429dd7a-ab43-4450-9326-a9cd62c32877"
+}

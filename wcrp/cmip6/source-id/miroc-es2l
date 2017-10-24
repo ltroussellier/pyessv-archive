@@ -1,9 +1,9 @@
 {
     "_type": "term", 
-    "canonicalName": "miroc-es2l", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "miroc-es2l", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityParticipation": [
+        "activity_participation": [
             "C4MIP", 
             "CMIP", 
             "DynVarMIP", 
@@ -18,50 +18,51 @@
         "cohort": [
             "Registered"
         ], 
-        "institutionID": [
+        "institution_id": [
             "MIROC"
         ], 
-        "labelExtended": "MIROC-ES2L", 
-        "modelComponent": {
+        "label_extended": "MIROC-ES2L", 
+        "model_component": {
             "aerosol": {
                 "description": "SPRINTARS6.0", 
-                "nominalResolution": "250 km"
+                "nominal_resolution": "250 km"
             }, 
             "atmos": {
                 "description": "CCSR AGCM (T42; 128 x 64 longitude/latitude; 40 levels; top level 3 hPa)", 
-                "nominalResolution": "250 km"
+                "nominal_resolution": "250 km"
             }, 
             "atmosChem": {
                 "description": "none", 
-                "nominalResolution": "none"
+                "nominal_resolution": "none"
             }, 
             "land": {
                 "description": "MATSIRO6.0+VISIT-e ver.1.0", 
-                "nominalResolution": "250 km"
+                "nominal_resolution": "250 km"
             }, 
             "landIce": {
                 "description": "none", 
-                "nominalResolution": "none"
+                "nominal_resolution": "none"
             }, 
             "ocean": {
                 "description": "COCO4.9 (tripolar primarily 1deg; 360 x 256 longitude/latitude; 63 levels; top grid cell 0-2 m)", 
-                "nominalResolution": "100 km"
+                "nominal_resolution": "100 km"
             }, 
             "ocnBgchem": {
                 "description": "OECO ver.2.0; NPZD-type with C/N/P/Fe/O cycles", 
-                "nominalResolution": "100 km"
+                "nominal_resolution": "100 km"
             }, 
             "seaIce": {
                 "description": "COCO4.9", 
-                "nominalResolution": "100 km"
+                "nominal_resolution": "100 km"
             }
         }, 
-        "releaseYear": "2017", 
-        "sourceID": "MIROC-ES2L"
+        "release_year": "2017", 
+        "source_id": "MIROC-ES2L"
     }, 
-    "idx": 65, 
+    "idx": 68, 
     "label": "MIROC-ES2L", 
-    "rawName": "MIROC-ES2L", 
+    "namespace": "wcrp:cmip6:source-id:miroc-es2l", 
+    "raw_name": "MIROC-ES2L", 
     "status": "pending", 
     "uid": "0ee3a84d-d885-46b1-bc8d-6c02f990b025"
 }

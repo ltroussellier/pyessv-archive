@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "zosga", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "zosga", 
+    "idx": 594, 
+    "namespace": "esgf-publisher:cmip5:variable:zosga", 
+    "status": "pending", 
+    "uid": "d88b38d4-3190-44e4-8165-e26be0cdfaa7"
+}

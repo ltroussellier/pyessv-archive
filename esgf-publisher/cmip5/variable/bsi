@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "bsi", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "bsi", 
+    "idx": 19, 
+    "namespace": "esgf-publisher:cmip5:variable:bsi", 
+    "status": "pending", 
+    "uid": "31588438-56ce-46a4-a16b-97ea98a2cc63"
+}

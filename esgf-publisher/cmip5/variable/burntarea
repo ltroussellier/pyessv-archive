@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "burntarea", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "burntArea", 
+    "idx": 20, 
+    "label": "burntArea", 
+    "namespace": "esgf-publisher:cmip5:variable:burntarea", 
+    "status": "pending", 
+    "uid": "61d514ba-d8fb-4adc-a230-13f03a12fc37"
+}

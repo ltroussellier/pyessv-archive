@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "concnh4", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "concnh4", 
+    "idx": 94, 
+    "namespace": "esgf-publisher:cmip5:variable:concnh4", 
+    "status": "pending", 
+    "uid": "a2a0ec3c-06b3-40f4-83e2-22888ef0261c"
+}

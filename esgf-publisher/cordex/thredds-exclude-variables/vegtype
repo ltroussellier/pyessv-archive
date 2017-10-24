@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "vegtype", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "vegtype", 
+    "idx": 70, 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:vegtype", 
+    "status": "pending", 
+    "uid": "25fbf832-4a58-482e-b25a-39d0898e813e"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "cfc11global", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "cfc11global", 
+    "idx": 45, 
+    "namespace": "esgf-publisher:cmip5:variable:cfc11global", 
+    "status": "pending", 
+    "uid": "7177c27d-f8ec-443b-8bcf-914b7f16d613"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "fgdms", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "fgdms", 
+    "idx": 192, 
+    "namespace": "esgf-publisher:cmip5:variable:fgdms", 
+    "status": "pending", 
+    "uid": "177af4b8-f730-4aa3-a4f8-34fb2109c30a"
+}

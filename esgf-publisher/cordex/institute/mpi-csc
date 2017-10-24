@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "mpi-csc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "MPI-CSC", 
+    "idx": 23, 
+    "label": "MPI-CSC", 
+    "namespace": "esgf-publisher:cordex:institute:mpi-csc", 
+    "status": "pending", 
+    "uid": "3888a33d-e3ed-40e6-b297-8c93de7264b3"
+}

@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "miub", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "MIUB", 
+    "idx": 21, 
+    "label": "MIUB", 
+    "namespace": "esgf-publisher:cordex:institute:miub", 
+    "status": "pending", 
+    "uid": "12fe11b2-cd11-4281-a6f0-cfa7ad07688c"
+}

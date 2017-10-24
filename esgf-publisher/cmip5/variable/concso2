@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "concso2", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "concso2", 
+    "idx": 98, 
+    "namespace": "esgf-publisher:cmip5:variable:concso2", 
+    "status": "pending", 
+    "uid": "07c7cfbc-5bec-4d6b-b7fd-3c49092e2099"
+}

@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "fvegsoil", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "fVegSoil", 
+    "idx": 173, 
+    "label": "fVegSoil", 
+    "namespace": "esgf-publisher:cmip5:variable:fvegsoil", 
+    "status": "pending", 
+    "uid": "e2b48424-863b-46b9-a90b-3e8a98cd4784"
+}

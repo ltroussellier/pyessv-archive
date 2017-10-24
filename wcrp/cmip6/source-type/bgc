@@ -1,10 +1,11 @@
 {
     "_type": "term", 
-    "canonicalName": "bgc", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "bgc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "idx": 1, 
     "label": "BGC", 
-    "rawName": "BGC", 
+    "namespace": "wcrp:cmip6:source-type:bgc", 
+    "raw_name": "BGC", 
     "status": "pending", 
     "uid": "c15f93cc-ec28-474d-bdb5-caf9ed0d079e"
 }

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "usi", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "usi", 
+    "idx": 554, 
+    "namespace": "esgf-publisher:cmip5:variable:usi", 
+    "status": "pending", 
+    "uid": "8af16021-a695-44dc-8d05-316c4146d204"
+}

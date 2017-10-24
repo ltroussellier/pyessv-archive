@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "rgrowth", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rGrowth", 
+    "idx": 355, 
+    "label": "rGrowth", 
+    "namespace": "esgf-publisher:cmip5:variable:rgrowth", 
+    "status": "pending", 
+    "uid": "67937119-3771-4bdc-b288-11bdca88724e"
+}

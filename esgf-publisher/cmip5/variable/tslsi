@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tslsi", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tslsi", 
+    "idx": 546, 
+    "namespace": "esgf-publisher:cmip5:variable:tslsi", 
+    "status": "pending", 
+    "uid": "c283f7c3-1c69-4317-980b-2e8b56fa4e96"
+}

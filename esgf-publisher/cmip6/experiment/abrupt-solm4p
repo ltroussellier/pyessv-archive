@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "abrupt-solm4p", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Conceptually similar to abrupt 4xCO2 DECK experiment, except that the solar constant rather than CO2 is abruptly reduced by 4percent", 
+    "idx": 145, 
+    "namespace": "esgf-publisher:cmip6:experiment:abrupt-solm4p", 
+    "status": "pending", 
+    "uid": "93dc3899-cb40-4b68-a56c-ac301021a227"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clhcalipso", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "clhcalipso", 
+    "idx": 64, 
+    "namespace": "esgf-publisher:cmip5:variable:clhcalipso", 
+    "status": "pending", 
+    "uid": "101ba9b9-2365-4971-84bc-a7db85bf396f"
+}

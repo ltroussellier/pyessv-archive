@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "1hr", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "1hr", 
+    "idx": 0, 
+    "namespace": "esgf-publisher:cmip6:frequency:1hr", 
+    "status": "pending", 
+    "uid": "5a727a9f-e881-4b23-b311-758ab68d4760"
+}

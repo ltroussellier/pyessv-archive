@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ssp245", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Future scenario with medium radiative forcing by the end of century. Following approximately RCP4.5 global forcing pathway but with new forcing based on SSP2. Concentration-driven", 
+    "idx": 113, 
+    "namespace": "esgf-publisher:cmip6:experiment:ssp245", 
+    "status": "pending", 
+    "uid": "dc43afc1-2c1a-4fbd-8cf6-920460b44742"
+}

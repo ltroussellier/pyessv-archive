@@ -1,13 +1,14 @@
 {
     "_type": "term", 
-    "canonicalName": "mpi-m", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "mpi-m", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "postalAddress": "Max Planck Institute for Meteorology, Hamburg 20146, Germany"
+        "postal_address": "Max Planck Institute for Meteorology, Hamburg 20146, Germany"
     }, 
-    "idx": 10, 
+    "idx": 11, 
     "label": "MPI-M", 
-    "rawName": "MPI-M", 
+    "namespace": "wcrp:cmip6:institution-id:mpi-m", 
+    "raw_name": "MPI-M", 
     "status": "pending", 
     "uid": "69d80ccd-99bb-4fb4-b894-beb3c046f4e1"
 }

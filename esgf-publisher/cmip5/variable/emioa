@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "emioa", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "emioa", 
+    "idx": 142, 
+    "namespace": "esgf-publisher:cmip5:variable:emioa", 
+    "status": "pending", 
+    "uid": "70eec300-1037-46d3-b488-8f820e9f9c1f"
+}

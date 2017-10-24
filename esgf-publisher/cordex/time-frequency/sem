@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sem", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "sem", 
+    "idx": 3, 
+    "namespace": "esgf-publisher:cordex:time-frequency:sem", 
+    "status": "pending", 
+    "uid": "28129a8a-7733-4b41-91f2-9ed5148f0cfd"
+}

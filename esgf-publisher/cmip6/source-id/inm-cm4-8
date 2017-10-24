@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "inm-cm4-8", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "INM-CM4-8", 
+    "idx": 40, 
+    "label": "INM-CM4-8", 
+    "namespace": "esgf-publisher:cmip6:source-id:inm-cm4-8", 
+    "status": "pending", 
+    "uid": "c5d44522-ce7f-4f17-87ba-0b380cfa3a72"
+}

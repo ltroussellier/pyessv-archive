@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "talk", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "talk", 
+    "idx": 462, 
+    "namespace": "esgf-publisher:cmip5:variable:talk", 
+    "status": "pending", 
+    "uid": "436845d8-1bc2-4627-ba59-e04f68373198"
+}

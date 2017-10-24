@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ps", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ps", 
+    "idx": 98, 
+    "namespace": "esgf-publisher:cordex:variable:ps", 
+    "status": "pending", 
+    "uid": "67546bf5-7633-4b3a-b939-053711546af6"
+}

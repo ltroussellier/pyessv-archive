@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "zmla", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "zmla", 
+    "idx": 201, 
+    "namespace": "esgf-publisher:cordex:variable:zmla", 
+    "status": "pending", 
+    "uid": "f6f6c951-8205-4457-b34c-2285a0bc91d8"
+}

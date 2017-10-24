@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "reffsnowc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "reffsnowc", 
+    "idx": 365, 
+    "namespace": "esgf-publisher:cmip5:variable:reffsnowc", 
+    "status": "pending", 
+    "uid": "b3ec357c-17d5-4b3d-84db-29787bdb43d5"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sci", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "sci", 
+    "idx": 418, 
+    "namespace": "esgf-publisher:cmip5:variable:sci", 
+    "status": "pending", 
+    "uid": "e86effd3-631a-436e-9651-c1b5408554e0"
+}

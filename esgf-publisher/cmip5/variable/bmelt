@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "bmelt", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "bmelt", 
+    "idx": 18, 
+    "namespace": "esgf-publisher:cmip5:variable:bmelt", 
+    "status": "pending", 
+    "uid": "bdd925db-7167-4cee-8fee-57494061d167"
+}

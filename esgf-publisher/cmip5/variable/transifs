@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "transifs", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "transifs", 
+    "idx": 532, 
+    "namespace": "esgf-publisher:cmip5:variable:transifs", 
+    "status": "pending", 
+    "uid": "2183fa24-3e4c-443f-aa01-aae87d559265"
+}

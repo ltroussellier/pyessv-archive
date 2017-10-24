@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "amip-a4sst-4xco2", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Same as amip, but a patterned SST anomaly is applied on top of the monthly-varying amip SSTs. This anomaly is a monthly climatology, taken from each model's own abrupt4xCO2 run minus piControl (using the mean of years 111-140 of abrupt4xCO2, and the parallel 30-year section of piControl). CO2 is quadrupled, and the increase in CO2 is seen by both the radiation scheme and vegetation", 
+    "idx": 215, 
+    "label": "amip-a4SST-4xCO2", 
+    "namespace": "esgf-publisher:cmip6:experiment:amip-a4sst-4xco2", 
+    "raw_name": "amip-a4SST-4xCO2", 
+    "status": "pending", 
+    "uid": "6a0a6e94-99b5-41af-9e90-75ed69ffa2bc"
+}

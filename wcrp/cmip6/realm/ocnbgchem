@@ -1,12 +1,12 @@
 {
     "_type": "term", 
-    "canonicalName": "ocnbgchem", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
-    "data": {}, 
+    "canonical_name": "ocnbgchem", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Ocean Biogeochemistry", 
     "idx": 7, 
     "label": "ocnBgchem", 
-    "rawName": "ocnBgchem", 
+    "namespace": "wcrp:cmip6:realm:ocnbgchem", 
+    "raw_name": "ocnBgchem", 
     "status": "pending", 
     "uid": "4d69f057-c157-4ca6-aebb-e94ad2add770"
 }

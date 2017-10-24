@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "pso", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "pso", 
+    "idx": 354, 
+    "namespace": "esgf-publisher:cmip5:variable:pso", 
+    "status": "pending", 
+    "uid": "ca53710a-5973-42d9-9988-f8642d43376b"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "zg875", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "zg875", 
+    "idx": 196, 
+    "namespace": "esgf-publisher:cordex:variable:zg875", 
+    "status": "pending", 
+    "uid": "e821f4a7-23fe-424a-8ef3-7fa792c5efb7"
+}

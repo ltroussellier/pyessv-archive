@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "cltisccp", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "cltisccp", 
+    "idx": 76, 
+    "namespace": "esgf-publisher:cmip5:variable:cltisccp", 
+    "status": "pending", 
+    "uid": "bcbfed0a-244e-48c2-a980-2ded4255f85d"
+}

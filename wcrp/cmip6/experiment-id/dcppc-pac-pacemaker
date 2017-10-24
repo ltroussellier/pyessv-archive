@@ -1,31 +1,31 @@
 {
     "_type": "term", 
-    "canonicalName": "dcppc-pac-pacemaker", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "dcppc-pac-pacemaker", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "DCPP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM", 
             "BGC"
         ], 
-        "endYear": "2014", 
+        "end_year": "2014", 
         "experiment": "pacemaker Pacific experiment", 
-        "experimentID": "dcppC-pac-pacemaker", 
-        "minNumberYrsPerSim": "65", 
-        "parentActivityID": [
+        "experiment_id": "dcppC-pac-pacemaker", 
+        "min_number_yrs_per_sim": "65", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "historical"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM"
         ], 
-        "startYear": "either 1910 or 1950", 
-        "subExperimentID": [
+        "start_year": "either 1910 or 1950", 
+        "sub_experiment_id": [
             "s1910", 
             "s1950"
         ], 
@@ -34,7 +34,8 @@
     "description": "C1.10 Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs. First full hindcast year is 2015", 
     "idx": 198, 
     "label": "dcppC-pac-pacemaker", 
-    "rawName": "dcppC-pac-pacemaker", 
+    "namespace": "wcrp:cmip6:experiment-id:dcppc-pac-pacemaker", 
+    "raw_name": "dcppC-pac-pacemaker", 
     "status": "pending", 
     "uid": "ad5b605f-1456-4c58-9e0c-402e12c66e8e"
 }

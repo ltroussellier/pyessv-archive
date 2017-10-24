@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "arc-44", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "The Arctic", 
+    "idx": 4, 
+    "label": "ARC-44", 
+    "namespace": "esgf-publisher:cordex:domain:arc-44", 
+    "raw_name": "ARC-44", 
+    "status": "pending", 
+    "uid": "9a4cac97-bf70-41d7-bf60-5906d67e12d8"
+}

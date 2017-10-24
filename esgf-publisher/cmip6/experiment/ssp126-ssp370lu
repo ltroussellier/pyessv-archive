@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "ssp126-ssp370lu", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Additional land use policy sensitivity simulation for low radiative forcing scenario, keep all forcings the same as ScenarioMIP SSP1-2.6 (afforestation scenario), but replace land use from SSP3-7 (afforestation) scenario; concentration-driven", 
+    "idx": 139, 
+    "label": "ssp126-ssp370Lu", 
+    "namespace": "esgf-publisher:cmip6:experiment:ssp126-ssp370lu", 
+    "raw_name": "ssp126-ssp370Lu", 
+    "status": "pending", 
+    "uid": "289c1c19-7651-4d6c-80f2-f2f91deeb32d"
+}

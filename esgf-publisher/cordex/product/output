@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "output", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "output", 
+    "idx": 0, 
+    "namespace": "esgf-publisher:cordex:product:output", 
+    "status": "pending", 
+    "uid": "ac27d698-816f-4b98-b5c7-6656997ac8f3"
+}

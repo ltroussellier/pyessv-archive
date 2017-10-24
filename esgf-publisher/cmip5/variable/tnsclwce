@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tnsclwce", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tnsclwce", 
+    "idx": 516, 
+    "namespace": "esgf-publisher:cmip5:variable:tnsclwce", 
+    "status": "pending", 
+    "uid": "b57fea2a-710e-49af-a982-8a291c06c382"
+}

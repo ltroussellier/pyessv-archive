@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ts", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ts", 
+    "idx": 142, 
+    "namespace": "esgf-publisher:cordex:variable:ts", 
+    "status": "pending", 
+    "uid": "cb39a499-17e3-44cf-aa5b-975b8d5a8787"
+}

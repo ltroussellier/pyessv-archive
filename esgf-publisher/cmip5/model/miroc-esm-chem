@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "miroc-esm-chem", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "MIROC-ESM-CHEM", 
+    "idx": 49, 
+    "label": "MIROC-ESM-CHEM", 
+    "namespace": "esgf-publisher:cmip5:model:miroc-esm-chem", 
+    "status": "pending", 
+    "uid": "ad36352d-1f47-461c-b9af-0cc09f0a5908"
+}

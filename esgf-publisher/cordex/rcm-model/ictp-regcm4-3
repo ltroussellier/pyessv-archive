@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "ictp-regcm4-3", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ICTP-RegCM4-3", 
+    "idx": 19, 
+    "label": "ICTP-RegCM4-3", 
+    "namespace": "esgf-publisher:cordex:rcm-model:ictp-regcm4-3", 
+    "status": "pending", 
+    "uid": "b90e4b9f-f19a-4ce5-9020-dfb088ea042a"
+}

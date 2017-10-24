@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "snw", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "snw", 
+    "idx": 119, 
+    "namespace": "esgf-publisher:cordex:variable:snw", 
+    "status": "pending", 
+    "uid": "14f54559-640d-492d-82a9-cb63c78c0478"
+}

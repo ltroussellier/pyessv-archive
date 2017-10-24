@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tasmaxts", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tasmaxts", 
+    "idx": 137, 
+    "namespace": "esgf-publisher:cordex:variable:tasmaxts", 
+    "status": "pending", 
+    "uid": "d6b1bdff-65f4-4fff-9795-7f23ad71f900"
+}

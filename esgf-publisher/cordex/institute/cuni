@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "cuni", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CUNI", 
+    "idx": 9, 
+    "label": "CUNI", 
+    "namespace": "esgf-publisher:cordex:institute:cuni", 
+    "status": "pending", 
+    "uid": "872520c4-1a1d-47ab-8b1f-4787a92ce474"
+}

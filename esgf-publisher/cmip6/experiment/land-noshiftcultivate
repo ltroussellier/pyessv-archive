@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "land-noshiftcultivate", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Same as land-hist except shifting cultivation turned off. An additional LUC transitions dataset will be provided as a data layer within LUMIP LUH2 dataset with shifting cultivation deactivated", 
+    "idx": 93, 
+    "label": "land-noShiftCultivate", 
+    "namespace": "esgf-publisher:cmip6:experiment:land-noshiftcultivate", 
+    "raw_name": "land-noShiftCultivate", 
+    "status": "pending", 
+    "uid": "f90fbad3-751a-439b-9806-b59c1c2ff155"
+}

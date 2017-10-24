@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "concoa", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "concoa", 
+    "idx": 96, 
+    "namespace": "esgf-publisher:cmip5:variable:concoa", 
+    "status": "pending", 
+    "uid": "d5399e57-4986-470b-9ab0-203b50bd4259"
+}

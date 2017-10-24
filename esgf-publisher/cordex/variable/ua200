@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ua200", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ua200", 
+    "idx": 150, 
+    "namespace": "esgf-publisher:cordex:variable:ua200", 
+    "status": "pending", 
+    "uid": "30199241-6179-4f6f-bc49-3980c6cfb1aa"
+}

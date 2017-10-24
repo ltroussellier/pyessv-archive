@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "amipfuture", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "AMIP plus patterned anomaly", 
+    "idx": 5, 
+    "label": "amipFuture", 
+    "namespace": "esgf-publisher:cmip5:experiment:amipfuture", 
+    "raw_name": "amipFuture", 
+    "status": "pending", 
+    "uid": "fd2988c6-c796-449c-abcf-edd96ad38544"
+}

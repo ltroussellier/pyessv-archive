@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "prsn", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "prsn", 
+    "idx": 96, 
+    "namespace": "esgf-publisher:cordex:variable:prsn", 
+    "status": "pending", 
+    "uid": "31a6df97-1768-4a89-84a4-5177fcd8f9c4"
+}

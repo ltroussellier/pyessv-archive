@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sootsn", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "sootsn", 
+    "idx": 450, 
+    "namespace": "esgf-publisher:cmip5:variable:sootsn", 
+    "status": "pending", 
+    "uid": "bafa7ab7-98f0-4e7a-8c5c-990140c62b3f"
+}

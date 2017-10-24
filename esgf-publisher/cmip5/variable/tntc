@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tntc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tntc", 
+    "idx": 524, 
+    "namespace": "esgf-publisher:cmip5:variable:tntc", 
+    "status": "pending", 
+    "uid": "8199b3aa-2944-48bf-a565-1b2cd7b14789"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "mfo", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "mfo", 
+    "idx": 274, 
+    "namespace": "esgf-publisher:cmip5:variable:mfo", 
+    "status": "pending", 
+    "uid": "04fb9071-9cac-42bc-8dd4-d04a80483b13"
+}

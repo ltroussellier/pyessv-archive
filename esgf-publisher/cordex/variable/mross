@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "mross", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "mross", 
+    "idx": 82, 
+    "namespace": "esgf-publisher:cordex:variable:mross", 
+    "status": "pending", 
+    "uid": "ea385c2e-68de-4ade-9471-0e9c395f1f41"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "piclim-anthro", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "As in RFMIP-ERF-PI-Cntrl but with present-day anthropogenic forcing (greenhouse gases, aerosols and land-use)", 
+    "idx": 27, 
+    "label": "piClim-anthro", 
+    "namespace": "esgf-publisher:cmip6:experiment:piclim-anthro", 
+    "raw_name": "piClim-anthro", 
+    "status": "pending", 
+    "uid": "e680776b-ed9d-4e4a-b346-ae37c753950b"
+}

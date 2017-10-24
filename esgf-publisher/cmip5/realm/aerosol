@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "aerosol", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "aerosol", 
+    "idx": 5, 
+    "namespace": "esgf-publisher:cmip5:realm:aerosol", 
+    "status": "pending", 
+    "uid": "b8f9a0be-9991-4ae8-9ee2-341dfe604a68"
+}

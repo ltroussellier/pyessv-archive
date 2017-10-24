@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "flittersoil", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "fLitterSoil", 
+    "idx": 170, 
+    "label": "fLitterSoil", 
+    "namespace": "esgf-publisher:cmip5:variable:flittersoil", 
+    "status": "pending", 
+    "uid": "1f6b7210-5cf1-47d9-bbcd-1de4ca11b907"
+}

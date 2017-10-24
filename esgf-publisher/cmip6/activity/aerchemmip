@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "aerchemmip", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "AerChemMIP", 
+    "idx": 0, 
+    "label": "AerChemMIP", 
+    "namespace": "esgf-publisher:cmip6:activity:aerchemmip", 
+    "status": "pending", 
+    "uid": "5aed4a49-5b3e-494b-b4e0-38d66e794fe2"
+}

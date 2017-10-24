@@ -1,31 +1,31 @@
 {
     "_type": "term", 
-    "canonicalName": "dcppc-ipv-nextrop-pos", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "dcppc-ipv-nextrop-pos", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "DCPP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM", 
             "BGC"
         ], 
-        "endYear": "", 
+        "end_year": "", 
         "experiment": "idealized positive northern extratropical IPV anomaly pattern", 
-        "experimentID": "dcppC-ipv-NexTrop-pos", 
-        "minNumberYrsPerSim": "10", 
-        "parentActivityID": [
+        "experiment_id": "dcppC-ipv-NexTrop-pos", 
+        "min_number_yrs_per_sim": "10", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "piControl"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM"
         ], 
-        "startYear": "", 
-        "subExperimentID": [
+        "start_year": "", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
@@ -33,7 +33,8 @@
     "description": "C1.9 Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs", 
     "idx": 7, 
     "label": "dcppC-ipv-NexTrop-pos", 
-    "rawName": "dcppC-ipv-NexTrop-pos", 
+    "namespace": "wcrp:cmip6:experiment-id:dcppc-ipv-nextrop-pos", 
+    "raw_name": "dcppC-ipv-NexTrop-pos", 
     "status": "pending", 
     "uid": "9d8b1519-30c1-481e-bdc1-16189346afcd"
 }

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "zg450", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "zg450", 
+    "idx": 187, 
+    "namespace": "esgf-publisher:cordex:variable:zg450", 
+    "status": "pending", 
+    "uid": "bc7e0555-3636-4eb7-a1e2-9b946e28a3ef"
+}

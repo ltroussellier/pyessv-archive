@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ism-lig127k-std", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Last interglacial simulation of ice sheet evolution driven by PMIP lig127k", 
+    "idx": 60, 
+    "namespace": "esgf-publisher:cmip6:experiment:ism-lig127k-std", 
+    "status": "pending", 
+    "uid": "5e8b8a52-de9d-443f-a4d1-20b7eebf9012"
+}

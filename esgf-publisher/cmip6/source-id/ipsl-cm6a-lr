@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "ipsl-cm6a-lr", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "IPSL-CM6A-LR", 
+    "idx": 43, 
+    "label": "IPSL-CM6A-LR", 
+    "namespace": "esgf-publisher:cmip6:source-id:ipsl-cm6a-lr", 
+    "status": "pending", 
+    "uid": "e1934569-8077-496b-bda0-38de1d949607"
+}

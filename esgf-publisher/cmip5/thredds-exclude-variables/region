@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "region", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "region", 
+    "idx": 48, 
+    "namespace": "esgf-publisher:cmip5:thredds-exclude-variables:region", 
+    "status": "pending", 
+    "uid": "c845dec4-991b-407c-ae54-7aa34594f9f3"
+}

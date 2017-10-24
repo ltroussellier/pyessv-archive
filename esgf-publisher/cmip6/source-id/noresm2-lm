@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "noresm2-lm", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "NorESM2-LM", 
+    "idx": 56, 
+    "label": "NorESM2-LM", 
+    "namespace": "esgf-publisher:cmip6:source-id:noresm2-lm", 
+    "status": "pending", 
+    "uid": "09d37c69-f363-43b9-8b01-87807b77847b"
+}

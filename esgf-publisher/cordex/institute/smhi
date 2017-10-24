@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "smhi", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "SMHI", 
+    "idx": 26, 
+    "label": "SMHI", 
+    "namespace": "esgf-publisher:cordex:institute:smhi", 
+    "status": "pending", 
+    "uid": "3cd876e7-a23d-4b92-b5e6-853486462026"
+}

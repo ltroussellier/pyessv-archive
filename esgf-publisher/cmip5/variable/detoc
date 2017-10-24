@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "detoc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "detoc", 
+    "idx": 108, 
+    "namespace": "esgf-publisher:cmip5:variable:detoc", 
+    "status": "pending", 
+    "uid": "8918d4c2-4426-4ec5-a896-ed18185c8de2"
+}

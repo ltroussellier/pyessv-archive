@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "yr", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "yr", 
+    "idx": 10, 
+    "namespace": "esgf-publisher:cmip6:frequency:yr", 
+    "status": "pending", 
+    "uid": "533cc4ce-2c14-4eb3-9d3d-2e83d65f3c3e"
+}

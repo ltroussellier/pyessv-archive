@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "nicam16-9s", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "NICAM16-9S", 
+    "idx": 54, 
+    "label": "NICAM16-9S", 
+    "namespace": "esgf-publisher:cmip6:source-id:nicam16-9s", 
+    "status": "pending", 
+    "uid": "65dcc352-d364-45d2-b94f-10a4d096484c"
+}

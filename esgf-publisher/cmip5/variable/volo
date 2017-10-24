@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "volo", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "volo", 
+    "idx": 560, 
+    "namespace": "esgf-publisher:cmip5:variable:volo", 
+    "status": "pending", 
+    "uid": "f05d1d40-1f9f-45a9-bd29-b27e050eb599"
+}

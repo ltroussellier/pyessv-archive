@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rlussi", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rlussi", 
+    "idx": 387, 
+    "namespace": "esgf-publisher:cmip5:variable:rlussi", 
+    "status": "pending", 
+    "uid": "d179f2c3-3243-488e-827d-4668eb42222e"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "v2", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "v2", 
+    "idx": 2, 
+    "namespace": "esgf-publisher:cordex:rcm-version:v2", 
+    "status": "pending", 
+    "uid": "c3369959-c5da-412d-bc49-ca5d40be84c2"
+}

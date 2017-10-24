@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "smhi-rca4-sn", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "SMHI-RCA4-SN", 
+    "idx": 34, 
+    "label": "SMHI-RCA4-SN", 
+    "namespace": "esgf-publisher:cordex:rcm-model:smhi-rca4-sn", 
+    "status": "pending", 
+    "uid": "fbe8e56f-af5d-4b7c-9c23-09a00b5ff115"
+}

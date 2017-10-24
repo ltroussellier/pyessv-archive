@@ -1,10 +1,11 @@
 {
     "_type": "term", 
-    "canonicalName": "edayz", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "edayz", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "idx": 19, 
     "label": "EdayZ", 
-    "rawName": "EdayZ", 
+    "namespace": "wcrp:cmip6:table-id:edayz", 
+    "raw_name": "EdayZ", 
     "status": "pending", 
     "uid": "590ec5b6-ecd9-48df-9ed8-e1eabdc83475"
 }

@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "lmon", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Lmon", 
+    "idx": 32, 
+    "label": "Lmon", 
+    "namespace": "esgf-publisher:cmip6:cmor-table:lmon", 
+    "status": "pending", 
+    "uid": "5e1aa6be-47fb-478f-a7b1-ec44f95af22c"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tauu", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tauu", 
+    "idx": 467, 
+    "namespace": "esgf-publisher:cmip5:variable:tauu", 
+    "status": "pending", 
+    "uid": "6a7fb5a9-6d6a-4ec2-9b1e-57e409ffdd05"
+}

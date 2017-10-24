@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ssp585-bgc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Concentration-driven future scenario simulation, biogeochemically-coupled. This simulation should optionally be extended to year 2300", 
+    "idx": 49, 
+    "namespace": "esgf-publisher:cmip6:experiment:ssp585-bgc", 
+    "status": "pending", 
+    "uid": "0086883a-28e5-488a-b2d9-938845dd7c2c"
+}

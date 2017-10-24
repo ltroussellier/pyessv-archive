@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "prc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "prc", 
+    "idx": 343, 
+    "namespace": "esgf-publisher:cmip5:variable:prc", 
+    "status": "pending", 
+    "uid": "2b116a49-bf7d-4dba-9c7b-5e7f95ae306d"
+}

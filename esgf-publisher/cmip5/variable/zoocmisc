@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "zoocmisc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "zoocmisc", 
+    "idx": 592, 
+    "namespace": "esgf-publisher:cmip5:variable:zoocmisc", 
+    "status": "pending", 
+    "uid": "b2551101-d173-4618-b3ea-b6681ef736c9"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "evu", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "evu", 
+    "idx": 159, 
+    "namespace": "esgf-publisher:cmip5:variable:evu", 
+    "status": "pending", 
+    "uid": "d3861ce3-179a-41b5-8750-77713ff2af20"
+}

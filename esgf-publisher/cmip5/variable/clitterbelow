@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "clitterbelow", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "cLitterBelow", 
+    "idx": 27, 
+    "label": "cLitterBelow", 
+    "namespace": "esgf-publisher:cmip5:variable:clitterbelow", 
+    "status": "pending", 
+    "uid": "8cda272c-7152-4071-91bb-948e39e863ed"
+}

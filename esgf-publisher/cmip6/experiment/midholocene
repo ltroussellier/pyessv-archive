@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "midholocene", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "main forcings: trace gases, orbital parameters, dust (forcing, or feedback if dust cycle represented in model)", 
+    "idx": 102, 
+    "label": "midHolocene", 
+    "namespace": "esgf-publisher:cmip6:experiment:midholocene", 
+    "raw_name": "midHolocene", 
+    "status": "pending", 
+    "uid": "e6ec7a23-14b7-497b-bc6d-70cf9f6f6763"
+}

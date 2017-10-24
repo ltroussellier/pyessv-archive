@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "canesm5", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CanESM5", 
+    "idx": 18, 
+    "label": "CanESM5", 
+    "namespace": "esgf-publisher:cmip6:source-id:canesm5", 
+    "status": "pending", 
+    "uid": "a839ba22-0ff1-4956-b65a-9b4b9a7bce86"
+}

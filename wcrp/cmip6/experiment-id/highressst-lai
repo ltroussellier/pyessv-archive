@@ -1,29 +1,29 @@
 {
     "_type": "term", 
-    "canonicalName": "highressst-lai", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "highressst-lai", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "HighResMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER"
         ], 
-        "endYear": "2014", 
+        "end_year": "2014", 
         "experiment": "common LAI dataset within the highresSST-present experiment", 
-        "experimentID": "highresSST-LAI", 
-        "minNumberYrsPerSim": "36", 
-        "parentActivityID": [
+        "experiment_id": "highresSST-LAI", 
+        "min_number_yrs_per_sim": "36", 
+        "parent_activity_id": [
             "HighResMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "highresSST-present"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AGCM"
         ], 
-        "startYear": "1979", 
-        "subExperimentID": [
+        "start_year": "1979", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "3"
@@ -31,7 +31,8 @@
     "description": "Forced global atmosphere-land simulations as highresSST-present, but using an common LAI dataset across models", 
     "idx": 105, 
     "label": "highresSST-LAI", 
-    "rawName": "highresSST-LAI", 
+    "namespace": "wcrp:cmip6:experiment-id:highressst-lai", 
+    "raw_name": "highresSST-LAI", 
     "status": "pending", 
     "uid": "425913f4-baf5-4f24-8d0e-a9522926d4ba"
 }

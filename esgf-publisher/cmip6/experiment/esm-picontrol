@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "esm-picontrol", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "DECK: control (emission-driven)", 
+    "idx": 116, 
+    "label": "esm-piControl", 
+    "namespace": "esgf-publisher:cmip6:experiment:esm-picontrol", 
+    "raw_name": "esm-piControl", 
+    "status": "pending", 
+    "uid": "05fd75c7-866b-42ee-af49-f6bc0411a742"
+}

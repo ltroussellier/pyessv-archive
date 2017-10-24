@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hurs", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "hurs", 
+    "idx": 239, 
+    "namespace": "esgf-publisher:cmip5:variable:hurs", 
+    "status": "pending", 
+    "uid": "d0d0d3d3-12bc-4d6b-af8f-9f1c1eabc453"
+}

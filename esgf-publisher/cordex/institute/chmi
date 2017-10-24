@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "chmi", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CHMI", 
+    "idx": 5, 
+    "label": "CHMI", 
+    "namespace": "esgf-publisher:cordex:institute:chmi", 
+    "status": "pending", 
+    "uid": "82da994f-dc85-43b0-af0a-e1bfe954c6db"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "a4sst", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "As piSST, but with monthly-varying SSTs taken from years 111-140 of each model's own abrupt4xCO2 experiment instead of from piControl. Sea-ice is unchanged from piSST", 
+    "idx": 205, 
+    "label": "a4SST", 
+    "namespace": "esgf-publisher:cmip6:experiment:a4sst", 
+    "raw_name": "a4SST", 
+    "status": "pending", 
+    "uid": "db610f40-86f8-474b-ad6e-abde10f6432c"
+}

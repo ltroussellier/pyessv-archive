@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hfx", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "hfx", 
+    "idx": 230, 
+    "namespace": "esgf-publisher:cmip5:variable:hfx", 
+    "status": "pending", 
+    "uid": "0519e15b-49c8-4f13-8e9a-239d5bd7b71c"
+}

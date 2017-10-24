@@ -1,13 +1,14 @@
 {
     "_type": "term", 
-    "canonicalName": "nims-kma", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "nims-kma", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "postalAddress": "National Institute of Meteorological Sciences/Korea Meteorological Administration, Climate Research Division, Seoho-bukro 33, Seogwipo-si, Jejudo 63568, Republic of Korea"
+        "postal_address": "National Institute of Meteorological Sciences/Korea Meteorological Administration, Climate Research Division, Seoho-bukro 33, Seogwipo-si, Jejudo 63568, Republic of Korea"
     }, 
-    "idx": 13, 
+    "idx": 14, 
     "label": "NIMS-KMA", 
-    "rawName": "NIMS-KMA", 
+    "namespace": "wcrp:cmip6:institution-id:nims-kma", 
+    "raw_name": "NIMS-KMA", 
     "status": "pending", 
     "uid": "11fe8797-e37b-4400-a847-747d2c106756"
 }

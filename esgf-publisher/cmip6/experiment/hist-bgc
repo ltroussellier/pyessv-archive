@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hist-bgc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Concentration-driven historical simulation, biogeochemically-coupled", 
+    "idx": 128, 
+    "namespace": "esgf-publisher:cmip6:experiment:hist-bgc", 
+    "status": "pending", 
+    "uid": "d76211e2-c251-489b-876a-ad1403be1d4d"
+}

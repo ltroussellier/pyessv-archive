@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "vsfriver", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "vsfriver", 
+    "idx": 565, 
+    "namespace": "esgf-publisher:cmip5:variable:vsfriver", 
+    "status": "pending", 
+    "uid": "db9e60ac-c771-4d34-bf3b-6fb655244a89"
+}

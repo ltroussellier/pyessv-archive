@@ -1,9 +1,9 @@
 {
     "_type": "term", 
-    "canonicalName": "mpiesm-1-2-hr", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "mpiesm-1-2-hr", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityParticipation": [
+        "activity_participation": [
             "CMIP", 
             "CORDEX", 
             "DCPP", 
@@ -18,50 +18,51 @@
         "cohort": [
             "Registered"
         ], 
-        "institutionID": [
+        "institution_id": [
             "MPI-M"
         ], 
-        "labelExtended": "dynamic vegetation and nitrogen cycle switched off", 
-        "modelComponent": {
+        "label_extended": "dynamic vegetation and nitrogen cycle switched off", 
+        "model_component": {
             "aerosol": {
                 "description": "none, prescribed MACv2-SP", 
-                "nominalResolution": "100 km"
+                "nominal_resolution": "100 km"
             }, 
             "atmos": {
                 "description": "ECHAM6.3 (spectral T127; 384 x 192 longitude/latitude; 95 levels; top level 0.01 hPa)", 
-                "nominalResolution": "100 km"
+                "nominal_resolution": "100 km"
             }, 
             "atmosChem": {
                 "description": "none", 
-                "nominalResolution": "none"
+                "nominal_resolution": "none"
             }, 
             "land": {
                 "description": "JSBACH3.20", 
-                "nominalResolution": "100 km"
+                "nominal_resolution": "100 km"
             }, 
             "landIce": {
                 "description": "none/prescribed", 
-                "nominalResolution": "none"
+                "nominal_resolution": "none"
             }, 
             "ocean": {
                 "description": "MPIOM1.63 (tripolar TP04, approximately 0.4deg; 802 x 404 longitude/latitude; 40 levels; top grid cell 0-12 m)", 
-                "nominalResolution": "50 km"
+                "nominal_resolution": "50 km"
             }, 
             "ocnBgchem": {
                 "description": "HAMOCC", 
-                "nominalResolution": "50 km"
+                "nominal_resolution": "50 km"
             }, 
             "seaIce": {
                 "description": "unnamed (thermodynamic (Semtner zero-layer) dynamic (Hibler 79) sea ice model)", 
-                "nominalResolution": "50 km"
+                "nominal_resolution": "50 km"
             }
         }, 
-        "releaseYear": "2017", 
-        "sourceID": "MPIESM-1-2-HR"
+        "release_year": "2017", 
+        "source_id": "MPIESM-1-2-HR"
     }, 
-    "idx": 15, 
+    "idx": 16, 
     "label": "MPIESM1.2-HR", 
-    "rawName": "MPIESM-1-2-HR", 
+    "namespace": "wcrp:cmip6:source-id:mpiesm-1-2-hr", 
+    "raw_name": "MPIESM-1-2-HR", 
     "status": "pending", 
     "uid": "24c0cbfd-e777-4093-b5bd-b93fea017850"
 }

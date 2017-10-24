@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tas", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tas", 
+    "idx": 135, 
+    "namespace": "esgf-publisher:cordex:variable:tas", 
+    "status": "pending", 
+    "uid": "0e012ded-8d43-44b8-9da1-2b230066d4b2"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "msftmyz", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "msftmyz", 
+    "idx": 288, 
+    "namespace": "esgf-publisher:cmip5:variable:msftmyz", 
+    "status": "pending", 
+    "uid": "8be40309-012b-47b4-92ee-dea3f2e7d627"
+}

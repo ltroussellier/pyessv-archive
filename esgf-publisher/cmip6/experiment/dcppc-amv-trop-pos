@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "dcppc-amv-trop-pos", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "C1.8 Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs", 
+    "idx": 226, 
+    "label": "dcppC-amv-Trop-pos", 
+    "namespace": "esgf-publisher:cmip6:experiment:dcppc-amv-trop-pos", 
+    "raw_name": "dcppC-amv-Trop-pos", 
+    "status": "pending", 
+    "uid": "37f1405c-9698-45f0-bd8b-657adca94085"
+}

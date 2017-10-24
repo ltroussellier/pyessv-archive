@@ -1,13 +1,14 @@
 {
     "_type": "term", 
-    "canonicalName": "fio-ronm", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "fio-ronm", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "postalAddress": "FIO (First Institute of Oceanography, State Oceanic Administration, Qingdao 266061, China), RONM (Laboratory for Regional Oceanography and Numerical Modeling, Qingdao National Laboratory for Marine Science and Technology, Qingdao 266237, China)"
+        "postal_address": "FIO (First Institute of Oceanography, State Oceanic Administration, Qingdao 266061, China), RONM (Laboratory for Regional Oceanography and Numerical Modeling, Qingdao National Laboratory for Marine Science and Technology, Qingdao 266237, China)"
     }, 
-    "idx": 28, 
+    "idx": 30, 
     "label": "FIO-RONM", 
-    "rawName": "FIO-RONM", 
+    "namespace": "wcrp:cmip6:institution-id:fio-ronm", 
+    "raw_name": "FIO-RONM", 
     "status": "pending", 
     "uid": "58ea5afa-82ed-47dc-8ae0-b9c93e31afb2"
 }

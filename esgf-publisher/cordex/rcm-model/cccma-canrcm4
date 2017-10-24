@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "cccma-canrcm4", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CCCma-CanRCM4", 
+    "idx": 5, 
+    "label": "CCCma-CanRCM4", 
+    "namespace": "esgf-publisher:cordex:rcm-model:cccma-canrcm4", 
+    "status": "pending", 
+    "uid": "56ed1dbf-b1d1-4c07-a222-f02615f04007"
+}

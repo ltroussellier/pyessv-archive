@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hfbasinba", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "hfbasinba", 
+    "idx": 213, 
+    "namespace": "esgf-publisher:cmip5:variable:hfbasinba", 
+    "status": "pending", 
+    "uid": "ec4a427d-f387-4a4e-8709-f20637bb3bdd"
+}

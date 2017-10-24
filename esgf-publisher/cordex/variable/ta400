@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ta400", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ta400", 
+    "idx": 125, 
+    "namespace": "esgf-publisher:cordex:variable:ta400", 
+    "status": "pending", 
+    "uid": "29ba41a4-de32-44b6-8294-a49e60c56117"
+}

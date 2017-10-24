@@ -1,10 +1,11 @@
 {
     "_type": "term", 
-    "canonicalName": "aermonz", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "aermonz", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "idx": 7, 
     "label": "AERmonZ", 
-    "rawName": "AERmonZ", 
+    "namespace": "wcrp:cmip6:table-id:aermonz", 
+    "raw_name": "AERmonZ", 
     "status": "pending", 
     "uid": "260a3c36-72ec-4bdc-8149-76389dbeeec5"
 }

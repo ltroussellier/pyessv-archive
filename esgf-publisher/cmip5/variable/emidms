@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "emidms", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "emidms", 
+    "idx": 139, 
+    "namespace": "esgf-publisher:cmip5:variable:emidms", 
+    "status": "pending", 
+    "uid": "11ed0914-21a1-4adb-a159-f351c0887885"
+}

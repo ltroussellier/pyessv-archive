@@ -1,30 +1,30 @@
 {
     "_type": "term", 
-    "canonicalName": "histsst", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "histsst", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "AerChemMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "CHEM"
         ], 
-        "endYear": "2014", 
+        "end_year": "2014", 
         "experiment": "historical prescribed SSTs and historical forcing", 
-        "experimentID": "histSST", 
-        "minNumberYrsPerSim": "165", 
-        "parentActivityID": [
+        "experiment_id": "histSST", 
+        "min_number_yrs_per_sim": "165", 
+        "parent_activity_id": [
             "no parent"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "no parent"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AGCM", 
             "AER"
         ], 
-        "startYear": "1850", 
-        "subExperimentID": [
+        "start_year": "1850", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "1"
@@ -32,7 +32,8 @@
     "description": "Historical transient with SSTs prescribed from historical", 
     "idx": 156, 
     "label": "histSST", 
-    "rawName": "histSST", 
+    "namespace": "wcrp:cmip6:experiment-id:histsst", 
+    "raw_name": "histSST", 
     "status": "pending", 
     "uid": "7c20df0a-1549-48c4-b6bb-f74514e5cea2"
 }

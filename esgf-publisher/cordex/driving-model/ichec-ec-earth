@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "ichec-ec-earth", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ICHEC-EC-EARTH", 
+    "idx": 4, 
+    "label": "ICHEC-EC-EARTH", 
+    "namespace": "esgf-publisher:cordex:driving-model:ichec-ec-earth", 
+    "status": "pending", 
+    "uid": "7935c670-a4d0-4b40-bcea-705f56a40399"
+}

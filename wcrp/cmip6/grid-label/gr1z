@@ -1,10 +1,9 @@
 {
     "_type": "term", 
-    "canonicalName": "gr1z", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "gr1z", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "idx": 27, 
-    "label": "gr1z", 
-    "rawName": "gr1z", 
+    "namespace": "wcrp:cmip6:grid-label:gr1z", 
     "status": "pending", 
     "uid": "a33fc694-9bd2-4bba-968f-b36f3dc1fcc9"
 }

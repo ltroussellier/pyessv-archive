@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rlus", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rlus", 
+    "idx": 101, 
+    "namespace": "esgf-publisher:cordex:variable:rlus", 
+    "status": "pending", 
+    "uid": "fe9bf1af-5e2c-42f9-b2c6-44606f1a27c8"
+}

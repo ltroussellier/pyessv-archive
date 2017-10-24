@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "bddtalk", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "bddtalk", 
+    "idx": 11, 
+    "namespace": "esgf-publisher:cmip5:variable:bddtalk", 
+    "status": "pending", 
+    "uid": "cce2696f-ec07-4def-84d8-f3917855a443"
+}

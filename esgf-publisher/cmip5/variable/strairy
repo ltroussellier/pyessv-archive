@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "strairy", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "strairy", 
+    "idx": 455, 
+    "namespace": "esgf-publisher:cmip5:variable:strairy", 
+    "status": "pending", 
+    "uid": "9c105cc9-93cc-4361-8338-76033cfda3e3"
+}

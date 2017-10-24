@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "lfmip-rmlc-princeton", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Prescribed land conditions 30yr running mean with Land-Hist-princeton", 
+    "idx": 185, 
+    "label": "lfmip-rmLC-princeton", 
+    "namespace": "esgf-publisher:cmip6:experiment:lfmip-rmlc-princeton", 
+    "raw_name": "lfmip-rmLC-princeton", 
+    "status": "pending", 
+    "uid": "21b907f4-0a0f-466f-91a4-73eabf1afaea"
+}

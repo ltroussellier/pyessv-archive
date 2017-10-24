@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "lwsnl", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "lwsnl", 
+    "idx": 268, 
+    "namespace": "esgf-publisher:cmip5:variable:lwsnl", 
+    "status": "pending", 
+    "uid": "2db90a25-6eac-4ffa-8493-773383ae2227"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "fediss", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "fediss", 
+    "idx": 189, 
+    "namespace": "esgf-publisher:cmip5:variable:fediss", 
+    "status": "pending", 
+    "uid": "9cc0290a-992f-43c3-9205-4bd62a18e0a7"
+}

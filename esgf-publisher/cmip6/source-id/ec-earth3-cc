@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "ec-earth3-cc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "EC-Earth3-CC", 
+    "idx": 21, 
+    "label": "EC-Earth3-CC", 
+    "namespace": "esgf-publisher:cmip6:source-id:ec-earth3-cc", 
+    "status": "pending", 
+    "uid": "5cf447ef-1899-46dc-8be8-46bb2011cbf3"
+}

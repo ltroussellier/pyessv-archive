@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "giss-e2-h", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "GISS-E2-H", 
+    "idx": 35, 
+    "label": "GISS-E2-H", 
+    "namespace": "esgf-publisher:cmip5:model:giss-e2-h", 
+    "status": "pending", 
+    "uid": "f79094f1-f652-4dbb-8298-792dbce5dbeb"
+}

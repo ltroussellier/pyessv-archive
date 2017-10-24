@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "cnrm", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CNRM", 
+    "idx": 7, 
+    "label": "CNRM", 
+    "namespace": "esgf-publisher:cordex:institute:cnrm", 
+    "status": "pending", 
+    "uid": "79716e8e-de27-47ff-aff2-39a89a983b4f"
+}

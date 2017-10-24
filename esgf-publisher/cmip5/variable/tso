@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tso", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tso", 
+    "idx": 549, 
+    "namespace": "esgf-publisher:cmip5:variable:tso", 
+    "status": "pending", 
+    "uid": "fb17f02c-b414-49ed-b018-66e79a033c7f"
+}

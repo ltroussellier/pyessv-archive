@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ficeberg", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ficeberg", 
+    "idx": 194, 
+    "namespace": "esgf-publisher:cmip5:variable:ficeberg", 
+    "status": "pending", 
+    "uid": "dfba7c2c-7762-449c-9f9e-874527d62fc1"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "exparag", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "exparag", 
+    "idx": 160, 
+    "namespace": "esgf-publisher:cmip5:variable:exparag", 
+    "status": "pending", 
+    "uid": "7e9371d6-48e7-4f44-8055-517bf22caed6"
+}

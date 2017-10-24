@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "emac-2-53-aerchem", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "EMAC-2-53-AerChem", 
+    "idx": 27, 
+    "label": "EMAC-2-53-AerChem", 
+    "namespace": "esgf-publisher:cmip6:source-id:emac-2-53-aerchem", 
+    "status": "pending", 
+    "uid": "a015b706-fc8e-4b33-b329-55139456e577"
+}

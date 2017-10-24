@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "masscello", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "masscello", 
+    "idx": 269, 
+    "namespace": "esgf-publisher:cmip5:variable:masscello", 
+    "status": "pending", 
+    "uid": "3a8eeb94-45e3-4fe0-816a-d1dd2fba9133"
+}

@@ -1,59 +1,63 @@
 {
     "_type": "term", 
-    "canonicalName": "gfdl-cm4", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "gfdl-cm4", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityParticipation": [
+        "activity_participation": [
+            "CFMIP", 
             "CMIP", 
-            "OMIP"
+            "GMMIP", 
+            "OMIP", 
+            "RFMIP"
         ], 
         "cohort": [
             "Registered"
         ], 
-        "institutionID": [
+        "institution_id": [
             "NOAA-GFDL"
         ], 
-        "labelExtended": "GFDL-CM4", 
-        "modelComponent": {
+        "label_extended": "GFDL-CM4", 
+        "model_component": {
             "aerosol": {
                 "description": "interactive", 
-                "nominalResolution": "100 km"
+                "nominal_resolution": "100 km"
             }, 
             "atmos": {
                 "description": "GFDL-AM4.1 (Cubed-sphere (c96) - 1 degree nominal horizontal resolution; 360 x 180 longitude/latitude; 33 levels; top level 1 hPa)", 
-                "nominalResolution": "100 km"
+                "nominal_resolution": "100 km"
             }, 
             "atmosChem": {
                 "description": "unnamed (fast chemistry, aerosol only)", 
-                "nominalResolution": "100 km"
+                "nominal_resolution": "100 km"
             }, 
             "land": {
                 "description": "GFDL-LM4.0", 
-                "nominalResolution": "100 km"
+                "nominal_resolution": "100 km"
             }, 
             "landIce": {
                 "description": "GFDL-LM4.0", 
-                "nominalResolution": "100 km"
+                "nominal_resolution": "100 km"
             }, 
             "ocean": {
                 "description": "GFDL-MOM6 (tripolar - nominal 0.25 deg; 1440 x 720 longitude/latitude; 75 levels; top grid cell 0-2 m)", 
-                "nominalResolution": "25 km"
+                "nominal_resolution": "25 km"
             }, 
             "ocnBgchem": {
-                "description": "none", 
-                "nominalResolution": "none"
+                "description": "GFDL BLING v2", 
+                "nominal_resolution": "25 km"
             }, 
             "seaIce": {
                 "description": "SIS2", 
-                "nominalResolution": "25 km"
+                "nominal_resolution": "25 km"
             }
         }, 
-        "releaseYear": "2017", 
-        "sourceID": "GFDL-CM4"
+        "release_year": "2017", 
+        "source_id": "GFDL-CM4"
     }, 
-    "idx": 50, 
+    "idx": 52, 
     "label": "GFDL-CM4", 
-    "rawName": "GFDL-CM4", 
+    "namespace": "wcrp:cmip6:source-id:gfdl-cm4", 
+    "raw_name": "GFDL-CM4", 
     "status": "pending", 
     "uid": "39b7e4e5-9c7d-4e11-a4d0-f8101c426bbc"
 }

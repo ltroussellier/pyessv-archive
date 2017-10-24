@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "zooc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "zooc", 
+    "idx": 591, 
+    "namespace": "esgf-publisher:cmip5:variable:zooc", 
+    "status": "pending", 
+    "uid": "06cd49e5-7ddc-4394-9069-f47533fa23ee"
+}

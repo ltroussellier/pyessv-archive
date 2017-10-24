@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "dcppc-pac-pacemaker", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "C1.10 Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs. First full hindcast year is 2015", 
+    "idx": 198, 
+    "label": "dcppC-pac-pacemaker", 
+    "namespace": "esgf-publisher:cmip6:experiment:dcppc-pac-pacemaker", 
+    "raw_name": "dcppC-pac-pacemaker", 
+    "status": "pending", 
+    "uid": "7c7164bf-0b8e-4f45-bc40-fd0d0f8500d1"
+}

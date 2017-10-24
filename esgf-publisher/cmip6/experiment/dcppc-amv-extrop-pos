@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "dcppc-amv-extrop-pos", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "C1.7Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs", 
+    "idx": 176, 
+    "label": "dcppC-amv-ExTrop-pos", 
+    "namespace": "esgf-publisher:cmip6:experiment:dcppc-amv-extrop-pos", 
+    "raw_name": "dcppC-amv-ExTrop-pos", 
+    "status": "pending", 
+    "uid": "4a4c0a5a-0896-4a17-906c-fdf9612b1434"
+}

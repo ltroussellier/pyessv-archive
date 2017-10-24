@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "grz", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "grz", 
+    "idx": 44, 
+    "namespace": "esgf-publisher:cmip6:grid-label:grz", 
+    "status": "pending", 
+    "uid": "29c5363e-e648-4406-9304-fa5aaf30878d"
+}

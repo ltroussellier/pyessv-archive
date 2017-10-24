@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "dcppc-forecast-addagung", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "C3.4 Effects of volcanoes on decadal prediction and predictability of forced and internal variability components. First full hindcast year is 2015", 
+    "idx": 225, 
+    "label": "dcppC-forecast-addAgung", 
+    "namespace": "esgf-publisher:cmip6:experiment:dcppc-forecast-addagung", 
+    "raw_name": "dcppC-forecast-addAgung", 
+    "status": "pending", 
+    "uid": "aa375047-2ebe-46ba-8a9b-edbbe026f33a"
+}

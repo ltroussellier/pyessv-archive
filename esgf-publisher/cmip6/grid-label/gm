@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "gm", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "gm", 
+    "idx": 0, 
+    "namespace": "esgf-publisher:cmip6:grid-label:gm", 
+    "status": "pending", 
+    "uid": "bae48cc7-6717-4c71-84fe-dd85243a8632"
+}

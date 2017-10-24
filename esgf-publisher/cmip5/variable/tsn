@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tsn", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tsn", 
+    "idx": 547, 
+    "namespace": "esgf-publisher:cmip5:variable:tsn", 
+    "status": "pending", 
+    "uid": "9c491c7a-a7c0-4a94-a9cf-9d16a0af6e0a"
+}

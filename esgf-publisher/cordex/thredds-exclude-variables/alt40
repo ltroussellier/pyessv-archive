@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "alt40", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "alt40", 
+    "idx": 5, 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:alt40", 
+    "status": "pending", 
+    "uid": "de7e335a-c955-444f-92eb-7f2f17275534"
+}

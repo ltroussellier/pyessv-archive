@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sic", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "sic", 
+    "idx": 437, 
+    "namespace": "esgf-publisher:cmip5:variable:sic", 
+    "status": "pending", 
+    "uid": "a767ae1d-43cd-45a4-b9ef-108ec9bdfa35"
+}

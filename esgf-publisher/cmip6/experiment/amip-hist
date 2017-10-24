@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "amip-hist", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Extended AMIP run that covers 1870-2014. All natural and anthropogenic historical forcings as used in CMIP6 Historical Simulation will be included. AGCM resolution as CMIP6 Historical Simulation. The HadISST data will be used", 
+    "idx": 9, 
+    "namespace": "esgf-publisher:cmip6:experiment:amip-hist", 
+    "status": "pending", 
+    "uid": "be18add9-36ca-441b-aa5a-f3aa90abce7e"
+}

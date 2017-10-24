@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hist-1950", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Coupled integrationswith historic external forcings (as in highresSST-present)", 
+    "idx": 30, 
+    "namespace": "esgf-publisher:cmip6:experiment:hist-1950", 
+    "status": "pending", 
+    "uid": "58ebf6ab-772e-45b5-af9a-7939e6caf533"
+}

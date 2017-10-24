@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "fx", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "fx", 
+    "idx": 3, 
+    "namespace": "esgf-publisher:cmip5:time-frequency:fx", 
+    "status": "pending", 
+    "uid": "fffe3e88-9b3a-42e3-bbb0-f52aeccff35c"
+}

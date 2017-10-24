@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "loadso4", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "loadso4", 
+    "idx": 265, 
+    "namespace": "esgf-publisher:cmip5:variable:loadso4", 
+    "status": "pending", 
+    "uid": "c890d356-dd42-4ea4-99f2-d6278adb4736"
+}

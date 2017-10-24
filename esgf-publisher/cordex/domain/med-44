@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "med-44", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "HYMEX Mediterranean", 
+    "idx": 18, 
+    "label": "MED-44", 
+    "namespace": "esgf-publisher:cordex:domain:med-44", 
+    "raw_name": "MED-44", 
+    "status": "pending", 
+    "uid": "b2e498d7-9af5-4ae6-8940-628d4ca064fd"
+}

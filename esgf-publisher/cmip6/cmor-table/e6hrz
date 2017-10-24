@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "e6hrz", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "E6hrZ", 
+    "idx": 17, 
+    "label": "E6hrZ", 
+    "namespace": "esgf-publisher:cmip6:cmor-table:e6hrz", 
+    "status": "pending", 
+    "uid": "28cdd732-0f41-43ce-aef7-2121823c6b51"
+}

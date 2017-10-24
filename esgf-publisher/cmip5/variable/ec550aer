@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ec550aer", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ec550aer", 
+    "idx": 135, 
+    "namespace": "esgf-publisher:cmip5:variable:ec550aer", 
+    "status": "pending", 
+    "uid": "dc85e89e-d601-419b-964f-055551c5e4be"
+}

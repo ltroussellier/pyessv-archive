@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "miroc-es2h", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "MIROC-ES2H", 
+    "idx": 44, 
+    "label": "MIROC-ES2H", 
+    "namespace": "esgf-publisher:cmip6:source-id:miroc-es2h", 
+    "status": "pending", 
+    "uid": "a1690505-1a10-4553-960c-448a52efb9b4"
+}

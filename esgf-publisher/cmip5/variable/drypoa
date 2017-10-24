@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "drypoa", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "drypoa", 
+    "idx": 128, 
+    "namespace": "esgf-publisher:cmip5:variable:drypoa", 
+    "status": "pending", 
+    "uid": "ec7f6b8b-995f-4cda-920c-16f08e4cc91a"
+}

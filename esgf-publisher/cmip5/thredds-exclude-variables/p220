@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "p220", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "p220", 
+    "idx": 36, 
+    "namespace": "esgf-publisher:cmip5:thredds-exclude-variables:p220", 
+    "status": "pending", 
+    "uid": "bb69073b-3839-4b42-842c-811dc68701b6"
+}

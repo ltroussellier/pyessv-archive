@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "p700", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "p700", 
+    "idx": 45, 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:p700", 
+    "status": "pending", 
+    "uid": "0b0ce186-a4b3-4883-91a9-cbf6ad6f38ef"
+}

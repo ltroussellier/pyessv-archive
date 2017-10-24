@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "frc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "frc", 
+    "idx": 195, 
+    "namespace": "esgf-publisher:cmip5:variable:frc", 
+    "status": "pending", 
+    "uid": "aaf4b670-902e-47a0-ba10-03c2a564889d"
+}

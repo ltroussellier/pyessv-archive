@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "bnds", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "bnds", 
+    "idx": 8, 
+    "namespace": "esgf-publisher:cmip5:thredds-exclude-variables:bnds", 
+    "status": "pending", 
+    "uid": "5e2c8a1e-6212-42ed-8565-3cc1f6113fa1"
+}

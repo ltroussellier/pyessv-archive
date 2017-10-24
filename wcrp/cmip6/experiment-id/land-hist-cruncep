@@ -1,27 +1,27 @@
 {
     "_type": "term", 
-    "canonicalName": "land-hist-cruncep", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "land-hist-cruncep", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "LS3MIP"
         ], 
-        "additionalAllowedModelComponents": "", 
-        "endYear": "2014", 
+        "additional_allowed_model_components": "", 
+        "end_year": "2014", 
         "experiment": "as land-hist with CRU-NCEP forcings", 
-        "experimentID": "land-hist-cruNcep", 
-        "minNumberYrsPerSim": "165", 
-        "parentActivityID": [
+        "experiment_id": "land-hist-cruNcep", 
+        "min_number_yrs_per_sim": "165", 
+        "parent_activity_id": [
             "no parent"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "no parent"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "LAND"
         ], 
-        "startYear": "1850", 
-        "subExperimentID": [
+        "start_year": "1850", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
@@ -29,7 +29,8 @@
     "description": "Land only simulations", 
     "idx": 220, 
     "label": "land-hist-cruNcep", 
-    "rawName": "land-hist-cruNcep", 
+    "namespace": "wcrp:cmip6:experiment-id:land-hist-cruncep", 
+    "raw_name": "land-hist-cruNcep", 
     "status": "pending", 
     "uid": "cefa4265-ead9-4cf5-9579-1a032505f201"
 }

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hfrainds", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "hfrainds", 
+    "idx": 223, 
+    "namespace": "esgf-publisher:cmip5:variable:hfrainds", 
+    "status": "pending", 
+    "uid": "5d990d64-f92d-470d-9856-497420a512eb"
+}

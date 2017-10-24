@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "htovovrt", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "htovovrt", 
+    "idx": 237, 
+    "namespace": "esgf-publisher:cmip5:variable:htovovrt", 
+    "status": "pending", 
+    "uid": "66925c1c-da87-4f93-a377-266c376723fc"
+}

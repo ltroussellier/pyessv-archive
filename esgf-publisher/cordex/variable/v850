@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "v850", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "v850", 
+    "idx": 166, 
+    "namespace": "esgf-publisher:cordex:variable:v850", 
+    "status": "pending", 
+    "uid": "b29248fb-2361-4f63-a42e-db5009b69f0a"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "land-hist", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Land only simulations", 
+    "idx": 164, 
+    "namespace": "esgf-publisher:cmip6:experiment:land-hist", 
+    "status": "pending", 
+    "uid": "e9f232bc-670a-4d2d-9336-e066b2e7c63c"
+}

@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "mgo-rrcm", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "MGO-RRCM", 
+    "idx": 27, 
+    "label": "MGO-RRCM", 
+    "namespace": "esgf-publisher:cordex:rcm-model:mgo-rrcm", 
+    "status": "pending", 
+    "uid": "512411cd-2070-4867-bb75-c6a858af8679"
+}

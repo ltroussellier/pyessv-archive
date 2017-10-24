@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sst", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "sst", 
+    "idx": 120, 
+    "namespace": "esgf-publisher:cordex:variable:sst", 
+    "status": "pending", 
+    "uid": "d43303ec-2c6b-47e6-b712-d93deeba83e4"
+}

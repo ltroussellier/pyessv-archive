@@ -1,30 +1,30 @@
 {
     "_type": "term", 
-    "canonicalName": "piclim-histaer", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "piclim-histaer", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "RFMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM"
         ], 
-        "endYear": "2100", 
+        "end_year": "2100", 
         "experiment": "transient effective radiative forcing by aerosols", 
-        "experimentID": "piClim-histaer", 
-        "minNumberYrsPerSim": "251", 
-        "parentActivityID": [
+        "experiment_id": "piClim-histaer", 
+        "min_number_yrs_per_sim": "251", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "piControl"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AGCM"
         ], 
-        "startYear": "1850", 
-        "subExperimentID": [
+        "start_year": "1850", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
@@ -32,7 +32,8 @@
     "description": "Time-varying forcing by aerosols. SST and sea ice fixed at preindustrial control. Interactive vegetation", 
     "idx": 236, 
     "label": "piClim-histaer", 
-    "rawName": "piClim-histaer", 
+    "namespace": "wcrp:cmip6:experiment-id:piclim-histaer", 
+    "raw_name": "piClim-histaer", 
     "status": "pending", 
     "uid": "35f46162-a66a-4cd9-a6e4-7a8449c67c86"
 }

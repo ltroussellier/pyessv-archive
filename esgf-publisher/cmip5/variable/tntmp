@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tntmp", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tntmp", 
+    "idx": 525, 
+    "namespace": "esgf-publisher:cmip5:variable:tntmp", 
+    "status": "pending", 
+    "uid": "abb5025b-268c-4394-91d5-b4f036581ffe"
+}

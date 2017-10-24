@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "wsgsmax", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "wsgsmax", 
+    "idx": 181, 
+    "namespace": "esgf-publisher:cordex:variable:wsgsmax", 
+    "status": "pending", 
+    "uid": "f209a29c-afb8-45f9-9a86-0ec22763a629"
+}

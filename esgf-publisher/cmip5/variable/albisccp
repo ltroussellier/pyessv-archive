@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "albisccp", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "albisccp", 
+    "idx": 3, 
+    "namespace": "esgf-publisher:cmip5:variable:albisccp", 
+    "status": "pending", 
+    "uid": "aef4124d-3030-4b4f-9a05-3221202e181a"
+}

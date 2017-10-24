@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "esmfixclim2", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ESM fixed climate 2", 
+    "idx": 67, 
+    "label": "esmFixClim2", 
+    "namespace": "esgf-publisher:cmip5:experiment:esmfixclim2", 
+    "raw_name": "esmFixClim2", 
+    "status": "pending", 
+    "uid": "2f40192f-a2d1-44b9-a758-1e443c0b581c"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "piclim-spaer-histaer", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Prescribed anthropogenic aerosol optical properties. Aerosol and ozone forcings", 
+    "idx": 231, 
+    "label": "piClim-spAer-histaer", 
+    "namespace": "esgf-publisher:cmip6:experiment:piclim-spaer-histaer", 
+    "raw_name": "piClim-spAer-histaer", 
+    "status": "pending", 
+    "uid": "791c0656-9f2c-4d38-89d3-da1b866548d7"
+}

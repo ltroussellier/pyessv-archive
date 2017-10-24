@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "afr-44", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Africa", 
+    "idx": 0, 
+    "label": "AFR-44", 
+    "namespace": "esgf-publisher:cordex:domain:afr-44", 
+    "raw_name": "AFR-44", 
+    "status": "pending", 
+    "uid": "026482a0-2aec-4abb-9391-7d7118524073"
+}

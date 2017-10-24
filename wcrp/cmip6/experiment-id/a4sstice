@@ -1,30 +1,30 @@
 {
     "_type": "term", 
-    "canonicalName": "a4sstice", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "a4sstice", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "CFMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM"
         ], 
-        "endYear": "", 
+        "end_year": "", 
         "experiment": "as piSST but with SSTs and sea ice from abrupt4xCO2", 
-        "experimentID": "a4SSTice", 
-        "minNumberYrsPerSim": "30", 
-        "parentActivityID": [
+        "experiment_id": "a4SSTice", 
+        "min_number_yrs_per_sim": "30", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "abrupt4xCO2"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AGCM"
         ], 
-        "startYear": "", 
-        "subExperimentID": [
+        "start_year": "", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
@@ -32,7 +32,8 @@
     "description": "As piSST, but with monthly-varying SSTs and sea-ice taken from years 111-140 of each model's own abrupt4xCO2 experiment instead of from piControl", 
     "idx": 219, 
     "label": "a4SSTice", 
-    "rawName": "a4SSTice", 
+    "namespace": "wcrp:cmip6:experiment-id:a4sstice", 
+    "raw_name": "a4SSTice", 
     "status": "pending", 
     "uid": "00f562b9-ee91-48bb-97ba-c28a7a732c92"
 }

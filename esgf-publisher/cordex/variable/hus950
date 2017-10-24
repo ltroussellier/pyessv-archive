@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hus950", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "hus950", 
+    "idx": 78, 
+    "namespace": "esgf-publisher:cordex:variable:hus950", 
+    "status": "pending", 
+    "uid": "c4f8df14-98e3-4959-bcfc-397aaf909107"
+}

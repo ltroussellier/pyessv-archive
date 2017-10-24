@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "emac-2-53-vol", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "EMAC-2-53-Vol", 
+    "idx": 28, 
+    "label": "EMAC-2-53-Vol", 
+    "namespace": "esgf-publisher:cmip6:source-id:emac-2-53-vol", 
+    "status": "pending", 
+    "uid": "a3d682f0-09eb-4668-a22e-0df29ae3facb"
+}

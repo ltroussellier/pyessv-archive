@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "pressure1", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "pressure1", 
+    "idx": 53, 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:pressure1", 
+    "status": "pending", 
+    "uid": "6123f9e7-4d49-40ed-a07e-eb25f3216aa8"
+}

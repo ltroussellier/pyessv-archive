@@ -1,10 +1,11 @@
 {
     "_type": "term", 
-    "canonicalName": "cfmip", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "cfmip", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "idx": 9, 
     "label": "CFMIP", 
-    "rawName": "CFMIP", 
+    "namespace": "wcrp:cmip6:activity-id:cfmip", 
+    "raw_name": "CFMIP", 
     "status": "pending", 
     "uid": "c33faf4d-eb7b-4073-86f3-e7a0ae2f3009"
 }

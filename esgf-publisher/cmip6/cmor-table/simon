@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "simon", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "SImon", 
+    "idx": 40, 
+    "label": "SImon", 
+    "namespace": "esgf-publisher:cmip6:cmor-table:simon", 
+    "status": "pending", 
+    "uid": "a0d09716-903f-45c0-945a-4ee981dcdf4a"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sconcdust", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "sconcdust", 
+    "idx": 420, 
+    "namespace": "esgf-publisher:cmip5:variable:sconcdust", 
+    "status": "pending", 
+    "uid": "05e505f0-2176-4b5a-a1b1-76cce7a53e2e"
+}

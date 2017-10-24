@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "sam-44i", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "South America", 
+    "idx": 27, 
+    "label": "SAM-44i", 
+    "namespace": "esgf-publisher:cordex:domain:sam-44i", 
+    "raw_name": "SAM-44i", 
+    "status": "pending", 
+    "uid": "812b4784-e30b-4a0c-873c-30f1590459dd"
+}

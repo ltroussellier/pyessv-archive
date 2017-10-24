@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hus", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "hus", 
+    "idx": 240, 
+    "namespace": "esgf-publisher:cmip5:variable:hus", 
+    "status": "pending", 
+    "uid": "9f953f83-806c-445b-bc5e-49fc422fa79b"
+}

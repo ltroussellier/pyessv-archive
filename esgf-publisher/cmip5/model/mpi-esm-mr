@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "mpi-esm-mr", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "MPI-ESM-MR", 
+    "idx": 54, 
+    "label": "MPI-ESM-MR", 
+    "namespace": "esgf-publisher:cmip5:model:mpi-esm-mr", 
+    "status": "pending", 
+    "uid": "de0799d5-c3d4-4542-8ef0-cd9fafc6460f"
+}

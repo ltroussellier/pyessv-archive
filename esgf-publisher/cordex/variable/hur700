@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hur700", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "hur700", 
+    "idx": 59, 
+    "namespace": "esgf-publisher:cordex:variable:hur700", 
+    "status": "pending", 
+    "uid": "1ec11a0b-ef6f-43cb-aedf-78e3d424b103"
+}

@@ -1,9 +1,9 @@
 {
     "_type": "term", 
-    "canonicalName": "cnrm-cm6-1", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "cnrm-cm6-1", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityParticipation": [
+        "activity_participation": [
             "CFMIP", 
             "CMIP", 
             "DAMIP", 
@@ -19,50 +19,51 @@
         "cohort": [
             "Registered"
         ], 
-        "institutionID": [
+        "institution_id": [
             "CNRM-CERFACS"
         ], 
-        "labelExtended": "CNRM-CM6-1", 
-        "modelComponent": {
+        "label_extended": "CNRM-CM6-1", 
+        "model_component": {
             "aerosol": {
                 "description": "prescribed monthly fields computed by TACTIC_v2 scheme", 
-                "nominalResolution": "250 km"
+                "nominal_resolution": "250 km"
             }, 
             "atmos": {
                 "description": "Arpege 6.3 (T127; Gaussian Reduced with 24572 grid points in total distributed over 128 latitude circles (with 256 grid points per latitude circle between 30degN and 30degS reducing to 20 grid points per latitude circle at 88.9degN and 88.9degS); 91 levels; top level 78.4 km)", 
-                "nominalResolution": "250 km"
+                "nominal_resolution": "250 km"
             }, 
             "atmosChem": {
                 "description": "OZL_v2", 
-                "nominalResolution": "250 km"
+                "nominal_resolution": "250 km"
             }, 
             "land": {
                 "description": "Surfex 8.0c", 
-                "nominalResolution": "250 km"
+                "nominal_resolution": "250 km"
             }, 
             "landIce": {
                 "description": "GRISLI: Collaborating with l'Institut des Geosciences de l'Environnement in Grenoble on offline ice-sheet simulations", 
-                "nominalResolution": "10 km"
+                "nominal_resolution": "10 km"
             }, 
             "ocean": {
                 "description": "Nemo 3.6 (eORCA1, tripolar primarily 1deg; 362 x 294 longitude/latitude; 75 levels; top grid cell 0-1 m)", 
-                "nominalResolution": "100 km"
+                "nominal_resolution": "100 km"
             }, 
             "ocnBgchem": {
                 "description": "none", 
-                "nominalResolution": "none"
+                "nominal_resolution": "none"
             }, 
             "seaIce": {
                 "description": "Gelato 6.1", 
-                "nominalResolution": "100 km"
+                "nominal_resolution": "100 km"
             }
         }, 
-        "releaseYear": "2017", 
-        "sourceID": "CNRM-CM6-1"
+        "release_year": "2017", 
+        "source_id": "CNRM-CM6-1"
     }, 
-    "idx": 37, 
+    "idx": 39, 
     "label": "CNRM-CM6-1", 
-    "rawName": "CNRM-CM6-1", 
+    "namespace": "wcrp:cmip6:source-id:cnrm-cm6-1", 
+    "raw_name": "CNRM-CM6-1", 
     "status": "pending", 
     "uid": "100bd43d-83d3-4f22-8009-5ef572bb4bf1"
 }

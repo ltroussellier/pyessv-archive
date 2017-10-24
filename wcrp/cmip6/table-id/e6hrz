@@ -1,10 +1,11 @@
 {
     "_type": "term", 
-    "canonicalName": "e6hrz", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "e6hrz", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "idx": 17, 
     "label": "E6hrZ", 
-    "rawName": "E6hrZ", 
+    "namespace": "wcrp:cmip6:table-id:e6hrz", 
+    "raw_name": "E6hrZ", 
     "status": "pending", 
     "uid": "d4cc1150-aed1-453f-a5a9-0223782af9a5"
 }

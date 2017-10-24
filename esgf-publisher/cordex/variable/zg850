@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "zg850", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "zg850", 
+    "idx": 195, 
+    "namespace": "esgf-publisher:cordex:variable:zg850", 
+    "status": "pending", 
+    "uid": "7da2fcdc-53db-439b-bf99-2e15a4b6b997"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "mc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "mc", 
+    "idx": 271, 
+    "namespace": "esgf-publisher:cmip5:variable:mc", 
+    "status": "pending", 
+    "uid": "4fa5879b-c433-4ceb-a89b-4cba85de5cb0"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tsos", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tsos", 
+    "idx": 145, 
+    "namespace": "esgf-publisher:cordex:variable:tsos", 
+    "status": "pending", 
+    "uid": "8139d460-a5b1-4cdb-8e83-73cbc15af6e0"
+}

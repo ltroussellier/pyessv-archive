@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hfds", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "hfds", 
+    "idx": 216, 
+    "namespace": "esgf-publisher:cmip5:variable:hfds", 
+    "status": "pending", 
+    "uid": "201ec7af-3b63-4f7a-b921-257bcb339892"
+}

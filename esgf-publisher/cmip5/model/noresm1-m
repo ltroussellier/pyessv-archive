@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "noresm1-m", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "NorESM1-M", 
+    "idx": 61, 
+    "label": "NorESM1-M", 
+    "namespace": "esgf-publisher:cmip5:model:noresm1-m", 
+    "status": "pending", 
+    "uid": "4008917b-521d-43d9-98ab-f4a31de0521c"
+}

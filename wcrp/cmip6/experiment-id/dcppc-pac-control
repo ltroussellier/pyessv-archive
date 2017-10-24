@@ -1,31 +1,31 @@
 {
     "_type": "term", 
-    "canonicalName": "dcppc-pac-control", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "dcppc-pac-control", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "DCPP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM", 
             "BGC"
         ], 
-        "endYear": "", 
+        "end_year": "", 
         "experiment": "idealized Pacific control", 
-        "experimentID": "dcppC-pac-control", 
-        "minNumberYrsPerSim": "10", 
-        "parentActivityID": [
+        "experiment_id": "dcppC-pac-control", 
+        "min_number_yrs_per_sim": "10", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "piControl"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM"
         ], 
-        "startYear": "", 
-        "subExperimentID": [
+        "start_year": "", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "1"
@@ -33,7 +33,8 @@
     "description": "C1.4 Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs", 
     "idx": 17, 
     "label": "dcppC-pac-control", 
-    "rawName": "dcppC-pac-control", 
+    "namespace": "wcrp:cmip6:experiment-id:dcppc-pac-control", 
+    "raw_name": "dcppC-pac-control", 
     "status": "pending", 
     "uid": "44ae1f4b-ee8e-48b4-8714-63116dc41c1b"
 }

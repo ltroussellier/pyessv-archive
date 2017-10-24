@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "esmcontrol", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ESM pre-industrial control", 
+    "idx": 63, 
+    "label": "esmControl", 
+    "namespace": "esgf-publisher:cmip5:experiment:esmcontrol", 
+    "raw_name": "esmControl", 
+    "status": "pending", 
+    "uid": "915acbd7-c454-4f84-bdd6-67c7f83b915a"
+}

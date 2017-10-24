@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "expp", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "expp", 
+    "idx": 165, 
+    "namespace": "esgf-publisher:cmip5:variable:expp", 
+    "status": "pending", 
+    "uid": "c5094292-2220-4465-ad9f-a87e5d980b0b"
+}

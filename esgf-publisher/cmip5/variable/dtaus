@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "dtaus", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "dtaus", 
+    "idx": 134, 
+    "namespace": "esgf-publisher:cmip5:variable:dtaus", 
+    "status": "pending", 
+    "uid": "f3e4e62d-8ee0-4824-afde-f1e8dfa25d25"
+}

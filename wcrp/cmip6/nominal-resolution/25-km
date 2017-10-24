@@ -1,10 +1,11 @@
 {
     "_type": "term", 
-    "canonicalName": "25-km", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "25-km", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "idx": 8, 
     "label": "25 km", 
-    "rawName": "25 km", 
+    "namespace": "wcrp:cmip6:nominal-resolution:25-km", 
+    "raw_name": "25 km", 
     "status": "pending", 
     "uid": "fcab0a6a-fea1-48ac-81cb-362bdfc4baab"
 }

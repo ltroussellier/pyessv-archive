@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rldssi", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rldssi", 
+    "idx": 380, 
+    "namespace": "esgf-publisher:cmip5:variable:rldssi", 
+    "status": "pending", 
+    "uid": "45f00845-bf9e-471b-bba6-715711604003"
+}

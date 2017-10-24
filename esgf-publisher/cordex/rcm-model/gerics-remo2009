@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "gerics-remo2009", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "GERICS-REMO2009", 
+    "idx": 17, 
+    "label": "GERICS-REMO2009", 
+    "namespace": "esgf-publisher:cordex:rcm-model:gerics-remo2009", 
+    "status": "pending", 
+    "uid": "eebe1387-3821-4b8e-86aa-bae272b36aba"
+}

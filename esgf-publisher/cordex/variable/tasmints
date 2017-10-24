@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tasmints", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tasmints", 
+    "idx": 139, 
+    "namespace": "esgf-publisher:cordex:variable:tasmints", 
+    "status": "pending", 
+    "uid": "3a3997d0-f4d0-4226-86e1-6184fd1dd8b8"
+}

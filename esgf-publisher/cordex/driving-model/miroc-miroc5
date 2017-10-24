@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "miroc-miroc5", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "MIROC-MIROC5", 
+    "idx": 7, 
+    "label": "MIROC-MIROC5", 
+    "namespace": "esgf-publisher:cordex:driving-model:miroc-miroc5", 
+    "status": "pending", 
+    "uid": "99182ef3-52de-407e-b448-543cd5fa4f10"
+}

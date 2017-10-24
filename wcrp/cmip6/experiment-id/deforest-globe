@@ -1,39 +1,38 @@
 {
     "_type": "term", 
-    "canonicalName": "deforest-globe", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "deforest-globe", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "LUMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM", 
             "BGC"
         ], 
-        "endYear": "", 
+        "end_year": "", 
         "experiment": "idealized transient global deforestation", 
-        "experimentID": "deforest-globe", 
-        "minNumberYrsPerSim": "81", 
-        "parentActivityID": [
+        "experiment_id": "deforest-globe", 
+        "min_number_yrs_per_sim": "81", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "piControl"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM"
         ], 
-        "startYear": "1850", 
-        "subExperimentID": [
+        "start_year": "1850", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "1"
     }, 
     "description": "Idealized deforestation experiment, 20 million km2 forest removed linearly over a period of 50 years, with an additional 30 years with no specified change in forest cover; all other forcings held constant", 
     "idx": 174, 
-    "label": "deforest-globe", 
-    "rawName": "deforest-globe", 
+    "namespace": "wcrp:cmip6:experiment-id:deforest-globe", 
     "status": "pending", 
     "uid": "7c7413d6-9156-435b-a428-9612942f53d7"
 }

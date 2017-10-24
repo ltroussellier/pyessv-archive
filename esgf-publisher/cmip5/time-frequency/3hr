@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "3hr", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "3hr", 
+    "idx": 0, 
+    "namespace": "esgf-publisher:cmip5:time-frequency:3hr", 
+    "status": "pending", 
+    "uid": "63abd25c-c933-45a1-a768-51e6135d1594"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tnhusc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tnhusc", 
+    "idx": 479, 
+    "namespace": "esgf-publisher:cmip5:variable:tnhusc", 
+    "status": "pending", 
+    "uid": "8edb7bcb-f810-47cc-b228-7819828e99fe"
+}

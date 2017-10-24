@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sftgif", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "sftgif", 
+    "idx": 110, 
+    "namespace": "esgf-publisher:cordex:variable:sftgif", 
+    "status": "pending", 
+    "uid": "6f0c9aa0-20ca-41da-80a1-12de34a1abe6"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "piclim-nox", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Perturbation from 1850 control using 2014 NOx emissions", 
+    "idx": 135, 
+    "label": "piClim-NOx", 
+    "namespace": "esgf-publisher:cmip6:experiment:piclim-nox", 
+    "raw_name": "piClim-NOx", 
+    "status": "pending", 
+    "uid": "6c80ef6a-07a6-42d0-af1d-a8114f4b75c4"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "n2o", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "n2o", 
+    "idx": 294, 
+    "namespace": "esgf-publisher:cmip5:variable:n2o", 
+    "status": "pending", 
+    "uid": "b018f2d1-decc-4d15-b61e-ea8bd87dfc59"
+}

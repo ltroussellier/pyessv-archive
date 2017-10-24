@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "emibb", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "emibb", 
+    "idx": 137, 
+    "namespace": "esgf-publisher:cmip5:variable:emibb", 
+    "status": "pending", 
+    "uid": "d148281e-deb6-47a9-999d-c9b618f8adfc"
+}

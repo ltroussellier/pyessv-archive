@@ -1,39 +1,38 @@
 {
     "_type": "term", 
-    "canonicalName": "volc-cluster-ctrl", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "volc-cluster-ctrl", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "VolMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM", 
             "BGC"
         ], 
-        "endYear": "", 
+        "end_year": "", 
         "experiment": "19th century volcanic cluster initialized from PiControl", 
-        "experimentID": "volc-cluster-ctrl", 
-        "minNumberYrsPerSim": "50", 
-        "parentActivityID": [
+        "experiment_id": "volc-cluster-ctrl", 
+        "min_number_yrs_per_sim": "50", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "piControl"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM"
         ], 
-        "startYear": "", 
-        "subExperimentID": [
+        "start_year": "", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
     }, 
     "description": "Early 19th century cluster of strong tropical volcanic eruptions, including the 1809 event of unknown location, the 1815 Tambora and 1835 Cosigueina eruptions. Experiment initialized from PiControl", 
     "idx": 190, 
-    "label": "volc-cluster-ctrl", 
-    "rawName": "volc-cluster-ctrl", 
+    "namespace": "wcrp:cmip6:experiment-id:volc-cluster-ctrl", 
     "status": "pending", 
     "uid": "9885823b-3c49-4bcd-9234-ae4eecc18a48"
 }

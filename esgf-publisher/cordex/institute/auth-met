@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "auth-met", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "AUTH-Met", 
+    "idx": 1, 
+    "label": "AUTH-Met", 
+    "namespace": "esgf-publisher:cordex:institute:auth-met", 
+    "status": "pending", 
+    "uid": "b51aae8a-fa9f-4e0f-aedf-767b15a7cad8"
+}

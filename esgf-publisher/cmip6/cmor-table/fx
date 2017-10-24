@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "fx", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "fx", 
+    "idx": 42, 
+    "namespace": "esgf-publisher:cmip6:cmor-table:fx", 
+    "status": "pending", 
+    "uid": "ce7a2923-cbb1-4832-8399-ec4aebe4e945"
+}

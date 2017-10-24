@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "uas", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "uas", 
+    "idx": 162, 
+    "namespace": "esgf-publisher:cordex:variable:uas", 
+    "status": "pending", 
+    "uid": "d6a640a6-554e-45ce-9071-a2c714b26fc4"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clt", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "clt", 
+    "idx": 33, 
+    "namespace": "esgf-publisher:cordex:variable:clt", 
+    "status": "pending", 
+    "uid": "4f7f6f53-69f1-4713-bcb1-ef35cad534f8"
+}

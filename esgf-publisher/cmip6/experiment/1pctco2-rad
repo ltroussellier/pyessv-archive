@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "1pctco2-rad", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Radiatively-coupled specified concentration simulation in which CO2 increases at a rate of 1percent per year until quadrupling", 
+    "idx": 217, 
+    "label": "1pctCO2-rad", 
+    "namespace": "esgf-publisher:cmip6:experiment:1pctco2-rad", 
+    "raw_name": "1pctCO2-rad", 
+    "status": "pending", 
+    "uid": "7058d6a8-0e36-4fe2-a04e-a643764d22df"
+}

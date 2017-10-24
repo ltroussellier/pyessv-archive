@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hufs", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "hufs", 
+    "idx": 52, 
+    "namespace": "esgf-publisher:cordex:variable:hufs", 
+    "status": "pending", 
+    "uid": "18c8b024-8567-4f3e-a4a8-92fe0e73ff31"
+}

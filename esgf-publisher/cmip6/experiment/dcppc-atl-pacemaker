@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "dcppc-atl-pacemaker", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "C1.11 Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs", 
+    "idx": 146, 
+    "label": "dcppC-atl-pacemaker", 
+    "namespace": "esgf-publisher:cmip6:experiment:dcppc-atl-pacemaker", 
+    "raw_name": "dcppC-atl-pacemaker", 
+    "status": "pending", 
+    "uid": "abb47867-2d56-4dd9-af8f-f4f9fbeb458a"
+}

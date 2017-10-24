@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "so", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "so", 
+    "idx": 448, 
+    "namespace": "esgf-publisher:cmip5:variable:so", 
+    "status": "pending", 
+    "uid": "33f270ca-6561-400e-a9ba-91eb91f2e5ef"
+}

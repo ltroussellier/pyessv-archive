@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rhsmin", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rhsmin", 
+    "idx": 372, 
+    "namespace": "esgf-publisher:cmip5:variable:rhsmin", 
+    "status": "pending", 
+    "uid": "b57567d8-da63-4fa3-a5f2-48e9bd76d69c"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "wetss", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "wetss", 
+    "idx": 579, 
+    "namespace": "esgf-publisher:cmip5:variable:wetss", 
+    "status": "pending", 
+    "uid": "104b86cd-89cc-400f-98a5-da6e92e44dd7"
+}

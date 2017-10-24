@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "iitm", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "IITM", 
+    "idx": 17, 
+    "label": "IITM", 
+    "namespace": "esgf-publisher:cordex:institute:iitm", 
+    "status": "pending", 
+    "uid": "bdb5ddb5-4524-4746-80a0-cbd41b6fa3c8"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rlu", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rlu", 
+    "idx": 381, 
+    "namespace": "esgf-publisher:cmip5:variable:rlu", 
+    "status": "pending", 
+    "uid": "904d37d7-55af-4562-b17f-0b88a653b48c"
+}

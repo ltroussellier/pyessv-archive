@@ -1,27 +1,27 @@
 {
     "_type": "term", 
-    "canonicalName": "land-hist-altlu2", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "land-hist-altlu2", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "LUMIP"
         ], 
-        "additionalAllowedModelComponents": "", 
-        "endYear": "2014", 
+        "additional_allowed_model_components": "", 
+        "end_year": "2014", 
         "experiment": "historical land-only alternate land use history", 
-        "experimentID": "land-hist-altLu2", 
-        "minNumberYrsPerSim": "165", 
-        "parentActivityID": [
+        "experiment_id": "land-hist-altLu2", 
+        "min_number_yrs_per_sim": "165", 
+        "parent_activity_id": [
             "no parent"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "no parent"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "LAND"
         ], 
-        "startYear": "1850 or 1700", 
-        "subExperimentID": [
+        "start_year": "1850 or 1700", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
@@ -29,7 +29,8 @@
     "description": "Land only simulations", 
     "idx": 112, 
     "label": "land-hist-altLu2", 
-    "rawName": "land-hist-altLu2", 
+    "namespace": "wcrp:cmip6:experiment-id:land-hist-altlu2", 
+    "raw_name": "land-hist-altLu2", 
     "status": "pending", 
     "uid": "f4eea7d8-2b84-4283-93f2-61e9ad086efd"
 }

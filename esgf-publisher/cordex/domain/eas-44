@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "eas-44", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "East Asia", 
+    "idx": 12, 
+    "label": "EAS-44", 
+    "namespace": "esgf-publisher:cordex:domain:eas-44", 
+    "raw_name": "EAS-44", 
+    "status": "pending", 
+    "uid": "373f3481-4571-4b11-8969-4f137cade956"
+}

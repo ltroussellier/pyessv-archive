@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "b-bnds", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "b_bnds", 
+    "idx": 7, 
+    "label": "b_bnds", 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:b-bnds", 
+    "raw_name": "b_bnds", 
+    "status": "pending", 
+    "uid": "59edd9a3-9935-4973-8424-92962eee3b7f"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "prw", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "prw", 
+    "idx": 97, 
+    "namespace": "esgf-publisher:cordex:variable:prw", 
+    "status": "pending", 
+    "uid": "b667a7b8-2381-4fb9-9ed9-aa12cdaa8eb1"
+}

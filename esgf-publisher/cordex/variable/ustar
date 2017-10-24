@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ustar", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ustar", 
+    "idx": 163, 
+    "namespace": "esgf-publisher:cordex:variable:ustar", 
+    "status": "pending", 
+    "uid": "d3be44a1-a98b-4d74-9fcf-db482ce6f449"
+}

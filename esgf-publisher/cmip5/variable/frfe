@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "frfe", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "frfe", 
+    "idx": 196, 
+    "namespace": "esgf-publisher:cmip5:variable:frfe", 
+    "status": "pending", 
+    "uid": "76a3dfc3-181d-4832-a9e2-da36dda63ae2"
+}

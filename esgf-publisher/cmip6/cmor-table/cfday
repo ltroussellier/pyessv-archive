@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "cfday", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CFday", 
+    "idx": 10, 
+    "label": "CFday", 
+    "namespace": "esgf-publisher:cmip6:cmor-table:cfday", 
+    "status": "pending", 
+    "uid": "a8473d00-3c1d-4c4d-a905-508c82d102da"
+}

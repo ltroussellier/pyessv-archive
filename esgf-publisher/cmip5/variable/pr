@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "pr", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "pr", 
+    "idx": 341, 
+    "namespace": "esgf-publisher:cmip5:variable:pr", 
+    "status": "pending", 
+    "uid": "704582ae-1282-48b1-ba50-4b3f4ab0ea30"
+}

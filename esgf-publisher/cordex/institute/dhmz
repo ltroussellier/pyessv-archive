@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "dhmz", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "DHMZ", 
+    "idx": 10, 
+    "label": "DHMZ", 
+    "namespace": "esgf-publisher:cordex:institute:dhmz", 
+    "status": "pending", 
+    "uid": "15d7ca2b-5f87-4701-a33a-513775304cea"
+}

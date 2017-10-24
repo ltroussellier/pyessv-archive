@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tossq", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tossq", 
+    "idx": 530, 
+    "namespace": "esgf-publisher:cmip5:variable:tossq", 
+    "status": "pending", 
+    "uid": "25457ca6-d85d-4f4d-be38-ce0b0aa6f08d"
+}

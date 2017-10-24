@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "aermon", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "AERmon", 
+    "idx": 6, 
+    "label": "AERmon", 
+    "namespace": "esgf-publisher:cmip6:cmor-table:aermon", 
+    "status": "pending", 
+    "uid": "d42560c5-c4cb-4459-b4ec-4dc975cdfc8a"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "snownc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "snownc", 
+    "idx": 118, 
+    "namespace": "esgf-publisher:cordex:variable:snownc", 
+    "status": "pending", 
+    "uid": "ac038b19-bb91-4142-abd1-bf8084097b83"
+}

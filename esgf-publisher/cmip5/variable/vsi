@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "vsi", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "vsi", 
+    "idx": 567, 
+    "namespace": "esgf-publisher:cmip5:variable:vsi", 
+    "status": "pending", 
+    "uid": "286bb77c-16a9-46f4-bcf0-23ce16913948"
+}

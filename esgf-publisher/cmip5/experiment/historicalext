@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "historicalext", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Extension of the historical (experiment 3.2) through year 2012", 
+    "idx": 73, 
+    "label": "historicalExt", 
+    "namespace": "esgf-publisher:cmip5:experiment:historicalext", 
+    "raw_name": "historicalExt", 
+    "status": "pending", 
+    "uid": "afa95dbe-89f9-43c1-b046-31c7ae87e379"
+}

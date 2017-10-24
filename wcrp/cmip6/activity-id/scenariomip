@@ -1,10 +1,11 @@
 {
     "_type": "term", 
-    "canonicalName": "scenariomip", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "scenariomip", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "idx": 10, 
     "label": "ScenarioMIP", 
-    "rawName": "ScenarioMIP", 
+    "namespace": "wcrp:cmip6:activity-id:scenariomip", 
+    "raw_name": "ScenarioMIP", 
     "status": "pending", 
     "uid": "cdeb8645-cbfd-43e1-815a-ab3703706866"
 }

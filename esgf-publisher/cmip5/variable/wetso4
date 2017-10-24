@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "wetso4", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "wetso4", 
+    "idx": 577, 
+    "namespace": "esgf-publisher:cmip5:variable:wetso4", 
+    "status": "pending", 
+    "uid": "bc35d0fd-908f-4ea4-8662-cb29d1e8aba7"
+}

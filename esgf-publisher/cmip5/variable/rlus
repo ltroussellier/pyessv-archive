@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rlus", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rlus", 
+    "idx": 385, 
+    "namespace": "esgf-publisher:cmip5:variable:rlus", 
+    "status": "pending", 
+    "uid": "cf2c9bc8-a294-4d43-9383-a09529436717"
+}

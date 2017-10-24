@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "eviscu", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "eviscu", 
+    "idx": 154, 
+    "namespace": "esgf-publisher:cmip5:variable:eviscu", 
+    "status": "pending", 
+    "uid": "e0e36bb9-c2d4-4423-80d5-9a13df9445dc"
+}

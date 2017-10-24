@@ -1,29 +1,29 @@
 {
     "_type": "term", 
-    "canonicalName": "highressst-smoothed", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "highressst-smoothed", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "HighResMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER"
         ], 
-        "endYear": "2014", 
+        "end_year": "2014", 
         "experiment": "smoothed SST version of highresSST-present", 
-        "experimentID": "highresSST-smoothed", 
-        "minNumberYrsPerSim": "36", 
-        "parentActivityID": [
+        "experiment_id": "highresSST-smoothed", 
+        "min_number_yrs_per_sim": "36", 
+        "parent_activity_id": [
             "HighResMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "highresSST-present"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AGCM"
         ], 
-        "startYear": "1979", 
-        "subExperimentID": [
+        "start_year": "1979", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "3"
@@ -31,7 +31,8 @@
     "description": "Forced global atmosphere-land simulations as highresSST-present, but using smoothed SST to investigate impact of SST variability", 
     "idx": 147, 
     "label": "highresSST-smoothed", 
-    "rawName": "highresSST-smoothed", 
+    "namespace": "wcrp:cmip6:experiment-id:highressst-smoothed", 
+    "raw_name": "highresSST-smoothed", 
     "status": "pending", 
     "uid": "08a94747-ba45-4eb1-8729-5b3af0644765"
 }

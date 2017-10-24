@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clh", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "clh", 
+    "idx": 16, 
+    "namespace": "esgf-publisher:cordex:variable:clh", 
+    "status": "pending", 
+    "uid": "95befb8f-f191-4348-b948-f58ddf3a8e05"
+}

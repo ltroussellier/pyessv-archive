@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "mgo", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "MGO", 
+    "idx": 20, 
+    "label": "MGO", 
+    "namespace": "esgf-publisher:cordex:institute:mgo", 
+    "status": "pending", 
+    "uid": "9879b818-79f9-4a6f-84be-55097e7fdece"
+}

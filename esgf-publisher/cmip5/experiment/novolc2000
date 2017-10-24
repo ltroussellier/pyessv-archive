@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "novolc2000", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Volcano-free hindcasts initiated in 2000", 
+    "idx": 87, 
+    "label": "noVolc2000", 
+    "namespace": "esgf-publisher:cmip5:experiment:novolc2000", 
+    "raw_name": "noVolc2000", 
+    "status": "pending", 
+    "uid": "3133944c-9c3a-4857-8156-b4a7ebe4fe13"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "prcprof", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "prcprof", 
+    "idx": 344, 
+    "namespace": "esgf-publisher:cmip5:variable:prcprof", 
+    "status": "pending", 
+    "uid": "64332a49-59c2-4d99-8bd9-a19f7823213d"
+}

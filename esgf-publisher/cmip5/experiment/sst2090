@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sst2090", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "2090 time-slice", 
+    "idx": 96, 
+    "namespace": "esgf-publisher:cmip5:experiment:sst2090", 
+    "status": "pending", 
+    "uid": "adcb7cc3-322f-4022-a08c-b5a60295cc58"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tnhusd", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tnhusd", 
+    "idx": 480, 
+    "namespace": "esgf-publisher:cmip5:variable:tnhusd", 
+    "status": "pending", 
+    "uid": "6dd79e9c-0344-4d9e-9c39-5c0ee534988c"
+}

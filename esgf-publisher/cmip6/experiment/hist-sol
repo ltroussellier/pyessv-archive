@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hist-sol", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Historical solar-only transient simulation using settings from CMIP6 historical simulation but fixed GHG and ODS (1850 level)", 
+    "idx": 138, 
+    "namespace": "esgf-publisher:cmip6:experiment:hist-sol", 
+    "status": "pending", 
+    "uid": "a177f64b-3a17-42bb-befb-fe1cec948e02"
+}

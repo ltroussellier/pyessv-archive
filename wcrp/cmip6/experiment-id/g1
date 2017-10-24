@@ -1,31 +1,31 @@
 {
     "_type": "term", 
-    "canonicalName": "g1", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "g1", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "GeoMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM", 
             "BGC"
         ], 
-        "endYear": "", 
+        "end_year": "", 
         "experiment": "abrupt quadrupling of CO2 plus reduction in total solar irradiance", 
-        "experimentID": "G1", 
-        "minNumberYrsPerSim": "100", 
-        "parentActivityID": [
+        "experiment_id": "G1", 
+        "min_number_yrs_per_sim": "100", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "piControl"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM"
         ], 
-        "startYear": "", 
-        "subExperimentID": [
+        "start_year": "", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "1"
@@ -33,7 +33,8 @@
     "description": "Beginning from a preindustrial control run, simultaneously quadruple the CO2 concentration and reduce the solar constant such that the TOA radiative flux remains within +/m0.1 W/m2", 
     "idx": 19, 
     "label": "G1", 
-    "rawName": "G1", 
+    "namespace": "wcrp:cmip6:experiment-id:g1", 
+    "raw_name": "G1", 
     "status": "pending", 
     "uid": "ee036535-6810-4246-b5b2-bff5a87526c3"
 }

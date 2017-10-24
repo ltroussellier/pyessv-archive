@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "cmisc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "cMisc", 
+    "idx": 28, 
+    "label": "cMisc", 
+    "namespace": "esgf-publisher:cmip5:variable:cmisc", 
+    "status": "pending", 
+    "uid": "b5ad5301-951d-44d1-b6f5-91fddccd9f49"
+}

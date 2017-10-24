@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "drysoa", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "drysoa", 
+    "idx": 131, 
+    "namespace": "esgf-publisher:cmip5:variable:drysoa", 
+    "status": "pending", 
+    "uid": "b7548ad7-2df3-4b2a-8dce-29e491df6056"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tauv", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tauv", 
+    "idx": 141, 
+    "namespace": "esgf-publisher:cordex:variable:tauv", 
+    "status": "pending", 
+    "uid": "9a9e5f39-1593-4eeb-9947-4b90a94f36da"
+}

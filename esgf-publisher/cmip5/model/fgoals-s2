@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "fgoals-s2", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "FGOALS-s2", 
+    "idx": 26, 
+    "label": "FGOALS-s2", 
+    "namespace": "esgf-publisher:cmip5:model:fgoals-s2", 
+    "status": "pending", 
+    "uid": "2898e94f-3a35-4e87-b159-5b5353525078"
+}

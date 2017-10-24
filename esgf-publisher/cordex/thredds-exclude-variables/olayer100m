@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "olayer100m", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "olayer100m", 
+    "idx": 38, 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:olayer100m", 
+    "status": "pending", 
+    "uid": "c617bea4-4d5d-4a97-bed5-0b039875a33e"
+}

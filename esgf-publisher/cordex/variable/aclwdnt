@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "aclwdnt", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "aclwdnt", 
+    "idx": 0, 
+    "namespace": "esgf-publisher:cordex:variable:aclwdnt", 
+    "status": "pending", 
+    "uid": "4ffaf77d-e6e5-4215-ac78-e4b7814cce8c"
+}

@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "vresm-1-0", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "VRESM-1-0", 
+    "idx": 65, 
+    "label": "VRESM-1-0", 
+    "namespace": "esgf-publisher:cmip6:source-id:vresm-1-0", 
+    "status": "pending", 
+    "uid": "aff00a98-2961-4ab2-b04e-0463a479fe0c"
+}

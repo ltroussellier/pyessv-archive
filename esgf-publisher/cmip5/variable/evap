@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "evap", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "evap", 
+    "idx": 152, 
+    "namespace": "esgf-publisher:cmip5:variable:evap", 
+    "status": "pending", 
+    "uid": "8ee7a10a-6c94-4b09-850f-e0a9a27fe76f"
+}

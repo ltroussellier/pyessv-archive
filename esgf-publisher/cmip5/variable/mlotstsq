@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "mlotstsq", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "mlotstsq", 
+    "idx": 276, 
+    "namespace": "esgf-publisher:cmip5:variable:mlotstsq", 
+    "status": "pending", 
+    "uid": "536adea9-be49-423e-8ab6-2be9527bf338"
+}

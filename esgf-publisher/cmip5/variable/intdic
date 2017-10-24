@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "intdic", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "intdic", 
+    "idx": 244, 
+    "namespace": "esgf-publisher:cmip5:variable:intdic", 
+    "status": "pending", 
+    "uid": "57072579-0c76-458b-8db9-49d589d4de82"
+}

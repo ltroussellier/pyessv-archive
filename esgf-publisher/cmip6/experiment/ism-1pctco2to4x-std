@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "ism-1pctco2to4x-std", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Idealized 1percent/yr CO2 increase to 4xC02 over 140yrs and kept constant at 4xCO2 for an additional 200 to 400 yrs simulation with ice sheets forced \"offline\" with DECK 1pctCO2 using a standard forcing", 
+    "idx": 170, 
+    "label": "ism-1pctCO2to4x-std", 
+    "namespace": "esgf-publisher:cmip6:experiment:ism-1pctco2to4x-std", 
+    "raw_name": "ism-1pctCO2to4x-std", 
+    "status": "pending", 
+    "uid": "ae1b4d37-fbb8-4b3d-97d0-c94665f3beb0"
+}

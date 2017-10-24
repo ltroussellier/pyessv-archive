@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "piclim-4xco2", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "As in RFMIP-ERF-PI-Cntrl but with 4xCO2", 
+    "idx": 243, 
+    "label": "piClim-4xCO2", 
+    "namespace": "esgf-publisher:cmip6:experiment:piclim-4xco2", 
+    "raw_name": "piClim-4xCO2", 
+    "status": "pending", 
+    "uid": "6006ef18-03d9-40fa-9479-621175c024cb"
+}

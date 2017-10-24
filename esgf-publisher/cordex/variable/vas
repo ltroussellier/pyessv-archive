@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "vas", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "vas", 
+    "idx": 180, 
+    "namespace": "esgf-publisher:cordex:variable:vas", 
+    "status": "pending", 
+    "uid": "f15c8a1d-4d9e-4fb2-a0c9-3f074f354b8a"
+}

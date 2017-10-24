@@ -1,30 +1,30 @@
 {
     "_type": "term", 
-    "canonicalName": "g6sst2-sulfur", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "g6sst2-sulfur", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "GeoMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM"
         ], 
-        "endYear": "", 
+        "end_year": "", 
         "experiment": "SSTs from year 2020 of SSP5-8.5; forcings and other prescribed conditions from year 2100 of G6sulfur", 
-        "experimentID": "G6SST2-sulfur", 
-        "minNumberYrsPerSim": "10", 
-        "parentActivityID": [
+        "experiment_id": "G6SST2-sulfur", 
+        "min_number_yrs_per_sim": "10", 
+        "parent_activity_id": [
             "ScenarioMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "ssp585"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AGCM"
         ], 
-        "startYear": "", 
-        "subExperimentID": [
+        "start_year": "", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
@@ -32,7 +32,8 @@
     "description": "Time slice at 2100 (G6sulfur)", 
     "idx": 51, 
     "label": "G6SST2-sulfur", 
-    "rawName": "G6SST2-sulfur", 
+    "namespace": "wcrp:cmip6:experiment-id:g6sst2-sulfur", 
+    "raw_name": "G6SST2-sulfur", 
     "status": "pending", 
     "uid": "d8bff6af-cfc1-4370-babc-8229fcc51a8d"
 }

@@ -1,35 +1,34 @@
 {
     "_type": "term", 
-    "canonicalName": "ism-amip-std", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "ism-amip-std", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "ISMIP6"
         ], 
-        "additionalAllowedModelComponents": "", 
-        "endYear": "2014", 
+        "additional_allowed_model_components": "", 
+        "end_year": "2014", 
         "experiment": "offline ice sheet forced by ISMIP6-specified AGCM AMIP output", 
-        "experimentID": "ism-amip-std", 
-        "minNumberYrsPerSim": "36", 
-        "parentActivityID": [
+        "experiment_id": "ism-amip-std", 
+        "min_number_yrs_per_sim": "36", 
+        "parent_activity_id": [
             "ISMIP6"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "ism-ctrl-std"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "ISM"
         ], 
-        "startYear": "1979", 
-        "subExperimentID": [
+        "start_year": "1979", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "3"
     }, 
     "description": "Offline ice sheet evolution for the last few decades forced by amip", 
     "idx": 61, 
-    "label": "ism-amip-std", 
-    "rawName": "ism-amip-std", 
+    "namespace": "wcrp:cmip6:experiment-id:ism-amip-std", 
     "status": "pending", 
     "uid": "9f677b7c-d79f-4e8f-a362-410788e6c530"
 }

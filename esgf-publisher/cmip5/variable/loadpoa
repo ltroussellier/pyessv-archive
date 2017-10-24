@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "loadpoa", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "loadpoa", 
+    "idx": 264, 
+    "namespace": "esgf-publisher:cmip5:variable:loadpoa", 
+    "status": "pending", 
+    "uid": "d68e0235-0dac-45cc-ad38-c40081c7e333"
+}

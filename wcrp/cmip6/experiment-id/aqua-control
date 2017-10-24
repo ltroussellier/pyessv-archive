@@ -1,38 +1,37 @@
 {
     "_type": "term", 
-    "canonicalName": "aqua-control", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "aqua-control", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "CFMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM"
         ], 
-        "endYear": "", 
+        "end_year": "", 
         "experiment": "aquaplanet control", 
-        "experimentID": "aqua-control", 
-        "minNumberYrsPerSim": "10", 
-        "parentActivityID": [
+        "experiment_id": "aqua-control", 
+        "min_number_yrs_per_sim": "10", 
+        "parent_activity_id": [
             "no parent"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "no parent"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AGCM"
         ], 
-        "startYear": "", 
-        "subExperimentID": [
+        "start_year": "", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "1"
     }, 
     "description": "Extended version of CMIP5/CFMIP-2 aquaControl experiment. Aquaplanet (no land) experiment with no seasonal cycle forced with specified zonally symmetric SSTs", 
     "idx": 189, 
-    "label": "aqua-control", 
-    "rawName": "aqua-control", 
+    "namespace": "wcrp:cmip6:experiment-id:aqua-control", 
     "status": "pending", 
     "uid": "51a30414-f354-4617-a86a-404b6430bdb0"
 }

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "fbddtdisi", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "fbddtdisi", 
+    "idx": 179, 
+    "namespace": "esgf-publisher:cmip5:variable:fbddtdisi", 
+    "status": "pending", 
+    "uid": "c834525d-9c89-41db-8935-ca3c5d63eeeb"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "reffclws", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "reffclws", 
+    "idx": 361, 
+    "namespace": "esgf-publisher:cmip5:variable:reffclws", 
+    "status": "pending", 
+    "uid": "00dd1f7b-b704-4c06-aecc-e9c4ea5e093c"
+}

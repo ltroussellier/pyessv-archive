@@ -1,31 +1,31 @@
 {
     "_type": "term", 
-    "canonicalName": "1pctco2-4xext", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "1pctco2-4xext", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "ISMIP6"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM", 
             "BGC"
         ], 
-        "endYear": "", 
+        "end_year": "", 
         "experiment": "extension from year 140 of 1pctCO2 with 4xCO2", 
-        "experimentID": "1pctCO2-4xext", 
-        "minNumberYrsPerSim": "210", 
-        "parentActivityID": [
+        "experiment_id": "1pctCO2-4xext", 
+        "min_number_yrs_per_sim": "210", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "1pctCO2"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM"
         ], 
-        "startYear": "", 
-        "subExperimentID": [
+        "start_year": "", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "1"
@@ -33,7 +33,8 @@
     "description": "branched from 1pctCO2 run at year 140 and run with CO2 fixed at 4x pre-industrial concentration", 
     "idx": 245, 
     "label": "1pctCO2-4xext", 
-    "rawName": "1pctCO2-4xext", 
+    "namespace": "wcrp:cmip6:experiment-id:1pctco2-4xext", 
+    "raw_name": "1pctCO2-4xext", 
     "status": "pending", 
     "uid": "45b90740-1fae-413c-b55b-20e628e9b2f3"
 }

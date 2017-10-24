@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tnhusa", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tnhusa", 
+    "idx": 478, 
+    "namespace": "esgf-publisher:cmip5:variable:tnhusa", 
+    "status": "pending", 
+    "uid": "209c63bb-f22c-430e-9cb2-b33f8262e62a"
+}

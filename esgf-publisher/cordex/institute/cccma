@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "cccma", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CCCma", 
+    "idx": 4, 
+    "label": "CCCma", 
+    "namespace": "esgf-publisher:cordex:institute:cccma", 
+    "status": "pending", 
+    "uid": "2bb92d32-701a-4e65-9e2e-54d1cad40fd0"
+}

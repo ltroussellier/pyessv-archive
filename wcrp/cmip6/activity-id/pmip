@@ -1,10 +1,11 @@
 {
     "_type": "term", 
-    "canonicalName": "pmip", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "pmip", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "idx": 18, 
     "label": "PMIP", 
-    "rawName": "PMIP", 
+    "namespace": "wcrp:cmip6:activity-id:pmip", 
+    "raw_name": "PMIP", 
     "status": "pending", 
     "uid": "3dd05a1d-2954-47e7-bf7d-b70681333ff6"
 }

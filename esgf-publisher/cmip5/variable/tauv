@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tauv", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tauv", 
+    "idx": 470, 
+    "namespace": "esgf-publisher:cmip5:variable:tauv", 
+    "status": "pending", 
+    "uid": "1321cf49-67d5-4f3b-8128-9484b84d821e"
+}

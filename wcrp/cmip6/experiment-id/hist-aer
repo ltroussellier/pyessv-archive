@@ -1,39 +1,38 @@
 {
     "_type": "term", 
-    "canonicalName": "hist-aer", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "hist-aer", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "DAMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM", 
             "BGC"
         ], 
-        "endYear": "2020", 
+        "end_year": "2020", 
         "experiment": "historical anthropogenic aerosols-only run", 
-        "experimentID": "hist-aer", 
-        "minNumberYrsPerSim": "171", 
-        "parentActivityID": [
+        "experiment_id": "hist-aer", 
+        "min_number_yrs_per_sim": "171", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "piControl"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM"
         ], 
-        "startYear": "1850", 
-        "subExperimentID": [
+        "start_year": "1850", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "1"
     }, 
     "description": "Historical anthropogenic-Aerosols-only run", 
     "idx": 119, 
-    "label": "hist-aer", 
-    "rawName": "hist-aer", 
+    "namespace": "wcrp:cmip6:experiment-id:hist-aer", 
     "status": "pending", 
     "uid": "cf37f8ff-ddbd-427b-b867-46ac969e945c"
 }

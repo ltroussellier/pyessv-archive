@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "demc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "demc", 
+    "idx": 105, 
+    "namespace": "esgf-publisher:cmip5:variable:demc", 
+    "status": "pending", 
+    "uid": "89795bbf-aaec-4afb-a35b-0f7fbdd9ce73"
+}

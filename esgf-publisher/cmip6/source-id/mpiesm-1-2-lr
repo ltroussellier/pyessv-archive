@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "mpiesm-1-2-lr", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "MPIESM-1-2-LR", 
+    "idx": 48, 
+    "label": "MPIESM-1-2-LR", 
+    "namespace": "esgf-publisher:cmip6:source-id:mpiesm-1-2-lr", 
+    "status": "pending", 
+    "uid": "94a34ee5-cee4-433c-82be-a6bdce3ab39a"
+}

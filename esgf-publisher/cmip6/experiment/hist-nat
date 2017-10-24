@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hist-nat", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Historical natural-only run", 
+    "idx": 216, 
+    "namespace": "esgf-publisher:cmip6:experiment:hist-nat", 
+    "status": "pending", 
+    "uid": "7797e6a5-7e5c-4ef4-91a0-e9330aad4af8"
+}

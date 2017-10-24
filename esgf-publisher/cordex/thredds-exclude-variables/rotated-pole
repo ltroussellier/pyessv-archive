@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "rotated-pole", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rotated_pole", 
+    "idx": 58, 
+    "label": "rotated_pole", 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:rotated-pole", 
+    "raw_name": "rotated_pole", 
+    "status": "pending", 
+    "uid": "2c99c1f9-1174-4991-b998-5a2ab2eef361"
+}

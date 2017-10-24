@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "bddtdisi", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "bddtdisi", 
+    "idx": 16, 
+    "namespace": "esgf-publisher:cmip5:variable:bddtdisi", 
+    "status": "pending", 
+    "uid": "ee8c8b10-90e7-4298-a6be-d0c390711e1c"
+}

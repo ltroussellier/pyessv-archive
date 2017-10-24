@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "auth-lhtee-wrf321b", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "AUTH-LHTEE-WRF321B", 
+    "idx": 0, 
+    "label": "AUTH-LHTEE-WRF321B", 
+    "namespace": "esgf-publisher:cordex:rcm-model:auth-lhtee-wrf321b", 
+    "status": "pending", 
+    "uid": "0a1161a0-5f74-4f52-83e8-01c99741b0fd"
+}

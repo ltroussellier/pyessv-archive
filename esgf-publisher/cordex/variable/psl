@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "psl", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "psl", 
+    "idx": 99, 
+    "namespace": "esgf-publisher:cordex:variable:psl", 
+    "status": "pending", 
+    "uid": "cd5305fd-8399-4ef2-b4a7-2d71cce91680"
+}

@@ -1,38 +1,37 @@
 {
     "_type": "term", 
-    "canonicalName": "amip-lwoff", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "amip-lwoff", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "CFMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM"
         ], 
-        "endYear": "2014", 
+        "end_year": "2014", 
         "experiment": "AMIP experiment with longwave cloud-radiative effects off", 
-        "experimentID": "amip-lwoff", 
-        "minNumberYrsPerSim": "36", 
-        "parentActivityID": [
+        "experiment_id": "amip-lwoff", 
+        "min_number_yrs_per_sim": "36", 
+        "parent_activity_id": [
             "no parent"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "no parent"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AGCM"
         ], 
-        "startYear": "1979", 
-        "subExperimentID": [
+        "start_year": "1979", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
     }, 
     "description": "As amip experiment, but with cloud-radiative effects switched off in the LW radiation code", 
     "idx": 79, 
-    "label": "amip-lwoff", 
-    "rawName": "amip-lwoff", 
+    "namespace": "wcrp:cmip6:experiment-id:amip-lwoff", 
     "status": "pending", 
     "uid": "eaf14fc8-3a16-47eb-b174-8a975c225bf6"
 }

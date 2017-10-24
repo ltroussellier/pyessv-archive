@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tsmin", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tsmin", 
+    "idx": 144, 
+    "namespace": "esgf-publisher:cordex:variable:tsmin", 
+    "status": "pending", 
+    "uid": "74f4bc82-8a87-4824-b9be-e75b878a146a"
+}

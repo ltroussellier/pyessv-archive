@@ -1,31 +1,31 @@
 {
     "_type": "term", 
-    "canonicalName": "abrupt-4xco2", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "abrupt-4xco2", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "CMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM", 
             "BGC"
         ], 
-        "endYear": "", 
+        "end_year": "", 
         "experiment": "abrupt quadrupling of CO2", 
-        "experimentID": "abrupt-4xCO2", 
-        "minNumberYrsPerSim": "150", 
-        "parentActivityID": [
+        "experiment_id": "abrupt-4xCO2", 
+        "min_number_yrs_per_sim": "150", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "piControl"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM"
         ], 
-        "startYear": "", 
-        "subExperimentID": [
+        "start_year": "", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "1"
@@ -33,7 +33,8 @@
     "description": "DECK: abrupt4xCO2", 
     "idx": 95, 
     "label": "abrupt-4xCO2", 
-    "rawName": "abrupt-4xCO2", 
+    "namespace": "wcrp:cmip6:experiment-id:abrupt-4xco2", 
+    "raw_name": "abrupt-4xCO2", 
     "status": "pending", 
     "uid": "bed33bc6-5aa0-47c1-b7a8-4f864217bebc"
 }

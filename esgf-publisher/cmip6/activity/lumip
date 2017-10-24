@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "lumip", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "LUMIP", 
+    "idx": 14, 
+    "label": "LUMIP", 
+    "namespace": "esgf-publisher:cmip6:activity:lumip", 
+    "status": "pending", 
+    "uid": "da0edd70-e6c6-4569-a027-4b89fae5bc57"
+}

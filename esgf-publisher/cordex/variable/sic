@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sic", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "sic", 
+    "idx": 112, 
+    "namespace": "esgf-publisher:cordex:variable:sic", 
+    "status": "pending", 
+    "uid": "f3ffc24a-b5b8-433b-9dd1-e1511b75139a"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "expcfe", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "expcfe", 
+    "idx": 163, 
+    "namespace": "esgf-publisher:cmip5:variable:expcfe", 
+    "status": "pending", 
+    "uid": "af60c56f-a1c2-4860-a858-24a312966bc2"
+}

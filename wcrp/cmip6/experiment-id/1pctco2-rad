@@ -1,31 +1,31 @@
 {
     "_type": "term", 
-    "canonicalName": "1pctco2-rad", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "1pctco2-rad", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "C4MIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM"
         ], 
-        "endYear": "", 
+        "end_year": "", 
         "experiment": "radiatively-coupled version of 1 percent per year increasing CO2 experiment", 
-        "experimentID": "1pctCO2-rad", 
-        "minNumberYrsPerSim": "150", 
-        "parentActivityID": [
+        "experiment_id": "1pctCO2-rad", 
+        "min_number_yrs_per_sim": "150", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "piControl"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM", 
             "BGC"
         ], 
-        "startYear": "", 
-        "subExperimentID": [
+        "start_year": "", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
@@ -33,7 +33,8 @@
     "description": "Radiatively-coupled specified concentration simulation in which CO2 increases at a rate of 1% per year until quadrupling", 
     "idx": 217, 
     "label": "1pctCO2-rad", 
-    "rawName": "1pctCO2-rad", 
+    "namespace": "wcrp:cmip6:experiment-id:1pctco2-rad", 
+    "raw_name": "1pctCO2-rad", 
     "status": "pending", 
     "uid": "bb44009d-35c1-415c-be05-7576018eff34"
 }

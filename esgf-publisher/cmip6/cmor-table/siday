@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "siday", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "SIday", 
+    "idx": 39, 
+    "label": "SIday", 
+    "namespace": "esgf-publisher:cmip6:cmor-table:siday", 
+    "status": "pending", 
+    "uid": "62d3a4a7-ebe3-4dc7-afb1-519788a30428"
+}

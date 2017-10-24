@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "fixed", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "fixed", 
+    "idx": 2, 
+    "namespace": "esgf-publisher:cordex:las-time-delta:fixed", 
+    "status": "pending", 
+    "uid": "1cc72932-5dd1-40e9-b3da-67d585af8e60"
+}

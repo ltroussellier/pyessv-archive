@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "fgrazing", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "fGrazing", 
+    "idx": 168, 
+    "label": "fGrazing", 
+    "namespace": "esgf-publisher:cmip5:variable:fgrazing", 
+    "status": "pending", 
+    "uid": "29a7b2cd-bffd-4493-88e5-01e563244d52"
+}

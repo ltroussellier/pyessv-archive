@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ta1000", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ta1000", 
+    "idx": 122, 
+    "namespace": "esgf-publisher:cordex:variable:ta1000", 
+    "status": "pending", 
+    "uid": "69c46ae5-8b37-4c85-936d-c53a5075ae37"
+}

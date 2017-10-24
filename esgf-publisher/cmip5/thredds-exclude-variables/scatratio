@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "scatratio", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "scatratio", 
+    "idx": 50, 
+    "namespace": "esgf-publisher:cmip5:thredds-exclude-variables:scatratio", 
+    "status": "pending", 
+    "uid": "bea16c4f-c5e9-429e-a8b3-3f6f88d0732e"
+}

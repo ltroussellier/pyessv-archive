@@ -1,10 +1,9 @@
 {
     "_type": "term", 
-    "canonicalName": "fx", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
-    "idx": 8, 
-    "label": "fx", 
-    "rawName": "fx", 
+    "canonical_name": "fx", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "idx": 9, 
+    "namespace": "wcrp:cmip6:frequency:fx", 
     "status": "pending", 
     "uid": "0de235a5-75f8-4352-b55b-756a8579d382"
 }

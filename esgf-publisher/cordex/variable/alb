@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "alb", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "alb", 
+    "idx": 1, 
+    "namespace": "esgf-publisher:cordex:variable:alb", 
+    "status": "pending", 
+    "uid": "d962ae95-f39b-4049-918e-c4af2dff5474"
+}

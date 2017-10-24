@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "mri-cgcm3", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "MRI-CGCM3", 
+    "idx": 58, 
+    "label": "MRI-CGCM3", 
+    "namespace": "esgf-publisher:cmip5:model:mri-cgcm3", 
+    "status": "pending", 
+    "uid": "4e2ea57b-776a-4ab1-93ef-2a82e3f4c760"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ridgice", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ridgice", 
+    "idx": 373, 
+    "namespace": "esgf-publisher:cmip5:variable:ridgice", 
+    "status": "pending", 
+    "uid": "7e97a9f7-c9e7-4a4d-9af6-57f36cf144c3"
+}

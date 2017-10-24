@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hist-all-aer2", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Historical ALL forcing run with alternate estimates of aerosol concentrations/emissions", 
+    "idx": 34, 
+    "namespace": "esgf-publisher:cmip6:experiment:hist-all-aer2", 
+    "status": "pending", 
+    "uid": "bc1a7009-1bb3-4bbd-8bb3-b5191c71a400"
+}

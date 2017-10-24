@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ocean", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ocean", 
+    "idx": 1, 
+    "namespace": "esgf-publisher:cmip5:realm:ocean", 
+    "status": "pending", 
+    "uid": "1f0e1571-0ac6-46a3-9bcb-c3536bda76d9"
+}

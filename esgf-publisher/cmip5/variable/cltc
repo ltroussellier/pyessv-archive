@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "cltc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "cltc", 
+    "idx": 74, 
+    "namespace": "esgf-publisher:cmip5:variable:cltc", 
+    "status": "pending", 
+    "uid": "8772eefe-1890-4bda-8247-7243674176ec"
+}

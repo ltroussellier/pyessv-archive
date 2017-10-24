@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "lfmip-rmlc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Prescribed land conditions 30yr running mean", 
+    "idx": 64, 
+    "label": "lfmip-rmLC", 
+    "namespace": "esgf-publisher:cmip6:experiment:lfmip-rmlc", 
+    "raw_name": "lfmip-rmLC", 
+    "status": "pending", 
+    "uid": "13e2d0d1-c3ae-45eb-9b86-639a64f1f220"
+}

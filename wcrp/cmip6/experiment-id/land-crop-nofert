@@ -1,27 +1,27 @@
 {
     "_type": "term", 
-    "canonicalName": "land-crop-nofert", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "land-crop-nofert", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "LUMIP"
         ], 
-        "additionalAllowedModelComponents": "", 
-        "endYear": "2014", 
+        "additional_allowed_model_components": "", 
+        "end_year": "2014", 
         "experiment": "historical land-only with no fertilizer", 
-        "experimentID": "land-crop-noFert", 
-        "minNumberYrsPerSim": "165", 
-        "parentActivityID": [
+        "experiment_id": "land-crop-noFert", 
+        "min_number_yrs_per_sim": "165", 
+        "parent_activity_id": [
             "no parent"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "no parent"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "LAND"
         ], 
-        "startYear": "1850 or 1700", 
-        "subExperimentID": [
+        "start_year": "1850 or 1700", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
@@ -29,7 +29,8 @@
     "description": "Same as land-hist but with fertilization rates and area held at 1850 levels/distribution", 
     "idx": 235, 
     "label": "land-crop-noFert", 
-    "rawName": "land-crop-noFert", 
+    "namespace": "wcrp:cmip6:experiment-id:land-crop-nofert", 
+    "raw_name": "land-crop-noFert", 
     "status": "pending", 
     "uid": "a81bd527-a259-4d7b-ae31-f9450340048f"
 }

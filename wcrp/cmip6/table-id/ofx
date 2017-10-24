@@ -1,10 +1,11 @@
 {
     "_type": "term", 
-    "canonicalName": "ofx", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "ofx", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "idx": 36, 
     "label": "Ofx", 
-    "rawName": "Ofx", 
+    "namespace": "wcrp:cmip6:table-id:ofx", 
+    "raw_name": "Ofx", 
     "status": "pending", 
     "uid": "ec7f516f-0b11-4c6f-9b8b-7f0a8995f056"
 }

@@ -1,10 +1,11 @@
 {
     "_type": "term", 
-    "canonicalName": "rfmip", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "rfmip", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "idx": 2, 
     "label": "RFMIP", 
-    "rawName": "RFMIP", 
+    "namespace": "wcrp:cmip6:activity-id:rfmip", 
+    "raw_name": "RFMIP", 
     "status": "pending", 
     "uid": "206e146b-bf86-469e-883d-58d73c3d3c88"
 }

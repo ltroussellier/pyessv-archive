@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "1hrclimmon", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "1hrClimMon", 
+    "idx": 1, 
+    "label": "1hrClimMon", 
+    "namespace": "esgf-publisher:cmip6:frequency:1hrclimmon", 
+    "status": "pending", 
+    "uid": "72a7da74-c33e-4554-9ce2-2bca1c2a5852"
+}

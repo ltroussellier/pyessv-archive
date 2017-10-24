@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rsdt", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rsdt", 
+    "idx": 104, 
+    "namespace": "esgf-publisher:cordex:variable:rsdt", 
+    "status": "pending", 
+    "uid": "1e494593-d24e-4270-a4ce-d1535c798455"
+}

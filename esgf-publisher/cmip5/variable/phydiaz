@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "phydiaz", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "phydiaz", 
+    "idx": 328, 
+    "namespace": "esgf-publisher:cmip5:variable:phydiaz", 
+    "status": "pending", 
+    "uid": "56cb42ee-6590-42e4-9a81-6119ee55e36c"
+}

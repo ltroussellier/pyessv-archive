@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "ipsl-ipsl-cm5a-mr", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "IPSL-IPSL-CM5A-MR", 
+    "idx": 6, 
+    "label": "IPSL-IPSL-CM5A-MR", 
+    "namespace": "esgf-publisher:cordex:driving-model:ipsl-ipsl-cm5a-mr", 
+    "status": "pending", 
+    "uid": "ec2ff7d1-c637-4756-8829-fd0d23eb94ab"
+}

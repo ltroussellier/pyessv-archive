@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "wetoa", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "wetoa", 
+    "idx": 574, 
+    "namespace": "esgf-publisher:cmip5:variable:wetoa", 
+    "status": "pending", 
+    "uid": "950f2c60-e2f1-4e31-a94d-3df302908b39"
+}

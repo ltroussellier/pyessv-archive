@@ -1,10 +1,11 @@
 {
     "_type": "term", 
-    "canonicalName": "fafmip", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "fafmip", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "idx": 19, 
     "label": "FAFMIP", 
-    "rawName": "FAFMIP", 
+    "namespace": "wcrp:cmip6:activity-id:fafmip", 
+    "raw_name": "FAFMIP", 
     "status": "pending", 
     "uid": "f06b5f62-d115-48e7-b02b-2904a026114a"
 }

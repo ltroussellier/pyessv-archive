@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clm", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "clm", 
+    "idx": 32, 
+    "namespace": "esgf-publisher:cordex:variable:clm", 
+    "status": "pending", 
+    "uid": "47e7f4ee-c594-45e3-8e9e-79ebec55a4fb"
+}

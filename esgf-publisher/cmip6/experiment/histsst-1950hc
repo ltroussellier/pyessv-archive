@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "histsst-1950hc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Historical WMGHG concentrations and NTCF emissions, 1950 halocarbon concentrations", 
+    "idx": 55, 
+    "label": "histSST-1950HC", 
+    "namespace": "esgf-publisher:cmip6:experiment:histsst-1950hc", 
+    "raw_name": "histSST-1950HC", 
+    "status": "pending", 
+    "uid": "fb7255f9-7b5d-4d7b-8a4c-f07c834ab312"
+}

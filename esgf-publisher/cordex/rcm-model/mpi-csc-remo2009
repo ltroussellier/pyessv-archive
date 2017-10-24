@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "mpi-csc-remo2009", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "MPI-CSC-REMO2009", 
+    "idx": 31, 
+    "label": "MPI-CSC-REMO2009", 
+    "namespace": "esgf-publisher:cordex:rcm-model:mpi-csc-remo2009", 
+    "status": "pending", 
+    "uid": "dd1c421b-b41e-4bd2-9734-c837f7e18739"
+}

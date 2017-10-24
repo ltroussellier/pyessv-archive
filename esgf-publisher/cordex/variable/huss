@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "huss", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "huss", 
+    "idx": 80, 
+    "namespace": "esgf-publisher:cordex:variable:huss", 
+    "status": "pending", 
+    "uid": "5bd813d0-1845-47fa-b04f-fd255c811400"
+}

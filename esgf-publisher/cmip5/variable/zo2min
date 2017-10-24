@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "zo2min", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "zo2min", 
+    "idx": 590, 
+    "namespace": "esgf-publisher:cmip5:variable:zo2min", 
+    "status": "pending", 
+    "uid": "a8d8dab9-5f5f-4aac-bb21-33fba32bf512"
+}

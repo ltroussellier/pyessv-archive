@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "ism-pdcontrol-std", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Present-day control simulation for \"offline\" ice sheets", 
+    "idx": 94, 
+    "label": "ism-pdControl-std", 
+    "namespace": "esgf-publisher:cmip6:experiment:ism-pdcontrol-std", 
+    "raw_name": "ism-pdControl-std", 
+    "status": "pending", 
+    "uid": "3d5571f0-90b3-4c9b-ba5d-d61f9b6df434"
+}

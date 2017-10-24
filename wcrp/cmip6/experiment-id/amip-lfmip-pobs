@@ -1,31 +1,31 @@
 {
     "_type": "term", 
-    "canonicalName": "amip-lfmip-pobs", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "amip-lfmip-pobs", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "LS3MIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM", 
             "BGC"
         ], 
-        "endYear": "2014", 
+        "end_year": "2014", 
         "experiment": "prescribed land (from pseudo-observations) and AMIP SSTs", 
-        "experimentID": "amip-lfmip-pObs", 
-        "minNumberYrsPerSim": "36", 
-        "parentActivityID": [
+        "experiment_id": "amip-lfmip-pObs", 
+        "min_number_yrs_per_sim": "36", 
+        "parent_activity_id": [
             "no parent"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "no parent"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AGCM"
         ], 
-        "startYear": "1979", 
-        "subExperimentID": [
+        "start_year": "1979", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
@@ -33,7 +33,8 @@
     "description": "Land-hist land conditions; AMIP SSTs", 
     "idx": 140, 
     "label": "amip-lfmip-pObs", 
-    "rawName": "amip-lfmip-pObs", 
+    "namespace": "wcrp:cmip6:experiment-id:amip-lfmip-pobs", 
+    "raw_name": "amip-lfmip-pObs", 
     "status": "pending", 
     "uid": "613044e1-2066-4b60-a551-7e317ed555b7"
 }

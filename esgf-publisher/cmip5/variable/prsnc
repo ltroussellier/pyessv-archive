@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "prsnc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "prsnc", 
+    "idx": 348, 
+    "namespace": "esgf-publisher:cmip5:variable:prsnc", 
+    "status": "pending", 
+    "uid": "2bbdebce-bb32-45f1-b421-dcec10b898cb"
+}

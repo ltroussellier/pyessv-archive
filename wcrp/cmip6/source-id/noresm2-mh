@@ -1,9 +1,9 @@
 {
     "_type": "term", 
-    "canonicalName": "noresm2-mh", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "noresm2-mh", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityParticipation": [
+        "activity_participation": [
             "AerChemMIP", 
             "CFMIP", 
             "CMIP", 
@@ -15,50 +15,51 @@
         "cohort": [
             "Registered"
         ], 
-        "institutionID": [
+        "institution_id": [
             "NCC"
         ], 
-        "labelExtended": "NorESM2-MH (medium atmosphere-high ocean resolution, GHG concentration driven)", 
-        "modelComponent": {
+        "label_extended": "NorESM2-MH (medium atmosphere-high ocean resolution, GHG concentration driven)", 
+        "model_component": {
             "aerosol": {
                 "description": "OsloAero", 
-                "nominalResolution": ""
+                "nominal_resolution": ""
             }, 
             "atmos": {
                 "description": "CAM-OSLO (1 degree resolution; 288 x 192; 32 levels; top level 3 mb)", 
-                "nominalResolution": "100 km"
+                "nominal_resolution": "100 km"
             }, 
             "atmosChem": {
                 "description": "OsloChemSimp", 
-                "nominalResolution": ""
+                "nominal_resolution": ""
             }, 
             "land": {
                 "description": "CLM", 
-                "nominalResolution": ""
+                "nominal_resolution": ""
             }, 
             "landIce": {
                 "description": "CISM", 
-                "nominalResolution": "100 km"
+                "nominal_resolution": "100 km"
             }, 
             "ocean": {
                 "description": "MICOM (0.25 degree resolution; 1440 x 1152; 70 levels; top grid cell minimum 0-2.5 m [native model uses hybrid density and generic upper-layer coordinate interpolated to z-level for contributed data])", 
-                "nominalResolution": "25 km"
+                "nominal_resolution": "25 km"
             }, 
             "ocnBgchem": {
                 "description": "HAMOCC", 
-                "nominalResolution": ""
+                "nominal_resolution": ""
             }, 
             "seaIce": {
                 "description": "CICE", 
-                "nominalResolution": ""
+                "nominal_resolution": ""
             }
         }, 
-        "releaseYear": "2017", 
-        "sourceID": "NorESM2-MH"
+        "release_year": "2017", 
+        "source_id": "NorESM2-MH"
     }, 
-    "idx": 46, 
+    "idx": 66, 
     "label": "NorESM2-MH", 
-    "rawName": "NorESM2-MH", 
+    "namespace": "wcrp:cmip6:source-id:noresm2-mh", 
+    "raw_name": "NorESM2-MH", 
     "status": "pending", 
     "uid": "e0521866-2305-4494-a411-05a229a85dc5"
 }

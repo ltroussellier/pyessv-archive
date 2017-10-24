@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "amip-lfmip-pobs", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Land-hist land conditions; AMIP SSTs", 
+    "idx": 140, 
+    "label": "amip-lfmip-pObs", 
+    "namespace": "esgf-publisher:cmip6:experiment:amip-lfmip-pobs", 
+    "raw_name": "amip-lfmip-pObs", 
+    "status": "pending", 
+    "uid": "77871357-4c5e-4c50-9a5b-c9fe1d13b008"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "piclim-histghg", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Time-varying forcing by GHGs. SST and sea ice fixed at preindustrial control. Interactive vegetation", 
+    "idx": 29, 
+    "label": "piClim-histghg", 
+    "namespace": "esgf-publisher:cmip6:experiment:piclim-histghg", 
+    "raw_name": "piClim-histghg", 
+    "status": "pending", 
+    "uid": "ac338cd8-49cb-48ef-9c99-15d51482d9fd"
+}

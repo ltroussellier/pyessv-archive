@@ -1,38 +1,37 @@
 {
     "_type": "term", 
-    "canonicalName": "amip-hist", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "amip-hist", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "GMMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM"
         ], 
-        "endYear": "2014", 
+        "end_year": "2014", 
         "experiment": "AMIP-style simulation covering the period 1870-2014", 
-        "experimentID": "amip-hist", 
-        "minNumberYrsPerSim": "144", 
-        "parentActivityID": [
+        "experiment_id": "amip-hist", 
+        "min_number_yrs_per_sim": "144", 
+        "parent_activity_id": [
             "no parent"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "no parent"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AGCM"
         ], 
-        "startYear": "1870", 
-        "subExperimentID": [
+        "start_year": "1870", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "1"
     }, 
     "description": "Extended AMIP run that covers 1870-2014. All natural and anthropogenic historical forcings as used in CMIP6 Historical Simulation will be included. AGCM resolution as CMIP6 Historical Simulation. The HadISST data will be used", 
     "idx": 9, 
-    "label": "amip-hist", 
-    "rawName": "amip-hist", 
+    "namespace": "wcrp:cmip6:experiment-id:amip-hist", 
     "status": "pending", 
     "uid": "bc1cb96f-5dba-46b4-8851-95f0f243f7d5"
 }

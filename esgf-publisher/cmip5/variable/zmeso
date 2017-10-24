@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "zmeso", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "zmeso", 
+    "idx": 588, 
+    "namespace": "esgf-publisher:cmip5:variable:zmeso", 
+    "status": "pending", 
+    "uid": "592d01f9-2404-4f66-92c3-79423056d70b"
+}

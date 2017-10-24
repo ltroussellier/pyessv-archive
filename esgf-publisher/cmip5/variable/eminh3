@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "eminh3", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "eminh3", 
+    "idx": 141, 
+    "namespace": "esgf-publisher:cmip5:variable:eminh3", 
+    "status": "pending", 
+    "uid": "04babb6a-4352-4246-a120-6d3f7e6173fb"
+}

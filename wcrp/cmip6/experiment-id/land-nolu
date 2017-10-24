@@ -1,27 +1,27 @@
 {
     "_type": "term", 
-    "canonicalName": "land-nolu", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "land-nolu", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "LUMIP"
         ], 
-        "additionalAllowedModelComponents": "", 
-        "endYear": "2014", 
+        "additional_allowed_model_components": "", 
+        "end_year": "2014", 
         "experiment": "historical land-only with no land-use change", 
-        "experimentID": "land-noLu", 
-        "minNumberYrsPerSim": "165", 
-        "parentActivityID": [
+        "experiment_id": "land-noLu", 
+        "min_number_yrs_per_sim": "165", 
+        "parent_activity_id": [
             "no parent"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "no parent"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "LAND"
         ], 
-        "startYear": "1850 or 1700", 
-        "subExperimentID": [
+        "start_year": "1850 or 1700", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "1"
@@ -29,7 +29,8 @@
     "description": "Same as land-hist except no land-use change", 
     "idx": 239, 
     "label": "land-noLu", 
-    "rawName": "land-noLu", 
+    "namespace": "wcrp:cmip6:experiment-id:land-nolu", 
+    "raw_name": "land-noLu", 
     "status": "pending", 
     "uid": "01f6b17e-81ee-416d-9d03-65172a82fe05"
 }

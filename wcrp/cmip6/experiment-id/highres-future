@@ -1,37 +1,36 @@
 {
     "_type": "term", 
-    "canonicalName": "highres-future", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "highres-future", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "HighResMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER"
         ], 
-        "endYear": "2050", 
+        "end_year": "2050", 
         "experiment": "coupled future 2015-2050 using a scenario as close to CMIP5 RCP8.5 as possible within CMIP6", 
-        "experimentID": "highres-future", 
-        "minNumberYrsPerSim": "36", 
-        "parentActivityID": [
+        "experiment_id": "highres-future", 
+        "min_number_yrs_per_sim": "36", 
+        "parent_activity_id": [
             "HighResMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "hist-1950"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM"
         ], 
-        "startYear": "2015", 
-        "subExperimentID": [
+        "start_year": "2015", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
     }, 
     "description": "Coupled integrations with SSP5 forcing (nearest to CMIP5 RCP8.5 (as in highresSST-future)", 
     "idx": 181, 
-    "label": "highres-future", 
-    "rawName": "highres-future", 
+    "namespace": "wcrp:cmip6:experiment-id:highres-future", 
     "status": "pending", 
     "uid": "55b4bab7-2459-41b2-bae4-81c643eb4184"
 }

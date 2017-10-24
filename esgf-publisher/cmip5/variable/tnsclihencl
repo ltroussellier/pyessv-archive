@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tnsclihencl", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tnsclihencl", 
+    "idx": 501, 
+    "namespace": "esgf-publisher:cmip5:variable:tnsclihencl", 
+    "status": "pending", 
+    "uid": "ef7c0760-be1c-450a-aec7-2dda87a4c2d7"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tran", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tran", 
+    "idx": 531, 
+    "namespace": "esgf-publisher:cmip5:variable:tran", 
+    "status": "pending", 
+    "uid": "3b38f20e-c14a-4ded-ad51-4099b4ddcff6"
+}

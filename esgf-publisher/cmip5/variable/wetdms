@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "wetdms", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "wetdms", 
+    "idx": 571, 
+    "namespace": "esgf-publisher:cmip5:variable:wetdms", 
+    "status": "pending", 
+    "uid": "9e333313-1e7e-42cc-aa86-215d9f47d0d6"
+}

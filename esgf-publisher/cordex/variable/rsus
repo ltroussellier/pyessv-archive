@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rsus", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rsus", 
+    "idx": 105, 
+    "namespace": "esgf-publisher:cordex:variable:rsus", 
+    "status": "pending", 
+    "uid": "f77ae8ce-0c12-44bc-a912-7c61e60b5166"
+}

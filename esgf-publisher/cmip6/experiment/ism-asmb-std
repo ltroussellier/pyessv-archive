@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ism-asmb-std", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Offline ice sheet simulation with synthetic atmospheric dataset to explore the uncertainty in sea level due to ice sheet initialization", 
+    "idx": 46, 
+    "namespace": "esgf-publisher:cmip6:experiment:ism-asmb-std", 
+    "status": "pending", 
+    "uid": "5da352ae-f8df-4d1e-8c5d-3dd8cfc9822b"
+}

@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "6hrlev", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "6hrLev", 
+    "idx": 1, 
+    "label": "6hrLev", 
+    "namespace": "esgf-publisher:cmip6:cmor-table:6hrlev", 
+    "status": "pending", 
+    "uid": "96f90245-6a9a-43a3-a833-bb231e8e1e6c"
+}

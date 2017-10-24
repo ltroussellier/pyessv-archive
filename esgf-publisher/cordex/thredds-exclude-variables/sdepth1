@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sdepth1", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "sdepth1", 
+    "idx": 62, 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:sdepth1", 
+    "status": "pending", 
+    "uid": "65b67369-5d22-4aaf-9449-669bb79c87ab"
+}

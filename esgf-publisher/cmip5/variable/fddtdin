@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "fddtdin", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "fddtdin", 
+    "idx": 186, 
+    "namespace": "esgf-publisher:cmip5:variable:fddtdin", 
+    "status": "pending", 
+    "uid": "ddfbe671-8e14-413a-8bd7-f3a776c1fb9d"
+}

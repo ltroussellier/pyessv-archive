@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sblsi", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "sblsi", 
+    "idx": 417, 
+    "namespace": "esgf-publisher:cmip5:variable:sblsi", 
+    "status": "pending", 
+    "uid": "36c74c27-75e5-447f-bbb8-de6f2941524c"
+}

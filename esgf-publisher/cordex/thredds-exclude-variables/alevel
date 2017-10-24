@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "alevel", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "alevel", 
+    "idx": 3, 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:alevel", 
+    "status": "pending", 
+    "uid": "46de740d-cad4-4a98-8c0c-46386c836e62"
+}

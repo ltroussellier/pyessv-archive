@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "bounds-lon", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "bounds_lon", 
+    "idx": 10, 
+    "label": "bounds_lon", 
+    "namespace": "esgf-publisher:cmip5:thredds-exclude-variables:bounds-lon", 
+    "raw_name": "bounds_lon", 
+    "status": "pending", 
+    "uid": "a3d387c6-b72a-49be-865b-169ab8a295c2"
+}

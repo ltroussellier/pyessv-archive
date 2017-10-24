@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "mlotst", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "mlotst", 
+    "idx": 275, 
+    "namespace": "esgf-publisher:cmip5:variable:mlotst", 
+    "status": "pending", 
+    "uid": "16a779aa-9e50-4675-a5dc-132c0bf76c4c"
+}

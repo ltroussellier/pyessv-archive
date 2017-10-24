@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rsd", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rsd", 
+    "idx": 393, 
+    "namespace": "esgf-publisher:cmip5:variable:rsd", 
+    "status": "pending", 
+    "uid": "312aed63-7309-4172-b2ab-dbdd368e2b0e"
+}

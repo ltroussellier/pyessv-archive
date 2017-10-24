@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "historical", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Historical", 
+    "idx": 1, 
+    "namespace": "esgf-publisher:cordex:experiment:historical", 
+    "status": "pending", 
+    "uid": "b5532ac9-19e1-4500-8893-4bd25af9a03b"
+}

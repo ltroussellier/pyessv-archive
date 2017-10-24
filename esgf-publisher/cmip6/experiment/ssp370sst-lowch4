@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "ssp370sst-lowch4", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Future SSP3-7.0 with reduced CH4 concentrations, prescribed SSTs", 
+    "idx": 78, 
+    "label": "ssp370SST-lowCH4", 
+    "namespace": "esgf-publisher:cmip6:experiment:ssp370sst-lowch4", 
+    "raw_name": "ssp370SST-lowCH4", 
+    "status": "pending", 
+    "uid": "60f2a74e-6232-4886-80bd-72592eedf140"
+}

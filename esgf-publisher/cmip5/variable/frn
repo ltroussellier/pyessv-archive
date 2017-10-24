@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "frn", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "frn", 
+    "idx": 198, 
+    "namespace": "esgf-publisher:cmip5:variable:frn", 
+    "status": "pending", 
+    "uid": "0711176e-bd57-4f1a-a9bb-7501572304ca"
+}

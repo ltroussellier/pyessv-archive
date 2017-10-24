@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "edt", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "edt", 
+    "idx": 136, 
+    "namespace": "esgf-publisher:cmip5:variable:edt", 
+    "status": "pending", 
+    "uid": "14d88bf9-a64a-4f19-ae5d-641481f648a9"
+}

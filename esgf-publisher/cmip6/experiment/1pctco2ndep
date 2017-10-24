@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "1pctco2ndep", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Fully-coupled specified concentration simulation in which CO2 increases at a rate of 1percent per year until quadrupling, plus an additional scenario of anthropogenic nitrogen deposition", 
+    "idx": 177, 
+    "label": "1pctCO2Ndep", 
+    "namespace": "esgf-publisher:cmip6:experiment:1pctco2ndep", 
+    "raw_name": "1pctCO2Ndep", 
+    "status": "pending", 
+    "uid": "e3b792d6-8978-4a31-8be0-74dc65596d75"
+}

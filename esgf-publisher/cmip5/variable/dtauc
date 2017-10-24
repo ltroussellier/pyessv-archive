@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "dtauc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "dtauc", 
+    "idx": 133, 
+    "namespace": "esgf-publisher:cmip5:variable:dtauc", 
+    "status": "pending", 
+    "uid": "690a66d8-074e-4255-a20c-796fac9d21f1"
+}

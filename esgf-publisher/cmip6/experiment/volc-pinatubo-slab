@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "volc-pinatubo-slab", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "As volc-pinatubo-full, but with a slab ocean", 
+    "idx": 77, 
+    "namespace": "esgf-publisher:cmip6:experiment:volc-pinatubo-slab", 
+    "status": "pending", 
+    "uid": "c42f3623-fe46-4315-8b65-6a6118b1c1a5"
+}

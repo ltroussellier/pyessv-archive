@@ -1,10 +1,11 @@
 {
     "_type": "term", 
-    "canonicalName": "land", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "land", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "idx": 6, 
     "label": "LAND", 
-    "rawName": "LAND", 
+    "namespace": "wcrp:cmip6:source-type:land", 
+    "raw_name": "LAND", 
     "status": "pending", 
     "uid": "44b70e72-3fff-4486-8b28-a2e643e54f5d"
 }

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rsu", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rsu", 
+    "idx": 404, 
+    "namespace": "esgf-publisher:cmip5:variable:rsu", 
+    "status": "pending", 
+    "uid": "761e0c9c-a780-4d8e-a5bf-3c94a0f7fdde"
+}

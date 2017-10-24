@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "nppleaf", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "nppLeaf", 
+    "idx": 301, 
+    "label": "nppLeaf", 
+    "namespace": "esgf-publisher:cmip5:variable:nppleaf", 
+    "status": "pending", 
+    "uid": "c66fb03e-958d-4817-a07a-74db3f96f1b4"
+}

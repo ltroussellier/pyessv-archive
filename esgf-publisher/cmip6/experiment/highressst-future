@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "highressst-future", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Extend highresSST-present to 2050 with agreed SSP5/RCP8.5 forcings (with option to extend further to 2100)", 
+    "idx": 47, 
+    "label": "highresSST-future", 
+    "namespace": "esgf-publisher:cmip6:experiment:highressst-future", 
+    "raw_name": "highresSST-future", 
+    "status": "pending", 
+    "uid": "94dda3e0-06ba-4bd8-9a34-84bc3f87c791"
+}

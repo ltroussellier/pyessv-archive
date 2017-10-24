@@ -1,10 +1,11 @@
 {
     "_type": "term", 
-    "canonicalName": "simon", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "simon", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "idx": 40, 
     "label": "SImon", 
-    "rawName": "SImon", 
+    "namespace": "wcrp:cmip6:table-id:simon", 
+    "raw_name": "SImon", 
     "status": "pending", 
     "uid": "2fe6c3bb-6ee0-4bec-823b-81c454ff17ed"
 }

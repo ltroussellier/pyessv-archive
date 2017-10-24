@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "mrros", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "mrros", 
+    "idx": 281, 
+    "namespace": "esgf-publisher:cmip5:variable:mrros", 
+    "status": "pending", 
+    "uid": "1b1d700d-1804-4f2d-a55e-a0ab200d3e62"
+}

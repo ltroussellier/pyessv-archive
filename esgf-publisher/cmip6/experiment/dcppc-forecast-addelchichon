@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "dcppc-forecast-addelchichon", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "C3.5 Effects of volcanoes on decadal prediction and predictability of forced and internal variability components. First full hindcast year is 2015", 
+    "idx": 196, 
+    "label": "dcppC-forecast-addElChichon", 
+    "namespace": "esgf-publisher:cmip6:experiment:dcppc-forecast-addelchichon", 
+    "raw_name": "dcppC-forecast-addElChichon", 
+    "status": "pending", 
+    "uid": "827b1bfc-d3e9-4454-8c7d-62394d1560ad"
+}

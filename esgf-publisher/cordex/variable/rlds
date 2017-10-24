@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rlds", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rlds", 
+    "idx": 100, 
+    "namespace": "esgf-publisher:cordex:variable:rlds", 
+    "status": "pending", 
+    "uid": "7ec92db3-19f0-45a6-8186-dcc9a27abdbf"
+}

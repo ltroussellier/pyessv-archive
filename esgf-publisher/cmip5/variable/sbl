@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sbl", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "sbl", 
+    "idx": 416, 
+    "namespace": "esgf-publisher:cmip5:variable:sbl", 
+    "status": "pending", 
+    "uid": "fae1bb8a-d725-4a38-9be1-3ae162d48ac3"
+}

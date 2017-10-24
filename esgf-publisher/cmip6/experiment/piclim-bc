@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "piclim-bc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Perturbation from 1850 control using 2014 BC emissions", 
+    "idx": 202, 
+    "label": "piClim-BC", 
+    "namespace": "esgf-publisher:cmip6:experiment:piclim-bc", 
+    "raw_name": "piClim-BC", 
+    "status": "pending", 
+    "uid": "b97fa53e-4ea5-41da-bb65-0dc210f034dc"
+}

@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "gfdl-am4", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "GFDL-AM4", 
+    "idx": 29, 
+    "label": "GFDL-AM4", 
+    "namespace": "esgf-publisher:cmip6:source-id:gfdl-am4", 
+    "status": "pending", 
+    "uid": "afa37e2b-328e-4e99-9b74-5e17c266c20c"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "faf-water", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "1xCO2 experiment, parallel to piControl, forced over the ocean by surface net freshwater flux anomalies obtained from the CMIP5 ensemble mean of 1pctCO2 experiments at the time of 2xCO2", 
+    "idx": 106, 
+    "namespace": "esgf-publisher:cmip6:experiment:faf-water", 
+    "status": "pending", 
+    "uid": "45ce2ee0-efab-4f3d-be1c-300658d366d1"
+}

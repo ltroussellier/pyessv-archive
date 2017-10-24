@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "cldnvi", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "cldnvi", 
+    "idx": 63, 
+    "namespace": "esgf-publisher:cmip5:variable:cldnvi", 
+    "status": "pending", 
+    "uid": "6b92a017-4c74-4d2e-b6d4-edaaf7478bf0"
+}

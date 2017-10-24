@@ -1,10 +1,9 @@
 {
     "_type": "term", 
-    "canonicalName": "6hr", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
-    "idx": 7, 
-    "label": "6hr", 
-    "rawName": "6hr", 
+    "canonical_name": "6hr", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "idx": 8, 
+    "namespace": "wcrp:cmip6:frequency:6hr", 
     "status": "pending", 
     "uid": "4f3de8b4-6f12-4647-a0ae-80a2ee16d3f5"
 }

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hfydiff", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "hfydiff", 
+    "idx": 235, 
+    "namespace": "esgf-publisher:cmip5:variable:hfydiff", 
+    "status": "pending", 
+    "uid": "a1a68f61-a06e-43df-be1c-afe7b8c00da9"
+}

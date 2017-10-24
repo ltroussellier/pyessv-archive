@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "pr", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "pr", 
+    "idx": 92, 
+    "namespace": "esgf-publisher:cordex:variable:pr", 
+    "status": "pending", 
+    "uid": "43c05e39-e7e6-4c59-8f66-5a00866ec550"
+}

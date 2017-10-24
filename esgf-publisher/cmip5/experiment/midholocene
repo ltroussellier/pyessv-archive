@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "midholocene", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Mid-Holocene", 
+    "idx": 78, 
+    "label": "midHolocene", 
+    "namespace": "esgf-publisher:cmip5:experiment:midholocene", 
+    "raw_name": "midHolocene", 
+    "status": "pending", 
+    "uid": "318da426-4ae2-420c-b565-8e1e090008c2"
+}

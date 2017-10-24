@@ -1,10 +1,11 @@
 {
     "_type": "term", 
-    "canonicalName": "eday", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "eday", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "idx": 18, 
     "label": "Eday", 
-    "rawName": "Eday", 
+    "namespace": "wcrp:cmip6:table-id:eday", 
+    "raw_name": "Eday", 
     "status": "pending", 
     "uid": "bc164055-a26d-417e-a696-dec84acb1c79"
 }

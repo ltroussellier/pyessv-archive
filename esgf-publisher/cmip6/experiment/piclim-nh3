@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "piclim-nh3", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Perturbation from 1850 control using 2014 NH3 emissions", 
+    "idx": 2, 
+    "label": "piClim-NH3", 
+    "namespace": "esgf-publisher:cmip6:experiment:piclim-nh3", 
+    "raw_name": "piClim-NH3", 
+    "status": "pending", 
+    "uid": "7269059d-d802-437b-8774-e1cece407cf9"
+}

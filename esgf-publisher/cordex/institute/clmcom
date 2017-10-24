@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "clmcom", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CLMcom", 
+    "idx": 6, 
+    "label": "CLMcom", 
+    "namespace": "esgf-publisher:cordex:institute:clmcom", 
+    "status": "pending", 
+    "uid": "ddd01b45-be09-4e23-ac73-8730f13866b4"
+}

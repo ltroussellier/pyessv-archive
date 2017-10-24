@@ -1,10 +1,9 @@
 {
     "_type": "term", 
-    "canonicalName": "gr3a", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "gr3a", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "idx": 28, 
-    "label": "gr3a", 
-    "rawName": "gr3a", 
+    "namespace": "wcrp:cmip6:grid-label:gr3a", 
     "status": "pending", 
     "uid": "c1526b25-191c-4837-88e9-dfd6658b19ba"
 }

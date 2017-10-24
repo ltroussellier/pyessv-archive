@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "hist-co2", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Historical CO2-only run", 
+    "idx": 150, 
+    "label": "hist-CO2", 
+    "namespace": "esgf-publisher:cmip6:experiment:hist-co2", 
+    "raw_name": "hist-CO2", 
+    "status": "pending", 
+    "uid": "400e6685-8248-4d20-9b59-8ec213633d78"
+}

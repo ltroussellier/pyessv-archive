@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "prw", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "prw", 
+    "idx": 350, 
+    "namespace": "esgf-publisher:cmip5:variable:prw", 
+    "status": "pending", 
+    "uid": "5af5d9c3-012d-4000-aa32-deb0073db664"
+}

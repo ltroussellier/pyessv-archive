@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "cnrm-arpege51", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CNRM-ARPEGE51", 
+    "idx": 9, 
+    "label": "CNRM-ARPEGE51", 
+    "namespace": "esgf-publisher:cordex:rcm-model:cnrm-arpege51", 
+    "status": "pending", 
+    "uid": "1e367d14-4671-4e9d-8c01-0301ed249016"
+}

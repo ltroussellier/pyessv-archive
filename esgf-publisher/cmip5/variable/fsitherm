@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "fsitherm", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "fsitherm", 
+    "idx": 201, 
+    "namespace": "esgf-publisher:cmip5:variable:fsitherm", 
+    "status": "pending", 
+    "uid": "2ebbb66b-e1a7-4c1b-a6f8-99cf7f76468a"
+}

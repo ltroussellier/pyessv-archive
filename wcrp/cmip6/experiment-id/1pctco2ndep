@@ -1,31 +1,31 @@
 {
     "_type": "term", 
-    "canonicalName": "1pctco2ndep", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "1pctco2ndep", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "C4MIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM"
         ], 
-        "endYear": "", 
+        "end_year": "", 
         "experiment": "1 percent per year increasing CO2 experiment with increasing N-deposition", 
-        "experimentID": "1pctCO2Ndep", 
-        "minNumberYrsPerSim": "150", 
-        "parentActivityID": [
+        "experiment_id": "1pctCO2Ndep", 
+        "min_number_yrs_per_sim": "150", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "piControl"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM", 
             "BGC"
         ], 
-        "startYear": "", 
-        "subExperimentID": [
+        "start_year": "", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
@@ -33,7 +33,8 @@
     "description": "Fully-coupled specified concentration simulation in which CO2 increases at a rate of 1% per year until quadrupling, plus an additional scenario of anthropogenic nitrogen deposition", 
     "idx": 177, 
     "label": "1pctCO2Ndep", 
-    "rawName": "1pctCO2Ndep", 
+    "namespace": "wcrp:cmip6:experiment-id:1pctco2ndep", 
+    "raw_name": "1pctCO2Ndep", 
     "status": "pending", 
     "uid": "c279384e-6d6b-4981-8063-36726b39a25d"
 }

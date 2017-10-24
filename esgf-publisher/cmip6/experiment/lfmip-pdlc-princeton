@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "lfmip-pdlc-princeton", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Prescribed land conditions 1980-2014 climate with Land-Hist-princeton", 
+    "idx": 142, 
+    "label": "lfmip-pdLC-princeton", 
+    "namespace": "esgf-publisher:cmip6:experiment:lfmip-pdlc-princeton", 
+    "raw_name": "lfmip-pdLC-princeton", 
+    "status": "pending", 
+    "uid": "4a727522-7c42-49c9-ae41-2ba42971b22c"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tasmin", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tasmin", 
+    "idx": 138, 
+    "namespace": "esgf-publisher:cordex:variable:tasmin", 
+    "status": "pending", 
+    "uid": "4c0f0d62-b50d-4b7c-a4aa-c19cbc4ef4cf"
+}

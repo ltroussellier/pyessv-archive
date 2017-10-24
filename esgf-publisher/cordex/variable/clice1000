@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clice1000", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "clice1000", 
+    "idx": 17, 
+    "namespace": "esgf-publisher:cordex:variable:clice1000", 
+    "status": "pending", 
+    "uid": "86764ddf-ceaa-40d8-85b2-647601618c5c"
+}

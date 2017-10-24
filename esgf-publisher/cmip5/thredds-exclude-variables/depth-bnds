@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "depth-bnds", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "depth_bnds", 
+    "idx": 15, 
+    "label": "depth_bnds", 
+    "namespace": "esgf-publisher:cmip5:thredds-exclude-variables:depth-bnds", 
+    "raw_name": "depth_bnds", 
+    "status": "pending", 
+    "uid": "63bcb4e3-675e-4689-8bef-0f766883dce8"
+}

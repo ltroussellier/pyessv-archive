@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "nep", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "nep", 
+    "idx": 297, 
+    "namespace": "esgf-publisher:cmip5:variable:nep", 
+    "status": "pending", 
+    "uid": "b3863bc9-d24e-4ed6-9be8-8df355d3159d"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clwvi", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "clwvi", 
+    "idx": 47, 
+    "namespace": "esgf-publisher:cordex:variable:clwvi", 
+    "status": "pending", 
+    "uid": "b26462e1-e92b-4c8d-aa3e-d0b99bfca551"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "si", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "si", 
+    "idx": 436, 
+    "namespace": "esgf-publisher:cmip5:variable:si", 
+    "status": "pending", 
+    "uid": "b82aa732-2c0b-4a10-ad57-ad9bf656e3a3"
+}

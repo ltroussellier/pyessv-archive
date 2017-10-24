@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "ccwd", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "cCwd", 
+    "idx": 23, 
+    "label": "cCwd", 
+    "namespace": "esgf-publisher:cmip5:variable:ccwd", 
+    "status": "pending", 
+    "uid": "5a2b8aa8-36fe-45fb-bed5-0adbda134715"
+}

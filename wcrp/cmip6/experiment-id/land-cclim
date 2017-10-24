@@ -1,27 +1,27 @@
 {
     "_type": "term", 
-    "canonicalName": "land-cclim", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "land-cclim", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "LUMIP"
         ], 
-        "additionalAllowedModelComponents": "", 
-        "endYear": "2014", 
+        "additional_allowed_model_components": "", 
+        "end_year": "2014", 
         "experiment": "historical land-only constant climate", 
-        "experimentID": "land-cClim", 
-        "minNumberYrsPerSim": "165", 
-        "parentActivityID": [
+        "experiment_id": "land-cClim", 
+        "min_number_yrs_per_sim": "165", 
+        "parent_activity_id": [
             "no parent"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "no parent"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "LAND"
         ], 
-        "startYear": "1850 or 1700", 
-        "subExperimentID": [
+        "start_year": "1850 or 1700", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
@@ -29,7 +29,8 @@
     "description": "Same as land-hist except with climate held constant", 
     "idx": 118, 
     "label": "land-cClim", 
-    "rawName": "land-cClim", 
+    "namespace": "wcrp:cmip6:experiment-id:land-cclim", 
+    "raw_name": "land-cClim", 
     "status": "pending", 
     "uid": "969a757f-d3b4-4a49-b61c-8738e4fce84e"
 }

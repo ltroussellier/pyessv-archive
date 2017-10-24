@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "fgo2", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "fgo2", 
+    "idx": 193, 
+    "namespace": "esgf-publisher:cmip5:variable:fgo2", 
+    "status": "pending", 
+    "uid": "97d69db8-5d8d-4051-9957-81fcd27b9e35"
+}

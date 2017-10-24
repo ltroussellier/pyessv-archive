@@ -1,35 +1,34 @@
 {
     "_type": "term", 
-    "canonicalName": "land-crop-grass", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "land-crop-grass", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "LUMIP"
         ], 
-        "additionalAllowedModelComponents": "", 
-        "endYear": "2014", 
+        "additional_allowed_model_components": "", 
+        "end_year": "2014", 
         "experiment": "historical land-only with cropland as natural grassland", 
-        "experimentID": "land-crop-grass", 
-        "minNumberYrsPerSim": "165", 
-        "parentActivityID": [
+        "experiment_id": "land-crop-grass", 
+        "min_number_yrs_per_sim": "165", 
+        "parent_activity_id": [
             "no parent"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "no parent"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "LAND"
         ], 
-        "startYear": "1850 or 1700", 
-        "subExperimentID": [
+        "start_year": "1850 or 1700", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
     }, 
     "description": "Same as land-hist but with all new crop and pastureland treated as unmanaged grassland", 
     "idx": 26, 
-    "label": "land-crop-grass", 
-    "rawName": "land-crop-grass", 
+    "namespace": "wcrp:cmip6:experiment-id:land-crop-grass", 
     "status": "pending", 
     "uid": "c4e4f57a-9833-4efb-a94d-889e2aadee9d"
 }

@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "hadgem2-ao", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "HadGEM2-AO", 
+    "idx": 41, 
+    "label": "HadGEM2-AO", 
+    "namespace": "esgf-publisher:cmip5:model:hadgem2-ao", 
+    "status": "pending", 
+    "uid": "c86f1db2-7eaa-4264-98bf-478485b48e28"
+}

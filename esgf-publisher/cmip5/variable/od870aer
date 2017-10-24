@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "od870aer", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "od870aer", 
+    "idx": 308, 
+    "namespace": "esgf-publisher:cmip5:variable:od870aer", 
+    "status": "pending", 
+    "uid": "7a6c5d2b-87c0-4a54-9825-0bd6f983eabe"
+}

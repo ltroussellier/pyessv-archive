@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "amip-piforcing", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Identical to standard AMIP experiment but from 1870-present with constant pre-industrial forcing levels (anthropogenic and natural)", 
+    "idx": 221, 
+    "label": "amip-piForcing", 
+    "namespace": "esgf-publisher:cmip6:experiment:amip-piforcing", 
+    "raw_name": "amip-piForcing", 
+    "status": "pending", 
+    "uid": "b6a39086-b588-4f62-bf61-6edf6b679ee8"
+}

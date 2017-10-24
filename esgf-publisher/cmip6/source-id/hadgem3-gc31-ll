@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "hadgem3-gc31-ll", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "HadGEM3-GC31-LL", 
+    "idx": 36, 
+    "label": "HadGEM3-GC31-LL", 
+    "namespace": "esgf-publisher:cmip6:source-id:hadgem3-gc31-ll", 
+    "status": "pending", 
+    "uid": "d4b3e767-ae50-4c3d-a305-f7bffb76612c"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "prls", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "prls", 
+    "idx": 95, 
+    "namespace": "esgf-publisher:cordex:variable:prls", 
+    "status": "pending", 
+    "uid": "05843b6c-c3aa-463e-837c-a652aa3195da"
+}

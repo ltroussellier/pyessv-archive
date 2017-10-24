@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "cwood", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "cWood", 
+    "idx": 36, 
+    "label": "cWood", 
+    "namespace": "esgf-publisher:cmip5:variable:cwood", 
+    "status": "pending", 
+    "uid": "3a664aca-b774-47b0-ad95-cccb5ffb1dcd"
+}

@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "cesm1-bgc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CESM1-BGC", 
+    "idx": 10, 
+    "label": "CESM1-BGC", 
+    "namespace": "esgf-publisher:cmip5:model:cesm1-bgc", 
+    "status": "pending", 
+    "uid": "10c41440-e2fe-4852-91bb-81c8200f3e8e"
+}

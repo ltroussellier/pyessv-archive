@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "knmi-racmo22t", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "KNMI-RACMO22T", 
+    "idx": 26, 
+    "label": "KNMI-RACMO22T", 
+    "namespace": "esgf-publisher:cordex:rcm-model:knmi-racmo22t", 
+    "status": "pending", 
+    "uid": "1564b9c6-aad7-44cb-9f34-ee7cd523314e"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "1-month", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "1 month", 
+    "idx": 0, 
+    "label": "1 month", 
+    "namespace": "esgf-publisher:cordex:las-time-delta:1-month", 
+    "raw_name": "1 month", 
+    "status": "pending", 
+    "uid": "ef17135e-e684-4de0-b9f9-563b36b9beab"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "zostoga", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "zostoga", 
+    "idx": 597, 
+    "namespace": "esgf-publisher:cmip5:variable:zostoga", 
+    "status": "pending", 
+    "uid": "0d68d251-ff55-4354-a221-d5ac5e6c58a0"
+}

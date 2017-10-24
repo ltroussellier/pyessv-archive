@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "awi", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "AWI", 
+    "idx": 2, 
+    "label": "AWI", 
+    "namespace": "esgf-publisher:cordex:institute:awi", 
+    "status": "pending", 
+    "uid": "4d2c327d-7f86-4f91-8eb8-64e42585134b"
+}

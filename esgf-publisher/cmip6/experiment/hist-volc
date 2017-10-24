@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hist-volc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Historical volcanic-only run", 
+    "idx": 182, 
+    "namespace": "esgf-publisher:cmip6:experiment:hist-volc", 
+    "status": "pending", 
+    "uid": "f3da1b7d-f453-4712-9c4b-d10f8f61efea"
+}

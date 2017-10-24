@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "sfcwindmaxmax", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "sfcWindmaxmax", 
+    "idx": 109, 
+    "label": "sfcWindmaxmax", 
+    "namespace": "esgf-publisher:cordex:variable:sfcwindmaxmax", 
+    "status": "pending", 
+    "uid": "6c559e80-3955-4a24-a9e9-ac8d63f65a98"
+}

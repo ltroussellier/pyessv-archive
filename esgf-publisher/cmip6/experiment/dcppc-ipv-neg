@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "dcppc-ipv-neg", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "C1.6 Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs", 
+    "idx": 124, 
+    "label": "dcppC-ipv-neg", 
+    "namespace": "esgf-publisher:cmip6:experiment:dcppc-ipv-neg", 
+    "raw_name": "dcppC-ipv-neg", 
+    "status": "pending", 
+    "uid": "33e594b7-aa09-4497-b661-25aa7f419fa9"
+}

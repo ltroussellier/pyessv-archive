@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "uo", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "uo", 
+    "idx": 553, 
+    "namespace": "esgf-publisher:cmip5:variable:uo", 
+    "status": "pending", 
+    "uid": "08d15115-5175-4420-a9df-bda65f20ccd5"
+}

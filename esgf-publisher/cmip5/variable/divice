@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "divice", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "divice", 
+    "idx": 115, 
+    "namespace": "esgf-publisher:cmip5:variable:divice", 
+    "status": "pending", 
+    "uid": "d493d1be-d0d9-41b8-b385-672a3fa8af17"
+}

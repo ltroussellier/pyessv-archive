@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "aerhr", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "AERhr", 
+    "idx": 5, 
+    "label": "AERhr", 
+    "namespace": "esgf-publisher:cmip6:cmor-table:aerhr", 
+    "status": "pending", 
+    "uid": "ddbb86fe-bb78-4147-bd4c-3552dec152bb"
+}

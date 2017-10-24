@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sconcno3", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "sconcno3", 
+    "idx": 422, 
+    "namespace": "esgf-publisher:cmip5:variable:sconcno3", 
+    "status": "pending", 
+    "uid": "0c85a728-b533-46cf-9a98-66ed838dd78d"
+}

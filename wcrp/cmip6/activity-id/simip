@@ -1,10 +1,11 @@
 {
     "_type": "term", 
-    "canonicalName": "simip", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "simip", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "idx": 13, 
     "label": "SIMIP", 
-    "rawName": "SIMIP", 
+    "namespace": "wcrp:cmip6:activity-id:simip", 
+    "raw_name": "SIMIP", 
     "status": "pending", 
     "uid": "fd983894-bb22-454b-a708-1d129ebd8ed5"
 }

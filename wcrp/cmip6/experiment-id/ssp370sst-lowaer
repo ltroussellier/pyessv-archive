@@ -1,30 +1,30 @@
 {
     "_type": "term", 
-    "canonicalName": "ssp370sst-lowaer", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "ssp370sst-lowaer", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "AerChemMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "CHEM"
         ], 
-        "endYear": "2055", 
+        "end_year": "2055", 
         "experiment": "SSP3-7.0, prescribed SSTs, with low aerosol emissions", 
-        "experimentID": "ssp370SST-lowAer", 
-        "minNumberYrsPerSim": "41", 
-        "parentActivityID": [
+        "experiment_id": "ssp370SST-lowAer", 
+        "min_number_yrs_per_sim": "41", 
+        "parent_activity_id": [
             "ScenarioMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "ssp370"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AGCM", 
             "AER"
         ], 
-        "startYear": "2015", 
-        "subExperimentID": [
+        "start_year": "2015", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
@@ -32,7 +32,8 @@
     "description": "Future SSP3-7.0 with reduced aerosol emissions (from ssp370-lowNTCF), prescribed SSTs", 
     "idx": 57, 
     "label": "ssp370SST-lowAer", 
-    "rawName": "ssp370SST-lowAer", 
+    "namespace": "wcrp:cmip6:experiment-id:ssp370sst-lowaer", 
+    "raw_name": "ssp370SST-lowAer", 
     "status": "pending", 
     "uid": "dcfe6c05-21ca-4e7a-a18d-bbdc78a64295"
 }

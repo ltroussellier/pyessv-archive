@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "lfmip-pdlc-wfdei", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Prescribed land conditions 1980-2014 climate with Land-Hist-wfdei", 
+    "idx": 96, 
+    "label": "lfmip-pdLC-wfdei", 
+    "namespace": "esgf-publisher:cmip6:experiment:lfmip-pdlc-wfdei", 
+    "raw_name": "lfmip-pdLC-wfdei", 
+    "status": "pending", 
+    "uid": "c941a7f2-8902-4fc5-8425-ede9ba511912"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "land-crop-nofert", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Same as land-hist but with fertilization rates and area held at 1850 levels/distribution", 
+    "idx": 235, 
+    "label": "land-crop-noFert", 
+    "namespace": "esgf-publisher:cmip6:experiment:land-crop-nofert", 
+    "raw_name": "land-crop-noFert", 
+    "status": "pending", 
+    "uid": "46abfe3f-3b73-42f9-8174-9439397d2591"
+}

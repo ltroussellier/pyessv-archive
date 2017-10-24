@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "reffclis", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "reffclis", 
+    "idx": 359, 
+    "namespace": "esgf-publisher:cmip5:variable:reffclis", 
+    "status": "pending", 
+    "uid": "388a8fe1-5d49-4677-8b70-b698ae8b5f29"
+}

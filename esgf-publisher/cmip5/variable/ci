@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ci", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ci", 
+    "idx": 56, 
+    "namespace": "esgf-publisher:cmip5:variable:ci", 
+    "status": "pending", 
+    "uid": "ce665ff3-be71-4c1e-a55f-a79d6c86fab6"
+}

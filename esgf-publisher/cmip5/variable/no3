@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "no3", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "no3", 
+    "idx": 299, 
+    "namespace": "esgf-publisher:cmip5:variable:no3", 
+    "status": "pending", 
+    "uid": "b2044e47-a977-41d0-b788-ebbda24e389f"
+}

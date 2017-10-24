@@ -1,13 +1,14 @@
 {
     "_type": "term", 
-    "canonicalName": "ncar", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "ncar", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "postalAddress": "National Center for Atmospheric Research, Boulder, CO 80301, USA"
+        "postal_address": "National Center for Atmospheric Research, Boulder, CO 80301, USA"
     }, 
-    "idx": 12, 
+    "idx": 13, 
     "label": "NCAR", 
-    "rawName": "NCAR", 
+    "namespace": "wcrp:cmip6:institution-id:ncar", 
+    "raw_name": "NCAR", 
     "status": "pending", 
     "uid": "06f65e39-f718-48aa-b1ea-f3db55022e25"
 }

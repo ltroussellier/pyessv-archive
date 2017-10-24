@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "viacsab", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "VIACSAB", 
+    "idx": 20, 
+    "label": "VIACSAB", 
+    "namespace": "esgf-publisher:cmip6:activity:viacsab", 
+    "status": "pending", 
+    "uid": "55d05ce7-4f75-467d-bb24-4310d2f05cc7"
+}

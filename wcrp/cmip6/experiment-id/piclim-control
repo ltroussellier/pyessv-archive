@@ -1,31 +1,31 @@
 {
     "_type": "term", 
-    "canonicalName": "piclim-control", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "piclim-control", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "RFMIP", 
             "AerChemMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM"
         ], 
-        "endYear": "", 
+        "end_year": "", 
         "experiment": "effective radiative forcing in present-day", 
-        "experimentID": "piClim-control", 
-        "minNumberYrsPerSim": "30", 
-        "parentActivityID": [
+        "experiment_id": "piClim-control", 
+        "min_number_yrs_per_sim": "30", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "piControl"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AGCM"
         ], 
-        "startYear": "", 
-        "subExperimentID": [
+        "start_year": "", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "1"
@@ -33,7 +33,8 @@
     "description": "30-year atmosphere only integration using preindustrial sea-surface temperature and sea-ice climatology. Interactive vegetation", 
     "idx": 117, 
     "label": "piClim-control", 
-    "rawName": "piClim-control", 
+    "namespace": "wcrp:cmip6:experiment-id:piclim-control", 
+    "raw_name": "piClim-control", 
     "status": "pending", 
     "uid": "c9277e70-d8a6-4f6a-817e-f311c6183d34"
 }

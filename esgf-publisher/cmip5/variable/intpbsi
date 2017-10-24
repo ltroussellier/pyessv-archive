@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "intpbsi", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "intpbsi", 
+    "idx": 247, 
+    "namespace": "esgf-publisher:cmip5:variable:intpbsi", 
+    "status": "pending", 
+    "uid": "ee98a990-45a2-4682-9007-c44f110aec64"
+}

@@ -1,12 +1,10 @@
 {
     "_type": "term", 
-    "canonicalName": "s2023", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
-    "data": {}, 
+    "canonical_name": "s2023", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "initialized near end of year 2023", 
     "idx": 71, 
-    "label": "s2023", 
-    "rawName": "s2023", 
+    "namespace": "wcrp:cmip6:sub-experiment-id:s2023", 
     "status": "pending", 
     "uid": "918bbf67-985d-41ad-a634-d4b3aca546b5"
 }

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "expcalc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "expcalc", 
+    "idx": 162, 
+    "namespace": "esgf-publisher:cmip5:variable:expcalc", 
+    "status": "pending", 
+    "uid": "7c3c8d6c-9384-432d-8b16-782f1331c642"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "h2o", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "h2o", 
+    "idx": 209, 
+    "namespace": "esgf-publisher:cmip5:variable:h2o", 
+    "status": "pending", 
+    "uid": "f09599e4-450a-443d-8d71-bc4921791d61"
+}

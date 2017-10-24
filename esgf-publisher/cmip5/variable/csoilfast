@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "csoilfast", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "cSoilFast", 
+    "idx": 32, 
+    "label": "cSoilFast", 
+    "namespace": "esgf-publisher:cmip5:variable:csoilfast", 
+    "status": "pending", 
+    "uid": "69778bd2-ad22-4f8d-9753-514e4ef47d87"
+}

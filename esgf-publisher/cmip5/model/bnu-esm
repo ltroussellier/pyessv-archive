@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "bnu-esm", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "BNU-ESM", 
+    "idx": 5, 
+    "label": "BNU-ESM", 
+    "namespace": "esgf-publisher:cmip5:model:bnu-esm", 
+    "status": "pending", 
+    "uid": "ec00f300-28cb-4537-9bfe-47cf54df7e59"
+}

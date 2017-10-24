@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "mri-esm1", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "MRI-ESM1", 
+    "idx": 59, 
+    "label": "MRI-ESM1", 
+    "namespace": "esgf-publisher:cmip5:model:mri-esm1", 
+    "status": "pending", 
+    "uid": "958bc326-1e9e-47b3-9379-f50d53159598"
+}

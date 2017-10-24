@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "epcalc100", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "epcalc100", 
+    "idx": 149, 
+    "namespace": "esgf-publisher:cmip5:variable:epcalc100", 
+    "status": "pending", 
+    "uid": "a31cb370-347f-4c96-82ec-572a29406be5"
+}

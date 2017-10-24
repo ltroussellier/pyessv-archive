@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "subhr", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "subhr", 
+    "idx": 6, 
+    "namespace": "esgf-publisher:cmip5:time-frequency:subhr", 
+    "status": "pending", 
+    "uid": "c8269f92-49f5-4621-bfc4-1ae09ea0575f"
+}

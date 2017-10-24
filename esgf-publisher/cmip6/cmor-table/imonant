@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "imonant", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ImonAnt", 
+    "idx": 27, 
+    "label": "ImonAnt", 
+    "namespace": "esgf-publisher:cmip6:cmor-table:imonant", 
+    "status": "pending", 
+    "uid": "4c3ab170-1242-4911-860d-8f51a0ed78ef"
+}

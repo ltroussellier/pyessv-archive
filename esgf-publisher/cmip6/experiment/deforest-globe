@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "deforest-globe", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Idealized deforestation experiment, 20 million km2 forest removed linearly over a period of 50 years, with an additional 30 years with no specified change in forest cover; all other forcings held constant", 
+    "idx": 174, 
+    "namespace": "esgf-publisher:cmip6:experiment:deforest-globe", 
+    "status": "pending", 
+    "uid": "00289dcd-47cb-432a-9b31-9141cbb7d18b"
+}

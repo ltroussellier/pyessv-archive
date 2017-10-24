@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "ipsl-ineris-wrf331f", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "IPSL-INERIS-WRF331F", 
+    "idx": 21, 
+    "label": "IPSL-INERIS-WRF331F", 
+    "namespace": "esgf-publisher:cordex:rcm-model:ipsl-ineris-wrf331f", 
+    "status": "pending", 
+    "uid": "78207d0f-735f-4e72-85d4-2c4adfbaab61"
+}

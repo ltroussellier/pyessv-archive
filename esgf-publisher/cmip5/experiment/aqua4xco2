@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "aqua4xco2", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "4xCO2 aqua planet", 
+    "idx": 7, 
+    "label": "aqua4xCO2", 
+    "namespace": "esgf-publisher:cmip5:experiment:aqua4xco2", 
+    "raw_name": "aqua4xCO2", 
+    "status": "pending", 
+    "uid": "6bf25c06-f9ea-45a6-9337-c0bc919a808b"
+}

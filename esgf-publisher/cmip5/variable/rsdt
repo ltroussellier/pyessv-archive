@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rsdt", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rsdt", 
+    "idx": 402, 
+    "namespace": "esgf-publisher:cmip5:variable:rsdt", 
+    "status": "pending", 
+    "uid": "220465e0-a253-4678-a535-784e11749c72"
+}

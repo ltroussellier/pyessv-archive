@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "p840", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "p840", 
+    "idx": 46, 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:p840", 
+    "status": "pending", 
+    "uid": "de7a49fe-df45-44e9-b8ab-c84ef533300d"
+}

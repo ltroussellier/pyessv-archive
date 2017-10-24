@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "time-bnds", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "time_bnds", 
+    "idx": 69, 
+    "label": "time_bnds", 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:time-bnds", 
+    "raw_name": "time_bnds", 
+    "status": "pending", 
+    "uid": "148e327e-66d6-4374-b699-b855ca415771"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rlutcs4co2", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rlutcs4co2", 
+    "idx": 391, 
+    "namespace": "esgf-publisher:cmip5:variable:rlutcs4co2", 
+    "status": "pending", 
+    "uid": "e40a5a15-a47d-4e68-87c6-ed09e978766a"
+}

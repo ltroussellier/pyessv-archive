@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ism-historical-std", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Historical simulation using \"offline\" ice sheet models. Forcing for ice sheet model is the standard dataset based on CMIP6 AOGCM historical", 
+    "idx": 206, 
+    "namespace": "esgf-publisher:cmip6:experiment:ism-historical-std", 
+    "status": "pending", 
+    "uid": "4b615f78-b1ec-413c-8893-1a6334a05092"
+}

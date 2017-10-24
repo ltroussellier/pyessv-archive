@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "drynh3", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "drynh3", 
+    "idx": 125, 
+    "namespace": "esgf-publisher:cmip5:variable:drynh3", 
+    "status": "pending", 
+    "uid": "00ee73e3-a653-4263-82d6-8cdc67b52ab0"
+}

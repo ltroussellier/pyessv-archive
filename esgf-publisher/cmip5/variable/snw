@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "snw", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "snw", 
+    "idx": 447, 
+    "namespace": "esgf-publisher:cmip5:variable:snw", 
+    "status": "pending", 
+    "uid": "036f896f-7aa3-4842-85c5-80afec5683ff"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "p560", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "p560", 
+    "idx": 38, 
+    "namespace": "esgf-publisher:cmip5:thredds-exclude-variables:p560", 
+    "status": "pending", 
+    "uid": "d6c94ecf-2c7f-49c7-8fa1-e5b02053a7bf"
+}

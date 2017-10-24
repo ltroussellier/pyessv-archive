@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "gpp", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "gpp", 
+    "idx": 203, 
+    "namespace": "esgf-publisher:cmip5:variable:gpp", 
+    "status": "pending", 
+    "uid": "01991998-306e-4492-a384-fd2ea8714b23"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clt", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "clt", 
+    "idx": 73, 
+    "namespace": "esgf-publisher:cmip5:variable:clt", 
+    "status": "pending", 
+    "uid": "7cdd9f78-403f-4619-a40d-784ebf846319"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ua700", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ua700", 
+    "idx": 155, 
+    "namespace": "esgf-publisher:cordex:variable:ua700", 
+    "status": "pending", 
+    "uid": "ea74d913-b814-4d1b-b698-f743e8c0ff7a"
+}

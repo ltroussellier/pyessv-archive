@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "edayz", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "EdayZ", 
+    "idx": 19, 
+    "label": "EdayZ", 
+    "namespace": "esgf-publisher:cmip6:cmor-table:edayz", 
+    "status": "pending", 
+    "uid": "89889479-8953-472f-bc4e-c5289b43e8a7"
+}

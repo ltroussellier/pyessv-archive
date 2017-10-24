@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "esm-ssp585", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Emissions-driven future scenario simulation", 
+    "idx": 167, 
+    "namespace": "esgf-publisher:cmip6:experiment:esm-ssp585", 
+    "status": "pending", 
+    "uid": "a3dbc665-6e48-4b2a-a242-4f8b49e43910"
+}

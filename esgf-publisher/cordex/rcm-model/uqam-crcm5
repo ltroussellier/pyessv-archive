@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "uqam-crcm5", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "UQAM-CRCM5", 
+    "idx": 42, 
+    "label": "UQAM-CRCM5", 
+    "namespace": "esgf-publisher:cordex:rcm-model:uqam-crcm5", 
+    "status": "pending", 
+    "uid": "d7ff7edb-1c3b-49f9-9d9f-700e71f1add7"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tos", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tos", 
+    "idx": 529, 
+    "namespace": "esgf-publisher:cmip5:variable:tos", 
+    "status": "pending", 
+    "uid": "104de793-ee28-416f-a416-1cbb294f1f50"
+}

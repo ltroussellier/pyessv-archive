@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "piclim-lu", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "As in RFMIP-ERF-PI-Cntrl but with present-day land use", 
+    "idx": 158, 
+    "label": "piClim-lu", 
+    "namespace": "esgf-publisher:cmip6:experiment:piclim-lu", 
+    "raw_name": "piClim-lu", 
+    "status": "pending", 
+    "uid": "9e56ed3b-c75e-48f3-bcde-27e516fdc629"
+}

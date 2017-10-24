@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "land-nolu", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Same as land-hist except no land-use change", 
+    "idx": 239, 
+    "label": "land-noLu", 
+    "namespace": "esgf-publisher:cmip6:experiment:land-nolu", 
+    "raw_name": "land-noLu", 
+    "status": "pending", 
+    "uid": "33efb745-9ea6-4da3-bcb4-cbb7c3ed9670"
+}

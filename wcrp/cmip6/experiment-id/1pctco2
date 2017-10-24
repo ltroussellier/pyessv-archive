@@ -1,31 +1,31 @@
 {
     "_type": "term", 
-    "canonicalName": "1pctco2", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "1pctco2", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "CMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM", 
             "BGC"
         ], 
-        "endYear": "", 
+        "end_year": "", 
         "experiment": "1 percent per year increase in CO2", 
-        "experimentID": "1pctCO2", 
-        "minNumberYrsPerSim": "150", 
-        "parentActivityID": [
+        "experiment_id": "1pctCO2", 
+        "min_number_yrs_per_sim": "150", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "piControl"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM"
         ], 
-        "startYear": "", 
-        "subExperimentID": [
+        "start_year": "", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "1"
@@ -33,7 +33,8 @@
     "description": "DECK: 1pctCO2", 
     "idx": 82, 
     "label": "1pctCO2", 
-    "rawName": "1pctCO2", 
+    "namespace": "wcrp:cmip6:experiment-id:1pctco2", 
+    "raw_name": "1pctCO2", 
     "status": "pending", 
     "uid": "bed3a6bf-e7ca-40bf-b4de-c34ee5c81ecb"
 }

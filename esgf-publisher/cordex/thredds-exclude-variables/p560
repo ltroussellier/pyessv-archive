@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "p560", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "p560", 
+    "idx": 44, 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:p560", 
+    "status": "pending", 
+    "uid": "9f5a4a7f-c8fc-4e1f-b950-d5b752d89750"
+}

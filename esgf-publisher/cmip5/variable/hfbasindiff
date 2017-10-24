@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hfbasindiff", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "hfbasindiff", 
+    "idx": 214, 
+    "namespace": "esgf-publisher:cmip5:variable:hfbasindiff", 
+    "status": "pending", 
+    "uid": "b7237551-d788-448e-a157-7828ce679ca5"
+}

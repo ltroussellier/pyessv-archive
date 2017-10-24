@@ -1,10 +1,9 @@
 {
     "_type": "term", 
-    "canonicalName": "gra", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "gra", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "idx": 18, 
-    "label": "gra", 
-    "rawName": "gra", 
+    "namespace": "wcrp:cmip6:grid-label:gra", 
     "status": "pending", 
     "uid": "c6e6bfac-00f3-4589-a26e-58b69f41560a"
 }

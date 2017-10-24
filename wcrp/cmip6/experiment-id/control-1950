@@ -1,37 +1,36 @@
 {
     "_type": "term", 
-    "canonicalName": "control-1950", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "control-1950", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "HighResMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER"
         ], 
-        "endYear": "", 
+        "end_year": "", 
         "experiment": "coupled control with fixed 1950's forcing (HighResMIP equivalent of pre-industrial control)", 
-        "experimentID": "control-1950", 
-        "minNumberYrsPerSim": "100", 
-        "parentActivityID": [
+        "experiment_id": "control-1950", 
+        "min_number_yrs_per_sim": "100", 
+        "parent_activity_id": [
             "HighResMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "spinup-1950"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM"
         ], 
-        "startYear": "", 
-        "subExperimentID": [
+        "start_year": "", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
     }, 
     "description": "Coupled integrations with constant 1950\"s forcing", 
     "idx": 40, 
-    "label": "control-1950", 
-    "rawName": "control-1950", 
+    "namespace": "wcrp:cmip6:experiment-id:control-1950", 
     "status": "pending", 
     "uid": "79dbee52-2e56-4238-8ee2-eaec727a73ce"
 }

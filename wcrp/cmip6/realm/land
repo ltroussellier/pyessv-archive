@@ -1,12 +1,10 @@
 {
     "_type": "term", 
-    "canonicalName": "land", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
-    "data": {}, 
+    "canonical_name": "land", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Land Surface", 
     "idx": 1, 
-    "label": "land", 
-    "rawName": "land", 
+    "namespace": "wcrp:cmip6:realm:land", 
     "status": "pending", 
     "uid": "93c68fc1-a422-4936-a6a5-368c242b441e"
 }

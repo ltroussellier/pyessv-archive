@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "phyn", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "phyn", 
+    "idx": 331, 
+    "namespace": "esgf-publisher:cmip5:variable:phyn", 
+    "status": "pending", 
+    "uid": "44a43283-ee96-4411-b219-6dcb8129d826"
+}

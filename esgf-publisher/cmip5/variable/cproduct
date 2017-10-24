@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "cproduct", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "cProduct", 
+    "idx": 29, 
+    "label": "cProduct", 
+    "namespace": "esgf-publisher:cmip5:variable:cproduct", 
+    "status": "pending", 
+    "uid": "1ba9887f-5d24-4aba-860e-54d7c5a5ec73"
+}

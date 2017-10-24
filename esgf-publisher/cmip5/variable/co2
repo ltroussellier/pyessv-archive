@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "co2", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "co2", 
+    "idx": 82, 
+    "namespace": "esgf-publisher:cmip5:variable:co2", 
+    "status": "pending", 
+    "uid": "3078303d-a164-4280-8a3a-d54e2e2915cc"
+}

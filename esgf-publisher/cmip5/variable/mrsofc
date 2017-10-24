@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "mrsofc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "mrsofc", 
+    "idx": 283, 
+    "namespace": "esgf-publisher:cmip5:variable:mrsofc", 
+    "status": "pending", 
+    "uid": "dbd21036-ecd5-4fe3-ba21-d653ca6a9e7d"
+}

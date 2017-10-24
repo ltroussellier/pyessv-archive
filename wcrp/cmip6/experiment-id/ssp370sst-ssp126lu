@@ -1,30 +1,30 @@
 {
     "_type": "term", 
-    "canonicalName": "ssp370sst-ssp126lu", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "ssp370sst-ssp126lu", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "AerChemMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "CHEM"
         ], 
-        "endYear": "2055", 
+        "end_year": "2055", 
         "experiment": "SSP3-7.0, prescribed SSTs, with SSP1-2.6 land use", 
-        "experimentID": "ssp370SST-ssp126Lu", 
-        "minNumberYrsPerSim": "41", 
-        "parentActivityID": [
+        "experiment_id": "ssp370SST-ssp126Lu", 
+        "min_number_yrs_per_sim": "41", 
+        "parent_activity_id": [
             "ScenarioMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "ssp370"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AGCM", 
             "AER"
         ], 
-        "startYear": "2015", 
-        "subExperimentID": [
+        "start_year": "2015", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "1"
@@ -32,7 +32,8 @@
     "description": "Future SSP3-7.0 with low land use change (from ssp126), prescribed SSTs", 
     "idx": 100, 
     "label": "ssp370SST-ssp126Lu", 
-    "rawName": "ssp370SST-ssp126Lu", 
+    "namespace": "wcrp:cmip6:experiment-id:ssp370sst-ssp126lu", 
+    "raw_name": "ssp370SST-ssp126Lu", 
     "status": "pending", 
     "uid": "076e1337-e86f-4867-b80d-294df0dfb213"
 }

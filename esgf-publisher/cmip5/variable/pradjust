@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "pradjust", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "prAdjust", 
+    "idx": 342, 
+    "label": "prAdjust", 
+    "namespace": "esgf-publisher:cmip5:variable:pradjust", 
+    "status": "pending", 
+    "uid": "69b9ba92-13f0-4d48-b8e6-ea95b82e591d"
+}

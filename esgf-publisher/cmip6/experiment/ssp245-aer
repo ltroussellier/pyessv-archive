@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ssp245-aer", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Extension of aerosol-only run under SSP2-4.5", 
+    "idx": 143, 
+    "namespace": "esgf-publisher:cmip6:experiment:ssp245-aer", 
+    "status": "pending", 
+    "uid": "89b639d6-75b2-433e-a813-31448c00ed83"
+}

@@ -1,30 +1,30 @@
 {
     "_type": "term", 
-    "canonicalName": "g6sst1", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "g6sst1", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "GeoMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM"
         ], 
-        "endYear": "", 
+        "end_year": "", 
         "experiment": "SSTs, forcings, and other prescribed conditions from year 2020 of SSP5-8.5", 
-        "experimentID": "G6SST1", 
-        "minNumberYrsPerSim": "10", 
-        "parentActivityID": [
+        "experiment_id": "G6SST1", 
+        "min_number_yrs_per_sim": "10", 
+        "parent_activity_id": [
             "ScenarioMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "ssp585"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AGCM"
         ], 
-        "startYear": "", 
-        "subExperimentID": [
+        "start_year": "", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
@@ -32,7 +32,8 @@
     "description": "Time slice at 2020 (ScenarioMIP Tier 1 high forcing scenario)", 
     "idx": 14, 
     "label": "G6SST1", 
-    "rawName": "G6SST1", 
+    "namespace": "wcrp:cmip6:experiment-id:g6sst1", 
+    "raw_name": "G6SST1", 
     "status": "pending", 
     "uid": "04b7b72b-ee3a-4572-8400-660d0688593e"
 }

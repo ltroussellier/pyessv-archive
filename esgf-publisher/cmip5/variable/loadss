@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "loadss", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "loadss", 
+    "idx": 267, 
+    "namespace": "esgf-publisher:cmip5:variable:loadss", 
+    "status": "pending", 
+    "uid": "270d098d-556e-4d7c-84c9-718e8c082206"
+}

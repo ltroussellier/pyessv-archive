@@ -1,35 +1,34 @@
 {
     "_type": "term", 
-    "canonicalName": "ism-lig127k-std", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "ism-lig127k-std", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "ISMIP6"
         ], 
-        "additionalAllowedModelComponents": "", 
-        "endYear": "", 
+        "additional_allowed_model_components": "", 
+        "end_year": "", 
         "experiment": "offline ice sheet forced by ISMIP6-specified AGCM last interglacial output", 
-        "experimentID": "ism-lig127k-std", 
-        "minNumberYrsPerSim": "20000", 
-        "parentActivityID": [
+        "experiment_id": "ism-lig127k-std", 
+        "min_number_yrs_per_sim": "20000", 
+        "parent_activity_id": [
             "no parent"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "no parent"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "ISM"
         ], 
-        "startYear": "", 
-        "subExperimentID": [
+        "start_year": "", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "3"
     }, 
     "description": "Last interglacial simulation of ice sheet evolution driven by PMIP lig127k", 
     "idx": 60, 
-    "label": "ism-lig127k-std", 
-    "rawName": "ism-lig127k-std", 
+    "namespace": "wcrp:cmip6:experiment-id:ism-lig127k-std", 
     "status": "pending", 
     "uid": "8e13527f-1592-4862-820c-bca7b84ac85d"
 }

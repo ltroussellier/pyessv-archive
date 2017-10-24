@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "gmmip", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "GMMIP", 
+    "idx": 9, 
+    "label": "GMMIP", 
+    "namespace": "esgf-publisher:cmip6:activity:gmmip", 
+    "status": "pending", 
+    "uid": "e14de2c9-bf6a-469b-8c08-dbbe9b730c06"
+}

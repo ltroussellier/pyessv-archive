@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "dmc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "dmc", 
+    "idx": 116, 
+    "namespace": "esgf-publisher:cmip5:variable:dmc", 
+    "status": "pending", 
+    "uid": "0e772f06-6ef1-4be9-8f12-2ae9aad735f6"
+}

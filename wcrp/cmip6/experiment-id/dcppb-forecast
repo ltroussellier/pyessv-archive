@@ -1,33 +1,33 @@
 {
     "_type": "term", 
-    "canonicalName": "dcppb-forecast", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "dcppb-forecast", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "DCPP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM", 
             "BGC"
         ], 
-        "endYear": "5 years after start year", 
+        "end_year": "5 years after start year", 
         "experiment": "forecast initialized from observations with forcing from ssp245", 
-        "experimentID": "dcppB-forecast", 
-        "minNumberYrsPerSim": "5", 
-        "parentActivityID": [
+        "experiment_id": "dcppB-forecast", 
+        "min_number_yrs_per_sim": "5", 
+        "parent_activity_id": [
             "no parent", 
             "DCPP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "no parent", 
             "dcppA-assim"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM"
         ], 
-        "startYear": "a year in the range 2017-2029", 
-        "subExperimentID": [
+        "start_year": "a year in the range 2017-2029", 
+        "sub_experiment_id": [
             "s2017", 
             "s2018", 
             "s2019", 
@@ -47,7 +47,8 @@
     "description": "B1 (and B2.1, B2.2) Ongoing decadal forecasts. First full forecast year follows start year (e.g., for s2017, first full forecast year is 2018)", 
     "idx": 148, 
     "label": "dcppB-forecast", 
-    "rawName": "dcppB-forecast", 
+    "namespace": "wcrp:cmip6:experiment-id:dcppb-forecast", 
+    "raw_name": "dcppB-forecast", 
     "status": "pending", 
     "uid": "328f87cc-5991-4606-8a8c-04e91ff68bf3"
 }

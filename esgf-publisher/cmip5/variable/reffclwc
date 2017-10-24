@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "reffclwc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "reffclwc", 
+    "idx": 360, 
+    "namespace": "esgf-publisher:cmip5:variable:reffclwc", 
+    "status": "pending", 
+    "uid": "8eb8f09e-6088-4ddc-9033-37ecfc9a682d"
+}

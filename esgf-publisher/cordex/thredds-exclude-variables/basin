@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "basin", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "basin", 
+    "idx": 8, 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:basin", 
+    "status": "pending", 
+    "uid": "c27a2b89-0eec-4319-a15c-39d38c03c4dd"
+}

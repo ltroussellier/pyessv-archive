@@ -1,30 +1,30 @@
 {
     "_type": "term", 
-    "canonicalName": "pisst", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "pisst", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "CFMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM"
         ], 
-        "endYear": "", 
+        "end_year": "", 
         "experiment": "experiment forced with pre-industrial SSTs, sea ice and atmospheric constituents", 
-        "experimentID": "piSST", 
-        "minNumberYrsPerSim": "30", 
-        "parentActivityID": [
+        "experiment_id": "piSST", 
+        "min_number_yrs_per_sim": "30", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "piControl"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AGCM"
         ], 
-        "startYear": "", 
-        "subExperimentID": [
+        "start_year": "", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
@@ -32,7 +32,8 @@
     "description": "An AGCM experiment with monthly-varying SSTs, sea-ice, atmospheric constituents and any other necessary boundary conditions (e.g. vegetation if required) taken from each model's own piControl run (using the 30 years of piControl that are parallel to years 111-140 of its abrupt4xCO2 run). Dynamic vegetation should be turned off in all the piSST set of experiments", 
     "idx": 210, 
     "label": "piSST", 
-    "rawName": "piSST", 
+    "namespace": "wcrp:cmip6:experiment-id:pisst", 
+    "raw_name": "piSST", 
     "status": "pending", 
     "uid": "5b01978d-d38e-4d70-83b6-1c94490fadc4"
 }

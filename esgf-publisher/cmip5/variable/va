@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "va", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "va", 
+    "idx": 555, 
+    "namespace": "esgf-publisher:cmip5:variable:va", 
+    "status": "pending", 
+    "uid": "225c681a-7a3b-49f1-93fc-1d4bbb8fdef9"
+}

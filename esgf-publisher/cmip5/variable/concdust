@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "concdust", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "concdust", 
+    "idx": 93, 
+    "namespace": "esgf-publisher:cmip5:variable:concdust", 
+    "status": "pending", 
+    "uid": "7aead352-151d-481a-8a7f-d17b9326e2f4"
+}

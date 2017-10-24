@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "emiss", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "emiss", 
+    "idx": 146, 
+    "namespace": "esgf-publisher:cmip5:variable:emiss", 
+    "status": "pending", 
+    "uid": "64423030-14d5-4c7a-91d5-966e4e24e757"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "output2", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "output2", 
+    "idx": 1, 
+    "namespace": "esgf-publisher:cmip5:product:output2", 
+    "status": "pending", 
+    "uid": "953f9e52-709d-4279-9c9c-cf43a789f231"
+}

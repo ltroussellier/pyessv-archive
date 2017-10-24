@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "emidust", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "emidust", 
+    "idx": 140, 
+    "namespace": "esgf-publisher:cmip5:variable:emidust", 
+    "status": "pending", 
+    "uid": "2f1b2223-2738-4de9-a21b-28c20165657b"
+}

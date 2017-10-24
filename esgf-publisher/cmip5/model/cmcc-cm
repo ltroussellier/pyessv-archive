@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "cmcc-cm", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CMCC-CM", 
+    "idx": 16, 
+    "label": "CMCC-CM", 
+    "namespace": "esgf-publisher:cmip5:model:cmcc-cm", 
+    "status": "pending", 
+    "uid": "b7cc47ea-d3b9-4b54-af92-02d4976ec9d6"
+}

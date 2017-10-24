@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "odec", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Odec", 
+    "idx": 35, 
+    "label": "Odec", 
+    "namespace": "esgf-publisher:cmip6:cmor-table:odec", 
+    "status": "pending", 
+    "uid": "6bdd5339-23f5-42aa-b246-58cdd842ddff"
+}

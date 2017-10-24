@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "cveg", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "cVeg", 
+    "idx": 35, 
+    "label": "cVeg", 
+    "namespace": "esgf-publisher:cmip5:variable:cveg", 
+    "status": "pending", 
+    "uid": "4cc35a02-7cf2-4b2b-8efc-b5882bf959ab"
+}

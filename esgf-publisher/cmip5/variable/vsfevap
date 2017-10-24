@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "vsfevap", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "vsfevap", 
+    "idx": 563, 
+    "namespace": "esgf-publisher:cmip5:variable:vsfevap", 
+    "status": "pending", 
+    "uid": "b4d5e7cd-593c-453f-bb6b-8e51d9066527"
+}

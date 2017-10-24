@@ -1,29 +1,29 @@
 {
     "_type": "term", 
-    "canonicalName": "highressst-4xco2", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "highressst-4xco2", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "HighResMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER"
         ], 
-        "endYear": "2014", 
+        "end_year": "2014", 
         "experiment": "highresSST-present SST with 4xCO2 concentrations", 
-        "experimentID": "highresSST-4xCO2", 
-        "minNumberYrsPerSim": "36", 
-        "parentActivityID": [
+        "experiment_id": "highresSST-4xCO2", 
+        "min_number_yrs_per_sim": "36", 
+        "parent_activity_id": [
             "HighResMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "highresSST-present"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AGCM"
         ], 
-        "startYear": "1979", 
-        "subExperimentID": [
+        "start_year": "1979", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "3"
@@ -31,7 +31,8 @@
     "description": "Similar to CFMIP amip-4xCO2, SSTs are held at highresSST-present values and the CO2 seen by the radiation scheme is quadrupled", 
     "idx": 211, 
     "label": "highresSST-4xCO2", 
-    "rawName": "highresSST-4xCO2", 
+    "namespace": "wcrp:cmip6:experiment-id:highressst-4xco2", 
+    "raw_name": "highresSST-4xCO2", 
     "status": "pending", 
     "uid": "d23df800-d68b-48ba-945b-3139850ba0d2"
 }

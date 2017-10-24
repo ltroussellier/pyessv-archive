@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "canam4", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CanAM4", 
+    "idx": 6, 
+    "label": "CanAM4", 
+    "namespace": "esgf-publisher:cmip5:model:canam4", 
+    "status": "pending", 
+    "uid": "fc34fbf5-c1a8-4bc5-ad6f-dff6e2b5fbde"
+}

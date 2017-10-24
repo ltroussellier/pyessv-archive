@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "lon-bnds", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "lon_bnds", 
+    "idx": 29, 
+    "label": "lon_bnds", 
+    "namespace": "esgf-publisher:cmip5:thredds-exclude-variables:lon-bnds", 
+    "raw_name": "lon_bnds", 
+    "status": "pending", 
+    "uid": "71b6f181-bfd7-463f-b5ea-7a33ab74f27d"
+}

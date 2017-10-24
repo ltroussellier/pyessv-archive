@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hfevapds", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "hfevapds", 
+    "idx": 218, 
+    "namespace": "esgf-publisher:cmip5:variable:hfevapds", 
+    "status": "pending", 
+    "uid": "c6fd19a5-bb49-4fd0-85c9-c693ef394634"
+}

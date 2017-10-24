@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "dcppc-amv-pos", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "C1.2 Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs", 
+    "idx": 24, 
+    "label": "dcppC-amv-pos", 
+    "namespace": "esgf-publisher:cmip6:experiment:dcppc-amv-pos", 
+    "raw_name": "dcppC-amv-pos", 
+    "status": "pending", 
+    "uid": "48f47485-8c13-4202-ac93-f7f61445e3ec"
+}

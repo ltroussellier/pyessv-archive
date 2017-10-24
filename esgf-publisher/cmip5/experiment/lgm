@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "lgm", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Last Glacial Maximum", 
+    "idx": 77, 
+    "namespace": "esgf-publisher:cmip5:experiment:lgm", 
+    "status": "pending", 
+    "uid": "29d13295-2b7a-4991-832d-027e33f6cabd"
+}

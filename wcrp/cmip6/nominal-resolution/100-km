@@ -1,10 +1,11 @@
 {
     "_type": "term", 
-    "canonicalName": "100-km", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "100-km", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "idx": 3, 
     "label": "100 km", 
-    "rawName": "100 km", 
+    "namespace": "wcrp:cmip6:nominal-resolution:100-km", 
+    "raw_name": "100 km", 
     "status": "pending", 
     "uid": "21030acc-ecb3-4ee1-80d5-b8ab157419dc"
 }

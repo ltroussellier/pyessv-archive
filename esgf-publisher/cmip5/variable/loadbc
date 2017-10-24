@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "loadbc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "loadbc", 
+    "idx": 259, 
+    "namespace": "esgf-publisher:cmip5:variable:loadbc", 
+    "status": "pending", 
+    "uid": "2dd71f26-b26f-4aea-893e-dcf77856f70f"
+}

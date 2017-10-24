@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ta875", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ta875", 
+    "idx": 130, 
+    "namespace": "esgf-publisher:cordex:variable:ta875", 
+    "status": "pending", 
+    "uid": "e4b7371f-2340-46f9-b44f-bf8e5d2970fa"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rsut", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rsut", 
+    "idx": 106, 
+    "namespace": "esgf-publisher:cordex:variable:rsut", 
+    "status": "pending", 
+    "uid": "43cc8e75-a389-4d61-800b-4795669fe011"
+}

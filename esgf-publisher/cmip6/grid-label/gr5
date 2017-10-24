@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "gr5", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "gr5", 
+    "idx": 22, 
+    "namespace": "esgf-publisher:cmip6:grid-label:gr5", 
+    "status": "pending", 
+    "uid": "fafe3666-7d4c-4747-b9ff-439daa751e0e"
+}

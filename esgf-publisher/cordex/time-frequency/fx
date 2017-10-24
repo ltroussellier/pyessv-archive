@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "fx", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "fx", 
+    "idx": 1, 
+    "namespace": "esgf-publisher:cordex:time-frequency:fx", 
+    "status": "pending", 
+    "uid": "f018eebe-2b97-41b6-9458-5245dc5a2cb3"
+}

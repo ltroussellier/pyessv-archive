@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rootd", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rootd", 
+    "idx": 392, 
+    "namespace": "esgf-publisher:cmip5:variable:rootd", 
+    "status": "pending", 
+    "uid": "95711b8b-69f4-4eeb-b785-2927303a7aba"
+}

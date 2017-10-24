@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "pfull", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "pfull", 
+    "idx": 322, 
+    "namespace": "esgf-publisher:cmip5:variable:pfull", 
+    "status": "pending", 
+    "uid": "a8a95775-6541-4efe-b3a6-3c5ca5820290"
+}

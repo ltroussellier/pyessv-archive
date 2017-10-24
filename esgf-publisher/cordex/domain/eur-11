@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "eur-11", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "High-res. Europe", 
+    "idx": 14, 
+    "label": "EUR-11", 
+    "namespace": "esgf-publisher:cordex:domain:eur-11", 
+    "raw_name": "EUR-11", 
+    "status": "pending", 
+    "uid": "b42d617e-19b9-4947-b420-d1f7e6549719"
+}

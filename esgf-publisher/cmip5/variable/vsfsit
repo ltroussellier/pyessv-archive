@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "vsfsit", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "vsfsit", 
+    "idx": 566, 
+    "namespace": "esgf-publisher:cmip5:variable:vsfsit", 
+    "status": "pending", 
+    "uid": "8a5c6251-fd04-4cab-b5d6-f9a4f65212ce"
+}

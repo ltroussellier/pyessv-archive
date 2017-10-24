@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "csoil", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "cSoil", 
+    "idx": 31, 
+    "label": "cSoil", 
+    "namespace": "esgf-publisher:cmip5:variable:csoil", 
+    "status": "pending", 
+    "uid": "9d9de46b-fbfb-4497-be57-9dae0269703c"
+}

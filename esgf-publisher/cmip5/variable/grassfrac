@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "grassfrac", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "grassFrac", 
+    "idx": 207, 
+    "label": "grassFrac", 
+    "namespace": "esgf-publisher:cmip5:variable:grassfrac", 
+    "status": "pending", 
+    "uid": "1aedb08b-52c5-42bc-9b8b-23a965dca5b7"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "latitude", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "latitude", 
+    "idx": 25, 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:latitude", 
+    "status": "pending", 
+    "uid": "964ed106-9609-4725-b88e-af941ec20993"
+}

@@ -1,12 +1,10 @@
 {
     "_type": "term", 
-    "canonicalName": "ocean", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
-    "data": {}, 
+    "canonical_name": "ocean", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Ocean", 
     "idx": 4, 
-    "label": "ocean", 
-    "rawName": "ocean", 
+    "namespace": "wcrp:cmip6:realm:ocean", 
     "status": "pending", 
     "uid": "36764dd8-f9fa-433b-8122-915eb34cf0ff"
 }

@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "residualfrac", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "residualFrac", 
+    "idx": 367, 
+    "label": "residualFrac", 
+    "namespace": "esgf-publisher:cmip5:variable:residualfrac", 
+    "status": "pending", 
+    "uid": "73376920-0d5c-4d91-be53-179b812e904c"
+}

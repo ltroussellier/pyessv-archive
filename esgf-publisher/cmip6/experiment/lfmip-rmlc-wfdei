@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "lfmip-rmlc-wfdei", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Prescribed land conditions 30yr running mean with Land-Hist-wfdei", 
+    "idx": 172, 
+    "label": "lfmip-rmLC-wfdei", 
+    "namespace": "esgf-publisher:cmip6:experiment:lfmip-rmlc-wfdei", 
+    "raw_name": "lfmip-rmLC-wfdei", 
+    "status": "pending", 
+    "uid": "c2dfdc10-14fe-44d4-ba3b-3afcbc309149"
+}

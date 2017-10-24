@@ -1,37 +1,36 @@
 {
     "_type": "term", 
-    "canonicalName": "spinup-1950", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "spinup-1950", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "HighResMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER"
         ], 
-        "endYear": "", 
+        "end_year": "", 
         "experiment": "coupled spinup with fixed 1950s forcings from 1950 initial conditions (with ocean at rest) to provide initial condition for control-1950 and hist-1950", 
-        "experimentID": "spinup-1950", 
-        "minNumberYrsPerSim": "30", 
-        "parentActivityID": [
+        "experiment_id": "spinup-1950", 
+        "min_number_yrs_per_sim": "30", 
+        "parent_activity_id": [
             "no parent"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "no parent"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM"
         ], 
-        "startYear": "", 
-        "subExperimentID": [
+        "start_year": "", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
     }, 
     "description": "Coupled integration from ocean rest state using recommended HighResMIP protocol spinup, starting from 1950 ocean temperature and salinity analysis EN4, using constant 1950s forcing. At least 30 years to satisfy near surface quasi-equilibrium", 
     "idx": 10, 
-    "label": "spinup-1950", 
-    "rawName": "spinup-1950", 
+    "namespace": "wcrp:cmip6:experiment-id:spinup-1950", 
     "status": "pending", 
     "uid": "c44f31ca-0fb3-4db2-a1e6-74edf0171f26"
 }

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "lfmip-pdlc-cruncep", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Prescribed land conditions 1980-2014 climate with Land-Hist-cruNcep", 
+    "idx": 232, 
+    "label": "lfmip-pdLC-cruNcep", 
+    "namespace": "esgf-publisher:cmip6:experiment:lfmip-pdlc-cruncep", 
+    "raw_name": "lfmip-pdLC-cruNcep", 
+    "status": "pending", 
+    "uid": "b46d5ff3-59d7-44d3-b46e-110fada565d6"
+}

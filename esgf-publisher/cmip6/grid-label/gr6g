@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "gr6g", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "gr6g", 
+    "idx": 28, 
+    "namespace": "esgf-publisher:cmip6:grid-label:gr6g", 
+    "status": "pending", 
+    "uid": "fbd7c52d-f377-4924-8dfe-4b50643000bf"
+}

@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "crp-gl-wrf331a", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CRP-GL-WRF331A", 
+    "idx": 12, 
+    "label": "CRP-GL-WRF331A", 
+    "namespace": "esgf-publisher:cordex:rcm-model:crp-gl-wrf331a", 
+    "status": "pending", 
+    "uid": "17ecabd3-82e9-4770-a25b-2fe06f9cfd89"
+}

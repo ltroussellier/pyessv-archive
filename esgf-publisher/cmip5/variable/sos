@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sos", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "sos", 
+    "idx": 451, 
+    "namespace": "esgf-publisher:cmip5:variable:sos", 
+    "status": "pending", 
+    "uid": "5b78163a-6c63-49f4-b5b5-84ca90882292"
+}

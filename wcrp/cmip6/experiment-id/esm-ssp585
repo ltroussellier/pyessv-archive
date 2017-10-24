@@ -1,39 +1,38 @@
 {
     "_type": "term", 
-    "canonicalName": "esm-ssp585", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "esm-ssp585", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "C4MIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM"
         ], 
-        "endYear": "2100", 
+        "end_year": "2100", 
         "experiment": "emission-driven RCP8.5 based on SSP5", 
-        "experimentID": "esm-ssp585", 
-        "minNumberYrsPerSim": "85", 
-        "parentActivityID": [
+        "experiment_id": "esm-ssp585", 
+        "min_number_yrs_per_sim": "85", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "esm-hist"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM", 
             "BGC"
         ], 
-        "startYear": "2015", 
-        "subExperimentID": [
+        "start_year": "2015", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "1"
     }, 
     "description": "Emissions-driven future scenario simulation", 
     "idx": 167, 
-    "label": "esm-ssp585", 
-    "rawName": "esm-ssp585", 
+    "namespace": "wcrp:cmip6:experiment-id:esm-ssp585", 
     "status": "pending", 
     "uid": "cae3e4f1-96d7-49da-acbc-58eab9f31cf9"
 }

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hus400", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "hus400", 
+    "idx": 70, 
+    "namespace": "esgf-publisher:cordex:variable:hus400", 
+    "status": "pending", 
+    "uid": "5517a0d2-b672-464d-830b-47bc96723212"
+}

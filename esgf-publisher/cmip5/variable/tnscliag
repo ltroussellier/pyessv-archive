@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tnscliag", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tnscliag", 
+    "idx": 493, 
+    "namespace": "esgf-publisher:cmip5:variable:tnscliag", 
+    "status": "pending", 
+    "uid": "6d9257d1-cbdb-4576-8b7a-9868b5d7158c"
+}

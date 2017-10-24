@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "wmo", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "wmo", 
+    "idx": 583, 
+    "namespace": "esgf-publisher:cmip5:variable:wmo", 
+    "status": "pending", 
+    "uid": "cc524346-49d9-4347-af72-d794b9f8293b"
+}

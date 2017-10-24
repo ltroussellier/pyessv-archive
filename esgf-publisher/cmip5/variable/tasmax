@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tasmax", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tasmax", 
+    "idx": 465, 
+    "namespace": "esgf-publisher:cmip5:variable:tasmax", 
+    "status": "pending", 
+    "uid": "d3321bcb-3da8-4962-bf7d-445ed2fce00a"
+}

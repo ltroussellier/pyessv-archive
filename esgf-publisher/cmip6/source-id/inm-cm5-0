@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "inm-cm5-0", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "INM-CM5-0", 
+    "idx": 41, 
+    "label": "INM-CM5-0", 
+    "namespace": "esgf-publisher:cmip6:source-id:inm-cm5-0", 
+    "status": "pending", 
+    "uid": "04f0409c-b62a-4f4b-b35a-973e54951e43"
+}

@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "ictp", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ICTP", 
+    "idx": 15, 
+    "label": "ICTP", 
+    "namespace": "esgf-publisher:cordex:institute:ictp", 
+    "status": "pending", 
+    "uid": "0c22bf37-cd96-491e-aa98-c0986416e633"
+}

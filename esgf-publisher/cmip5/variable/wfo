@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "wfo", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "wfo", 
+    "idx": 581, 
+    "namespace": "esgf-publisher:cmip5:variable:wfo", 
+    "status": "pending", 
+    "uid": "bc140289-ce0f-4f15-a939-3f1f24a49084"
+}

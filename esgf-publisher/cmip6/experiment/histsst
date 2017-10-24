@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "histsst", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Historical transient with SSTs prescribed from historical", 
+    "idx": 156, 
+    "label": "histSST", 
+    "namespace": "esgf-publisher:cmip6:experiment:histsst", 
+    "raw_name": "histSST", 
+    "status": "pending", 
+    "uid": "7a354c47-fe77-499c-a134-26de6bae5507"
+}

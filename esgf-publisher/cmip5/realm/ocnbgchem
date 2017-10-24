@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "ocnbgchem", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ocnBgchem", 
+    "idx": 7, 
+    "label": "ocnBgchem", 
+    "namespace": "esgf-publisher:cmip5:realm:ocnbgchem", 
+    "status": "pending", 
+    "uid": "f17f3002-2ead-4a28-96a4-2c2257251848"
+}

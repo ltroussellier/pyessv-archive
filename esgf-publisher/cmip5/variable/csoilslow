@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "csoilslow", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "cSoilSlow", 
+    "idx": 34, 
+    "label": "cSoilSlow", 
+    "namespace": "esgf-publisher:cmip5:variable:csoilslow", 
+    "status": "pending", 
+    "uid": "4984ef9a-9805-41ba-badc-83f3af3ea54e"
+}

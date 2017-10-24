@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "mrsos", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "mrsos", 
+    "idx": 87, 
+    "namespace": "esgf-publisher:cordex:variable:mrsos", 
+    "status": "pending", 
+    "uid": "d3970f40-64b5-445a-b7f1-5e3412879009"
+}

@@ -1,13 +1,14 @@
 {
     "_type": "term", 
-    "canonicalName": "ipsl", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "ipsl", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "postalAddress": "Institut Pierre Simon Laplace, Paris 75252, France"
+        "postal_address": "Institut Pierre Simon Laplace, Paris 75252, France"
     }, 
-    "idx": 5, 
+    "idx": 6, 
     "label": "IPSL", 
-    "rawName": "IPSL", 
+    "namespace": "wcrp:cmip6:institution-id:ipsl", 
+    "raw_name": "IPSL", 
     "status": "pending", 
     "uid": "46f24bbd-fa0d-4a7b-8630-78508a774b97"
 }

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "lon-vertices", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "lon_vertices", 
+    "idx": 35, 
+    "label": "lon_vertices", 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:lon-vertices", 
+    "raw_name": "lon_vertices", 
+    "status": "pending", 
+    "uid": "ca03d348-4b34-48e0-b6e5-dab1f8f46b62"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "historical", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Historical", 
+    "idx": 70, 
+    "namespace": "esgf-publisher:cmip5:experiment:historical", 
+    "status": "pending", 
+    "uid": "fcb800e8-66c9-491c-a585-f1bc26dcd75a"
+}

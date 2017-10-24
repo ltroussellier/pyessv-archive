@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "uhoh", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "UHOH", 
+    "idx": 29, 
+    "label": "UHOH", 
+    "namespace": "esgf-publisher:cordex:institute:uhoh", 
+    "status": "pending", 
+    "uid": "ef69e874-9118-44fa-9207-887d063531e6"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sltovovrt", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "sltovovrt", 
+    "idx": 440, 
+    "namespace": "esgf-publisher:cmip5:variable:sltovovrt", 
+    "status": "pending", 
+    "uid": "9d18bb6f-89d6-4eb8-8c5e-93ff90e2eab7"
+}

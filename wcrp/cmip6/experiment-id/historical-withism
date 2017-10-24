@@ -1,40 +1,39 @@
 {
     "_type": "term", 
-    "canonicalName": "historical-withism", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "historical-withism", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "ISMIP6"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM", 
             "BGC"
         ], 
-        "endYear": "2014", 
+        "end_year": "2014", 
         "experiment": "historical with interactive ice sheet", 
-        "experimentID": "historical-withism", 
-        "minNumberYrsPerSim": "165", 
-        "parentActivityID": [
+        "experiment_id": "historical-withism", 
+        "min_number_yrs_per_sim": "165", 
+        "parent_activity_id": [
             "ISMIP6"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "piControl-withism"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM", 
             "ISM"
         ], 
-        "startYear": "1850", 
-        "subExperimentID": [
+        "start_year": "1850", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
     }, 
     "description": "Historical simulation that includes interactive ice sheets. Set up follows the historical experiment", 
     "idx": 173, 
-    "label": "historical-withism", 
-    "rawName": "historical-withism", 
+    "namespace": "wcrp:cmip6:experiment-id:historical-withism", 
     "status": "pending", 
     "uid": "21425330-464b-4479-a6d8-5388481bcb6f"
 }

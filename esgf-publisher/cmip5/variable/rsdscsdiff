@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rsdscsdiff", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rsdscsdiff", 
+    "idx": 399, 
+    "namespace": "esgf-publisher:cmip5:variable:rsdscsdiff", 
+    "status": "pending", 
+    "uid": "f59d4ab9-a4fd-46ec-815d-9890f7fad076"
+}

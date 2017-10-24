@@ -1,31 +1,31 @@
 {
     "_type": "term", 
-    "canonicalName": "dcppc-ipv-pos", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "dcppc-ipv-pos", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "DCPP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM", 
             "BGC"
         ], 
-        "endYear": "", 
+        "end_year": "", 
         "experiment": "idealized positive IPV anomaly pattern", 
-        "experimentID": "dcppC-ipv-pos", 
-        "minNumberYrsPerSim": "10", 
-        "parentActivityID": [
+        "experiment_id": "dcppC-ipv-pos", 
+        "min_number_yrs_per_sim": "10", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "piControl"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM"
         ], 
-        "startYear": "", 
-        "subExperimentID": [
+        "start_year": "", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "1"
@@ -33,7 +33,8 @@
     "description": "C1.5 Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs", 
     "idx": 6, 
     "label": "dcppC-ipv-pos", 
-    "rawName": "dcppC-ipv-pos", 
+    "namespace": "wcrp:cmip6:experiment-id:dcppc-ipv-pos", 
+    "raw_name": "dcppC-ipv-pos", 
     "status": "pending", 
     "uid": "9689195c-ea4e-4cdd-8159-d1e76d757518"
 }

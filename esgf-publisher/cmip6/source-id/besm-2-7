@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "besm-2-7", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "BESM-2-7", 
+    "idx": 4, 
+    "label": "BESM-2-7", 
+    "namespace": "esgf-publisher:cmip6:source-id:besm-2-7", 
+    "status": "pending", 
+    "uid": "fcae8100-1ae5-4d57-a44b-575e7171a570"
+}

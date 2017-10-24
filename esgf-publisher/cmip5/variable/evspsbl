@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "evspsbl", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "evspsbl", 
+    "idx": 156, 
+    "namespace": "esgf-publisher:cmip5:variable:evspsbl", 
+    "status": "pending", 
+    "uid": "5c152731-7d6c-4493-9c90-b1bc7ebc6d2a"
+}

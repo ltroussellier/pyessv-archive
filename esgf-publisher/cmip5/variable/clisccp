@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clisccp", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "clisccp", 
+    "idx": 68, 
+    "namespace": "esgf-publisher:cmip5:variable:clisccp", 
+    "status": "pending", 
+    "uid": "95e7b11d-ba6d-473c-bcc3-99bd257aff3a"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ua900", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ua900", 
+    "idx": 158, 
+    "namespace": "esgf-publisher:cordex:variable:ua900", 
+    "status": "pending", 
+    "uid": "ee8ad195-6d31-47d9-88c6-03adc1937281"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hfxba", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "hfxba", 
+    "idx": 231, 
+    "namespace": "esgf-publisher:cmip5:variable:hfxba", 
+    "status": "pending", 
+    "uid": "11c703a7-4851-4ee4-9596-1aa54ebb0db6"
+}

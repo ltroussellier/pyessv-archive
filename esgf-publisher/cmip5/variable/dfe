@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "dfe", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "dfe", 
+    "idx": 109, 
+    "namespace": "esgf-publisher:cmip5:variable:dfe", 
+    "status": "pending", 
+    "uid": "e86bfdd0-ec80-43f9-9160-af5eb287fca3"
+}

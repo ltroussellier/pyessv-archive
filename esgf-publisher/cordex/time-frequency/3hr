@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "3hr", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "3hr", 
+    "idx": 4, 
+    "namespace": "esgf-publisher:cordex:time-frequency:3hr", 
+    "status": "pending", 
+    "uid": "e1a1665d-6e5b-4a25-8920-aadc7ac67a63"
+}

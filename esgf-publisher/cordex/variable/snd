@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "snd", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "snd", 
+    "idx": 116, 
+    "namespace": "esgf-publisher:cordex:variable:snd", 
+    "status": "pending", 
+    "uid": "50d57670-3bd9-46ca-b2ca-83078c0ebed3"
+}

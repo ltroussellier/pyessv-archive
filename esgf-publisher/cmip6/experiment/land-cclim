@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "land-cclim", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Same as land-hist except with climate held constant", 
+    "idx": 118, 
+    "label": "land-cClim", 
+    "namespace": "esgf-publisher:cmip6:experiment:land-cclim", 
+    "raw_name": "land-cClim", 
+    "status": "pending", 
+    "uid": "58a5bafd-86bd-4c5c-9879-16e588e47dcf"
+}

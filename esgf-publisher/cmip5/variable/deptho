@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "deptho", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "deptho", 
+    "idx": 107, 
+    "namespace": "esgf-publisher:cmip5:variable:deptho", 
+    "status": "pending", 
+    "uid": "fcc02391-073d-4de9-a774-8f682df2ef42"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "cct", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "cct", 
+    "idx": 39, 
+    "namespace": "esgf-publisher:cmip5:variable:cct", 
+    "status": "pending", 
+    "uid": "3d0ed4fd-10e8-413e-a2e3-08a164fadfd3"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "chlpico", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "chlpico", 
+    "idx": 55, 
+    "namespace": "esgf-publisher:cmip5:variable:chlpico", 
+    "status": "pending", 
+    "uid": "8ac353e8-07b6-4859-a7cb-0517f43c89b2"
+}

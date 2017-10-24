@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "ssp370-lowntcf", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Future SSP3-7.0 with reduced NTCF emissions", 
+    "idx": 41, 
+    "label": "ssp370-lowNTCF", 
+    "namespace": "esgf-publisher:cmip6:experiment:ssp370-lowntcf", 
+    "raw_name": "ssp370-lowNTCF", 
+    "status": "pending", 
+    "uid": "200ccfff-51bf-40d8-8780-35ddaf85def4"
+}

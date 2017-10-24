@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tasmax", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tasmax", 
+    "idx": 136, 
+    "namespace": "esgf-publisher:cordex:variable:tasmax", 
+    "status": "pending", 
+    "uid": "c135614b-3f96-441d-8702-b664d8a02b57"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "dpco2", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "dpco2", 
+    "idx": 118, 
+    "namespace": "esgf-publisher:cmip5:variable:dpco2", 
+    "status": "pending", 
+    "uid": "2dab6795-92f3-4fdd-b1e3-d8581ee795e1"
+}

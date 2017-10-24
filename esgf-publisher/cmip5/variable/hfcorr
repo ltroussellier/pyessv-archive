@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hfcorr", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "hfcorr", 
+    "idx": 215, 
+    "namespace": "esgf-publisher:cmip5:variable:hfcorr", 
+    "status": "pending", 
+    "uid": "0e2b16ad-469b-4d24-a616-db3fa426e5b3"
+}

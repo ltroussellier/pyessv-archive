@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "orograw", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "orograw", 
+    "idx": 312, 
+    "namespace": "esgf-publisher:cmip5:variable:orograw", 
+    "status": "pending", 
+    "uid": "2680ce6f-d196-4acb-889c-b692b0f0a341"
+}

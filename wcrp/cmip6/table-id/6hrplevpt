@@ -1,10 +1,11 @@
 {
     "_type": "term", 
-    "canonicalName": "6hrplevpt", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "6hrplevpt", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "idx": 3, 
     "label": "6hrPlevPt", 
-    "rawName": "6hrPlevPt", 
+    "namespace": "wcrp:cmip6:table-id:6hrplevpt", 
+    "raw_name": "6hrPlevPt", 
     "status": "pending", 
     "uid": "270de94a-a10f-4458-ae17-a8dc95a251da"
 }

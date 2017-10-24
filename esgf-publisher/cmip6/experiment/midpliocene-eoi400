@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "midpliocene-eoi400", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "main forcings: trace gases, orography, ice-sheet", 
+    "idx": 169, 
+    "label": "midPliocene-eoi400", 
+    "namespace": "esgf-publisher:cmip6:experiment:midpliocene-eoi400", 
+    "raw_name": "midPliocene-eoi400", 
+    "status": "pending", 
+    "uid": "9115482a-6eeb-448d-b359-d9620ed29a8f"
+}

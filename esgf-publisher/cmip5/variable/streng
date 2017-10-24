@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "streng", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "streng", 
+    "idx": 456, 
+    "namespace": "esgf-publisher:cmip5:variable:streng", 
+    "status": "pending", 
+    "uid": "c55307eb-6e8e-4d0a-9c74-e508b4930180"
+}

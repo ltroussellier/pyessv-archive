@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "n2oglobal", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "n2oglobal", 
+    "idx": 295, 
+    "namespace": "esgf-publisher:cmip5:variable:n2oglobal", 
+    "status": "pending", 
+    "uid": "4f536d3e-a0d9-4718-a2b3-5a2a2c0c1a0a"
+}

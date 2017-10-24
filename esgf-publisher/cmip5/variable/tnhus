@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tnhus", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tnhus", 
+    "idx": 477, 
+    "namespace": "esgf-publisher:cmip5:variable:tnhus", 
+    "status": "pending", 
+    "uid": "b60b2716-98c3-4852-a9ae-f8a580d58293"
+}

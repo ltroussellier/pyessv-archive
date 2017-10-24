@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "histsst-pin2o", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Historical (non-N2O) WMGHG concentrations and NTCF emissions, 1850 N2O concentrations", 
+    "idx": 178, 
+    "label": "histSST-piN2O", 
+    "namespace": "esgf-publisher:cmip6:experiment:histsst-pin2o", 
+    "raw_name": "histSST-piN2O", 
+    "status": "pending", 
+    "uid": "70d1e142-6ddc-41fe-b402-1bab4e03cbac"
+}

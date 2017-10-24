@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "piclim-ghg", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "As in RFMIP-ERF-PI-Cntrl but with present-day greenhouse gases", 
+    "idx": 53, 
+    "label": "piClim-ghg", 
+    "namespace": "esgf-publisher:cmip6:experiment:piclim-ghg", 
+    "raw_name": "piClim-ghg", 
+    "status": "pending", 
+    "uid": "362e8712-ed0e-4ad4-a075-83b7ede3f7a1"
+}

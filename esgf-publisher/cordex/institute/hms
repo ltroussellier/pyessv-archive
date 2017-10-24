@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "hms", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "HMS", 
+    "idx": 14, 
+    "label": "HMS", 
+    "namespace": "esgf-publisher:cordex:institute:hms", 
+    "status": "pending", 
+    "uid": "0387301e-357c-45d1-b77f-fa2512aa3a26"
+}

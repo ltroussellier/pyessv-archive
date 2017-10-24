@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "dryss", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "dryss", 
+    "idx": 132, 
+    "namespace": "esgf-publisher:cmip5:variable:dryss", 
+    "status": "pending", 
+    "uid": "11509b5e-93c7-439e-855b-2f092fd63b46"
+}

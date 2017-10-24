@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "time1", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "time1", 
+    "idx": 67, 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:time1", 
+    "status": "pending", 
+    "uid": "e53935f3-cfa9-4111-8c34-8098dcd95299"
+}

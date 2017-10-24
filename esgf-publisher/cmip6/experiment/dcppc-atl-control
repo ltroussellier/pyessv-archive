@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "dcppc-atl-control", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "C1.1 Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs", 
+    "idx": 207, 
+    "label": "dcppC-atl-control", 
+    "namespace": "esgf-publisher:cmip6:experiment:dcppc-atl-control", 
+    "raw_name": "dcppC-atl-control", 
+    "status": "pending", 
+    "uid": "c20e7edf-f280-4c0a-ad1c-bc575a68636b"
+}

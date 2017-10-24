@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "thetao", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "thetao", 
+    "idx": 473, 
+    "namespace": "esgf-publisher:cmip5:variable:thetao", 
+    "status": "pending", 
+    "uid": "ffa7d750-fe85-44fa-a8c3-6a7b39a83310"
+}

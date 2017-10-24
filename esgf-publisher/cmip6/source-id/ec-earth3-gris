@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "ec-earth3-gris", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "EC-Earth3-GrIS", 
+    "idx": 22, 
+    "label": "EC-Earth3-GrIS", 
+    "namespace": "esgf-publisher:cmip6:source-id:ec-earth3-gris", 
+    "status": "pending", 
+    "uid": "ccc0275d-4e09-446c-a301-29227c6c56ca"
+}

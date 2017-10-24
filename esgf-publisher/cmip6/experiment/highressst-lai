@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "highressst-lai", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Forced global atmosphere-land simulations as highresSST-present, but using an common LAI dataset across models", 
+    "idx": 105, 
+    "label": "highresSST-LAI", 
+    "namespace": "esgf-publisher:cmip6:experiment:highressst-lai", 
+    "raw_name": "highresSST-LAI", 
+    "status": "pending", 
+    "uid": "f59826d2-cb4b-49f0-b40d-0629159d3f27"
+}

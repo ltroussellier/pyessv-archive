@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "wap", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "wap", 
+    "idx": 568, 
+    "namespace": "esgf-publisher:cmip5:variable:wap", 
+    "status": "pending", 
+    "uid": "6f6138c3-3650-4999-8ca8-5249760f0a3e"
+}

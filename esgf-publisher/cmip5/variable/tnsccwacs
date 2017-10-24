@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tnsccwacs", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tnsccwacs", 
+    "idx": 486, 
+    "namespace": "esgf-publisher:cmip5:variable:tnsccwacs", 
+    "status": "pending", 
+    "uid": "e13c5f40-5014-4242-8924-3dbb2aad0357"
+}

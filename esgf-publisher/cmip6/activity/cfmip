@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "cfmip", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CFMIP", 
+    "idx": 2, 
+    "label": "CFMIP", 
+    "namespace": "esgf-publisher:cmip6:activity:cfmip", 
+    "status": "pending", 
+    "uid": "45f02ecd-291e-4b42-8651-10c64f569686"
+}

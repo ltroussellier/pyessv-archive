@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "co2mass", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "co2mass", 
+    "idx": 83, 
+    "namespace": "esgf-publisher:cmip5:variable:co2mass", 
+    "status": "pending", 
+    "uid": "69012a95-5780-4f7e-b513-78bf4350cda3"
+}

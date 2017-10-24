@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "reffclwtop", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "reffclwtop", 
+    "idx": 362, 
+    "namespace": "esgf-publisher:cmip5:variable:reffclwtop", 
+    "status": "pending", 
+    "uid": "c3f6de9d-27fb-4487-bbda-03dfef652c5b"
+}

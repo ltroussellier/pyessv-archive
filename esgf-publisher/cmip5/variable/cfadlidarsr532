@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "cfadlidarsr532", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "cfadLidarsr532", 
+    "idx": 42, 
+    "label": "cfadLidarsr532", 
+    "namespace": "esgf-publisher:cmip5:variable:cfadlidarsr532", 
+    "status": "pending", 
+    "uid": "a9f7afbd-15c9-4d2a-a914-edc81716cc88"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "smc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "smc", 
+    "idx": 441, 
+    "namespace": "esgf-publisher:cmip5:variable:smc", 
+    "status": "pending", 
+    "uid": "d8e5c535-1add-4eb3-ac59-5c6ae4951365"
+}

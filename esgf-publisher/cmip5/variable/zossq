@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "zossq", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "zossq", 
+    "idx": 596, 
+    "namespace": "esgf-publisher:cmip5:variable:zossq", 
+    "status": "pending", 
+    "uid": "9b27cb7f-7e5e-4ebd-883b-8e7fd6191c6f"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rlu4co2", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rlu4co2", 
+    "idx": 382, 
+    "namespace": "esgf-publisher:cmip5:variable:rlu4co2", 
+    "status": "pending", 
+    "uid": "957e042a-8859-45a4-a7c6-75b2d9ef32bf"
+}

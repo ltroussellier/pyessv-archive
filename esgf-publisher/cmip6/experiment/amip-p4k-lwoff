@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "amip-p4k-lwoff", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "As amip-p4K experiment, but with cloud-radiative effects switched off in the LW radiation code", 
+    "idx": 66, 
+    "label": "amip-p4K-lwoff", 
+    "namespace": "esgf-publisher:cmip6:experiment:amip-p4k-lwoff", 
+    "raw_name": "amip-p4K-lwoff", 
+    "status": "pending", 
+    "uid": "3ecd3efa-71f9-4213-bfdd-648a02dbbc71"
+}

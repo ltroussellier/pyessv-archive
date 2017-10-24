@@ -1,12 +1,10 @@
 {
     "_type": "term", 
-    "canonicalName": "s1972", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
-    "data": {}, 
+    "canonical_name": "s1972", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "initialized near end of year 1972", 
     "idx": 25, 
-    "label": "s1972", 
-    "rawName": "s1972", 
+    "namespace": "wcrp:cmip6:sub-experiment-id:s1972", 
     "status": "pending", 
     "uid": "093c26e3-dd0c-43cc-a0bc-a4eeb43d6369"
 }

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rcp85", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "RCP8.5", 
+    "idx": 94, 
+    "namespace": "esgf-publisher:cmip5:experiment:rcp85", 
+    "status": "pending", 
+    "uid": "573ccde1-4178-4b39-8f4a-7cc120a38fdc"
+}

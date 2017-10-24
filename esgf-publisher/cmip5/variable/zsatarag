@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "zsatarag", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "zsatarag", 
+    "idx": 598, 
+    "namespace": "esgf-publisher:cmip5:variable:zsatarag", 
+    "status": "pending", 
+    "uid": "e0e8ad40-2964-4889-a757-3935b0b7ded0"
+}

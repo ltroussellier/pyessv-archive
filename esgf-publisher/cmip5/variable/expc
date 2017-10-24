@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "expc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "expc", 
+    "idx": 161, 
+    "namespace": "esgf-publisher:cmip5:variable:expc", 
+    "status": "pending", 
+    "uid": "06d7ff66-5b84-4d61-a9f9-2f958191d003"
+}

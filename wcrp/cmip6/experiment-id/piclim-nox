@@ -1,29 +1,29 @@
 {
     "_type": "term", 
-    "canonicalName": "piclim-nox", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "piclim-nox", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "AerChemMIP"
         ], 
-        "additionalAllowedModelComponents": "", 
-        "endYear": "", 
+        "additional_allowed_model_components": "", 
+        "end_year": "", 
         "experiment": "pre-industrial climatological SSTs and forcing, but with 2014 NOx emissions", 
-        "experimentID": "piClim-NOx", 
-        "minNumberYrsPerSim": "30", 
-        "parentActivityID": [
+        "experiment_id": "piClim-NOx", 
+        "min_number_yrs_per_sim": "30", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "piControl"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AGCM", 
             "AER", 
             "CHEM"
         ], 
-        "startYear": "", 
-        "subExperimentID": [
+        "start_year": "", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "3"
@@ -31,7 +31,8 @@
     "description": "Perturbation from 1850 control using 2014 NOx emissions", 
     "idx": 135, 
     "label": "piClim-NOx", 
-    "rawName": "piClim-NOx", 
+    "namespace": "wcrp:cmip6:experiment-id:piclim-nox", 
+    "raw_name": "piClim-NOx", 
     "status": "pending", 
     "uid": "a9d0fdd5-06b6-4397-9f66-67d95b468ea1"
 }

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "depth-bnds", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "depth_bnds", 
+    "idx": 16, 
+    "label": "depth_bnds", 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:depth-bnds", 
+    "raw_name": "depth_bnds", 
+    "status": "pending", 
+    "uid": "8dff63df-1d33-4ec2-aa2c-4c06f4f442d2"
+}

@@ -1,31 +1,31 @@
 {
     "_type": "term", 
-    "canonicalName": "histsst-pin2o", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "histsst-pin2o", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "AerChemMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "BGC"
         ], 
-        "endYear": "2014", 
+        "end_year": "2014", 
         "experiment": "historical SSTs and historical forcings, but with pre-industrial N2O concentrations", 
-        "experimentID": "histSST-piN2O", 
-        "minNumberYrsPerSim": "165", 
-        "parentActivityID": [
+        "experiment_id": "histSST-piN2O", 
+        "min_number_yrs_per_sim": "165", 
+        "parent_activity_id": [
             "no parent"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "no parent"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AGCM", 
             "AER", 
             "CHEM"
         ], 
-        "startYear": "1850", 
-        "subExperimentID": [
+        "start_year": "1850", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
@@ -33,7 +33,8 @@
     "description": "Historical (non-N2O) WMGHG concentrations and NTCF emissions, 1850 N2O concentrations", 
     "idx": 178, 
     "label": "histSST-piN2O", 
-    "rawName": "histSST-piN2O", 
+    "namespace": "wcrp:cmip6:experiment-id:histsst-pin2o", 
+    "raw_name": "histSST-piN2O", 
     "status": "pending", 
     "uid": "2b0e529f-d890-4fb8-b1ae-1e1ae27cf450"
 }

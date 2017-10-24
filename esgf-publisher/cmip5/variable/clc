@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "clc", 
+    "idx": 58, 
+    "namespace": "esgf-publisher:cmip5:variable:clc", 
+    "status": "pending", 
+    "uid": "b11a8bb6-93c4-4c89-83a7-8615b09a0efe"
+}

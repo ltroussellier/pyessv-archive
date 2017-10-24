@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "aus-44i", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Australasia", 
+    "idx": 7, 
+    "label": "AUS-44i", 
+    "namespace": "esgf-publisher:cordex:domain:aus-44i", 
+    "raw_name": "AUS-44i", 
+    "status": "pending", 
+    "uid": "4f1de04b-9136-44ba-b806-a5c48047223c"
+}

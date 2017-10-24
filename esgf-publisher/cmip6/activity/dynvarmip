@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "dynvarmip", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "DynVarMIP", 
+    "idx": 7, 
+    "label": "DynVarMIP", 
+    "namespace": "esgf-publisher:cmip6:activity:dynvarmip", 
+    "status": "pending", 
+    "uid": "01e4d6b6-aaac-4bc9-989e-3a2ac5f172f1"
+}

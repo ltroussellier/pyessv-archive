@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "ls3mip", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "LS3MIP", 
+    "idx": 13, 
+    "label": "LS3MIP", 
+    "namespace": "esgf-publisher:cmip6:activity:ls3mip", 
+    "status": "pending", 
+    "uid": "7ad69489-69b6-4d38-8911-14dacf8810ba"
+}

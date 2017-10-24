@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "snotoice", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "snoToIce", 
+    "idx": 445, 
+    "label": "snoToIce", 
+    "namespace": "esgf-publisher:cmip5:variable:snotoice", 
+    "status": "pending", 
+    "uid": "701f7d3f-9151-48a2-b484-7ef2298b1afe"
+}

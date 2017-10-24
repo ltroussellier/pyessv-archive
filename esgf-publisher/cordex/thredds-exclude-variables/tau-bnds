@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "tau-bnds", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tau_bnds", 
+    "idx": 65, 
+    "label": "tau_bnds", 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:tau-bnds", 
+    "raw_name": "tau_bnds", 
+    "status": "pending", 
+    "uid": "467b6002-2e3f-478f-939c-f55018aba257"
+}

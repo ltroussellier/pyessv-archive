@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "mrsowp", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "mrsowp", 
+    "idx": 90, 
+    "namespace": "esgf-publisher:cordex:variable:mrsowp", 
+    "status": "pending", 
+    "uid": "00e7d113-f651-468f-a949-d75e15f8e412"
+}

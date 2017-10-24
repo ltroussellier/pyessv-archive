@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "nbp", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "nbp", 
+    "idx": 296, 
+    "namespace": "esgf-publisher:cmip5:variable:nbp", 
+    "status": "pending", 
+    "uid": "6b08a9e2-195f-4f1f-9bc2-11b9e1081a4f"
+}

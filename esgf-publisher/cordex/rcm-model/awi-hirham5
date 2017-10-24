@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "awi-hirham5", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "AWI-HIRHAM5", 
+    "idx": 2, 
+    "label": "AWI-HIRHAM5", 
+    "namespace": "esgf-publisher:cordex:rcm-model:awi-hirham5", 
+    "status": "pending", 
+    "uid": "ace323a7-3fd6-48b0-bd72-abaa711fd20f"
+}

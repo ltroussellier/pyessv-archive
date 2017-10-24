@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "fharvest", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "fHarvest", 
+    "idx": 169, 
+    "label": "fHarvest", 
+    "namespace": "esgf-publisher:cmip5:variable:fharvest", 
+    "status": "pending", 
+    "uid": "66804f3f-d3c0-4d13-9181-c88973b97cfa"
+}

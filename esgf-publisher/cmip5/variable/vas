@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "vas", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "vas", 
+    "idx": 556, 
+    "namespace": "esgf-publisher:cmip5:variable:vas", 
+    "status": "pending", 
+    "uid": "60a5cea0-8f5f-468f-8720-59499f1b7495"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "loaddust", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "loaddust", 
+    "idx": 260, 
+    "namespace": "esgf-publisher:cmip5:variable:loaddust", 
+    "status": "pending", 
+    "uid": "40ba135d-acb5-40d6-aa23-48309a5c7ef5"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "zg900", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "zg900", 
+    "idx": 197, 
+    "namespace": "esgf-publisher:cordex:variable:zg900", 
+    "status": "pending", 
+    "uid": "ffb8214a-6f47-4de9-a2b2-cd7d02fc533f"
+}

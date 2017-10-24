@@ -1,39 +1,38 @@
 {
     "_type": "term", 
-    "canonicalName": "lgm", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "lgm", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "PMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM", 
             "BGC"
         ], 
-        "endYear": "", 
+        "end_year": "", 
         "experiment": "last glacial maximum", 
-        "experimentID": "lgm", 
-        "minNumberYrsPerSim": "100", 
-        "parentActivityID": [
+        "experiment_id": "lgm", 
+        "min_number_yrs_per_sim": "100", 
+        "parent_activity_id": [
             "no parent"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "no parent"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM"
         ], 
-        "startYear": "", 
-        "subExperimentID": [
+        "start_year": "", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "1"
     }, 
     "description": "main forcings: ice-sheet; trace gases, astronomical parameters, dust (forcing, or feedback if dust cycle represented in model)", 
     "idx": 165, 
-    "label": "lgm", 
-    "rawName": "lgm", 
+    "namespace": "wcrp:cmip6:experiment-id:lgm", 
     "status": "pending", 
     "uid": "0751c88d-b8e7-40a7-81fd-b30d1328995f"
 }

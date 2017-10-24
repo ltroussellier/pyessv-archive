@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "mrsosat", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "mrsosat", 
+    "idx": 88, 
+    "namespace": "esgf-publisher:cordex:variable:mrsosat", 
+    "status": "pending", 
+    "uid": "79d3df24-8e70-4464-8b0c-00bb1381453d"
+}

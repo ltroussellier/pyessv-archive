@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "bddtdin", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "bddtdin", 
+    "idx": 14, 
+    "namespace": "esgf-publisher:cmip5:variable:bddtdin", 
+    "status": "pending", 
+    "uid": "4dd3d7f7-697a-4326-ba79-0537e8a09885"
+}

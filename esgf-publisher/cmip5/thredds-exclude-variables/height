@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "height", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "height", 
+    "idx": 17, 
+    "namespace": "esgf-publisher:cmip5:thredds-exclude-variables:height", 
+    "status": "pending", 
+    "uid": "bba2720a-8cfb-44de-9634-6e517804c91f"
+}

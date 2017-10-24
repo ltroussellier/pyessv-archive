@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "vo", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "vo", 
+    "idx": 558, 
+    "namespace": "esgf-publisher:cmip5:variable:vo", 
+    "status": "pending", 
+    "uid": "ad279343-1fe1-445d-8d5d-bb62f2a646d2"
+}

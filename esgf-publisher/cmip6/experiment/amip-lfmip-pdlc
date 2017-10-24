@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "amip-lfmip-pdlc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Prescribed land conditions 1980-2014 climate; AMIP SSTs", 
+    "idx": 25, 
+    "label": "amip-lfmip-pdLC", 
+    "namespace": "esgf-publisher:cmip6:experiment:amip-lfmip-pdlc", 
+    "raw_name": "amip-lfmip-pdLC", 
+    "status": "pending", 
+    "uid": "7eaf29e0-556f-4e5b-b808-92c749941ccc"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ssp119", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Future scenario with low radiative forcing throughout reaching about 1.9 W/m2 in 2100 based on SSP1. Concentration-driven", 
+    "idx": 214, 
+    "namespace": "esgf-publisher:cmip6:experiment:ssp119", 
+    "status": "pending", 
+    "uid": "d8e1193e-2d3e-479b-a3db-2d204282cfa2"
+}

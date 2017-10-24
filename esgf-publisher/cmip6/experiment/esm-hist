@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "esm-hist", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CMIP6 historical (CO2 emission-driven)", 
+    "idx": 168, 
+    "namespace": "esgf-publisher:cmip6:experiment:esm-hist", 
+    "status": "pending", 
+    "uid": "8a52730f-aeaf-491b-aa3f-f73f9f8f7e79"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "lev-bnds", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "lev_bnds", 
+    "idx": 26, 
+    "label": "lev_bnds", 
+    "namespace": "esgf-publisher:cmip5:thredds-exclude-variables:lev-bnds", 
+    "raw_name": "lev_bnds", 
+    "status": "pending", 
+    "uid": "0a458774-4704-42c9-9de9-28ec15844e46"
+}

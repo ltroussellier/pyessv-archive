@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "epfe100", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "epfe100", 
+    "idx": 150, 
+    "namespace": "esgf-publisher:cmip5:variable:epfe100", 
+    "status": "pending", 
+    "uid": "ee491649-01c7-463d-8d60-d27118580301"
+}

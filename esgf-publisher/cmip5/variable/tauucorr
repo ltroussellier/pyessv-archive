@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tauucorr", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tauucorr", 
+    "idx": 468, 
+    "namespace": "esgf-publisher:cmip5:variable:tauucorr", 
+    "status": "pending", 
+    "uid": "4cae4de5-a110-4a08-9e61-ac6c81964d35"
+}

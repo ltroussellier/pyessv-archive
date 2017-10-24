@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "c4pftfrac", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "c4PftFrac", 
+    "idx": 22, 
+    "label": "c4PftFrac", 
+    "namespace": "esgf-publisher:cmip5:variable:c4pftfrac", 
+    "status": "pending", 
+    "uid": "24562ec5-0ea2-44eb-9f26-e3050963cc75"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "ant-44i", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Antarctica", 
+    "idx": 3, 
+    "label": "ANT-44i", 
+    "namespace": "esgf-publisher:cordex:domain:ant-44i", 
+    "raw_name": "ANT-44i", 
+    "status": "pending", 
+    "uid": "e908a789-04c2-488c-9979-04c8fc24da71"
+}

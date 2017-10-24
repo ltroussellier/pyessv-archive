@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "historicalnat", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Historical with natural forcing only", 
+    "idx": 76, 
+    "label": "historicalNat", 
+    "namespace": "esgf-publisher:cmip5:experiment:historicalnat", 
+    "raw_name": "historicalNat", 
+    "status": "pending", 
+    "uid": "7f8974a9-83ae-4fe4-b463-ca203d807966"
+}

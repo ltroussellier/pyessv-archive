@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rlut", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rlut", 
+    "idx": 102, 
+    "namespace": "esgf-publisher:cordex:variable:rlut", 
+    "status": "pending", 
+    "uid": "751c6bf9-f8a0-4311-8c4c-58d6746a73f8"
+}

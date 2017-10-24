@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "mrso", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "mrso", 
+    "idx": 282, 
+    "namespace": "esgf-publisher:cmip5:variable:mrso", 
+    "status": "pending", 
+    "uid": "d3ef1044-6860-4d84-bb12-76976b60ca3e"
+}

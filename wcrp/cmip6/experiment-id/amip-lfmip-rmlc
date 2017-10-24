@@ -1,31 +1,31 @@
 {
     "_type": "term", 
-    "canonicalName": "amip-lfmip-rmlc", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "amip-lfmip-rmlc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "LS3MIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM", 
             "BGC"
         ], 
-        "endYear": "2014", 
+        "end_year": "2014", 
         "experiment": "prescribed land conditions (from running mean climatology) and AMIP SSTs", 
-        "experimentID": "amip-lfmip-rmLC", 
-        "minNumberYrsPerSim": "36", 
-        "parentActivityID": [
+        "experiment_id": "amip-lfmip-rmLC", 
+        "min_number_yrs_per_sim": "36", 
+        "parent_activity_id": [
             "no parent"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "no parent"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AGCM"
         ], 
-        "startYear": "1979", 
-        "subExperimentID": [
+        "start_year": "1979", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
@@ -33,7 +33,8 @@
     "description": "Prescribed land conditions 30yr running mean; AMIP SSTs", 
     "idx": 43, 
     "label": "amip-lfmip-rmLC", 
-    "rawName": "amip-lfmip-rmLC", 
+    "namespace": "wcrp:cmip6:experiment-id:amip-lfmip-rmlc", 
+    "raw_name": "amip-lfmip-rmLC", 
     "status": "pending", 
     "uid": "c9291db7-20f7-4563-a018-1be26e83aa0a"
 }

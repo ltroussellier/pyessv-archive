@@ -1,10 +1,11 @@
 {
     "_type": "term", 
-    "canonicalName": "aerday", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "aerday", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "idx": 4, 
     "label": "AERday", 
-    "rawName": "AERday", 
+    "namespace": "wcrp:cmip6:table-id:aerday", 
+    "raw_name": "AERday", 
     "status": "pending", 
     "uid": "22c74d56-ef3d-42e5-ad8f-0aa0109ecfc2"
 }

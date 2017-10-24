@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "uqam", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "UQAM", 
+    "idx": 31, 
+    "label": "UQAM", 
+    "namespace": "esgf-publisher:cordex:institute:uqam", 
+    "status": "pending", 
+    "uid": "f34ee58b-6773-4681-93c7-76b23148276c"
+}

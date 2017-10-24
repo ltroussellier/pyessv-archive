@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "od550lt1aer", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "od550lt1aer", 
+    "idx": 307, 
+    "namespace": "esgf-publisher:cmip5:variable:od550lt1aer", 
+    "status": "pending", 
+    "uid": "52b1cbf1-5193-4213-ba02-e3a7f1552aac"
+}

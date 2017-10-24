@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "dcppa-hindcast-niff", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "A4.1 Decadal hindcasts begun near the end of each year from 1960 to 2016, or every other year at minimum, but with no information from the future. First full hindcast year follows start year (e.g., for s1960, first full hindcast year is 1961)", 
+    "idx": 114, 
+    "label": "dcppA-hindcast-niff", 
+    "namespace": "esgf-publisher:cmip6:experiment:dcppa-hindcast-niff", 
+    "raw_name": "dcppA-hindcast-niff", 
+    "status": "pending", 
+    "uid": "3d9e58a5-00bd-4227-a3a7-729068e80423"
+}

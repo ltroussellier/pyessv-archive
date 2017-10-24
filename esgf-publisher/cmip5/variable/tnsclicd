@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tnsclicd", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tnsclicd", 
+    "idx": 497, 
+    "namespace": "esgf-publisher:cmip5:variable:tnsclicd", 
+    "status": "pending", 
+    "uid": "4e4456f6-d995-403c-94a0-d217b759def4"
+}

@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "gerics", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "GERICS", 
+    "idx": 13, 
+    "label": "GERICS", 
+    "namespace": "esgf-publisher:cordex:institute:gerics", 
+    "status": "pending", 
+    "uid": "e7e87014-e536-4816-9eb3-01f500532601"
+}

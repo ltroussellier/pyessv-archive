@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "bcc-csm1-1", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "bcc-csm1-1", 
+    "idx": 3, 
+    "namespace": "esgf-publisher:cmip5:model:bcc-csm1-1", 
+    "status": "pending", 
+    "uid": "cb395f2d-ecf1-41b3-bc37-2c09a1394382"
+}

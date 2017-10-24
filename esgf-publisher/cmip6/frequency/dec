@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "dec", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "dec", 
+    "idx": 5, 
+    "namespace": "esgf-publisher:cmip6:frequency:dec", 
+    "status": "pending", 
+    "uid": "0d79c1e9-9d9d-4924-904c-8320b27debf2"
+}

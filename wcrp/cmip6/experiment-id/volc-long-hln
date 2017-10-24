@@ -1,31 +1,31 @@
 {
     "_type": "term", 
-    "canonicalName": "volc-long-hln", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "volc-long-hln", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "VolMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM", 
             "BGC"
         ], 
-        "endYear": "", 
+        "end_year": "", 
         "experiment": "idealized Northern Hemisphere high-latitude eruption emitting 28.1 Tg of SO2", 
-        "experimentID": "volc-long-hlN", 
-        "minNumberYrsPerSim": "20", 
-        "parentActivityID": [
+        "experiment_id": "volc-long-hlN", 
+        "min_number_yrs_per_sim": "20", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "piControl"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM"
         ], 
-        "startYear": "", 
-        "subExperimentID": [
+        "start_year": "", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
@@ -33,7 +33,8 @@
     "description": "Idealized Northern Hemisphere high-latitude eruption emitting 28.1 Tg of SO2. Experiment initialized from PiControl", 
     "idx": 20, 
     "label": "volc-long-hlN", 
-    "rawName": "volc-long-hlN", 
+    "namespace": "wcrp:cmip6:experiment-id:volc-long-hln", 
+    "raw_name": "volc-long-hlN", 
     "status": "pending", 
     "uid": "5928b1c4-893c-445a-bfd9-5835e2ab19fa"
 }

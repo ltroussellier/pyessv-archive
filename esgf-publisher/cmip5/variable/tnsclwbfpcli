@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tnsclwbfpcli", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tnsclwbfpcli", 
+    "idx": 514, 
+    "namespace": "esgf-publisher:cmip5:variable:tnsclwbfpcli", 
+    "status": "pending", 
+    "uid": "0183a7ac-f3b5-4e16-8f8a-41482454df72"
+}

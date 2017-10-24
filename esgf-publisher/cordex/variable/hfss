@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hfss", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "hfss", 
+    "idx": 51, 
+    "namespace": "esgf-publisher:cordex:variable:hfss", 
+    "status": "pending", 
+    "uid": "e723cc20-c13c-4f1d-818d-2b09f656fdce"
+}

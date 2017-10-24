@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "snomelt", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "snomelt", 
+    "idx": 446, 
+    "namespace": "esgf-publisher:cmip5:variable:snomelt", 
+    "status": "pending", 
+    "uid": "df7b727c-6817-4520-9486-417b5c9316dd"
+}

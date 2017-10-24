@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "aqua-control-lwoff", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "As aqua-control experiment, but with cloud-radiative effects switched off in the LW radiation code", 
+    "idx": 180, 
+    "namespace": "esgf-publisher:cmip6:experiment:aqua-control-lwoff", 
+    "status": "pending", 
+    "uid": "082bf196-3302-4767-a2b9-d8ed9ec1af83"
+}

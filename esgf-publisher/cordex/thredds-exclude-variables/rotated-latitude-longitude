@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "rotated-latitude-longitude", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rotated_latitude_longitude", 
+    "idx": 57, 
+    "label": "rotated_latitude_longitude", 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:rotated-latitude-longitude", 
+    "raw_name": "rotated_latitude_longitude", 
+    "status": "pending", 
+    "uid": "33a390bf-51d7-409a-88c2-3e07e9f75494"
+}

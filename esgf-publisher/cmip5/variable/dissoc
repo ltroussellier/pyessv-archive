@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "dissoc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "dissoc", 
+    "idx": 114, 
+    "namespace": "esgf-publisher:cmip5:variable:dissoc", 
+    "status": "pending", 
+    "uid": "5e7bb05b-2bc4-4e25-8af4-fc6170bdf262"
+}

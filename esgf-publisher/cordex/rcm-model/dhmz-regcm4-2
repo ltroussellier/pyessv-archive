@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "dhmz-regcm4-2", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "DHMZ-RegCM4-2", 
+    "idx": 14, 
+    "label": "DHMZ-RegCM4-2", 
+    "namespace": "esgf-publisher:cordex:rcm-model:dhmz-regcm4-2", 
+    "status": "pending", 
+    "uid": "8aec92d1-a769-4bd1-896f-ae6c6da2bb3a"
+}

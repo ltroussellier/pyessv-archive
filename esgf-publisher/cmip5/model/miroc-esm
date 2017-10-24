@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "miroc-esm", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "MIROC-ESM", 
+    "idx": 48, 
+    "label": "MIROC-ESM", 
+    "namespace": "esgf-publisher:cmip5:model:miroc-esm", 
+    "status": "pending", 
+    "uid": "1cf8d30b-7e62-42b4-a91c-dc9d124f8644"
+}

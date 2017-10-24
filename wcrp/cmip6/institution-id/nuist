@@ -1,13 +1,14 @@
 {
     "_type": "term", 
-    "canonicalName": "nuist", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "nuist", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "postalAddress": "Nanjing University of Information Science and Technology, Nanjing, 210044, China"
+        "postal_address": "Nanjing University of Information Science and Technology, Nanjing, 210044, China"
     }, 
-    "idx": 27, 
+    "idx": 29, 
     "label": "NUIST", 
-    "rawName": "NUIST", 
+    "namespace": "wcrp:cmip6:institution-id:nuist", 
+    "raw_name": "NUIST", 
     "status": "pending", 
     "uid": "65d09d28-65a7-406e-bcdf-c9947a413aa2"
 }

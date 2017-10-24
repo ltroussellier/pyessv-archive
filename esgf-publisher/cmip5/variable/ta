@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ta", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ta", 
+    "idx": 460, 
+    "namespace": "esgf-publisher:cmip5:variable:ta", 
+    "status": "pending", 
+    "uid": "7520527a-2926-4ee8-91eb-7d96f0037f9b"
+}

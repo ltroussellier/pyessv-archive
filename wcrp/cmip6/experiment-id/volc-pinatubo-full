@@ -1,39 +1,38 @@
 {
     "_type": "term", 
-    "canonicalName": "volc-pinatubo-full", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "volc-pinatubo-full", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "VolMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM", 
             "BGC"
         ], 
-        "endYear": "", 
+        "end_year": "", 
         "experiment": "Pinatubo experiment", 
-        "experimentID": "volc-pinatubo-full", 
-        "minNumberYrsPerSim": "3", 
-        "parentActivityID": [
+        "experiment_id": "volc-pinatubo-full", 
+        "min_number_yrs_per_sim": "3", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "piControl"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM"
         ], 
-        "startYear": "", 
-        "subExperimentID": [
+        "start_year": "", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "1"
     }, 
     "description": "1991 Pinatubo forcing as used in the CMIP6 historical simulations. Requires special diagnostics of radiative and latent heating rates. A large number of ensemble members is required to address internal atmospheric variability", 
     "idx": 246, 
-    "label": "volc-pinatubo-full", 
-    "rawName": "volc-pinatubo-full", 
+    "namespace": "wcrp:cmip6:experiment-id:volc-pinatubo-full", 
     "status": "pending", 
     "uid": "ea7339f8-2f85-44f2-b510-b0c96172f6c4"
 }

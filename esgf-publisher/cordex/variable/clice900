@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clice900", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "clice900", 
+    "idx": 26, 
+    "namespace": "esgf-publisher:cordex:variable:clice900", 
+    "status": "pending", 
+    "uid": "645567bb-9aa8-4325-83de-f2c44496e3ed"
+}

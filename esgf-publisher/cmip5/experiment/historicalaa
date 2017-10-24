@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "historicalaa", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Historical with anthropogenic aerosols only", 
+    "idx": 71, 
+    "label": "historicalAA", 
+    "namespace": "esgf-publisher:cmip5:experiment:historicalaa", 
+    "raw_name": "historicalAA", 
+    "status": "pending", 
+    "uid": "8b0b11a0-f6ff-4575-ac80-eafb451ff1fc"
+}

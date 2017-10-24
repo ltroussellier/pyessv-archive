@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "co3", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "co3", 
+    "idx": 85, 
+    "namespace": "esgf-publisher:cmip5:variable:co3", 
+    "status": "pending", 
+    "uid": "485b985d-f61e-45c6-a3a1-39863ea56d81"
+}

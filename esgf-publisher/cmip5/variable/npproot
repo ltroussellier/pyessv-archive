@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "npproot", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "nppRoot", 
+    "idx": 302, 
+    "label": "nppRoot", 
+    "namespace": "esgf-publisher:cmip5:variable:npproot", 
+    "status": "pending", 
+    "uid": "09472115-98e6-498e-95d7-b6ada69928da"
+}

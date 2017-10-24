@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "chldiat", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "chldiat", 
+    "idx": 52, 
+    "namespace": "esgf-publisher:cmip5:variable:chldiat", 
+    "status": "pending", 
+    "uid": "a3125dcb-018e-46fe-9eb2-84b88271783f"
+}

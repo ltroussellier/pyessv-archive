@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "cuni-regcm4-2", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CUNI-RegCM4-2", 
+    "idx": 13, 
+    "label": "CUNI-RegCM4-2", 
+    "namespace": "esgf-publisher:cordex:rcm-model:cuni-regcm4-2", 
+    "status": "pending", 
+    "uid": "bbbfe56e-6e12-43b7-91f5-5d8f5e8e223d"
+}

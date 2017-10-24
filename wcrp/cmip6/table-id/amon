@@ -1,10 +1,11 @@
 {
     "_type": "term", 
-    "canonicalName": "amon", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "amon", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "idx": 8, 
     "label": "Amon", 
-    "rawName": "Amon", 
+    "namespace": "wcrp:cmip6:table-id:amon", 
+    "raw_name": "Amon", 
     "status": "pending", 
     "uid": "eadd8e12-30b0-4655-8e73-bdaa1d56d15d"
 }

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "hist-nolu", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Same as CMIP6 historical but with land cover held at 1850, no human activity; concentration driven", 
+    "idx": 184, 
+    "label": "hist-noLu", 
+    "namespace": "esgf-publisher:cmip6:experiment:hist-nolu", 
+    "raw_name": "hist-noLu", 
+    "status": "pending", 
+    "uid": "34b6d431-8179-476b-880e-603e09b4771f"
+}

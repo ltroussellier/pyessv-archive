@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "g7sst2-cirrus", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Time slice at 2100 (ScenarioMIP Tier 1 high forcing scenario and cirrus thinning according to G7cirrus)", 
+    "idx": 186, 
+    "label": "G7SST2-cirrus", 
+    "namespace": "esgf-publisher:cmip6:experiment:g7sst2-cirrus", 
+    "raw_name": "G7SST2-cirrus", 
+    "status": "pending", 
+    "uid": "d8ceb67e-8c1d-431b-9870-86dd0b0c27bd"
+}

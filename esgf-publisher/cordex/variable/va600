@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "va600", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "va600", 
+    "idx": 172, 
+    "namespace": "esgf-publisher:cordex:variable:va600", 
+    "status": "pending", 
+    "uid": "3041e992-1da3-46f3-88dc-7f33d1d74a3d"
+}

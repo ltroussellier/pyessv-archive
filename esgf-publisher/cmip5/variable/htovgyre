@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "htovgyre", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "htovgyre", 
+    "idx": 236, 
+    "namespace": "esgf-publisher:cmip5:variable:htovgyre", 
+    "status": "pending", 
+    "uid": "581ca0d1-64e9-4ab9-9fff-45a83f46e499"
+}

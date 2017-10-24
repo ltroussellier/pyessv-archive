@@ -1,31 +1,31 @@
 {
     "_type": "term", 
-    "canonicalName": "lfmip-rmlc-cruncep", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "lfmip-rmlc-cruncep", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "LS3MIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM", 
             "BGC"
         ], 
-        "endYear": "2100", 
+        "end_year": "2100", 
         "experiment": "as LFMIP-rmLC with Land-Hist-cruNcep", 
-        "experimentID": "lfmip-rmLC-cruNcep", 
-        "minNumberYrsPerSim": "121", 
-        "parentActivityID": [
+        "experiment_id": "lfmip-rmLC-cruNcep", 
+        "min_number_yrs_per_sim": "121", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "historical"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM"
         ], 
-        "startYear": "1980", 
-        "subExperimentID": [
+        "start_year": "1980", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
@@ -33,7 +33,8 @@
     "description": "Prescribed land conditions 30yr running mean with Land-Hist-cruNcep", 
     "idx": 223, 
     "label": "lfmip-rmLC-cruNcep", 
-    "rawName": "lfmip-rmLC-cruNcep", 
+    "namespace": "wcrp:cmip6:experiment-id:lfmip-rmlc-cruncep", 
+    "raw_name": "lfmip-rmLC-cruNcep", 
     "status": "pending", 
     "uid": "e2cce70b-b847-4e45-95ba-69e16f6c6227"
 }

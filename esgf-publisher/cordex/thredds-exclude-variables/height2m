@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "height2m", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "height2m", 
+    "idx": 20, 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:height2m", 
+    "status": "pending", 
+    "uid": "2f1ebb68-24ae-4a9e-8bed-c525d2a90a87"
+}

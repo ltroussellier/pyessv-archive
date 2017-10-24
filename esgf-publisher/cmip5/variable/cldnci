@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "cldnci", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "cldnci", 
+    "idx": 61, 
+    "namespace": "esgf-publisher:cmip5:variable:cldnci", 
+    "status": "pending", 
+    "uid": "c294781f-82fb-4017-a12f-09ae653f57d1"
+}

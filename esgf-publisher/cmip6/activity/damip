@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "damip", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "DAMIP", 
+    "idx": 5, 
+    "label": "DAMIP", 
+    "namespace": "esgf-publisher:cmip6:activity:damip", 
+    "status": "pending", 
+    "uid": "53d88b52-a2d3-453d-910e-030cb99b4095"
+}

@@ -1,39 +1,38 @@
 {
     "_type": "term", 
-    "canonicalName": "hist-all-nat2", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "hist-all-nat2", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "DAMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM", 
             "BGC"
         ], 
-        "endYear": "2020", 
+        "end_year": "2020", 
         "experiment": "historical ALL-forcing run with alternate estimates of natural forcing", 
-        "experimentID": "hist-all-nat2", 
-        "minNumberYrsPerSim": "171", 
-        "parentActivityID": [
+        "experiment_id": "hist-all-nat2", 
+        "min_number_yrs_per_sim": "171", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "piControl"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM"
         ], 
-        "startYear": "1850", 
-        "subExperimentID": [
+        "start_year": "1850", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "3"
     }, 
     "description": "Historical ALL forcing run with alternates estimate of solar and volcanic forcing", 
     "idx": 183, 
-    "label": "hist-all-nat2", 
-    "rawName": "hist-all-nat2", 
+    "namespace": "wcrp:cmip6:experiment-id:hist-all-nat2", 
     "status": "pending", 
     "uid": "d58fe3c8-f10c-4e1c-b16f-06b02614da96"
 }

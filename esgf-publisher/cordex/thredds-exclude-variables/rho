@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rho", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rho", 
+    "idx": 55, 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:rho", 
+    "status": "pending", 
+    "uid": "5c19a234-dc83-4a28-b689-66bcf3560e45"
+}

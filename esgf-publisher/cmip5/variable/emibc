@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "emibc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "emibc", 
+    "idx": 138, 
+    "namespace": "esgf-publisher:cmip5:variable:emibc", 
+    "status": "pending", 
+    "uid": "61df126f-1b70-4e91-8937-794092adfd5e"
+}

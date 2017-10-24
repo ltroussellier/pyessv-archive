@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "lfmip-initlc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Initialized pseudo-observations land", 
+    "idx": 204, 
+    "label": "lfmip-initLC", 
+    "namespace": "esgf-publisher:cmip6:experiment:lfmip-initlc", 
+    "raw_name": "lfmip-initLC", 
+    "status": "pending", 
+    "uid": "c28e4be8-117d-47ec-89f6-a402f5c5ebe3"
+}

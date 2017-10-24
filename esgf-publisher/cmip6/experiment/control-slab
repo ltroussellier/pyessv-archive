@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "control-slab", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "slab control run for volc-pinatubo-slab", 
+    "idx": 56, 
+    "namespace": "esgf-publisher:cmip6:experiment:control-slab", 
+    "status": "pending", 
+    "uid": "b5c94416-3cd7-4eb4-b86d-4c1370d797e5"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ts", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ts", 
+    "idx": 542, 
+    "namespace": "esgf-publisher:cmip5:variable:ts", 
+    "status": "pending", 
+    "uid": "8637d0f4-a158-4857-8982-8b64c0816e16"
+}

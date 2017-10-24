@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "depth0m", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "depth0m", 
+    "idx": 14, 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:depth0m", 
+    "status": "pending", 
+    "uid": "70744aeb-9eef-457b-869e-d6293cec8c97"
+}

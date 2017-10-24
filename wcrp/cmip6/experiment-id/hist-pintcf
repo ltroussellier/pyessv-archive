@@ -1,31 +1,31 @@
 {
     "_type": "term", 
-    "canonicalName": "hist-pintcf", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "hist-pintcf", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "AerChemMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "CHEM", 
             "BGC"
         ], 
-        "endYear": "2014", 
+        "end_year": "2014", 
         "experiment": "historical forcing, but with pre-industrial NTCF emissions", 
-        "experimentID": "hist-piNTCF", 
-        "minNumberYrsPerSim": "165", 
-        "parentActivityID": [
+        "experiment_id": "hist-piNTCF", 
+        "min_number_yrs_per_sim": "165", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "piControl"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM", 
             "AER"
         ], 
-        "startYear": "1850", 
-        "subExperimentID": [
+        "start_year": "1850", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "1"
@@ -33,7 +33,8 @@
     "description": "Historical WMGHG and halocarbons concentrations, 1850 NTCF emissions", 
     "idx": 87, 
     "label": "hist-piNTCF", 
-    "rawName": "hist-piNTCF", 
+    "namespace": "wcrp:cmip6:experiment-id:hist-pintcf", 
+    "raw_name": "hist-piNTCF", 
     "status": "pending", 
     "uid": "b6a2c486-5a23-4f4e-bb02-de4c1ee7318f"
 }

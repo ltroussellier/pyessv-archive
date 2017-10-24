@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "lig127k", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "main forcings: astronomical parameters, trace gases, dust (forcing, or feedback if dust cycle represented in model)", 
+    "idx": 92, 
+    "namespace": "esgf-publisher:cmip6:experiment:lig127k", 
+    "status": "pending", 
+    "uid": "516971bd-d7b1-4516-81c8-f957463fea6e"
+}

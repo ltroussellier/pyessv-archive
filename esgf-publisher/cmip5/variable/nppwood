@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "nppwood", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "nppWood", 
+    "idx": 303, 
+    "label": "nppWood", 
+    "namespace": "esgf-publisher:cmip5:variable:nppwood", 
+    "status": "pending", 
+    "uid": "8bb6ceac-ea44-4b41-8a35-5499c90422e2"
+}

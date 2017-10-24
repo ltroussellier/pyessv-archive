@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "pdi", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "pdi", 
+    "idx": 321, 
+    "namespace": "esgf-publisher:cmip5:variable:pdi", 
+    "status": "pending", 
+    "uid": "e7ae21d8-69f4-4e5d-aebf-2db371814eae"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "1pctco2-bgc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Biogeochemically-coupled specified concentration simulation in which CO2 increases at a rate of 1percent per year until quadrupling", 
+    "idx": 130, 
+    "label": "1pctCO2-bgc", 
+    "namespace": "esgf-publisher:cmip6:experiment:1pctco2-bgc", 
+    "raw_name": "1pctCO2-bgc", 
+    "status": "pending", 
+    "uid": "b7d03753-2696-41f5-83b1-4ccfc7f6b50c"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rsut4co2", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rsut4co2", 
+    "idx": 412, 
+    "namespace": "esgf-publisher:cmip5:variable:rsut4co2", 
+    "status": "pending", 
+    "uid": "399496d4-1366-40b5-9f05-1566c6c80277"
+}

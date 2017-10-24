@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "6hr", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "6hr", 
+    "idx": 3, 
+    "namespace": "esgf-publisher:cmip6:frequency:6hr", 
+    "status": "pending", 
+    "uid": "bc6caf97-3712-4424-9762-07f01ec442a1"
+}

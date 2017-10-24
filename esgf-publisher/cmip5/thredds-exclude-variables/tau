@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tau", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tau", 
+    "idx": 54, 
+    "namespace": "esgf-publisher:cmip5:thredds-exclude-variables:tau", 
+    "status": "pending", 
+    "uid": "5a36768f-135c-4bcc-829b-2dfa46e6097b"
+}

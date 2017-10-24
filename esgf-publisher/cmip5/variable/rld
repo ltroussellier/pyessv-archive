@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rld", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rld", 
+    "idx": 374, 
+    "namespace": "esgf-publisher:cmip5:variable:rld", 
+    "status": "pending", 
+    "uid": "f5776502-c689-44ee-81fe-e97b0c906653"
+}

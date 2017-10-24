@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "enea", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ENEA", 
+    "idx": 12, 
+    "label": "ENEA", 
+    "namespace": "esgf-publisher:cordex:institute:enea", 
+    "status": "pending", 
+    "uid": "627bd4e5-809c-4599-83e6-b963631304b2"
+}

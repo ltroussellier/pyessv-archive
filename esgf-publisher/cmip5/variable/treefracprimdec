@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "treefracprimdec", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "treeFracPrimDec", 
+    "idx": 536, 
+    "label": "treeFracPrimDec", 
+    "namespace": "esgf-publisher:cmip5:variable:treefracprimdec", 
+    "status": "pending", 
+    "uid": "a792da1a-c95a-4b8c-b576-7dffba55cd8b"
+}

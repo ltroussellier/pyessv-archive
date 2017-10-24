@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "calc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "calc", 
+    "idx": 37, 
+    "namespace": "esgf-publisher:cmip5:variable:calc", 
+    "status": "pending", 
+    "uid": "36ad3240-2ace-49d3-a4cd-4426e6614f88"
+}

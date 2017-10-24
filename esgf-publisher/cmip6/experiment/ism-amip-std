@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ism-amip-std", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Offline ice sheet evolution for the last few decades forced by amip", 
+    "idx": 61, 
+    "namespace": "esgf-publisher:cmip6:experiment:ism-amip-std", 
+    "status": "pending", 
+    "uid": "1f481b82-0244-40ce-becb-e6675a2c8ee8"
+}

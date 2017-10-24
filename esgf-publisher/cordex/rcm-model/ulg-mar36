@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "ulg-mar36", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ULg-MAR36", 
+    "idx": 41, 
+    "label": "ULg-MAR36", 
+    "namespace": "esgf-publisher:cordex:rcm-model:ulg-mar36", 
+    "status": "pending", 
+    "uid": "e3345654-e170-4635-ab0c-38671a03f3ed"
+}

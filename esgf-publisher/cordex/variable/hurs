@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hurs", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "hurs", 
+    "idx": 66, 
+    "namespace": "esgf-publisher:cordex:variable:hurs", 
+    "status": "pending", 
+    "uid": "af6973bf-b2c4-490c-b050-9d2f86a9fdc2"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "ssp370sst-lowbc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Future SSP3-7.0 with reduced black carbon emissions, prescribed SSTs", 
+    "idx": 86, 
+    "label": "ssp370SST-lowBC", 
+    "namespace": "esgf-publisher:cmip6:experiment:ssp370sst-lowbc", 
+    "raw_name": "ssp370SST-lowBC", 
+    "status": "pending", 
+    "uid": "f800f3ab-d080-4d61-8d50-53b042175895"
+}

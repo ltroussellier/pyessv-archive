@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "phalf", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "phalf", 
+    "idx": 324, 
+    "namespace": "esgf-publisher:cmip5:variable:phalf", 
+    "status": "pending", 
+    "uid": "3a937a67-11e8-4167-b087-152892815304"
+}

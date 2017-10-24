@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "rmib-ugent", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "RMIB-UGent", 
+    "idx": 25, 
+    "label": "RMIB-UGent", 
+    "namespace": "esgf-publisher:cordex:institute:rmib-ugent", 
+    "status": "pending", 
+    "uid": "72e040ec-f22d-4d25-9295-7f795842ba88"
+}

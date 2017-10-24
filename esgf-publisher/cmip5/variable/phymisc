@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "phymisc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "phymisc", 
+    "idx": 330, 
+    "namespace": "esgf-publisher:cmip5:variable:phymisc", 
+    "status": "pending", 
+    "uid": "1c0f2786-1056-4b1d-933a-855b256fb426"
+}

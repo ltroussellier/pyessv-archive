@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "gnz", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "gnz", 
+    "idx": 4, 
+    "namespace": "esgf-publisher:cmip6:grid-label:gnz", 
+    "status": "pending", 
+    "uid": "ea784623-eb25-4670-86ac-b09a8e7dd843"
+}

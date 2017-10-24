@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "imongre", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ImonGre", 
+    "idx": 28, 
+    "label": "ImonGre", 
+    "namespace": "esgf-publisher:cmip6:cmor-table:imongre", 
+    "status": "pending", 
+    "uid": "c1d1bb6a-58f2-4f12-b995-67486a50d4d1"
+}

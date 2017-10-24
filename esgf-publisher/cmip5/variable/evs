@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "evs", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "evs", 
+    "idx": 155, 
+    "namespace": "esgf-publisher:cmip5:variable:evs", 
+    "status": "pending", 
+    "uid": "78fabe33-c926-460f-9c0b-22aea0a75014"
+}

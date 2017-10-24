@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "shrubfrac", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "shrubFrac", 
+    "idx": 435, 
+    "label": "shrubFrac", 
+    "namespace": "esgf-publisher:cmip5:variable:shrubfrac", 
+    "status": "pending", 
+    "uid": "22b4643f-919e-4c32-853d-702ed33b6912"
+}

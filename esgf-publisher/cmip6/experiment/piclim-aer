@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "piclim-aer", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "As in RFMIP-ERF-PI-Cntrl but with with present-day aerosols. Note that this experiment is considered to be tier 1 by RFMIP but tier 2 by AerChemMIP", 
+    "idx": 52, 
+    "label": "piClim-aer", 
+    "namespace": "esgf-publisher:cmip6:experiment:piclim-aer", 
+    "raw_name": "piClim-aer", 
+    "status": "pending", 
+    "uid": "9d55ab22-f266-4901-bcd7-4c62dc20b294"
+}

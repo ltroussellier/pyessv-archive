@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "chldiaz", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "chldiaz", 
+    "idx": 53, 
+    "namespace": "esgf-publisher:cmip5:variable:chldiaz", 
+    "status": "pending", 
+    "uid": "80195390-4427-456b-948e-a861136ef98e"
+}

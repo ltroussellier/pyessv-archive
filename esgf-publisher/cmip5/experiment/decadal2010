@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "decadal2010", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "10- or 30-year run initialized in year 2010", 
+    "idx": 60, 
+    "namespace": "esgf-publisher:cmip5:experiment:decadal2010", 
+    "status": "pending", 
+    "uid": "3765786d-4317-4243-b2ce-246120975728"
+}

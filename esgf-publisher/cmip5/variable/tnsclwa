@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tnsclwa", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tnsclwa", 
+    "idx": 510, 
+    "namespace": "esgf-publisher:cmip5:variable:tnsclwa", 
+    "status": "pending", 
+    "uid": "35067490-5647-4cc6-931e-da503d92b2db"
+}

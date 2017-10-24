@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "orog", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "orog", 
+    "idx": 311, 
+    "namespace": "esgf-publisher:cmip5:variable:orog", 
+    "status": "pending", 
+    "uid": "27bd5a9d-b1e2-487c-a579-31c5c2079a15"
+}

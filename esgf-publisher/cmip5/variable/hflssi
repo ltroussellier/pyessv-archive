@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hflssi", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "hflssi", 
+    "idx": 222, 
+    "namespace": "esgf-publisher:cmip5:variable:hflssi", 
+    "status": "pending", 
+    "uid": "58185b1b-241a-4d39-b7e1-b926cea9356e"
+}

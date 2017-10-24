@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "aquacontrol", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Aqua planet control", 
+    "idx": 8, 
+    "label": "aquaControl", 
+    "namespace": "esgf-publisher:cmip5:experiment:aquacontrol", 
+    "raw_name": "aquaControl", 
+    "status": "pending", 
+    "uid": "34a94656-11e3-4f4b-88b9-de5471532b4c"
+}

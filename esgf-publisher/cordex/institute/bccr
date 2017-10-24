@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "bccr", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "BCCR", 
+    "idx": 3, 
+    "label": "BCCR", 
+    "namespace": "esgf-publisher:cordex:institute:bccr", 
+    "status": "pending", 
+    "uid": "a9350ed9-ed4c-4191-8a27-231ef528305b"
+}

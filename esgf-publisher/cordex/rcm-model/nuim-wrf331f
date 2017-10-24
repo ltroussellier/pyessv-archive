@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "nuim-wrf331f", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "NUIM-WRF331F", 
+    "idx": 32, 
+    "label": "NUIM-WRF331F", 
+    "namespace": "esgf-publisher:cordex:rcm-model:nuim-wrf331f", 
+    "status": "pending", 
+    "uid": "9180e2de-c921-4f57-9d80-edb2c3f5effa"
+}

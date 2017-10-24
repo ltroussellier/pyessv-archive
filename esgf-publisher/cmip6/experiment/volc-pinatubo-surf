@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "volc-pinatubo-surf", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "As volc-pinatubo-full, but with prescribed perturbation to the shortwave flux to mimic the attenuation of solar radiation by volcanic aerosols", 
+    "idx": 108, 
+    "namespace": "esgf-publisher:cmip6:experiment:volc-pinatubo-surf", 
+    "status": "pending", 
+    "uid": "90a2f89d-2378-45e5-9443-166e5cdc8f82"
+}

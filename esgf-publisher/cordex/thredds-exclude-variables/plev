@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "plev", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "plev", 
+    "idx": 47, 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:plev", 
+    "status": "pending", 
+    "uid": "692d1e7e-b165-43f6-8ece-0ce5b627ee21"
+}

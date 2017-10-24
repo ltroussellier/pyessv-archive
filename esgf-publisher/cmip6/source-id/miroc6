@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "miroc6", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "MIROC6", 
+    "idx": 46, 
+    "label": "MIROC6", 
+    "namespace": "esgf-publisher:cmip6:source-id:miroc6", 
+    "status": "pending", 
+    "uid": "9a4ee689-71e7-4b0c-b2a8-dd39719434a5"
+}

@@ -1,31 +1,31 @@
 {
     "_type": "term", 
-    "canonicalName": "hist-1950hc", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "hist-1950hc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "AerChemMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "BGC"
         ], 
-        "endYear": "2014", 
+        "end_year": "2014", 
         "experiment": "historical forcing, but with1950s halocarbon concentrations; initialized in 1950", 
-        "experimentID": "hist-1950HC", 
-        "minNumberYrsPerSim": "65", 
-        "parentActivityID": [
+        "experiment_id": "hist-1950HC", 
+        "min_number_yrs_per_sim": "65", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "historical"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM", 
             "AER", 
             "CHEM"
         ], 
-        "startYear": "1950", 
-        "subExperimentID": [
+        "start_year": "1950", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "1"
@@ -33,7 +33,8 @@
     "description": "Historical WMGHG concentrations and NTCF emissions, 1950 halocarbon concentrations, start 1950", 
     "idx": 244, 
     "label": "hist-1950HC", 
-    "rawName": "hist-1950HC", 
+    "namespace": "wcrp:cmip6:experiment-id:hist-1950hc", 
+    "raw_name": "hist-1950HC", 
     "status": "pending", 
     "uid": "ee7c780e-5f64-4a2b-8389-5c25528a9398"
 }

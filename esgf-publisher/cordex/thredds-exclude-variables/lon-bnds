@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "lon-bnds", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "lon_bnds", 
+    "idx": 33, 
+    "label": "lon_bnds", 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:lon-bnds", 
+    "raw_name": "lon_bnds", 
+    "status": "pending", 
+    "uid": "79ca933d-1133-47a7-9d33-b5fc7d26be3a"
+}

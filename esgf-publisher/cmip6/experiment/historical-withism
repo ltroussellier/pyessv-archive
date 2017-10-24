@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "historical-withism", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Historical simulation that includes interactive ice sheets. Set up follows the historical experiment", 
+    "idx": 173, 
+    "namespace": "esgf-publisher:cmip6:experiment:historical-withism", 
+    "status": "pending", 
+    "uid": "13753f97-8255-405b-bb9b-3d324b031370"
+}

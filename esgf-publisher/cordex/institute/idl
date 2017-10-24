@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "idl", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "IDL", 
+    "idx": 16, 
+    "label": "IDL", 
+    "namespace": "esgf-publisher:cordex:institute:idl", 
+    "status": "pending", 
+    "uid": "08ea8c1a-cc49-47ef-b517-4157b99b3a2b"
+}

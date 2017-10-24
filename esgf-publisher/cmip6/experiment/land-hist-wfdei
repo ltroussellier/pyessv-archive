@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "land-hist-wfdei", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Land only simulations", 
+    "idx": 240, 
+    "namespace": "esgf-publisher:cmip6:experiment:land-hist-wfdei", 
+    "status": "pending", 
+    "uid": "6f750868-6375-4dc2-b14b-68a97ae15f67"
+}

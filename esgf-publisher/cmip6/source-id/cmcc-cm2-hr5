@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "cmcc-cm2-hr5", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CMCC-CM2-HR5", 
+    "idx": 9, 
+    "label": "CMCC-CM2-HR5", 
+    "namespace": "esgf-publisher:cmip6:source-id:cmcc-cm2-hr5", 
+    "status": "pending", 
+    "uid": "a0712f48-ae99-4b54-9d70-1173ed76f600"
+}

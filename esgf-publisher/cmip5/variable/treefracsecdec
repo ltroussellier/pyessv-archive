@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "treefracsecdec", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "treeFracSecDec", 
+    "idx": 538, 
+    "label": "treeFracSecDec", 
+    "namespace": "esgf-publisher:cmip5:variable:treefracsecdec", 
+    "status": "pending", 
+    "uid": "683debc4-0806-4163-84fb-691a823e754f"
+}

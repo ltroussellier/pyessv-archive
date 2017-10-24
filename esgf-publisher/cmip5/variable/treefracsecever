@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "treefracsecever", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "treeFracSecEver", 
+    "idx": 539, 
+    "label": "treeFracSecEver", 
+    "namespace": "esgf-publisher:cmip5:variable:treefracsecever", 
+    "status": "pending", 
+    "uid": "1905382b-e11f-4453-b307-f8519f715a2d"
+}

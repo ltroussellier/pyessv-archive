@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clivi", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "clivi", 
+    "idx": 69, 
+    "namespace": "esgf-publisher:cmip5:variable:clivi", 
+    "status": "pending", 
+    "uid": "b46d162d-b059-45f7-9582-fd61c4d78da0"
+}

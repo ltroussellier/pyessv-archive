@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "g6sst2-solar", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Time slice at 2100 (G6solar)", 
+    "idx": 194, 
+    "label": "G6SST2-solar", 
+    "namespace": "esgf-publisher:cmip6:experiment:g6sst2-solar", 
+    "raw_name": "G6SST2-solar", 
+    "status": "pending", 
+    "uid": "13084dfd-4a54-47cb-b739-f905ded1faf9"
+}

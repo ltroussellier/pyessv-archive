@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "mrro", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "mrro", 
+    "idx": 83, 
+    "namespace": "esgf-publisher:cordex:variable:mrro", 
+    "status": "pending", 
+    "uid": "f31bf65b-0128-41c7-bf73-b1b625360a51"
+}

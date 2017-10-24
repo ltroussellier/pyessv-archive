@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "intpp", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "intpp", 
+    "idx": 255, 
+    "namespace": "esgf-publisher:cmip5:variable:intpp", 
+    "status": "pending", 
+    "uid": "604733fa-6b24-4399-9ccc-1fbc1eefc2d1"
+}

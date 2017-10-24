@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "concbc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "concbc", 
+    "idx": 90, 
+    "namespace": "esgf-publisher:cmip5:variable:concbc", 
+    "status": "pending", 
+    "uid": "41ab6413-06b7-4bfb-90fe-84c46ea6e1d1"
+}

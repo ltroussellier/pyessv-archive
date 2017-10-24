@@ -1,10 +1,9 @@
 {
     "_type": "term", 
-    "canonicalName": "gr4g", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "gr4g", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "idx": 0, 
-    "label": "gr4g", 
-    "rawName": "gr4g", 
+    "namespace": "wcrp:cmip6:grid-label:gr4g", 
     "status": "pending", 
     "uid": "8b62e29c-f9ce-47f1-8477-679b362a23a6"
 }

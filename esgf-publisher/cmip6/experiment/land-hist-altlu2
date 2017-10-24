@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "land-hist-altlu2", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Land only simulations", 
+    "idx": 112, 
+    "label": "land-hist-altLu2", 
+    "namespace": "esgf-publisher:cmip6:experiment:land-hist-altlu2", 
+    "raw_name": "land-hist-altLu2", 
+    "status": "pending", 
+    "uid": "e7d3d907-b556-4c26-9554-f149a1fd5408"
+}

@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "uclm", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "UCLM", 
+    "idx": 28, 
+    "label": "UCLM", 
+    "namespace": "esgf-publisher:cordex:institute:uclm", 
+    "status": "pending", 
+    "uid": "41d0ee57-f685-463e-bbd5-6114dd9889bb"
+}

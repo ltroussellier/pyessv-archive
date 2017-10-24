@@ -1,13 +1,14 @@
 {
     "_type": "term", 
-    "canonicalName": "bnu", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "bnu", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "postalAddress": "Beijing Normal University, Beijing 100875, China"
+        "postal_address": "Beijing Normal University, Beijing 100875, China"
     }, 
-    "idx": 17, 
+    "idx": 18, 
     "label": "BNU", 
-    "rawName": "BNU", 
+    "namespace": "wcrp:cmip6:institution-id:bnu", 
+    "raw_name": "BNU", 
     "status": "pending", 
     "uid": "a16ec0a9-3131-48ab-8f3c-e3670cd12c3c"
 }

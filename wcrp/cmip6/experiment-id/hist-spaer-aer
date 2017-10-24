@@ -1,27 +1,27 @@
 {
     "_type": "term", 
-    "canonicalName": "hist-spaer-aer", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "hist-spaer-aer", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "RFMIP"
         ], 
-        "additionalAllowedModelComponents": "", 
-        "endYear": "2014", 
+        "additional_allowed_model_components": "", 
+        "end_year": "2014", 
         "experiment": "historical simulation with specified anthropogenic aerosols, no other forcings", 
-        "experimentID": "hist-spAer-aer", 
-        "minNumberYrsPerSim": "165", 
-        "parentActivityID": [
+        "experiment_id": "hist-spAer-aer", 
+        "min_number_yrs_per_sim": "165", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "piControl"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM"
         ], 
-        "startYear": "1850", 
-        "subExperimentID": [
+        "start_year": "1850", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
@@ -29,7 +29,8 @@
     "description": "Prescribed anthropogenic aerosol optical properties. Changes in aerosols only", 
     "idx": 149, 
     "label": "hist-spAer-aer", 
-    "rawName": "hist-spAer-aer", 
+    "namespace": "wcrp:cmip6:experiment-id:hist-spaer-aer", 
+    "raw_name": "hist-spAer-aer", 
     "status": "pending", 
     "uid": "844fbd00-bdfc-498b-b3f2-3b79b6ebab80"
 }

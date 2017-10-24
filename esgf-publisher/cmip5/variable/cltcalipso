@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "cltcalipso", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "cltcalipso", 
+    "idx": 75, 
+    "namespace": "esgf-publisher:cmip5:variable:cltcalipso", 
+    "status": "pending", 
+    "uid": "3e996f5e-5e2c-4461-89ca-7b3066ab8bb4"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "lfmip-pdlc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Prescribed land conditions 1980-2014 climate", 
+    "idx": 36, 
+    "label": "lfmip-pdLC", 
+    "namespace": "esgf-publisher:cmip6:experiment:lfmip-pdlc", 
+    "raw_name": "lfmip-pdLC", 
+    "status": "pending", 
+    "uid": "1602d7c8-b352-45a7-801b-cce28e5c6d09"
+}

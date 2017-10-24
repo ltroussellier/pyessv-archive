@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "picontrol-withism", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Pre-industrial control simulation that includes interactive ice sheets", 
+    "idx": 179, 
+    "label": "piControl-withism", 
+    "namespace": "esgf-publisher:cmip6:experiment:picontrol-withism", 
+    "raw_name": "piControl-withism", 
+    "status": "pending", 
+    "uid": "bc6545d9-0e66-4529-b8a7-67a7f225b23f"
+}

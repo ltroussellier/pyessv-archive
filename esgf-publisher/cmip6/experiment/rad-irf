@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rad-irf", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Offline radiation calculations", 
+    "idx": 16, 
+    "namespace": "esgf-publisher:cmip6:experiment:rad-irf", 
+    "status": "pending", 
+    "uid": "1cac7968-7c0b-4dce-8c8a-2e0aeea242f8"
+}

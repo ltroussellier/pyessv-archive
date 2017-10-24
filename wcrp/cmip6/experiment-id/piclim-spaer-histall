@@ -1,27 +1,27 @@
 {
     "_type": "term", 
-    "canonicalName": "piclim-spaer-histall", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "piclim-spaer-histall", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "RFMIP"
         ], 
-        "additionalAllowedModelComponents": "", 
-        "endYear": "2014", 
+        "additional_allowed_model_components": "", 
+        "end_year": "2014", 
         "experiment": "transient effective radiative forcing with specified anthropogenic aerosol optical properties, all forcings", 
-        "experimentID": "piClim-spAer-histall", 
-        "minNumberYrsPerSim": "165", 
-        "parentActivityID": [
+        "experiment_id": "piClim-spAer-histall", 
+        "min_number_yrs_per_sim": "165", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "piControl"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AGCM"
         ], 
-        "startYear": "1850", 
-        "subExperimentID": [
+        "start_year": "1850", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
@@ -29,7 +29,8 @@
     "description": "Prescribed anthropogenic aerosol optical properties. Aerosol and ozone forcings", 
     "idx": 144, 
     "label": "piClim-spAer-histall", 
-    "rawName": "piClim-spAer-histall", 
+    "namespace": "wcrp:cmip6:experiment-id:piclim-spaer-histall", 
+    "raw_name": "piClim-spAer-histall", 
     "status": "pending", 
     "uid": "b07094ec-d5c5-4656-85a4-f38c92bdba4e"
 }

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "evspsblpot", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "evspsblpot", 
+    "idx": 49, 
+    "namespace": "esgf-publisher:cordex:variable:evspsblpot", 
+    "status": "pending", 
+    "uid": "db18b155-c75e-4b11-97a6-254249cd38a7"
+}

@@ -1,12 +1,10 @@
 {
     "_type": "term", 
-    "canonicalName": "aerosol", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
-    "data": {}, 
+    "canonical_name": "aerosol", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Aerosol", 
     "idx": 6, 
-    "label": "aerosol", 
-    "rawName": "aerosol", 
+    "namespace": "wcrp:cmip6:realm:aerosol", 
     "status": "pending", 
     "uid": "94f88ffb-af06-4566-a357-1c1a8fb3c0aa"
 }

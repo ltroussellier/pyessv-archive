@@ -1,13 +1,14 @@
 {
     "_type": "term", 
-    "canonicalName": "noaa-gfdl", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "noaa-gfdl", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "postalAddress": "National Oceanic and Atmospheric Administration, Geophysical Fluid Dynamics Laboratory, Princeton, NJ 08540, USA"
+        "postal_address": "National Oceanic and Atmospheric Administration, Geophysical Fluid Dynamics Laboratory, Princeton, NJ 08540, USA"
     }, 
-    "idx": 23, 
+    "idx": 24, 
     "label": "NOAA-GFDL", 
-    "rawName": "NOAA-GFDL", 
+    "namespace": "wcrp:cmip6:institution-id:noaa-gfdl", 
+    "raw_name": "NOAA-GFDL", 
     "status": "pending", 
     "uid": "56065fc9-08ec-4572-a6a6-52cd9d9d1d68"
 }

@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "dmi-hirham5", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "DMI-HIRHAM5", 
+    "idx": 15, 
+    "label": "DMI-HIRHAM5", 
+    "namespace": "esgf-publisher:cordex:rcm-model:dmi-hirham5", 
+    "status": "pending", 
+    "uid": "a3765f77-760e-4e8e-b622-e2855d9b3cc7"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "slw", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "slw", 
+    "idx": 114, 
+    "namespace": "esgf-publisher:cordex:variable:slw", 
+    "status": "pending", 
+    "uid": "d642b31e-08de-420e-8a21-7e7bc4412d1a"
+}

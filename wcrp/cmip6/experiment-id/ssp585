@@ -1,39 +1,38 @@
 {
     "_type": "term", 
-    "canonicalName": "ssp585", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "ssp585", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "ScenarioMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM", 
             "BGC"
         ], 
-        "endYear": "2100 or 2300", 
+        "end_year": "2100 or 2300", 
         "experiment": "update of RCP8.5 based on SSP5", 
-        "experimentID": "ssp585", 
-        "minNumberYrsPerSim": "86", 
-        "parentActivityID": [
+        "experiment_id": "ssp585", 
+        "min_number_yrs_per_sim": "86", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "historical"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM"
         ], 
-        "startYear": "2015", 
-        "subExperimentID": [
+        "start_year": "2015", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "1"
     }, 
     "description": "Future scenario with high radiative forcing by the end of century. Following approximately RCP8.5 global forcing pathway but with new forcing based on SSP5. Concentration-driven. As a tier 2 option, this simulation should be extended to year 2300", 
     "idx": 90, 
-    "label": "ssp585", 
-    "rawName": "ssp585", 
+    "namespace": "wcrp:cmip6:experiment-id:ssp585", 
     "status": "pending", 
     "uid": "523c455b-67cb-47cd-910e-d357fe20c7b4"
 }

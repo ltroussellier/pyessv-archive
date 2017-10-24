@@ -1,39 +1,38 @@
 {
     "_type": "term", 
-    "canonicalName": "past1000", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "past1000", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "PMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM", 
             "BGC"
         ], 
-        "endYear": "1849", 
+        "end_year": "1849", 
         "experiment": "last millennium", 
-        "experimentID": "past1000", 
-        "minNumberYrsPerSim": "1000", 
-        "parentActivityID": [
+        "experiment_id": "past1000", 
+        "min_number_yrs_per_sim": "1000", 
+        "parent_activity_id": [
             "no parent"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "no parent"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM"
         ], 
-        "startYear": "850", 
-        "subExperimentID": [
+        "start_year": "850", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "1"
     }, 
     "description": "main forcings: trace gases, volcanoes, solar variability, land use", 
     "idx": 88, 
-    "label": "past1000", 
-    "rawName": "past1000", 
+    "namespace": "wcrp:cmip6:experiment-id:past1000", 
     "status": "pending", 
     "uid": "5e45536e-2ea5-4b19-bf13-410c0c68d79e"
 }

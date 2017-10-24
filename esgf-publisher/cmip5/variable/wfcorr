@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "wfcorr", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "wfcorr", 
+    "idx": 580, 
+    "namespace": "esgf-publisher:cmip5:variable:wfcorr", 
+    "status": "pending", 
+    "uid": "17dab859-c83a-43ec-85ac-5bfc764daa72"
+}

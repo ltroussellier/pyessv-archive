@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "epc100", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "epc100", 
+    "idx": 148, 
+    "namespace": "esgf-publisher:cmip5:variable:epc100", 
+    "status": "pending", 
+    "uid": "254d4642-e206-4da3-aa2a-ff2751fdba52"
+}

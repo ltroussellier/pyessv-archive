@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "snc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "snc", 
+    "idx": 442, 
+    "namespace": "esgf-publisher:cmip5:variable:snc", 
+    "status": "pending", 
+    "uid": "df7aa810-b87c-4468-8ac1-e818e5857c12"
+}

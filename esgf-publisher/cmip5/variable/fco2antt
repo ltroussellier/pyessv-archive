@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "fco2antt", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "fco2antt", 
+    "idx": 180, 
+    "namespace": "esgf-publisher:cmip5:variable:fco2antt", 
+    "status": "pending", 
+    "uid": "a7ba46d2-76d9-4259-8864-4560aac5b531"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "volc-pinatubo-strat", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "As volc-pinatubo-full, but with prescribed perturbation to the total (LW+SW) radiative heating rates", 
+    "idx": 192, 
+    "namespace": "esgf-publisher:cmip6:experiment:volc-pinatubo-strat", 
+    "status": "pending", 
+    "uid": "df39cdf2-887d-49a4-97e2-7ff552ad80f4"
+}

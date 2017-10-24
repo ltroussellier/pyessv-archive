@@ -1,10 +1,9 @@
 {
     "_type": "term", 
-    "canonicalName": "gr", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "gr", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "idx": 1, 
-    "label": "gr", 
-    "rawName": "gr", 
+    "namespace": "wcrp:cmip6:grid-label:gr", 
     "status": "pending", 
     "uid": "1cb6e505-23e3-49d1-a7be-0b72f0c68fe0"
 }

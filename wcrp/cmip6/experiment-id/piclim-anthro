@@ -1,30 +1,30 @@
 {
     "_type": "term", 
-    "canonicalName": "piclim-anthro", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "piclim-anthro", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "RFMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM"
         ], 
-        "endYear": "", 
+        "end_year": "", 
         "experiment": "effective radiative forcing by present day anthropogenic agents", 
-        "experimentID": "piClim-anthro", 
-        "minNumberYrsPerSim": "30", 
-        "parentActivityID": [
+        "experiment_id": "piClim-anthro", 
+        "min_number_yrs_per_sim": "30", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "piControl"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AGCM"
         ], 
-        "startYear": "", 
-        "subExperimentID": [
+        "start_year": "", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "1"
@@ -32,7 +32,8 @@
     "description": "As in RFMIP-ERF-PI-Cntrl but with present-day anthropogenic forcing (greenhouse gases, aerosols and land-use)", 
     "idx": 27, 
     "label": "piClim-anthro", 
-    "rawName": "piClim-anthro", 
+    "namespace": "wcrp:cmip6:experiment-id:piclim-anthro", 
+    "raw_name": "piClim-anthro", 
     "status": "pending", 
     "uid": "afe7823d-9486-4cc4-ae84-d40df2c89dac"
 }

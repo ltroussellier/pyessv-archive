@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "parag", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "parag", 
+    "idx": 313, 
+    "namespace": "esgf-publisher:cmip5:variable:parag", 
+    "status": "pending", 
+    "uid": "60b0ef44-36ab-4469-ab93-e72a8e128b42"
+}

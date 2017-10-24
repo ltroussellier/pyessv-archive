@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "knmi", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "KNMI", 
+    "idx": 19, 
+    "label": "KNMI", 
+    "namespace": "esgf-publisher:cordex:institute:knmi", 
+    "status": "pending", 
+    "uid": "e08a7313-8267-43ce-bdc1-c2a2ec1b943d"
+}

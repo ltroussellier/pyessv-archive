@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "eur-44i", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Europe", 
+    "idx": 17, 
+    "label": "EUR-44i", 
+    "namespace": "esgf-publisher:cordex:domain:eur-44i", 
+    "raw_name": "EUR-44i", 
+    "status": "pending", 
+    "uid": "8cfda7bb-6ede-4f28-81db-430b41e4d2ce"
+}

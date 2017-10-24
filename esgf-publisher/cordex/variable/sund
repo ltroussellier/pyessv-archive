@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sund", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "sund", 
+    "idx": 121, 
+    "namespace": "esgf-publisher:cordex:variable:sund", 
+    "status": "pending", 
+    "uid": "83b89cf5-d071-432c-916d-d9dfa3503e2a"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "transix", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "transix", 
+    "idx": 533, 
+    "namespace": "esgf-publisher:cmip5:variable:transix", 
+    "status": "pending", 
+    "uid": "df2a0702-2f0a-4a67-bc12-10f5339e17bb"
+}

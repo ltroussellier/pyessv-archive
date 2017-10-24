@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "prc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "prc", 
+    "idx": 93, 
+    "namespace": "esgf-publisher:cordex:variable:prc", 
+    "status": "pending", 
+    "uid": "50f091b0-d0fd-4b7b-9eaf-82941b7d7495"
+}

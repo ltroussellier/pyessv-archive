@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "cnrm-cerfacs-cnrm-cm5", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CNRM-CERFACS-CNRM-CM5", 
+    "idx": 2, 
+    "label": "CNRM-CERFACS-CNRM-CM5", 
+    "namespace": "esgf-publisher:cordex:driving-model:cnrm-cerfacs-cnrm-cm5", 
+    "status": "pending", 
+    "uid": "c75c3638-cf62-4951-b6cf-2c604934ee52"
+}

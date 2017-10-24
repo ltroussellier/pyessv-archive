@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "lat-bounds", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "lat_bounds", 
+    "idx": 24, 
+    "label": "lat_bounds", 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:lat-bounds", 
+    "raw_name": "lat_bounds", 
+    "status": "pending", 
+    "uid": "df386061-db70-446e-a495-65c618a79312"
+}

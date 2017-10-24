@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "eday", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Eday", 
+    "idx": 18, 
+    "label": "Eday", 
+    "namespace": "esgf-publisher:cmip6:cmor-table:eday", 
+    "status": "pending", 
+    "uid": "b0691b1f-44e6-46b8-8ac1-1467f5cb3e32"
+}

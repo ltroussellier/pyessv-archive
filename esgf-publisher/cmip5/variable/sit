@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sit", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "sit", 
+    "idx": 439, 
+    "namespace": "esgf-publisher:cmip5:variable:sit", 
+    "status": "pending", 
+    "uid": "384be2b4-694d-4ea5-b798-44dae5398fde"
+}

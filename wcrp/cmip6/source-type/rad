@@ -1,10 +1,11 @@
 {
     "_type": "term", 
-    "canonicalName": "rad", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "rad", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "idx": 0, 
     "label": "RAD", 
-    "rawName": "RAD", 
+    "namespace": "wcrp:cmip6:source-type:rad", 
+    "raw_name": "RAD", 
     "status": "pending", 
     "uid": "89734b7a-38d3-4066-b552-3a99f7c27867"
 }

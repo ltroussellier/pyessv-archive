@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "psl", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "psl", 
+    "idx": 352, 
+    "namespace": "esgf-publisher:cmip5:variable:psl", 
+    "status": "pending", 
+    "uid": "26da8f59-1f35-46b2-92db-df14e2e496b3"
+}

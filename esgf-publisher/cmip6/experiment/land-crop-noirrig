@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "land-crop-noirrig", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Same as land-hist but with irrigated area held at 1850 levels", 
+    "idx": 89, 
+    "label": "land-crop-noIrrig", 
+    "namespace": "esgf-publisher:cmip6:experiment:land-crop-noirrig", 
+    "raw_name": "land-crop-noIrrig", 
+    "status": "pending", 
+    "uid": "dfdd3bc3-af40-4280-bd51-01771f84eb4b"
+}

@@ -1,10 +1,11 @@
 {
     "_type": "term", 
-    "canonicalName": "volmip", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "volmip", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "idx": 16, 
     "label": "VolMIP", 
-    "rawName": "VolMIP", 
+    "namespace": "wcrp:cmip6:activity-id:volmip", 
+    "raw_name": "VolMIP", 
     "status": "pending", 
     "uid": "3fca2ad4-1289-4168-9a75-c4eafda2b7b6"
 }

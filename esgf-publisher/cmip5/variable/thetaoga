@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "thetaoga", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "thetaoga", 
+    "idx": 474, 
+    "namespace": "esgf-publisher:cmip5:variable:thetaoga", 
+    "status": "pending", 
+    "uid": "bc77ca7b-9f9e-424b-ada0-9d49b29fc6ea"
+}

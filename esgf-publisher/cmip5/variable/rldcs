@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rldcs", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rldcs", 
+    "idx": 376, 
+    "namespace": "esgf-publisher:cmip5:variable:rldcs", 
+    "status": "pending", 
+    "uid": "8a1ec3fe-313f-4eb7-9576-c7dec1ec1f8b"
+}

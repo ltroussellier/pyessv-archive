@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "geomip", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "GeoMIP", 
+    "idx": 10, 
+    "label": "GeoMIP", 
+    "namespace": "esgf-publisher:cmip6:activity:geomip", 
+    "status": "pending", 
+    "uid": "93cd6a0f-7c59-406d-8677-86f752305227"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rcp85", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "RCP8.5", 
+    "idx": 5, 
+    "namespace": "esgf-publisher:cordex:experiment:rcp85", 
+    "status": "pending", 
+    "uid": "f7ec46e5-1ea9-44dc-8da5-2ad766c0e38a"
+}

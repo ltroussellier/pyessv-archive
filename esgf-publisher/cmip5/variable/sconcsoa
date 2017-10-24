@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sconcsoa", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "sconcsoa", 
+    "idx": 426, 
+    "namespace": "esgf-publisher:cmip5:variable:sconcsoa", 
+    "status": "pending", 
+    "uid": "5ea80ffc-5188-483b-971a-75ca5bfc38ea"
+}

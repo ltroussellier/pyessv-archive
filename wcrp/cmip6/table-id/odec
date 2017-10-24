@@ -1,10 +1,11 @@
 {
     "_type": "term", 
-    "canonicalName": "odec", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "odec", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "idx": 35, 
     "label": "Odec", 
-    "rawName": "Odec", 
+    "namespace": "wcrp:cmip6:table-id:odec", 
+    "raw_name": "Odec", 
     "status": "pending", 
     "uid": "34879c87-183d-49b8-aaa7-cad4f10745f2"
 }

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "day", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "day", 
+    "idx": 41, 
+    "namespace": "esgf-publisher:cmip6:cmor-table:day", 
+    "status": "pending", 
+    "uid": "517ddf30-e831-4ac8-9bb5-827a68317113"
+}

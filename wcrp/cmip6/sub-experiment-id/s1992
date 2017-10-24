@@ -1,12 +1,10 @@
 {
     "_type": "term", 
-    "canonicalName": "s1992", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
-    "data": {}, 
+    "canonical_name": "s1992", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "initialized near end of year 1992", 
     "idx": 11, 
-    "label": "s1992", 
-    "rawName": "s1992", 
+    "namespace": "wcrp:cmip6:sub-experiment-id:s1992", 
     "status": "pending", 
     "uid": "ed7c563a-5cb8-4448-9a18-ca61df857ee2"
 }

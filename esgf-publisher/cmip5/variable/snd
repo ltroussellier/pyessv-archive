@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "snd", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "snd", 
+    "idx": 443, 
+    "namespace": "esgf-publisher:cmip5:variable:snd", 
+    "status": "pending", 
+    "uid": "cb1c6a58-d3ad-4b57-9e27-604778bc2456"
+}

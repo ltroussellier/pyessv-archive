@@ -1,58 +1,59 @@
 {
     "_type": "term", 
-    "canonicalName": "inm-cm5-h", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "inm-cm5-h", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityParticipation": [
+        "activity_participation": [
             "CMIP"
         ], 
         "cohort": [
             "Registered"
         ], 
-        "institutionID": [
+        "institution_id": [
             "INM"
         ], 
-        "labelExtended": "INM-CM5-H", 
-        "modelComponent": {
+        "label_extended": "INM-CM5-H", 
+        "model_component": {
             "aerosol": {
                 "description": "INM-AER1", 
-                "nominalResolution": "50 km"
+                "nominal_resolution": "50 km"
             }, 
             "atmos": {
                 "description": "INM-AM5-H (0.67x0.5; 540 x 360 longitude/latitude; 73 levels; top level sigma = 0.0002)", 
-                "nominalResolution": "50 km"
+                "nominal_resolution": "50 km"
             }, 
             "atmosChem": {
                 "description": "none", 
-                "nominalResolution": "none"
+                "nominal_resolution": "none"
             }, 
             "land": {
                 "description": "INM-LND1", 
-                "nominalResolution": "50 km"
+                "nominal_resolution": "50 km"
             }, 
             "landIce": {
                 "description": "none", 
-                "nominalResolution": "none"
+                "nominal_resolution": "none"
             }, 
             "ocean": {
                 "description": "INM-OM5-H (North Pole shifted to 60N, 90E. 0.167x0.125; 2160x1440 longitude/latitude; 40 levels; vertical sigma coordinate)", 
-                "nominalResolution": "15 km"
+                "nominal_resolution": "15 km"
             }, 
             "ocnBgchem": {
                 "description": "none", 
-                "nominalResolution": "none"
+                "nominal_resolution": "none"
             }, 
             "seaIce": {
                 "description": "INM-ICE1", 
-                "nominalResolution": "15 km"
+                "nominal_resolution": "15 km"
             }
         }, 
-        "releaseYear": "2016", 
-        "sourceID": "INM-CM5-H"
+        "release_year": "2016", 
+        "source_id": "INM-CM5-H"
     }, 
-    "idx": 36, 
+    "idx": 38, 
     "label": "INM-CM5-H", 
-    "rawName": "INM-CM5-H", 
+    "namespace": "wcrp:cmip6:source-id:inm-cm5-h", 
+    "raw_name": "INM-CM5-H", 
     "status": "pending", 
     "uid": "0f66e95c-fb2d-44fd-af25-3f707f269cb9"
 }

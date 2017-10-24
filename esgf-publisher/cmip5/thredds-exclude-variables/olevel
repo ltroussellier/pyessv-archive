@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "olevel", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "olevel", 
+    "idx": 33, 
+    "namespace": "esgf-publisher:cmip5:thredds-exclude-variables:olevel", 
+    "status": "pending", 
+    "uid": "65a726a5-08ba-4e41-aa13-d54a012881e0"
+}

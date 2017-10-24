@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "control-1950", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Coupled integrations with constant 1950\"s forcing", 
+    "idx": 40, 
+    "namespace": "esgf-publisher:cmip6:experiment:control-1950", 
+    "status": "pending", 
+    "uid": "4c71467e-e1b9-4477-9874-2656639988bd"
+}

@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "noresm2-lmec", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "NorESM2-LMEC", 
+    "idx": 58, 
+    "label": "NorESM2-LMEC", 
+    "namespace": "esgf-publisher:cmip6:source-id:noresm2-lmec", 
+    "status": "pending", 
+    "uid": "acbf93d9-b94f-4cbc-8a57-e61ca2ba42e5"
+}

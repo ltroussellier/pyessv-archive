@@ -1,10 +1,9 @@
 {
     "_type": "term", 
-    "canonicalName": "yr", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "yr", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "idx": 3, 
-    "label": "yr", 
-    "rawName": "yr", 
+    "namespace": "wcrp:cmip6:frequency:yr", 
     "status": "pending", 
     "uid": "c41302bd-3a7d-44d5-a034-0fff1027d340"
 }

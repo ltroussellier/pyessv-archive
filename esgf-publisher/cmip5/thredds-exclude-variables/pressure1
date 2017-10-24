@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "pressure1", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "pressure1", 
+    "idx": 47, 
+    "namespace": "esgf-publisher:cmip5:thredds-exclude-variables:pressure1", 
+    "status": "pending", 
+    "uid": "41769b50-f8d8-444a-bf15-15054be31e90"
+}

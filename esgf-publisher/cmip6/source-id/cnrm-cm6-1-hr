@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "cnrm-cm6-1-hr", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CNRM-CM6-1-HR", 
+    "idx": 15, 
+    "label": "CNRM-CM6-1-HR", 
+    "namespace": "esgf-publisher:cmip6:source-id:cnrm-cm6-1-hr", 
+    "status": "pending", 
+    "uid": "7561be87-3430-40b4-a90f-484d2defa997"
+}

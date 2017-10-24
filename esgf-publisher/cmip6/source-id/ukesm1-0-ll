@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "ukesm1-0-ll", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "UKESM1-0-LL", 
+    "idx": 63, 
+    "label": "UKESM1-0-LL", 
+    "namespace": "esgf-publisher:cmip6:source-id:ukesm1-0-ll", 
+    "status": "pending", 
+    "uid": "83c8039f-1dd6-46f7-91fd-d73de34b6c84"
+}

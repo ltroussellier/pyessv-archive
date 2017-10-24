@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clivi", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "clivi", 
+    "idx": 30, 
+    "namespace": "esgf-publisher:cordex:variable:clivi", 
+    "status": "pending", 
+    "uid": "2521a096-c8d1-4182-8a9a-72e1bd3d7369"
+}

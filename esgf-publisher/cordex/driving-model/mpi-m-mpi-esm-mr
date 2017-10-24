@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "mpi-m-mpi-esm-mr", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "MPI-M-MPI-ESM-MR", 
+    "idx": 10, 
+    "label": "MPI-M-MPI-ESM-MR", 
+    "namespace": "esgf-publisher:cordex:driving-model:mpi-m-mpi-esm-mr", 
+    "status": "pending", 
+    "uid": "fefb9e53-9a65-418c-a9e0-81ad291c78d3"
+}

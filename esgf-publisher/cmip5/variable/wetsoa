@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "wetsoa", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "wetsoa", 
+    "idx": 578, 
+    "namespace": "esgf-publisher:cmip5:variable:wetsoa", 
+    "status": "pending", 
+    "uid": "56590969-d158-4ae8-a979-8be283ef1cb2"
+}

@@ -1,39 +1,38 @@
 {
     "_type": "term", 
-    "canonicalName": "hist-volc", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "hist-volc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "DAMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM", 
             "BGC"
         ], 
-        "endYear": "2020", 
+        "end_year": "2020", 
         "experiment": "historical volcanic-only run", 
-        "experimentID": "hist-volc", 
-        "minNumberYrsPerSim": "171", 
-        "parentActivityID": [
+        "experiment_id": "hist-volc", 
+        "min_number_yrs_per_sim": "171", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "piControl"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM"
         ], 
-        "startYear": "1850", 
-        "subExperimentID": [
+        "start_year": "1850", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "3"
     }, 
     "description": "Historical volcanic-only run", 
     "idx": 182, 
-    "label": "hist-volc", 
-    "rawName": "hist-volc", 
+    "namespace": "wcrp:cmip6:experiment-id:hist-volc", 
     "status": "pending", 
     "uid": "6b5c04d7-a9ee-4373-9d89-fdd478cb136c"
 }

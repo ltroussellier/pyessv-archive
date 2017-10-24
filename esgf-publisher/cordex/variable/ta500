@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ta500", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ta500", 
+    "idx": 126, 
+    "namespace": "esgf-publisher:cordex:variable:ta500", 
+    "status": "pending", 
+    "uid": "e56e985c-42a2-4709-bf6d-db9c0a27ffea"
+}

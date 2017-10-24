@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "nam-44", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "North America", 
+    "idx": 24, 
+    "label": "NAM-44", 
+    "namespace": "esgf-publisher:cordex:domain:nam-44", 
+    "raw_name": "NAM-44", 
+    "status": "pending", 
+    "uid": "ea2c19bf-8912-41ff-96a6-cf19bdc00a94"
+}

@@ -1,30 +1,30 @@
 {
     "_type": "term", 
-    "canonicalName": "piclim-2xdms", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "piclim-2xdms", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "AerChemMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "CHEM"
         ], 
-        "endYear": "", 
+        "end_year": "", 
         "experiment": "pre-industrial climatological SSTs and forcing, but with doubled emissions of DMS", 
-        "experimentID": "piClim-2xDMS", 
-        "minNumberYrsPerSim": "30", 
-        "parentActivityID": [
+        "experiment_id": "piClim-2xDMS", 
+        "min_number_yrs_per_sim": "30", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "piControl"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AGCM", 
             "AER"
         ], 
-        "startYear": "", 
-        "subExperimentID": [
+        "start_year": "", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "3"
@@ -32,7 +32,8 @@
     "description": "1850 control with doubled emissions of DMS", 
     "idx": 8, 
     "label": "piClim-2xDMS", 
-    "rawName": "piClim-2xDMS", 
+    "namespace": "wcrp:cmip6:experiment-id:piclim-2xdms", 
+    "raw_name": "piClim-2xDMS", 
     "status": "pending", 
     "uid": "258c7926-6f95-4c58-aeff-9521e5e2afd4"
 }

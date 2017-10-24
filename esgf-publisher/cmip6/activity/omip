@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "omip", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "OMIP", 
+    "idx": 15, 
+    "label": "OMIP", 
+    "namespace": "esgf-publisher:cmip6:activity:omip", 
+    "status": "pending", 
+    "uid": "b0d0c734-ca3f-4dcc-8b43-e033240ee91d"
+}

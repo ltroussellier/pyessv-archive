@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "was-44i", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "West Asia", 
+    "idx": 29, 
+    "label": "WAS-44i", 
+    "namespace": "esgf-publisher:cordex:domain:was-44i", 
+    "raw_name": "WAS-44i", 
+    "status": "pending", 
+    "uid": "62b24e67-cc8f-4291-92a2-d657e9b6719b"
+}

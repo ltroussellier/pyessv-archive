@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "auth-met-wrf331a", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "AUTH-Met-WRF331A", 
+    "idx": 1, 
+    "label": "AUTH-Met-WRF331A", 
+    "namespace": "esgf-publisher:cordex:rcm-model:auth-met-wrf331a", 
+    "status": "pending", 
+    "uid": "a32092df-49e3-451a-9798-a913bd5e8a34"
+}

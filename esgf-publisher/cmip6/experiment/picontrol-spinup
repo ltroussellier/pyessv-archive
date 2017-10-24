@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "picontrol-spinup", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "DECK: spin-up portion of the control", 
+    "idx": 141, 
+    "label": "piControl-spinup", 
+    "namespace": "esgf-publisher:cmip6:experiment:picontrol-spinup", 
+    "raw_name": "piControl-spinup", 
+    "status": "pending", 
+    "uid": "9f601930-29c5-42a6-b1f5-b762d17004c0"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "dcppc-ipv-nextrop-neg", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "C1.9 and predictability of the hiatus and of similar long timescale variations of both signs", 
+    "idx": 152, 
+    "label": "dcppC-ipv-NexTrop-neg", 
+    "namespace": "esgf-publisher:cmip6:experiment:dcppc-ipv-nextrop-neg", 
+    "raw_name": "dcppC-ipv-NexTrop-neg", 
+    "status": "pending", 
+    "uid": "5a1278a6-01c0-4084-96d3-af9a5116d1e3"
+}

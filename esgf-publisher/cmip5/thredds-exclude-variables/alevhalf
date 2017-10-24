@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "alevhalf", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "alevhalf", 
+    "idx": 4, 
+    "namespace": "esgf-publisher:cmip5:thredds-exclude-variables:alevhalf", 
+    "status": "pending", 
+    "uid": "c559c027-99c5-4920-b9f5-fde3a5224186"
+}

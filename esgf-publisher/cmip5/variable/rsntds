@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rsntds", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rsntds", 
+    "idx": 403, 
+    "namespace": "esgf-publisher:cmip5:variable:rsntds", 
+    "status": "pending", 
+    "uid": "14804729-161e-49f3-91c0-9be89228e76d"
+}

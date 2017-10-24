@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "intpcalc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "intpcalc", 
+    "idx": 248, 
+    "namespace": "esgf-publisher:cmip5:variable:intpcalc", 
+    "status": "pending", 
+    "uid": "80740a29-f7b3-4cf1-8e55-6b1bbd4d4ef5"
+}

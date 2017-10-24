@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "gn", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "gn", 
+    "idx": 1, 
+    "namespace": "esgf-publisher:cmip6:grid-label:gn", 
+    "status": "pending", 
+    "uid": "5d1c2e1f-991f-4e37-bb60-22a479461df1"
+}

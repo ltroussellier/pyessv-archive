@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "seasonal-mean", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "seasonal mean", 
+    "idx": 4, 
+    "label": "seasonal mean", 
+    "namespace": "esgf-publisher:cordex:las-time-delta:seasonal-mean", 
+    "raw_name": "seasonal mean", 
+    "status": "pending", 
+    "uid": "8c51ffb5-9efd-4459-b6be-feb3ee0cc62f"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "thkcello", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "thkcello", 
+    "idx": 475, 
+    "namespace": "esgf-publisher:cmip5:variable:thkcello", 
+    "status": "pending", 
+    "uid": "268f827c-492e-49ca-84ec-bdbb1f531d94"
+}

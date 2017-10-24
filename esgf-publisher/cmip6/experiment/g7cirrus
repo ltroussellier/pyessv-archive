@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "g7cirrus", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Against a background of the ScenarioMIP high forcing, reduce cirrus cloud optical depth by a constant amount", 
+    "idx": 111, 
+    "label": "G7cirrus", 
+    "namespace": "esgf-publisher:cmip6:experiment:g7cirrus", 
+    "raw_name": "G7cirrus", 
+    "status": "pending", 
+    "uid": "2d55dc88-0113-4eec-8ddb-3b61d2db6174"
+}

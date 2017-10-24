@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rhsmax", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rhsmax", 
+    "idx": 371, 
+    "namespace": "esgf-publisher:cmip5:variable:rhsmax", 
+    "status": "pending", 
+    "uid": "c85c9f2d-57e1-46ff-a273-5c1af4fab769"
+}

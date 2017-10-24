@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "amip-p4k", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "As CMIP5/CFMIP-2 amip4K experiment. AMIP experiment where SSTs are subject to a uniform warming of 4K", 
+    "idx": 127, 
+    "label": "amip-p4K", 
+    "namespace": "esgf-publisher:cmip6:experiment:amip-p4k", 
+    "raw_name": "amip-p4K", 
+    "status": "pending", 
+    "uid": "e6af274f-da99-4006-8c8f-c25acd54e6be"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ism-ssp585-self", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Future climate ScenarioMIP SSP5-8.5 simulation using \"offline\" ice sheet models. Forcing for ice sheet model is from its own AOGCM", 
+    "idx": 187, 
+    "namespace": "esgf-publisher:cmip6:experiment:ism-ssp585-self", 
+    "status": "pending", 
+    "uid": "bd414c71-4ec9-4847-9de8-56d0cd7951f4"
+}

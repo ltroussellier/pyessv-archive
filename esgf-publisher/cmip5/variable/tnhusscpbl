@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tnhusscpbl", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tnhusscpbl", 
+    "idx": 482, 
+    "namespace": "esgf-publisher:cmip5:variable:tnhusscpbl", 
+    "status": "pending", 
+    "uid": "36e4257d-fe15-4f2d-911d-3aa20bb700b0"
+}

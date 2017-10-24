@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "1-day", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "1 day", 
+    "idx": 1, 
+    "label": "1 day", 
+    "namespace": "esgf-publisher:cordex:las-time-delta:1-day", 
+    "raw_name": "1 day", 
+    "status": "pending", 
+    "uid": "8c6b9d3a-8a29-4d81-80af-deed7183d6fd"
+}

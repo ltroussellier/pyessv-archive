@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "depth100m", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "depth100m", 
+    "idx": 14, 
+    "namespace": "esgf-publisher:cmip5:thredds-exclude-variables:depth100m", 
+    "status": "pending", 
+    "uid": "64788ac7-7a19-4b42-97ec-96bb70c2d7ef"
+}

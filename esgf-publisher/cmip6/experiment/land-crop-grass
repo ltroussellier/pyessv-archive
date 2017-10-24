@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "land-crop-grass", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Same as land-hist but with all new crop and pastureland treated as unmanaged grassland", 
+    "idx": 26, 
+    "namespace": "esgf-publisher:cmip6:experiment:land-crop-grass", 
+    "status": "pending", 
+    "uid": "d64bc034-42de-47b0-994a-1966e826ee56"
+}

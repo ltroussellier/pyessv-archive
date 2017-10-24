@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "ucan", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "UCAN", 
+    "idx": 27, 
+    "label": "UCAN", 
+    "namespace": "esgf-publisher:cordex:institute:ucan", 
+    "status": "pending", 
+    "uid": "ee1bdd16-c1a2-4bdf-95e0-58fe46c7466c"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "plev-bnds", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "plev_bnds", 
+    "idx": 51, 
+    "label": "plev_bnds", 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:plev-bnds", 
+    "raw_name": "plev_bnds", 
+    "status": "pending", 
+    "uid": "e889d0cd-9347-40ce-91cf-958adba25572"
+}

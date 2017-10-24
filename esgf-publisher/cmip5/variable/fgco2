@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "fgco2", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "fgco2", 
+    "idx": 191, 
+    "namespace": "esgf-publisher:cmip5:variable:fgco2", 
+    "status": "pending", 
+    "uid": "f0124154-23e0-4620-9a3c-8ef1fd840211"
+}

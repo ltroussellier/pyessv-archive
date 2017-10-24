@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "oday", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Oday", 
+    "idx": 34, 
+    "label": "Oday", 
+    "namespace": "esgf-publisher:cmip6:cmor-table:oday", 
+    "status": "pending", 
+    "uid": "bbd7c3aa-e44a-4480-ac1c-30605a8b7722"
+}

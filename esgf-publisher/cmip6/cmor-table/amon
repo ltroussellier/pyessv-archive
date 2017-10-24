@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "amon", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Amon", 
+    "idx": 8, 
+    "label": "Amon", 
+    "namespace": "esgf-publisher:cmip6:cmor-table:amon", 
+    "status": "pending", 
+    "uid": "028ed001-10ef-4b8c-9463-9ab2b42504bf"
+}

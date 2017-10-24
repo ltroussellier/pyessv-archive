@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "intppico", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "intppico", 
+    "idx": 256, 
+    "namespace": "esgf-publisher:cmip5:variable:intppico", 
+    "status": "pending", 
+    "uid": "8367c7b5-0941-4192-b386-8cd5967dc482"
+}

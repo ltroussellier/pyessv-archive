@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "ipsl-ineris", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "IPSL-INERIS", 
+    "idx": 18, 
+    "label": "IPSL-INERIS", 
+    "namespace": "esgf-publisher:cordex:institute:ipsl-ineris", 
+    "status": "pending", 
+    "uid": "67041c73-8dfc-4446-94f5-b0a950df0b86"
+}

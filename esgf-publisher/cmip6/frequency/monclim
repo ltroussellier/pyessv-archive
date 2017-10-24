@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "monclim", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "monClim", 
+    "idx": 8, 
+    "label": "monClim", 
+    "namespace": "esgf-publisher:cmip6:frequency:monclim", 
+    "status": "pending", 
+    "uid": "73b2904f-8958-4b12-a462-32ae306a408b"
+}

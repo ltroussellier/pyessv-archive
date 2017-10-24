@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "dcppa-assim", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "A2.3 Assimilation runs used to generate initial conditions for hindcasts", 
+    "idx": 110, 
+    "label": "dcppA-assim", 
+    "namespace": "esgf-publisher:cmip6:experiment:dcppa-assim", 
+    "raw_name": "dcppA-assim", 
+    "status": "pending", 
+    "uid": "bab2d578-6c98-434f-a7a1-5cb98d26c114"
+}

@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "iyrant", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "IyrAnt", 
+    "idx": 29, 
+    "label": "IyrAnt", 
+    "namespace": "esgf-publisher:cmip6:cmor-table:iyrant", 
+    "status": "pending", 
+    "uid": "048950de-5623-46f8-bd11-526824d2186f"
+}

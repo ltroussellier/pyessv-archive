@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "simip", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "SIMIP", 
+    "idx": 18, 
+    "label": "SIMIP", 
+    "namespace": "esgf-publisher:cmip6:activity:simip", 
+    "status": "pending", 
+    "uid": "2617af59-0daf-447e-84a0-69043120a423"
+}

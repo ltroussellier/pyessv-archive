@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "land-nopasture", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Same as land-hist but with grazing and other management on pastureland held at 1850 levels/distribution, i.e. all new pastureland is treated as unmanaged grassland (as in land-crop-grass)", 
+    "idx": 126, 
+    "label": "land-noPasture", 
+    "namespace": "esgf-publisher:cmip6:experiment:land-nopasture", 
+    "raw_name": "land-noPasture", 
+    "status": "pending", 
+    "uid": "f96d8593-cf97-49f8-95ff-292e4dd51fec"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "novolc1980", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Volcano-free hindcasts initiated in 1980", 
+    "idx": 83, 
+    "label": "noVolc1980", 
+    "namespace": "esgf-publisher:cmip5:experiment:novolc1980", 
+    "raw_name": "noVolc1980", 
+    "status": "pending", 
+    "uid": "d947a297-3492-4220-84a6-f882c2306e11"
+}

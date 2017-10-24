@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "mon", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "mon", 
+    "idx": 2, 
+    "namespace": "esgf-publisher:cordex:time-frequency:mon", 
+    "status": "pending", 
+    "uid": "8dc67606-3738-475d-a1f7-1fd6004e0a63"
+}

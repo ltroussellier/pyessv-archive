@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "amip-lfmip-rmlc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Prescribed land conditions 30yr running mean; AMIP SSTs", 
+    "idx": 43, 
+    "label": "amip-lfmip-rmLC", 
+    "namespace": "esgf-publisher:cmip6:experiment:amip-lfmip-rmlc", 
+    "raw_name": "amip-lfmip-rmLC", 
+    "status": "pending", 
+    "uid": "300995c5-d315-45c0-b0af-31bfb04564f2"
+}

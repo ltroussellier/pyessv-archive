@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "iyrgre", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "IyrGre", 
+    "idx": 30, 
+    "label": "IyrGre", 
+    "namespace": "esgf-publisher:cmip6:cmor-table:iyrgre", 
+    "status": "pending", 
+    "uid": "c6e1e641-b8ef-48d3-858d-a2d3ca81622a"
+}

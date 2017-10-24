@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "g6solar", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Using solar irradiance reduction, return the radiative forcing from a background of the ScenarioMIP high forcing to the ScenarioMIP middle forcing", 
+    "idx": 38, 
+    "label": "G6solar", 
+    "namespace": "esgf-publisher:cmip6:experiment:g6solar", 
+    "raw_name": "G6solar", 
+    "status": "pending", 
+    "uid": "690f0b4d-3e18-4668-b41a-45e2b232b4de"
+}

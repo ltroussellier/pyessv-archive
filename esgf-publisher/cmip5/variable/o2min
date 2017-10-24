@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "o2min", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "o2min", 
+    "idx": 305, 
+    "namespace": "esgf-publisher:cmip5:variable:o2min", 
+    "status": "pending", 
+    "uid": "7c42e728-8933-455a-bcd2-fec6e6687b62"
+}

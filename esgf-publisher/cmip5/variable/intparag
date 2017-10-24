@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "intparag", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "intparag", 
+    "idx": 245, 
+    "namespace": "esgf-publisher:cmip5:variable:intparag", 
+    "status": "pending", 
+    "uid": "c24c26c0-2eab-40fb-9437-60cebc1615fb"
+}

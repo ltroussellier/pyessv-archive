@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "areacello", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "areacello", 
+    "idx": 7, 
+    "namespace": "esgf-publisher:cmip5:variable:areacello", 
+    "status": "pending", 
+    "uid": "6a014c63-5ef8-4082-97c5-2a55631ab89f"
+}

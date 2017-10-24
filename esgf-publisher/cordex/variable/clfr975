@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clfr975", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "clfr975", 
+    "idx": 15, 
+    "namespace": "esgf-publisher:cordex:variable:clfr975", 
+    "status": "pending", 
+    "uid": "971788cd-4645-4ccf-8b8e-6236586f9155"
+}

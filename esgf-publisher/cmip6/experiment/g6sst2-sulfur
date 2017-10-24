@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "g6sst2-sulfur", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Time slice at 2100 (G6sulfur)", 
+    "idx": 51, 
+    "label": "G6SST2-sulfur", 
+    "namespace": "esgf-publisher:cmip6:experiment:g6sst2-sulfur", 
+    "raw_name": "G6SST2-sulfur", 
+    "status": "pending", 
+    "uid": "3ecad6fa-d60c-4ba4-a59a-2d6d50de853b"
+}

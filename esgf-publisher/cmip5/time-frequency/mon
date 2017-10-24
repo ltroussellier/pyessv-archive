@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "mon", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "mon", 
+    "idx": 4, 
+    "namespace": "esgf-publisher:cmip5:time-frequency:mon", 
+    "status": "pending", 
+    "uid": "dbff186d-71b9-4c21-b0f1-749c3604d347"
+}

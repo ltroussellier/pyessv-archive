@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tasmin", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tasmin", 
+    "idx": 466, 
+    "namespace": "esgf-publisher:cmip5:variable:tasmin", 
+    "status": "pending", 
+    "uid": "8fa6fa1c-cbd4-4481-b30e-ac7dcb51b76f"
+}

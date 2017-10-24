@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "chmi-aladin52", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CHMI-ALADIN52", 
+    "idx": 6, 
+    "label": "CHMI-ALADIN52", 
+    "namespace": "esgf-publisher:cordex:rcm-model:chmi-aladin52", 
+    "status": "pending", 
+    "uid": "68a23e25-0daa-43af-a483-e2889fe7509a"
+}

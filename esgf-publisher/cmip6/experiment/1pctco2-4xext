@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "1pctco2-4xext", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "branched from 1pctCO2 run at year 140 and run with CO2 fixed at 4x pre-industrial concentration", 
+    "idx": 245, 
+    "label": "1pctCO2-4xext", 
+    "namespace": "esgf-publisher:cmip6:experiment:1pctco2-4xext", 
+    "raw_name": "1pctCO2-4xext", 
+    "status": "pending", 
+    "uid": "9950cdc9-67b1-42e1-b5d8-420a08932a97"
+}

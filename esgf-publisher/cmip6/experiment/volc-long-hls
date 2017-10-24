@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "volc-long-hls", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Idealized Southern Hemisphere high-latitude eruption emitting 28.1 Tg of SO2. Experiment initialized from PiControl", 
+    "idx": 159, 
+    "label": "volc-long-hlS", 
+    "namespace": "esgf-publisher:cmip6:experiment:volc-long-hls", 
+    "raw_name": "volc-long-hlS", 
+    "status": "pending", 
+    "uid": "c4f1ff62-f413-47c4-b1b7-98c2ab0e3ffb"
+}

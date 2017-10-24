@@ -1,27 +1,27 @@
 {
     "_type": "term", 
-    "canonicalName": "land-noshiftcultivate", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "land-noshiftcultivate", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "LUMIP"
         ], 
-        "additionalAllowedModelComponents": "", 
-        "endYear": "2014", 
+        "additional_allowed_model_components": "", 
+        "end_year": "2014", 
         "experiment": "historical land-only with shifting cultivation turned off", 
-        "experimentID": "land-noShiftCultivate", 
-        "minNumberYrsPerSim": "165", 
-        "parentActivityID": [
+        "experiment_id": "land-noShiftCultivate", 
+        "min_number_yrs_per_sim": "165", 
+        "parent_activity_id": [
             "no parent"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "no parent"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "LAND"
         ], 
-        "startYear": "1850 or 1700", 
-        "subExperimentID": [
+        "start_year": "1850 or 1700", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
@@ -29,7 +29,8 @@
     "description": "Same as land-hist except shifting cultivation turned off. An additional LUC transitions dataset will be provided as a data layer within LUMIP LUH2 dataset with shifting cultivation deactivated", 
     "idx": 93, 
     "label": "land-noShiftCultivate", 
-    "rawName": "land-noShiftCultivate", 
+    "namespace": "wcrp:cmip6:experiment-id:land-noshiftcultivate", 
+    "raw_name": "land-noShiftCultivate", 
     "status": "pending", 
     "uid": "e8aa0706-7b28-4a0e-85bc-1e37f83076c8"
 }

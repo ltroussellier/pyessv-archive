@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ta700", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ta700", 
+    "idx": 128, 
+    "namespace": "esgf-publisher:cordex:variable:ta700", 
+    "status": "pending", 
+    "uid": "8eca0502-5b0d-4969-bc74-31fe59e8076c"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sza5", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "sza5", 
+    "idx": 63, 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:sza5", 
+    "status": "pending", 
+    "uid": "e5d34cfc-d1a2-49df-b7d5-a8518ca0492b"
+}

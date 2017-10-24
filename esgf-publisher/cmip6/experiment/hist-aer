@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hist-aer", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Historical anthropogenic-Aerosols-only run", 
+    "idx": 119, 
+    "namespace": "esgf-publisher:cmip6:experiment:hist-aer", 
+    "status": "pending", 
+    "uid": "1dc91237-490f-4a24-b625-4849c9eef9c3"
+}

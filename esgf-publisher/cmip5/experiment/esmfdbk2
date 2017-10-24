@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "esmfdbk2", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ESM feedback 2", 
+    "idx": 65, 
+    "label": "esmFdbk2", 
+    "namespace": "esgf-publisher:cmip5:experiment:esmfdbk2", 
+    "raw_name": "esmFdbk2", 
+    "status": "pending", 
+    "uid": "38e760ae-be4a-47bc-920c-83f9aa5487e2"
+}

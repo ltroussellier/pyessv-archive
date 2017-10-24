@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "day", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "day", 
+    "idx": 0, 
+    "namespace": "esgf-publisher:cordex:time-frequency:day", 
+    "status": "pending", 
+    "uid": "f74efd8e-ec55-4bc0-b8e2-72a91674fa20"
+}

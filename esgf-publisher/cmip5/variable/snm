@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "snm", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "snm", 
+    "idx": 444, 
+    "namespace": "esgf-publisher:cmip5:variable:snm", 
+    "status": "pending", 
+    "uid": "f608aa98-5a94-4aaa-8492-a4b5b281006a"
+}

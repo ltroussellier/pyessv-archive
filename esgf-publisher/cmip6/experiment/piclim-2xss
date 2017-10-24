@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "piclim-2xss", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "1850 control with doubled sea salt emissions", 
+    "idx": 136, 
+    "label": "piClim-2xss", 
+    "namespace": "esgf-publisher:cmip6:experiment:piclim-2xss", 
+    "raw_name": "piClim-2xss", 
+    "status": "pending", 
+    "uid": "842a0604-de1a-4eb4-a3e5-c6fbb67d78aa"
+}

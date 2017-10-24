@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "prlsns", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "prlsns", 
+    "idx": 345, 
+    "namespace": "esgf-publisher:cmip5:variable:prlsns", 
+    "status": "pending", 
+    "uid": "7984d434-eed1-4631-ba3b-d013457db5b8"
+}

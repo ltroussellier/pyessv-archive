@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sftlf", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "sftlf", 
+    "idx": 111, 
+    "namespace": "esgf-publisher:cordex:variable:sftlf", 
+    "status": "pending", 
+    "uid": "bb040746-461e-44fb-a792-d01b92d1b381"
+}

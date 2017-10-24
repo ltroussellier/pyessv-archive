@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "cesm1-fastchem", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CESM1-FASTCHEM", 
+    "idx": 13, 
+    "label": "CESM1-FASTCHEM", 
+    "namespace": "esgf-publisher:cmip5:model:cesm1-fastchem", 
+    "status": "pending", 
+    "uid": "350d053d-a2cf-492d-acba-2f41e821fd58"
+}

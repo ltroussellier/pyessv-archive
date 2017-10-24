@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "cnrm-cm5-2", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CNRM-CM5-2", 
+    "idx": 19, 
+    "label": "CNRM-CM5-2", 
+    "namespace": "esgf-publisher:cmip5:model:cnrm-cm5-2", 
+    "status": "pending", 
+    "uid": "12994f9d-4c63-4afd-8387-465012745fee"
+}

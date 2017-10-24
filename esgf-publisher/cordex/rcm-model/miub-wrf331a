@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "miub-wrf331a", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "MIUB-WRF331A", 
+    "idx": 28, 
+    "label": "MIUB-WRF331A", 
+    "namespace": "esgf-publisher:cordex:rcm-model:miub-wrf331a", 
+    "status": "pending", 
+    "uid": "8c96deb5-846c-4fb0-ae2a-ff8e0ad76913"
+}

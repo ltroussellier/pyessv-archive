@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "gr2", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "gr2", 
+    "idx": 10, 
+    "namespace": "esgf-publisher:cmip6:grid-label:gr2", 
+    "status": "pending", 
+    "uid": "9fe93d3c-16cc-4654-8381-229156713ccc"
+}

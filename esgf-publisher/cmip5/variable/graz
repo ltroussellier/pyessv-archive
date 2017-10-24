@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "graz", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "graz", 
+    "idx": 208, 
+    "namespace": "esgf-publisher:cmip5:variable:graz", 
+    "status": "pending", 
+    "uid": "2cb15f5b-fa69-4750-aed3-627dddd605b1"
+}

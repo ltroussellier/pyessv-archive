@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "intpnitrate", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "intpnitrate", 
+    "idx": 254, 
+    "namespace": "esgf-publisher:cmip5:variable:intpnitrate", 
+    "status": "pending", 
+    "uid": "8aba3306-767c-45dc-97ef-40605e9fb128"
+}

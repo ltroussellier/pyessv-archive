@@ -1,31 +1,31 @@
 {
     "_type": "term", 
-    "canonicalName": "hist-piaer", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "hist-piaer", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "AerChemMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "CHEM", 
             "BGC"
         ], 
-        "endYear": "2014", 
+        "end_year": "2014", 
         "experiment": "historical forcing, but with pre-industrial aerosol emissions", 
-        "experimentID": "hist-piAer", 
-        "minNumberYrsPerSim": "165", 
-        "parentActivityID": [
+        "experiment_id": "hist-piAer", 
+        "min_number_yrs_per_sim": "165", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "piControl"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM", 
             "AER"
         ], 
-        "startYear": "1850", 
-        "subExperimentID": [
+        "start_year": "1850", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "2"
@@ -33,7 +33,8 @@
     "description": "Historical WMGHG, halocarbon concentrations and O3 precursor emissions, 1850 aerosol precursor emissions", 
     "idx": 71, 
     "label": "hist-piAer", 
-    "rawName": "hist-piAer", 
+    "namespace": "wcrp:cmip6:experiment-id:hist-piaer", 
+    "raw_name": "hist-piAer", 
     "status": "pending", 
     "uid": "82a97cb3-3823-4b05-b0c3-8d481de00e79"
 }

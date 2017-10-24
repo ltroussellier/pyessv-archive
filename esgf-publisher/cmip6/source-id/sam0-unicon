@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "sam0-unicon", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "SAM0-UNICON", 
+    "idx": 62, 
+    "label": "SAM0-UNICON", 
+    "namespace": "esgf-publisher:cmip6:source-id:sam0-unicon", 
+    "status": "pending", 
+    "uid": "288773aa-e846-4d22-be17-fd8ae181d6cf"
+}

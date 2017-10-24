@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "picontrol", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "DECK: control", 
+    "idx": 115, 
+    "label": "piControl", 
+    "namespace": "esgf-publisher:cmip6:experiment:picontrol", 
+    "raw_name": "piControl", 
+    "status": "pending", 
+    "uid": "7f9440fe-6313-4c6e-8685-33253cda1465"
+}

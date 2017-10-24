@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "cmcc-cm2-vhr4", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CMCC-CM2-VHR4", 
+    "idx": 11, 
+    "label": "CMCC-CM2-VHR4", 
+    "namespace": "esgf-publisher:cmip6:source-id:cmcc-cm2-vhr4", 
+    "status": "pending", 
+    "uid": "f6cf0e5a-a871-41b3-9207-e4e6ef9ca770"
+}

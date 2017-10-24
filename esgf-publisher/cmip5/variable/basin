@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "basin", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "basin", 
+    "idx": 10, 
+    "namespace": "esgf-publisher:cmip5:variable:basin", 
+    "status": "pending", 
+    "uid": "612b6aee-67dc-4ed0-8ed0-6b4d4392e23a"
+}

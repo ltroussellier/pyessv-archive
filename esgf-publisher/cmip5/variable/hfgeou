@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hfgeou", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "hfgeou", 
+    "idx": 219, 
+    "namespace": "esgf-publisher:cmip5:variable:hfgeou", 
+    "status": "pending", 
+    "uid": "f72ba076-1a5a-4e43-9f7c-6472c7947ab4"
+}

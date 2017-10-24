@@ -1,39 +1,38 @@
 {
     "_type": "term", 
-    "canonicalName": "ssp245-nat", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "ssp245-nat", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "DAMIP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM", 
             "BGC"
         ], 
-        "endYear": "2100", 
+        "end_year": "2100", 
         "experiment": "natural-only SSP2-4.5 run", 
-        "experimentID": "ssp245-nat", 
-        "minNumberYrsPerSim": "80", 
-        "parentActivityID": [
+        "experiment_id": "ssp245-nat", 
+        "min_number_yrs_per_sim": "80", 
+        "parent_activity_id": [
             "DAMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "hist-nat"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM"
         ], 
-        "startYear": "2021", 
-        "subExperimentID": [
+        "start_year": "2021", 
+        "sub_experiment_id": [
             "none"
         ], 
         "tier": "3"
     }, 
     "description": "Extension of natural-only run under SSP2-4.5", 
     "idx": 80, 
-    "label": "ssp245-nat", 
-    "rawName": "ssp245-nat", 
+    "namespace": "wcrp:cmip6:experiment-id:ssp245-nat", 
     "status": "pending", 
     "uid": "ed537526-040e-4fb3-b9bd-9ebc5737a967"
 }

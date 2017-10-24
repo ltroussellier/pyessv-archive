@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "histsst-pio3", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Historical WMGHG, halocarbon concentrations and aerosol precursor emissions, 1850 tropospheric ozone precursors emissions, prescribed SSTs", 
+    "idx": 137, 
+    "label": "histSST-piO3", 
+    "namespace": "esgf-publisher:cmip6:experiment:histsst-pio3", 
+    "raw_name": "histSST-piO3", 
+    "status": "pending", 
+    "uid": "00bf47d7-af34-464a-9373-f4843f7693db"
+}

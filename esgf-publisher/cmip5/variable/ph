@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ph", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ph", 
+    "idx": 323, 
+    "namespace": "esgf-publisher:cmip5:variable:ph", 
+    "status": "pending", 
+    "uid": "6d34046d-9d42-4e2e-8fbe-457865022273"
+}

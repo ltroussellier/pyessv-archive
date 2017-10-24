@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tnsclihon", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tnsclihon", 
+    "idx": 503, 
+    "namespace": "esgf-publisher:cmip5:variable:tnsclihon", 
+    "status": "pending", 
+    "uid": "681bc29d-84a9-406a-ae0e-8f3fbe1ef94f"
+}

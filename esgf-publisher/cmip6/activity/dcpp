@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "dcpp", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "DCPP", 
+    "idx": 6, 
+    "label": "DCPP", 
+    "namespace": "esgf-publisher:cmip6:activity:dcpp", 
+    "status": "pending", 
+    "uid": "56e97d5a-4124-4d95-b716-2f32c1dd97be"
+}

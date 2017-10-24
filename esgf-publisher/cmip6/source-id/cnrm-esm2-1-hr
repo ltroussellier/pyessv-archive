@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "cnrm-esm2-1-hr", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CNRM-ESM2-1-HR", 
+    "idx": 17, 
+    "label": "CNRM-ESM2-1-HR", 
+    "namespace": "esgf-publisher:cmip6:source-id:cnrm-esm2-1-hr", 
+    "status": "pending", 
+    "uid": "b5c93889-d698-4f0a-a1d0-f124676f7996"
+}

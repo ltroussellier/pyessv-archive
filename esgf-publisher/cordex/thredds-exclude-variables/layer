@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "layer", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "layer", 
+    "idx": 28, 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:layer", 
+    "status": "pending", 
+    "uid": "349a8f1e-217e-4746-967d-fa78f4793fa3"
+}

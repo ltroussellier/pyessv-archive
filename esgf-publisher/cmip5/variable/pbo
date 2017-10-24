@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "pbo", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "pbo", 
+    "idx": 317, 
+    "namespace": "esgf-publisher:cmip5:variable:pbo", 
+    "status": "pending", 
+    "uid": "717f5e87-94e2-4985-aab4-cf8d31bb4ff6"
+}

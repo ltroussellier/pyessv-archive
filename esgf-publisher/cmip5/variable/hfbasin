@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hfbasin", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "hfbasin", 
+    "idx": 212, 
+    "namespace": "esgf-publisher:cmip5:variable:hfbasin", 
+    "status": "pending", 
+    "uid": "c08dd208-c6e6-4264-a9bc-e56ee0ef73f9"
+}

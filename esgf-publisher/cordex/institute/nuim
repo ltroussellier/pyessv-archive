@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "nuim", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "NUIM", 
+    "idx": 24, 
+    "label": "NUIM", 
+    "namespace": "esgf-publisher:cordex:institute:nuim", 
+    "status": "pending", 
+    "uid": "26ceae6b-a493-4bf4-a7c5-1f6c5c1c45db"
+}

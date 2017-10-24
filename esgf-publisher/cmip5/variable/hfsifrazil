@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hfsifrazil", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "hfsifrazil", 
+    "idx": 225, 
+    "namespace": "esgf-publisher:cmip5:variable:hfsifrazil", 
+    "status": "pending", 
+    "uid": "940d32b9-a470-4dcf-8002-a51d11f954b4"
+}

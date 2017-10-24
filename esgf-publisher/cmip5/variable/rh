@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rh", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rh", 
+    "idx": 368, 
+    "namespace": "esgf-publisher:cmip5:variable:rh", 
+    "status": "pending", 
+    "uid": "895a7c2b-58e4-48fd-89c5-09f6606e8edb"
+}

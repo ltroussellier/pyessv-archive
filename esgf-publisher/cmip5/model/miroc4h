@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "miroc4h", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "MIROC4h", 
+    "idx": 50, 
+    "label": "MIROC4h", 
+    "namespace": "esgf-publisher:cmip5:model:miroc4h", 
+    "status": "pending", 
+    "uid": "6535d8bb-637c-459b-b514-43426546a73a"
+}

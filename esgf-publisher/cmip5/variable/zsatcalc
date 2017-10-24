@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "zsatcalc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "zsatcalc", 
+    "idx": 599, 
+    "namespace": "esgf-publisher:cmip5:variable:zsatcalc", 
+    "status": "pending", 
+    "uid": "29be5b8e-8f1e-472d-b155-74a01710cfeb"
+}

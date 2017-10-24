@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "ofx", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Ofx", 
+    "idx": 36, 
+    "label": "Ofx", 
+    "namespace": "esgf-publisher:cmip6:cmor-table:ofx", 
+    "status": "pending", 
+    "uid": "3e8e6806-5055-4205-bfd9-0ed621417e8e"
+}

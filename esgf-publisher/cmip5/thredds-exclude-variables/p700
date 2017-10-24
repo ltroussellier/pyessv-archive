@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "p700", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "p700", 
+    "idx": 39, 
+    "namespace": "esgf-publisher:cmip5:thredds-exclude-variables:p700", 
+    "status": "pending", 
+    "uid": "e5d7dad4-3e03-4f97-bf8e-364c7644a19b"
+}

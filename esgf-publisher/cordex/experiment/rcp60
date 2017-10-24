@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rcp60", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "RCP6.0", 
+    "idx": 4, 
+    "namespace": "esgf-publisher:cordex:experiment:rcp60", 
+    "status": "pending", 
+    "uid": "c2f6a0e9-731c-41c3-b761-a36a1b31d48c"
+}

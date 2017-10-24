@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "piclim-2xdust", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "1850 control with doubled dust emissions", 
+    "idx": 224, 
+    "label": "piClim-2xdust", 
+    "namespace": "esgf-publisher:cmip6:experiment:piclim-2xdust", 
+    "raw_name": "piClim-2xdust", 
+    "status": "pending", 
+    "uid": "4c1b3886-a909-499e-b7d2-3a34215011d0"
+}

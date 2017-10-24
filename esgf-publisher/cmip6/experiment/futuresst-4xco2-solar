@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "futuresst-4xco2-solar", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Time slice at year 100 of G1ext to examine radiative forcing of abrupt4xCO2 and G1", 
+    "idx": 131, 
+    "label": "futureSST-4xCO2-solar", 
+    "namespace": "esgf-publisher:cmip6:experiment:futuresst-4xco2-solar", 
+    "raw_name": "futureSST-4xCO2-solar", 
+    "status": "pending", 
+    "uid": "01884be2-4527-4bf6-836b-ae526949914a"
+}

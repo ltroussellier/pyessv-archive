@@ -1,31 +1,31 @@
 {
     "_type": "term", 
-    "canonicalName": "dcppa-historical-niff", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "dcppa-historical-niff", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "activityID": [
+        "activity_id": [
             "DCPP"
         ], 
-        "additionalAllowedModelComponents": [
+        "additional_allowed_model_components": [
             "AER", 
             "CHEM", 
             "BGC"
         ], 
-        "endYear": "5 - 10 years after start year", 
+        "end_year": "5 - 10 years after start year", 
         "experiment": "hindcast initialized from historical climate simulation but without using knowledge of subsequent historical forcing", 
-        "experimentID": "dcppA-historical-niff", 
-        "minNumberYrsPerSim": "5", 
-        "parentActivityID": [
+        "experiment_id": "dcppA-historical-niff", 
+        "min_number_yrs_per_sim": "5", 
+        "parent_activity_id": [
             "CMIP"
         ], 
-        "parentExperimentID": [
+        "parent_experiment_id": [
             "historical"
         ], 
-        "requiredModelComponents": [
+        "required_model_components": [
             "AOGCM"
         ], 
-        "startYear": "A year in the range 1960-2016", 
-        "subExperimentID": [
+        "start_year": "A year in the range 1960-2016", 
+        "sub_experiment_id": [
             "s1960", 
             "s1961", 
             "s1962", 
@@ -89,7 +89,8 @@
     "description": "A4.2 Hindcasts initialized from historical climate simulations as in DCPP-A2.2, but with no information from the future. First full hindcast year follows start year (e.g., for s1960, first full hindcast year is 1961)", 
     "idx": 1, 
     "label": "dcppA-historical-niff", 
-    "rawName": "dcppA-historical-niff", 
+    "namespace": "wcrp:cmip6:experiment-id:dcppa-historical-niff", 
+    "raw_name": "dcppA-historical-niff", 
     "status": "pending", 
     "uid": "630fc2ae-2a8d-4031-ad82-d4d3fbecc32c"
 }

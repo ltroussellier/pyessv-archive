@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "land-crop-noirrigfert", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Same as land-hist except with plants in cropland area utilizing at least some form of crop management (e.g., planting and harvesting) rather than simulating cropland vegetation as a natural grassland. Irrigated area and fertilizer area/use should be held constant", 
+    "idx": 157, 
+    "label": "land-crop-noIrrigFert", 
+    "namespace": "esgf-publisher:cmip6:experiment:land-crop-noirrigfert", 
+    "raw_name": "land-crop-noIrrigFert", 
+    "status": "pending", 
+    "uid": "ce7b2d63-8f61-4beb-ab9d-58b60c5beec1"
+}

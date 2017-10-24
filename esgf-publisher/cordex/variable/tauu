@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tauu", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tauu", 
+    "idx": 140, 
+    "namespace": "esgf-publisher:cordex:variable:tauu", 
+    "status": "pending", 
+    "uid": "2b83e0c0-041f-4db9-b780-06f70a11d72d"
+}

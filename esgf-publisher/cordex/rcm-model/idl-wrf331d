@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "idl-wrf331d", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "IDL-WRF331D", 
+    "idx": 20, 
+    "label": "IDL-WRF331D", 
+    "namespace": "esgf-publisher:cordex:rcm-model:idl-wrf331d", 
+    "status": "pending", 
+    "uid": "699c09e2-a1b1-4596-b96f-eec2c26bedea"
+}

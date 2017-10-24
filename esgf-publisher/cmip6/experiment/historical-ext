@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "historical-ext", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Extension beyond 2014 of the CMIP6 historical", 
+    "idx": 209, 
+    "namespace": "esgf-publisher:cmip6:experiment:historical-ext", 
+    "status": "pending", 
+    "uid": "b284bc28-165d-4375-a359-e61d63c81a70"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rsdssi", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rsdssi", 
+    "idx": 401, 
+    "namespace": "esgf-publisher:cmip5:variable:rsdssi", 
+    "status": "pending", 
+    "uid": "41a5cb95-37f6-499b-9f70-a744c48440b9"
+}

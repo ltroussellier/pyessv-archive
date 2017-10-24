@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "mna-22", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Middle East and North Africa", 
+    "idx": 20, 
+    "label": "MNA-22", 
+    "namespace": "esgf-publisher:cordex:domain:mna-22", 
+    "raw_name": "MNA-22", 
+    "status": "pending", 
+    "uid": "0f27309b-654d-4098-b46c-b57dcff6e3af"
+}

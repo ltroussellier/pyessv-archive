@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rsuscs", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rsuscs", 
+    "idx": 409, 
+    "namespace": "esgf-publisher:cmip5:variable:rsuscs", 
+    "status": "pending", 
+    "uid": "034744ac-c21d-4ede-bb23-cd89ed3e53d2"
+}

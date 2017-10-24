@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "1pctco2", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "DECK: 1pctCO2", 
+    "idx": 82, 
+    "label": "1pctCO2", 
+    "namespace": "esgf-publisher:cmip6:experiment:1pctco2", 
+    "raw_name": "1pctCO2", 
+    "status": "pending", 
+    "uid": "68ec1705-e373-416f-bd22-451037a99041"
+}

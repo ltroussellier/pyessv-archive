@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rsut", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rsut", 
+    "idx": 411, 
+    "namespace": "esgf-publisher:cmip5:variable:rsut", 
+    "status": "pending", 
+    "uid": "9f5684ac-87f7-4ba4-bf89-58c5819699ab"
+}

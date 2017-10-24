@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "piclim-histaer", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Time-varying forcing by aerosols. SST and sea ice fixed at preindustrial control. Interactive vegetation", 
+    "idx": 236, 
+    "label": "piClim-histaer", 
+    "namespace": "esgf-publisher:cmip6:experiment:piclim-histaer", 
+    "raw_name": "piClim-histaer", 
+    "status": "pending", 
+    "uid": "8571c63d-9ca5-4d1c-9f85-90686a5bc0b6"
+}

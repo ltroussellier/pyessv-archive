@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "sstclim", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Control SST climatology", 
+    "idx": 97, 
+    "label": "sstClim", 
+    "namespace": "esgf-publisher:cmip5:experiment:sstclim", 
+    "raw_name": "sstClim", 
+    "status": "pending", 
+    "uid": "c726bdc5-cdd6-46c0-8a4f-6e233ceaba9e"
+}

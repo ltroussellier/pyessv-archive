@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clic", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "clic", 
+    "idx": 66, 
+    "namespace": "esgf-publisher:cmip5:variable:clic", 
+    "status": "pending", 
+    "uid": "bf613c75-68eb-4ef2-8b7f-3a3a80897d86"
+}

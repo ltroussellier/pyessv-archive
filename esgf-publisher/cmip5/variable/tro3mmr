@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tro3mmr", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tro3mmr", 
+    "idx": 541, 
+    "namespace": "esgf-publisher:cmip5:variable:tro3mmr", 
+    "status": "pending", 
+    "uid": "401ba40b-f6c9-4379-993a-fdb82bc785e9"
+}

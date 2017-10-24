@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "region", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "region", 
+    "idx": 54, 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:region", 
+    "status": "pending", 
+    "uid": "5f03ad82-42a9-401b-be8d-77f874cb1bba"
+}

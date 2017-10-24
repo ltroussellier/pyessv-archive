@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hfrunoffds", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "hfrunoffds", 
+    "idx": 224, 
+    "namespace": "esgf-publisher:cmip5:variable:hfrunoffds", 
+    "status": "pending", 
+    "uid": "cd289fd8-d802-4eb0-8202-3ee3d74e4552"
+}

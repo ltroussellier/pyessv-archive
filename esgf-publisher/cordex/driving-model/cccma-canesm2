@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "cccma-canesm2", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CCCma-CanESM2", 
+    "idx": 0, 
+    "label": "CCCma-CanESM2", 
+    "namespace": "esgf-publisher:cordex:driving-model:cccma-canesm2", 
+    "status": "pending", 
+    "uid": "162fb360-cc58-4e00-b1de-1178e2998c60"
+}

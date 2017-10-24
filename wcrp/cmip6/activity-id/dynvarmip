@@ -1,10 +1,11 @@
 {
     "_type": "term", 
-    "canonicalName": "dynvarmip", 
-    "createDate": "2017-06-21 00:00:00+00:00", 
+    "canonical_name": "dynvarmip", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "idx": 17, 
     "label": "DynVarMIP", 
-    "rawName": "DynVarMIP", 
+    "namespace": "wcrp:cmip6:activity-id:dynvarmip", 
+    "raw_name": "DynVarMIP", 
     "status": "pending", 
     "uid": "af3b0db8-2d56-49c7-b273-eb6518a3abb9"
 }

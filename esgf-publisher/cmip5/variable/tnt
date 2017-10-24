@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tnt", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "tnt", 
+    "idx": 522, 
+    "namespace": "esgf-publisher:cmip5:variable:tnt", 
+    "status": "pending", 
+    "uid": "24448581-449d-4300-8dce-c3f118a10778"
+}

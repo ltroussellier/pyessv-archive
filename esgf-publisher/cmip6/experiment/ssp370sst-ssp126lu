@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "ssp370sst-ssp126lu", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Future SSP3-7.0 with low land use change (from ssp126), prescribed SSTs", 
+    "idx": 100, 
+    "label": "ssp370SST-ssp126Lu", 
+    "namespace": "esgf-publisher:cmip6:experiment:ssp370sst-ssp126lu", 
+    "raw_name": "ssp370SST-ssp126Lu", 
+    "status": "pending", 
+    "uid": "f3de4b7d-bee3-48a9-968a-bdb7c261ced3"
+}

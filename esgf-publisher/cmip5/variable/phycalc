@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "phycalc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "phycalc", 
+    "idx": 326, 
+    "namespace": "esgf-publisher:cmip5:variable:phycalc", 
+    "status": "pending", 
+    "uid": "d9ca33b1-58f7-482c-be40-448a8249cc35"
+}

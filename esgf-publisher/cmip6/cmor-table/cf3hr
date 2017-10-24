@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "cf3hr", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CF3hr", 
+    "idx": 9, 
+    "label": "CF3hr", 
+    "namespace": "esgf-publisher:cmip6:cmor-table:cf3hr", 
+    "status": "pending", 
+    "uid": "5a986721-9107-45e5-8946-f3dc13ec25bd"
+}

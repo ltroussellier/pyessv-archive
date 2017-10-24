@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hcfc22global", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "hcfc22global", 
+    "idx": 210, 
+    "namespace": "esgf-publisher:cmip5:variable:hcfc22global", 
+    "status": "pending", 
+    "uid": "e1e69d86-19be-483b-90f5-4ba306bed14f"
+}

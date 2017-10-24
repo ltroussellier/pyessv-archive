@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "areacella", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "areacella", 
+    "idx": 2, 
+    "namespace": "esgf-publisher:cordex:variable:areacella", 
+    "status": "pending", 
+    "uid": "c1b2f38e-f7a7-4b2e-9e6d-a27a138f2cdf"
+}

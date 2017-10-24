@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clw", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "clw", 
+    "idx": 78, 
+    "namespace": "esgf-publisher:cmip5:variable:clw", 
+    "status": "pending", 
+    "uid": "ed553be1-d87c-4d91-8a3d-dae599f23240"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ch4global", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ch4global", 
+    "idx": 48, 
+    "namespace": "esgf-publisher:cmip5:variable:ch4global", 
+    "status": "pending", 
+    "uid": "0bd656dd-65ce-45f0-8501-5f82723d8464"
+}

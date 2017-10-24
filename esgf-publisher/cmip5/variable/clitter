@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "clitter", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "cLitter", 
+    "idx": 25, 
+    "label": "cLitter", 
+    "namespace": "esgf-publisher:cmip5:variable:clitter", 
+    "status": "pending", 
+    "uid": "9d606515-8487-4188-8178-eabf7ce284a0"
+}

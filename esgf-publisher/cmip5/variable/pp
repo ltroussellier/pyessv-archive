@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "pp", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "pp", 
+    "idx": 340, 
+    "namespace": "esgf-publisher:cmip5:variable:pp", 
+    "status": "pending", 
+    "uid": "504fe2a9-47d1-4acd-a78b-c29db7e14f10"
+}

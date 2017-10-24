@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "ssp370sst", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Future SSP3-7.0, with SSTs prescribed from ssp370", 
+    "idx": 153, 
+    "label": "ssp370SST", 
+    "namespace": "esgf-publisher:cmip6:experiment:ssp370sst", 
+    "raw_name": "ssp370SST", 
+    "status": "pending", 
+    "uid": "ca138f88-c231-48ac-b3e9-57e7dd4056f4"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rlat", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rlat", 
+    "idx": 56, 
+    "namespace": "esgf-publisher:cordex:thredds-exclude-variables:rlat", 
+    "status": "pending", 
+    "uid": "6a9060a1-9950-4d67-b8e6-88b25e0cbf21"
+}

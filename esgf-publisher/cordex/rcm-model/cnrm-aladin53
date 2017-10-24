@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "cnrm-aladin53", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CNRM-ALADIN53", 
+    "idx": 11, 
+    "label": "CNRM-ALADIN53", 
+    "namespace": "esgf-publisher:cordex:rcm-model:cnrm-aladin53", 
+    "status": "pending", 
+    "uid": "20860051-dc72-4e72-bbe7-17c83473cb43"
+}

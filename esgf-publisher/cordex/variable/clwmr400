@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clwmr400", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "clwmr400", 
+    "idx": 37, 
+    "namespace": "esgf-publisher:cordex:variable:clwmr400", 
+    "status": "pending", 
+    "uid": "ca0e4dca-f979-4595-9b79-8c47bcbaff1c"
+}

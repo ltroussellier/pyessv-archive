@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "mcu", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "mcu", 
+    "idx": 273, 
+    "namespace": "esgf-publisher:cmip5:variable:mcu", 
+    "status": "pending", 
+    "uid": "e4ced4ad-9565-42bc-a0cb-93c4b4fdffb3"
+}
