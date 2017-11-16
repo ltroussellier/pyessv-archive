@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "1-year", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "1 year", 
+    "idx": 10, 
+    "label": "1 year", 
+    "namespace": "esgf-publisher:cmip6:las-time-delta:1-year", 
+    "raw_name": "1 year", 
+    "status": "pending", 
+    "uid": "5fea2ae2-2a6e-4b9a-8f1a-cc9d3bdb0676"
+}

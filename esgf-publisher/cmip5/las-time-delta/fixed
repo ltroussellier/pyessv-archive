@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "fixed", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "fixed", 
+    "idx": 7, 
+    "namespace": "esgf-publisher:cmip5:las-time-delta:fixed", 
+    "status": "pending", 
+    "uid": "9559ac48-7589-4f50-98ac-9c88ac08be1d"
+}

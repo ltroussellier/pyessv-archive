@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "racmo22t", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "RACMO22T", 
+    "idx": 26, 
+    "label": "RACMO22T", 
+    "namespace": "esgf-publisher:cordex:rcm-name:racmo22t", 
+    "raw_name": "RACMO22T", 
+    "status": "pending", 
+    "uid": "0b3ebb3e-ad88-4221-8110-a21e38df5d4d"
+}

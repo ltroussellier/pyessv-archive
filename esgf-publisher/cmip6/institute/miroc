@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "miroc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "MIROC", 
+    "idx": 54, 
+    "label": "MIROC", 
+    "namespace": "esgf-publisher:cmip6:institute:miroc", 
+    "raw_name": "MIROC", 
+    "status": "pending", 
+    "uid": "07228950-7a19-46ca-9ede-ab729fd24b13"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "latitude-bnds", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "latitude_bnds", 
+    "idx": 24, 
+    "label": "latitude_bnds", 
+    "namespace": "esgf-publisher:cmip6:thredds-exclude-variables:latitude-bnds", 
+    "raw_name": "latitude_bnds", 
+    "status": "pending", 
+    "uid": "2f73f0f4-a2e9-4b1e-b193-6d34e5dbb292"
+}

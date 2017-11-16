@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "ec-earth-consortium", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "EC-Earth-Consortium", 
+    "idx": 26, 
+    "label": "EC-Earth-Consortium", 
+    "namespace": "esgf-publisher:cmip6:institute:ec-earth-consortium", 
+    "raw_name": "EC-Earth-Consortium", 
+    "status": "pending", 
+    "uid": "d4550f62-b717-43f6-9609-3521b5c7ee73"
+}

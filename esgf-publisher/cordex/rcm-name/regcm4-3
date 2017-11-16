@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "regcm4-3", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "RegCM4-3", 
+    "idx": 19, 
+    "label": "RegCM4-3", 
+    "namespace": "esgf-publisher:cordex:rcm-name:regcm4-3", 
+    "raw_name": "RegCM4-3", 
+    "status": "pending", 
+    "uid": "e3fdada6-a3cf-46d8-9d91-8f6d6bdede18"
+}

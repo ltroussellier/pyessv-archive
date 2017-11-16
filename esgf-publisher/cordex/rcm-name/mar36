@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "mar36", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "MAR36", 
+    "idx": 42, 
+    "label": "MAR36", 
+    "namespace": "esgf-publisher:cordex:rcm-name:mar36", 
+    "raw_name": "MAR36", 
+    "status": "pending", 
+    "uid": "2d0172f9-05ea-4341-b08d-b564ca39a6d7"
+}

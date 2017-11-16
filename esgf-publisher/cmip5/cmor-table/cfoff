@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "cfoff", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "cfOff", 
+    "idx": 14, 
+    "label": "cfOff", 
+    "namespace": "esgf-publisher:cmip5:cmor-table:cfoff", 
+    "status": "pending", 
+    "uid": "c4db6b1e-0d86-4813-aab5-4faee4d46140"
+}

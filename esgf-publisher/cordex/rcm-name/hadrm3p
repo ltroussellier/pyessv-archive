@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "hadrm3p", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "HadRM3P", 
+    "idx": 30, 
+    "label": "HadRM3P", 
+    "namespace": "esgf-publisher:cordex:rcm-name:hadrm3p", 
+    "raw_name": "HadRM3P", 
+    "status": "pending", 
+    "uid": "e982466d-d864-4bd3-923e-0395450b5810"
+}

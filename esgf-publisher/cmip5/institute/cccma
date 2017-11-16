@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "cccma", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CCCma", 
+    "idx": 8, 
+    "label": "CCCma", 
+    "namespace": "esgf-publisher:cmip5:institute:cccma", 
+    "raw_name": "CCCma", 
+    "status": "pending", 
+    "uid": "5e259e63-1a1b-4621-9e17-804cd9cbfbe9"
+}

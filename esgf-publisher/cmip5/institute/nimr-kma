@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "nimr-kma", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "NIMR-KMA", 
+    "idx": 41, 
+    "label": "NIMR-KMA", 
+    "namespace": "esgf-publisher:cmip5:institute:nimr-kma", 
+    "raw_name": "NIMR-KMA", 
+    "status": "pending", 
+    "uid": "ed7bb2e7-854f-4a86-a83d-65984156c841"
+}

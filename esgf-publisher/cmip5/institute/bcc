@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "bcc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "BCC", 
+    "idx": 4, 
+    "label": "BCC", 
+    "namespace": "esgf-publisher:cmip5:institute:bcc", 
+    "raw_name": "BCC", 
+    "status": "pending", 
+    "uid": "9e989f17-9d71-4b00-9cce-814c43140203"
+}

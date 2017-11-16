@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "fio", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "FIO", 
+    "idx": 27, 
+    "label": "FIO", 
+    "namespace": "esgf-publisher:cmip5:institute:fio", 
+    "raw_name": "FIO", 
+    "status": "pending", 
+    "uid": "68f173d0-3e7c-44c7-a1d2-8cb44475ab27"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "wrf331c", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "WRF331C", 
+    "idx": 4, 
+    "label": "WRF331C", 
+    "namespace": "esgf-publisher:cordex:rcm-name:wrf331c", 
+    "raw_name": "WRF331C", 
+    "status": "pending", 
+    "uid": "efafba35-63ff-4cb7-9454-7a79a82bafb2"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "cclm4-8-17", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CCLM4-8-17", 
+    "idx": 7, 
+    "label": "CCLM4-8-17", 
+    "namespace": "esgf-publisher:cordex:rcm-name:cclm4-8-17", 
+    "raw_name": "CCLM4-8-17", 
+    "status": "pending", 
+    "uid": "7d2b4d2f-af29-4d89-a7bd-0f59d3ed24c5"
+}

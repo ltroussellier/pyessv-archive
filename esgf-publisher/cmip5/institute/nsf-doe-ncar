@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "nsf-doe-ncar", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "NSF-DOE-NCAR", 
+    "idx": 14, 
+    "label": "NSF-DOE-NCAR", 
+    "namespace": "esgf-publisher:cmip5:institute:nsf-doe-ncar", 
+    "raw_name": "NSF-DOE-NCAR", 
+    "status": "pending", 
+    "uid": "83c24a43-b010-442f-84bb-e2ff045a9f8b"
+}

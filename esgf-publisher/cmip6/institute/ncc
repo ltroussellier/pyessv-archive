@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "ncc", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "NCC", 
+    "idx": 60, 
+    "label": "NCC", 
+    "namespace": "esgf-publisher:cmip6:institute:ncc", 
+    "raw_name": "NCC", 
+    "status": "pending", 
+    "uid": "9f1c459a-6788-495b-80ec-6c77e3ad799e"
+}

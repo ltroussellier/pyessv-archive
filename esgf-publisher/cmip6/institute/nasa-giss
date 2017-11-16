@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "nasa-giss", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "NASA-GISS", 
+    "idx": 33, 
+    "label": "NASA-GISS", 
+    "namespace": "esgf-publisher:cmip6:institute:nasa-giss", 
+    "raw_name": "NASA-GISS", 
+    "status": "pending", 
+    "uid": "e8718ec7-c245-406b-a65e-476e3f0ba0c6"
+}

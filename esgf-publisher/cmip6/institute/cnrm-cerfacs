@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "cnrm-cerfacs", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CNRM-CERFACS", 
+    "idx": 17, 
+    "label": "CNRM-CERFACS", 
+    "namespace": "esgf-publisher:cmip6:institute:cnrm-cerfacs", 
+    "raw_name": "CNRM-CERFACS", 
+    "status": "pending", 
+    "uid": "c8b70be8-496e-4c27-8436-d48a5d554811"
+}

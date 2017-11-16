@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "csiro-bom", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CSIRO-BOM", 
+    "idx": 0, 
+    "label": "CSIRO-BOM", 
+    "namespace": "esgf-publisher:cmip6:institute:csiro-bom", 
+    "raw_name": "CSIRO-BOM", 
+    "status": "pending", 
+    "uid": "784584d2-41a4-4f8d-8605-0a8910b96c42"
+}

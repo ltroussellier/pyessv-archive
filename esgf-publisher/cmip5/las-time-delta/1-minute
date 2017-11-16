@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "1-minute", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "1 minute", 
+    "idx": 5, 
+    "label": "1 minute", 
+    "namespace": "esgf-publisher:cmip5:las-time-delta:1-minute", 
+    "raw_name": "1 minute", 
+    "status": "pending", 
+    "uid": "46ae37d1-ed8e-4e97-b6d6-377e4122a77e"
+}

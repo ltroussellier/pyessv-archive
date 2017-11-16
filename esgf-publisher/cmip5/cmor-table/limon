@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "limon", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "LImon", 
+    "idx": 4, 
+    "label": "LImon", 
+    "namespace": "esgf-publisher:cmip5:cmor-table:limon", 
+    "status": "pending", 
+    "uid": "bc5bc125-d8a4-4534-86e2-443f73e9122e"
+}

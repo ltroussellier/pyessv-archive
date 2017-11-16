@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "inm", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "INM", 
+    "idx": 42, 
+    "label": "INM", 
+    "namespace": "esgf-publisher:cmip6:institute:inm", 
+    "raw_name": "INM", 
+    "status": "pending", 
+    "uid": "56098572-366c-4315-96a3-0acc723cce9a"
+}

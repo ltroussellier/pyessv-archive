@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "promes", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "PROMES", 
+    "idx": 40, 
+    "label": "PROMES", 
+    "namespace": "esgf-publisher:cordex:rcm-name:promes", 
+    "raw_name": "PROMES", 
+    "status": "pending", 
+    "uid": "7e605708-2230-46c0-b1bf-a383026ff5c4"
+}

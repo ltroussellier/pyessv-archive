@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "alev1", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "alev1", 
+    "idx": 2, 
+    "namespace": "esgf-publisher:cmip6:thredds-exclude-variables:alev1", 
+    "status": "pending", 
+    "uid": "afcf1ba2-e3cf-4032-a6a1-a3d5e40f87d6"
+}

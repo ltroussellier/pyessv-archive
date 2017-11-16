@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "p840", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "p840", 
+    "idx": 41, 
+    "namespace": "esgf-publisher:cmip6:thredds-exclude-variables:p840", 
+    "status": "pending", 
+    "uid": "02393015-033d-426f-912b-8e4d697f6ee3"
+}

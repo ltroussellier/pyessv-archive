@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "canrcm4", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "CanRCM4", 
+    "idx": 5, 
+    "label": "CanRCM4", 
+    "namespace": "esgf-publisher:cordex:rcm-name:canrcm4", 
+    "raw_name": "CanRCM4", 
+    "status": "pending", 
+    "uid": "ad5f4077-ac7d-40e6-ae6e-e842bdf90c1e"
+}

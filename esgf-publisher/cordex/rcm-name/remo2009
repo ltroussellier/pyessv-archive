@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "remo2009", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "REMO2009", 
+    "idx": 31, 
+    "label": "REMO2009", 
+    "namespace": "esgf-publisher:cordex:rcm-name:remo2009", 
+    "raw_name": "REMO2009", 
+    "status": "pending", 
+    "uid": "a2b4d04d-fac4-4853-a0e7-216f40dd502e"
+}

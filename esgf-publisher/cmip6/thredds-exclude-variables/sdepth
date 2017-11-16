@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sdepth", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "sdepth", 
+    "idx": 52, 
+    "namespace": "esgf-publisher:cmip6:thredds-exclude-variables:sdepth", 
+    "status": "pending", 
+    "uid": "c17a219d-2257-43cd-9a29-cc878a59ce2e"
+}

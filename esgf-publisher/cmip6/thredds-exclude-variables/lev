@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "lev", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "lev", 
+    "idx": 26, 
+    "namespace": "esgf-publisher:cmip6:thredds-exclude-variables:lev", 
+    "status": "pending", 
+    "uid": "8345a29f-0592-4e06-87a1-916a62c7adee"
+}

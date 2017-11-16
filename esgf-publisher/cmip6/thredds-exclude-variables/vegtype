@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "vegtype", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "vegtype", 
+    "idx": 61, 
+    "namespace": "esgf-publisher:cmip6:thredds-exclude-variables:vegtype", 
+    "status": "pending", 
+    "uid": "e9b66c5f-19d6-4d93-8b3f-baf640342a1d"
+}

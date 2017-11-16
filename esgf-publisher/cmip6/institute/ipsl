@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "ipsl", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "IPSL", 
+    "idx": 43, 
+    "label": "IPSL", 
+    "namespace": "esgf-publisher:cmip6:institute:ipsl", 
+    "raw_name": "IPSL", 
+    "status": "pending", 
+    "uid": "835392a4-d1c6-4d0d-8ce3-a2c338b5aee8"
+}

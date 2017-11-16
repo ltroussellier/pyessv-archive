@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "mri", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "MRI", 
+    "idx": 59, 
+    "label": "MRI", 
+    "namespace": "esgf-publisher:cmip5:institute:mri", 
+    "raw_name": "MRI", 
+    "status": "pending", 
+    "uid": "147b493e-d396-4bd0-9c36-c57bbbe5a05d"
+}

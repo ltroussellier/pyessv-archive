@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "doe-cola-cmmap-gmu", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "DOE-COLA-CMMAP-GMU", 
+    "idx": 63, 
+    "label": "DOE-COLA-CMMAP-GMU", 
+    "namespace": "esgf-publisher:cmip5:institute:doe-cola-cmmap-gmu", 
+    "raw_name": "DOE-COLA-CMMAP-GMU", 
+    "status": "pending", 
+    "uid": "c6cc7972-f662-4391-91b7-8d5612306a4a"
+}

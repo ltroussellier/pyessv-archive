@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "geo-region", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "geo_region", 
+    "idx": 17, 
+    "label": "geo_region", 
+    "namespace": "esgf-publisher:cmip6:thredds-exclude-variables:geo-region", 
+    "raw_name": "geo_region", 
+    "status": "pending", 
+    "uid": "722c5b5c-0974-414d-9976-5dd4824d5be7"
+}

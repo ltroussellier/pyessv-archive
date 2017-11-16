@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "p0", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "p0", 
+    "idx": 36, 
+    "namespace": "esgf-publisher:cmip6:thredds-exclude-variables:p0", 
+    "status": "pending", 
+    "uid": "905d6817-7b08-4290-9a0f-44ebefbf3ecf"
+}

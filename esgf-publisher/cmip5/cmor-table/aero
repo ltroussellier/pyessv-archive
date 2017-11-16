@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "aero", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "aero", 
+    "idx": 10, 
+    "namespace": "esgf-publisher:cmip5:cmor-table:aero", 
+    "status": "pending", 
+    "uid": "1a0612aa-d2ec-49f9-adc0-ef427f2126b3"
+}

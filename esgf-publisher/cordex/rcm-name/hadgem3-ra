@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "hadgem3-ra", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "HadGEM3-RA", 
+    "idx": 29, 
+    "label": "HadGEM3-RA", 
+    "namespace": "esgf-publisher:cordex:rcm-name:hadgem3-ra", 
+    "raw_name": "HadGEM3-RA", 
+    "status": "pending", 
+    "uid": "39bbf6f8-f244-4bfd-b6b0-815cd0f4b6e8"
+}

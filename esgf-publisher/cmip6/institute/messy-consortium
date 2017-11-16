@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "messy-consortium", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "MESSy-Consortium", 
+    "idx": 28, 
+    "label": "MESSy-Consortium", 
+    "namespace": "esgf-publisher:cmip6:institute:messy-consortium", 
+    "raw_name": "MESSy-Consortium", 
+    "status": "pending", 
+    "uid": "b93a002e-73fd-4cc8-8ff6-1cf8f96fc09a"
+}

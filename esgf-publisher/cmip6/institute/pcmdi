@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "pcmdi", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "PCMDI", 
+    "idx": 61, 
+    "label": "PCMDI", 
+    "namespace": "esgf-publisher:cmip6:institute:pcmdi", 
+    "raw_name": "PCMDI", 
+    "status": "pending", 
+    "uid": "5db7cca2-f473-404b-8e68-74a4f4b75075"
+}

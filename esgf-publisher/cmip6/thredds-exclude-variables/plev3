@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "plev3", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "plev3", 
+    "idx": 43, 
+    "namespace": "esgf-publisher:cmip6:thredds-exclude-variables:plev3", 
+    "status": "pending", 
+    "uid": "1cfbbf78-a24f-4f00-be96-c6f7ec91b0c0"
+}

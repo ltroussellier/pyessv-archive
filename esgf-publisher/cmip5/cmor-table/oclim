@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "oclim", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "Oclim", 
+    "idx": 7, 
+    "label": "Oclim", 
+    "namespace": "esgf-publisher:cmip5:cmor-table:oclim", 
+    "status": "pending", 
+    "uid": "b28b2aaa-6590-4aee-beae-d401ba19c041"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "3-hours", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "3 hours", 
+    "idx": 2, 
+    "label": "3 hours", 
+    "namespace": "esgf-publisher:cmip6:las-time-delta:3-hours", 
+    "raw_name": "3 hours", 
+    "status": "pending", 
+    "uid": "c16727c2-edf0-4f6b-8d95-67de0c150286"
+}

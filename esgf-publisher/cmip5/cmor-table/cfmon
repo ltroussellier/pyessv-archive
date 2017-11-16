@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "cfmon", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "cfMon", 
+    "idx": 13, 
+    "label": "cfMon", 
+    "namespace": "esgf-publisher:cmip5:cmor-table:cfmon", 
+    "status": "pending", 
+    "uid": "b72f64cb-1478-4822-a1eb-1209b5ffc53e"
+}

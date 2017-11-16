@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "6-hours", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "6 hours", 
+    "idx": 3, 
+    "label": "6 hours", 
+    "namespace": "esgf-publisher:cmip5:las-time-delta:6-hours", 
+    "raw_name": "6 hours", 
+    "status": "pending", 
+    "uid": "1c8c2794-7028-43e4-84bd-0eb66fc814bb"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "lasg-cess", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "LASG-CESS", 
+    "idx": 24, 
+    "label": "LASG-CESS", 
+    "namespace": "esgf-publisher:cmip5:institute:lasg-cess", 
+    "raw_name": "LASG-CESS", 
+    "status": "pending", 
+    "uid": "bbaa05f1-3ae0-40a2-8fc0-22ec14756de0"
+}

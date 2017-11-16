@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rho", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "rho", 
+    "idx": 50, 
+    "namespace": "esgf-publisher:cmip6:thredds-exclude-variables:rho", 
+    "status": "pending", 
+    "uid": "0c335498-a776-4c51-854d-baa0d033243e"
+}

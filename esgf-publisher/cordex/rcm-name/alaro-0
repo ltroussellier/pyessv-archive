@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "alaro-0", 
+    "create_date": "2017-10-11 00:00:00+00:00", 
+    "description": "ALARO-0", 
+    "idx": 33, 
+    "label": "ALARO-0", 
+    "namespace": "esgf-publisher:cordex:rcm-name:alaro-0", 
+    "raw_name": "ALARO-0", 
+    "status": "pending", 
+    "uid": "dd8570f7-b129-46a2-a1c8-94e0a8f0c893"
+}
