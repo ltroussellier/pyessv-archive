@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "mcu", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "mcu", 
+    "idx": 273, 
+    "namespace": "wcrp:cmip5:variable:mcu", 
+    "status": "pending", 
+    "uid": "56f192cc-6cdd-4709-b70e-ac498c357ce2"
+}

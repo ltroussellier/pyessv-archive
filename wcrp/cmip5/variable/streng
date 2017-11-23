@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "streng", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "streng", 
+    "idx": 456, 
+    "namespace": "wcrp:cmip5:variable:streng", 
+    "status": "pending", 
+    "uid": "e45fc8cc-2439-40f5-b948-3484ce76126e"
+}

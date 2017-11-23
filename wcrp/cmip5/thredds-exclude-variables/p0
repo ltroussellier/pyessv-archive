@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "p0", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "p0", 
+    "idx": 35, 
+    "namespace": "wcrp:cmip5:thredds-exclude-variables:p0", 
+    "status": "pending", 
+    "uid": "3ad57144-fa76-46da-a634-f4d61799a39a"
+}

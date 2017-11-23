@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "so", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "so", 
+    "idx": 448, 
+    "namespace": "wcrp:cmip5:variable:so", 
+    "status": "pending", 
+    "uid": "47201077-c7b4-4ff9-a9a2-03641a2375c4"
+}

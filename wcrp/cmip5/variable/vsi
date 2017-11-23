@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "vsi", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "vsi", 
+    "idx": 567, 
+    "namespace": "wcrp:cmip5:variable:vsi", 
+    "status": "pending", 
+    "uid": "ceb84184-8fb0-49f2-9173-d4a937886d58"
+}

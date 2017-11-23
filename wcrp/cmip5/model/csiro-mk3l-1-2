@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "csiro-mk3l-1-2", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "CSIRO-Mk3L-1-2", 
+    "idx": 22, 
+    "label": "CSIRO-Mk3L-1-2", 
+    "namespace": "wcrp:cmip5:model:csiro-mk3l-1-2", 
+    "raw_name": "CSIRO-Mk3L-1-2", 
+    "status": "pending", 
+    "uid": "b5490c3f-f710-4739-8f4a-271efc28c40d"
+}

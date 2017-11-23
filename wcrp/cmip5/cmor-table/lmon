@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "lmon", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "Lmon", 
+    "idx": 5, 
+    "label": "Lmon", 
+    "namespace": "wcrp:cmip5:cmor-table:lmon", 
+    "raw_name": "Lmon", 
+    "status": "pending", 
+    "uid": "8a40e4d3-dfad-466a-bf85-ae65a23e47a3"
+}

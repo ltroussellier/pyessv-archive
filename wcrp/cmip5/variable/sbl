@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sbl", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "sbl", 
+    "idx": 416, 
+    "namespace": "wcrp:cmip5:variable:sbl", 
+    "status": "pending", 
+    "uid": "f76af50b-39c8-4c48-b326-f3d985bc5c75"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tsice", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tsice", 
+    "idx": 544, 
+    "namespace": "wcrp:cmip5:variable:tsice", 
+    "status": "pending", 
+    "uid": "c02139ff-8f1b-4205-bb40-b4ce17a743bb"
+}

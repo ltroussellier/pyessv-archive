@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "strocny", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "strocny", 
+    "idx": 458, 
+    "namespace": "wcrp:cmip5:variable:strocny", 
+    "status": "pending", 
+    "uid": "ac2b4bee-5b8a-41da-83a6-0154a0d54805"
+}

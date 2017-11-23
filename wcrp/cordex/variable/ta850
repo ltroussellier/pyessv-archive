@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ta850", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "ta850", 
+    "idx": 129, 
+    "namespace": "wcrp:cordex:variable:ta850", 
+    "status": "pending", 
+    "uid": "64ca8561-de2f-4936-9afc-7bb192bafe76"
+}

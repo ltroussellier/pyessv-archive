@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "clmcom", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "CLMcom", 
+    "idx": 6, 
+    "label": "CLMcom", 
+    "namespace": "wcrp:cordex:institute:clmcom", 
+    "raw_name": "CLMcom", 
+    "status": "pending", 
+    "uid": "170c7ae3-76fd-4817-9b0a-895010e0f26c"
+}

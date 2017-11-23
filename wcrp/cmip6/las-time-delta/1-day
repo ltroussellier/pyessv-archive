@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "1-day", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "idx": 4, 
+    "label": "1 day", 
+    "namespace": "wcrp:cmip6:las-time-delta:1-day", 
+    "raw_name": "1 day", 
+    "status": "pending", 
+    "uid": "f899a282-cd92-4d07-be47-055bc3498449"
+}

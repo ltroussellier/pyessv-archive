@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "va600", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "va600", 
+    "idx": 172, 
+    "namespace": "wcrp:cordex:variable:va600", 
+    "status": "pending", 
+    "uid": "a24c5b63-8802-4207-a8df-6a9aa10ed78e"
+}

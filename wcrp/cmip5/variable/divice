@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "divice", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "divice", 
+    "idx": 115, 
+    "namespace": "wcrp:cmip5:variable:divice", 
+    "status": "pending", 
+    "uid": "feadede4-0178-4f55-a108-c72fcbcec5a6"
+}

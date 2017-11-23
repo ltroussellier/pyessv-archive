@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "mgo", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "MGO", 
+    "idx": 20, 
+    "label": "MGO", 
+    "namespace": "wcrp:cordex:institute:mgo", 
+    "raw_name": "MGO", 
+    "status": "pending", 
+    "uid": "5e4128fe-f71f-4135-ba13-c18b5dba734e"
+}

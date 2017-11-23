@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "6hr", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "6hr", 
+    "idx": 1, 
+    "namespace": "wcrp:cmip5:time-frequency:6hr", 
+    "status": "pending", 
+    "uid": "c35b73b3-eef8-4f1a-b548-bd559d46cd3d"
+}

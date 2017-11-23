@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rcp85", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "RCP8.5", 
+    "idx": 5, 
+    "namespace": "wcrp:cordex:experiment:rcp85", 
+    "status": "pending", 
+    "uid": "48aedbbd-2946-4190-8c4a-c28105691d20"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "bddtdisi", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "bddtdisi", 
+    "idx": 16, 
+    "namespace": "wcrp:cmip5:variable:bddtdisi", 
+    "status": "pending", 
+    "uid": "3a75e9d4-02da-41bb-9317-72b205bb2d77"
+}

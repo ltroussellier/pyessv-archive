@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "intpp", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "intpp", 
+    "idx": 255, 
+    "namespace": "wcrp:cmip5:variable:intpp", 
+    "status": "pending", 
+    "uid": "e36493bd-a1e4-4876-9e27-4d71e6f1de15"
+}

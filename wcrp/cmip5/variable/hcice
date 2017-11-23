@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hcice", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "hcice", 
+    "idx": 211, 
+    "namespace": "wcrp:cmip5:variable:hcice", 
+    "status": "pending", 
+    "uid": "3e676088-2d2f-42f4-bde9-d18349fc591a"
+}

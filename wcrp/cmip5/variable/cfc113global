@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "cfc113global", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "cfc113global", 
+    "idx": 44, 
+    "namespace": "wcrp:cmip5:variable:cfc113global", 
+    "status": "pending", 
+    "uid": "c164958f-8299-4f5d-9489-194587b74e67"
+}

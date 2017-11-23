@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "decadal1966", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "10- or 30-year run initialized in year 1966", 
+    "idx": 16, 
+    "namespace": "wcrp:cmip5:experiment:decadal1966", 
+    "status": "pending", 
+    "uid": "d5421d63-48ff-42b9-a693-31d9fb4206bf"
+}

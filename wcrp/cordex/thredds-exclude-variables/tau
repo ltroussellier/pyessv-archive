@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tau", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tau", 
+    "idx": 64, 
+    "namespace": "wcrp:cordex:thredds-exclude-variables:tau", 
+    "status": "pending", 
+    "uid": "43d1d7f9-9bbf-46a8-9de2-33dc6d6e0924"
+}

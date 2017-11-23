@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "evap", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "evap", 
+    "idx": 152, 
+    "namespace": "wcrp:cmip5:variable:evap", 
+    "status": "pending", 
+    "uid": "bcd62f9a-9f5a-4f4f-bd1f-764ecd66c4a1"
+}

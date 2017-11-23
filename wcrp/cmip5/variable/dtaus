@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "dtaus", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "dtaus", 
+    "idx": 134, 
+    "namespace": "wcrp:cmip5:variable:dtaus", 
+    "status": "pending", 
+    "uid": "bc1965fb-b0f9-4473-a9fe-6828e218767b"
+}

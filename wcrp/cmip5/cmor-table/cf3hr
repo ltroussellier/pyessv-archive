@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "cf3hr", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "cf3hr", 
+    "idx": 11, 
+    "namespace": "wcrp:cmip5:cmor-table:cf3hr", 
+    "status": "pending", 
+    "uid": "4d5e95ce-f4e9-4831-8576-bb1e74e289b9"
+}

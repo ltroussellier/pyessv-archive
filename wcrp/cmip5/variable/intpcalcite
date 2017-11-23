@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "intpcalcite", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "intpcalcite", 
+    "idx": 249, 
+    "namespace": "wcrp:cmip5:variable:intpcalcite", 
+    "status": "pending", 
+    "uid": "c1d7ed8b-eda7-4989-976e-76f3447230c0"
+}

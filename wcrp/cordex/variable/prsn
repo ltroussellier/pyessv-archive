@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "prsn", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "prsn", 
+    "idx": 96, 
+    "namespace": "wcrp:cordex:variable:prsn", 
+    "status": "pending", 
+    "uid": "10852c86-3e69-433c-8825-bae8363e7dad"
+}

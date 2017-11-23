@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "zmicro", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "zmicro", 
+    "idx": 589, 
+    "namespace": "wcrp:cmip5:variable:zmicro", 
+    "status": "pending", 
+    "uid": "bc235789-8269-4708-8be3-749c87cd49f0"
+}

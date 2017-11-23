@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "concdms", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "concdms", 
+    "idx": 92, 
+    "namespace": "wcrp:cmip5:variable:concdms", 
+    "status": "pending", 
+    "uid": "e3a03a59-b9c2-4b4f-9757-91db6b10fd28"
+}

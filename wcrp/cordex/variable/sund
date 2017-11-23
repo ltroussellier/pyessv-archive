@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sund", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "sund", 
+    "idx": 121, 
+    "namespace": "wcrp:cordex:variable:sund", 
+    "status": "pending", 
+    "uid": "8d2b713f-34b5-460e-9745-8150d338fd97"
+}

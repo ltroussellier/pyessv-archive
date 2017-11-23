@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "pr", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "pr", 
+    "idx": 341, 
+    "namespace": "wcrp:cmip5:variable:pr", 
+    "status": "pending", 
+    "uid": "95499c47-7308-47bf-8a10-34ebea16ad45"
+}

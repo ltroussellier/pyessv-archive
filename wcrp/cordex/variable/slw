@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "slw", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "slw", 
+    "idx": 114, 
+    "namespace": "wcrp:cordex:variable:slw", 
+    "status": "pending", 
+    "uid": "5f347008-5c35-41dc-ad95-47a18d1675fc"
+}

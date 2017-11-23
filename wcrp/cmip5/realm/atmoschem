@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "atmoschem", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "atmosChem", 
+    "idx": 6, 
+    "label": "atmosChem", 
+    "namespace": "wcrp:cmip5:realm:atmoschem", 
+    "raw_name": "atmosChem", 
+    "status": "pending", 
+    "uid": "b8c85cb0-735b-477f-82a3-612fb5be5911"
+}

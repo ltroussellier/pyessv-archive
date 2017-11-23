@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "expp", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "expp", 
+    "idx": 165, 
+    "namespace": "wcrp:cmip5:variable:expp", 
+    "status": "pending", 
+    "uid": "211a99a8-066f-4141-885e-5e8f2da53dff"
+}

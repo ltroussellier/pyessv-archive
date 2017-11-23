@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ra", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "ra", 
+    "idx": 357, 
+    "namespace": "wcrp:cmip5:variable:ra", 
+    "status": "pending", 
+    "uid": "1754f9d2-ef5d-44a3-adff-023fc4b954af"
+}

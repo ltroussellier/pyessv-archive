@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "aquacontrol", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "Aqua planet control", 
+    "idx": 8, 
+    "label": "aquaControl", 
+    "namespace": "wcrp:cmip5:experiment:aquacontrol", 
+    "raw_name": "aquaControl", 
+    "status": "pending", 
+    "uid": "852aa1e1-ced5-4b2d-9c47-48680e042385"
+}

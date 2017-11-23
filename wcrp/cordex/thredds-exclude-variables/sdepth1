@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sdepth1", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "sdepth1", 
+    "idx": 62, 
+    "namespace": "wcrp:cordex:thredds-exclude-variables:sdepth1", 
+    "status": "pending", 
+    "uid": "ecd3e68e-1ee8-4d43-9a04-9a170b23198b"
+}

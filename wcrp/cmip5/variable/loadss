@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "loadss", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "loadss", 
+    "idx": 267, 
+    "namespace": "wcrp:cmip5:variable:loadss", 
+    "status": "pending", 
+    "uid": "6964b298-4e95-4d86-bb6d-945c9f5e19eb"
+}

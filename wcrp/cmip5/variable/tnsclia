@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tnsclia", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tnsclia", 
+    "idx": 492, 
+    "namespace": "wcrp:cmip5:variable:tnsclia", 
+    "status": "pending", 
+    "uid": "c7ff95e2-9fcf-4cf8-bd02-c8d287685d03"
+}

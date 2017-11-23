@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "cldnvi", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "cldnvi", 
+    "idx": 63, 
+    "namespace": "wcrp:cmip5:variable:cldnvi", 
+    "status": "pending", 
+    "uid": "fd424ed3-53a2-4689-af67-445a068f2db6"
+}

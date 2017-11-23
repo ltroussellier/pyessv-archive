@@ -1,0 +1,13 @@
+{
+    "_type": "term", 
+    "canonical_name": "new", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "data": {
+        "color": "#00ff00"
+    }, 
+    "idx": 0, 
+    "label": "New", 
+    "namespace": "esdoc:errata:status:new", 
+    "status": "pending", 
+    "uid": "2c121c0a-ca4d-4e4b-bcb1-ca2c560b30a6"
+}

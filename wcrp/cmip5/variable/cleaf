@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "cleaf", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "cLeaf", 
+    "idx": 24, 
+    "label": "cLeaf", 
+    "namespace": "wcrp:cmip5:variable:cleaf", 
+    "raw_name": "cLeaf", 
+    "status": "pending", 
+    "uid": "45570da7-94b3-4be5-b351-3f0df2684408"
+}

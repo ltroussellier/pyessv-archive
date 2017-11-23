@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "physi", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "physi", 
+    "idx": 335, 
+    "namespace": "wcrp:cmip5:variable:physi", 
+    "status": "pending", 
+    "uid": "a181dc2e-af79-43b3-aabd-965cc4f65e1b"
+}

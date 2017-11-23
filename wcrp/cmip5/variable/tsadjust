@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "tsadjust", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tsAdjust", 
+    "idx": 543, 
+    "label": "tsAdjust", 
+    "namespace": "wcrp:cmip5:variable:tsadjust", 
+    "raw_name": "tsAdjust", 
+    "status": "pending", 
+    "uid": "42f27253-f3df-49b6-a0b3-852fe6352281"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "clc", 
+    "idx": 58, 
+    "namespace": "wcrp:cmip5:variable:clc", 
+    "status": "pending", 
+    "uid": "999d1e27-4fe6-44ee-bab3-9086988714a5"
+}

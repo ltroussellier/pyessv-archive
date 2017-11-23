@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tas", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tas", 
+    "idx": 463, 
+    "namespace": "wcrp:cmip5:variable:tas", 
+    "status": "pending", 
+    "uid": "0047904e-a0e0-4b20-a153-6acd3d66fd81"
+}

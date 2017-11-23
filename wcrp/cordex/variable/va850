@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "va850", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "va850", 
+    "idx": 174, 
+    "namespace": "wcrp:cordex:variable:va850", 
+    "status": "pending", 
+    "uid": "048d3172-338a-4276-a2b3-4525eb491464"
+}

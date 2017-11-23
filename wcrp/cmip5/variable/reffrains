@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "reffrains", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "reffrains", 
+    "idx": 364, 
+    "namespace": "wcrp:cmip5:variable:reffrains", 
+    "status": "pending", 
+    "uid": "a2e26743-d4c0-47af-a370-f6c713d6dd6f"
+}

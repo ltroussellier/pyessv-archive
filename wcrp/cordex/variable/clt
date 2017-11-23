@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clt", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "clt", 
+    "idx": 33, 
+    "namespace": "wcrp:cordex:variable:clt", 
+    "status": "pending", 
+    "uid": "253aadb0-2004-4df5-922f-e30313ca028c"
+}

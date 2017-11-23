@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "co2", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "co2", 
+    "idx": 82, 
+    "namespace": "wcrp:cmip5:variable:co2", 
+    "status": "pending", 
+    "uid": "a058f4ff-5438-4fa3-97fd-d3cd97d7d058"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ts", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "ts", 
+    "idx": 142, 
+    "namespace": "wcrp:cordex:variable:ts", 
+    "status": "pending", 
+    "uid": "d41c49df-c544-4bba-a036-f2677c68c138"
+}

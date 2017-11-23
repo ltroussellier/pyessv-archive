@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "ichec", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "idx": 23, 
+    "label": "ICHEC", 
+    "namespace": "wcrp:cmip5:institute:ichec", 
+    "raw_name": "ICHEC", 
+    "status": "pending", 
+    "uid": "2125ef1b-e258-48a8-8f05-a25514e35dce"
+}

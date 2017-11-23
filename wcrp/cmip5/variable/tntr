@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tntr", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tntr", 
+    "idx": 526, 
+    "namespace": "wcrp:cmip5:variable:tntr", 
+    "status": "pending", 
+    "uid": "2685dbf4-9e95-4d74-acc8-1763e79bc6de"
+}

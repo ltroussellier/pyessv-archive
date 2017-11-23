@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "p220", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "p220", 
+    "idx": 42, 
+    "namespace": "wcrp:cordex:thredds-exclude-variables:p220", 
+    "status": "pending", 
+    "uid": "27b090ea-9413-4150-912a-7cbc6284545b"
+}

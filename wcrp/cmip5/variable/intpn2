@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "intpn2", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "intpn2", 
+    "idx": 253, 
+    "namespace": "wcrp:cmip5:variable:intpn2", 
+    "status": "pending", 
+    "uid": "9aebbda2-18ad-40f5-8d89-c12c469d611d"
+}

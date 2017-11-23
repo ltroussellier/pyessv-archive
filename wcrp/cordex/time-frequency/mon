@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "mon", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "mon", 
+    "idx": 2, 
+    "namespace": "wcrp:cordex:time-frequency:mon", 
+    "status": "pending", 
+    "uid": "6e8afebe-2875-4900-be4a-177cc408935a"
+}

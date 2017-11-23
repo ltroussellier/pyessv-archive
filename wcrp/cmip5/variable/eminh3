@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "eminh3", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "eminh3", 
+    "idx": 141, 
+    "namespace": "wcrp:cmip5:variable:eminh3", 
+    "status": "pending", 
+    "uid": "494f812f-8e22-47f8-bb17-9f9b49ed5fad"
+}

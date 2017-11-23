@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "fsc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "fsc", 
+    "idx": 199, 
+    "namespace": "wcrp:cmip5:variable:fsc", 
+    "status": "pending", 
+    "uid": "cdb527de-d951-4e4c-837b-88f1bc56f5fb"
+}

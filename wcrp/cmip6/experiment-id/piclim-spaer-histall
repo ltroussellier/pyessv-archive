@@ -6,7 +6,9 @@
         "activity_id": [
             "RFMIP"
         ], 
-        "additional_allowed_model_components": "", 
+        "additional_allowed_model_components": [
+            ""
+        ], 
         "end_year": "2014", 
         "experiment": "transient effective radiative forcing with specified anthropogenic aerosol optical properties, all forcings", 
         "experiment_id": "piClim-spAer-histall", 

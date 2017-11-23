@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "ulg", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "ULg", 
+    "idx": 30, 
+    "label": "ULg", 
+    "namespace": "wcrp:cordex:institute:ulg", 
+    "raw_name": "ULg", 
+    "status": "pending", 
+    "uid": "a8f9fa28-4383-4a8b-a7aa-5889794d28a0"
+}

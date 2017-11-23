@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tsl", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tsl", 
+    "idx": 545, 
+    "namespace": "wcrp:cmip5:variable:tsl", 
+    "status": "pending", 
+    "uid": "98662964-a664-4ff1-8842-eeaec7d7af74"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ua200", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "ua200", 
+    "idx": 150, 
+    "namespace": "wcrp:cordex:variable:ua200", 
+    "status": "pending", 
+    "uid": "cfac7a3c-3304-404e-bb08-8f3984c65223"
+}

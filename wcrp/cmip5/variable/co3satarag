@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "co3satarag", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "co3satarag", 
+    "idx": 86, 
+    "namespace": "wcrp:cmip5:variable:co3satarag", 
+    "status": "pending", 
+    "uid": "d654dffd-ecfc-4099-b854-974cf0dbde1d"
+}

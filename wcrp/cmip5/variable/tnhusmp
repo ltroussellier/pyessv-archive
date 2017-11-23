@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tnhusmp", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tnhusmp", 
+    "idx": 481, 
+    "namespace": "wcrp:cmip5:variable:tnhusmp", 
+    "status": "pending", 
+    "uid": "38a703f4-81cd-4fbd-a5c1-f0b5900d2c89"
+}

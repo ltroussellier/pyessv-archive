@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "olayer100m", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "olayer100m", 
+    "idx": 38, 
+    "namespace": "wcrp:cordex:thredds-exclude-variables:olayer100m", 
+    "status": "pending", 
+    "uid": "b7b1ea1e-deb0-4690-a8d3-a1638452d906"
+}

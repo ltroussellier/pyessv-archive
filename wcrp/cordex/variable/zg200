@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "zg200", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "zg200", 
+    "idx": 183, 
+    "namespace": "wcrp:cordex:variable:zg200", 
+    "status": "pending", 
+    "uid": "c5479d9c-1e81-454f-aa0b-7683012e33cc"
+}

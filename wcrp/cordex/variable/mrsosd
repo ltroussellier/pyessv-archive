@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "mrsosd", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "mrsosd", 
+    "idx": 89, 
+    "namespace": "wcrp:cordex:variable:mrsosd", 
+    "status": "pending", 
+    "uid": "e45b5a90-28b0-4ca9-87cc-e12ac65eac92"
+}

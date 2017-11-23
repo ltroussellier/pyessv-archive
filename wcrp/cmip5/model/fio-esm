@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "fio-esm", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "FIO-ESM", 
+    "idx": 27, 
+    "label": "FIO-ESM", 
+    "namespace": "wcrp:cmip5:model:fio-esm", 
+    "raw_name": "FIO-ESM", 
+    "status": "pending", 
+    "uid": "12e3aab0-14dc-4618-aebb-f1aa981323b8"
+}

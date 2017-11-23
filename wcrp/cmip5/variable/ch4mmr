@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ch4mmr", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "ch4mmr", 
+    "idx": 49, 
+    "namespace": "wcrp:cmip5:variable:ch4mmr", 
+    "status": "pending", 
+    "uid": "1525b87b-089d-45e7-8a98-bb2367b22c8a"
+}

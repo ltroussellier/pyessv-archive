@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ssi", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "ssi", 
+    "idx": 453, 
+    "namespace": "wcrp:cmip5:variable:ssi", 
+    "status": "pending", 
+    "uid": "3dce5f0e-be77-41f2-8f07-dd039f5d6409"
+}

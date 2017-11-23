@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "gpp", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "gpp", 
+    "idx": 203, 
+    "namespace": "wcrp:cmip5:variable:gpp", 
+    "status": "pending", 
+    "uid": "5556287a-e1ac-45de-93aa-97f97e8e742d"
+}

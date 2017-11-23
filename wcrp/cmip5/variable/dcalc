@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "dcalc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "dcalc", 
+    "idx": 104, 
+    "namespace": "wcrp:cmip5:variable:dcalc", 
+    "status": "pending", 
+    "uid": "af6eb8d2-ddc1-4d86-8df4-7ee50b5fda39"
+}

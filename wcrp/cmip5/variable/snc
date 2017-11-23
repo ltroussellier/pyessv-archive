@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "snc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "snc", 
+    "idx": 442, 
+    "namespace": "wcrp:cmip5:variable:snc", 
+    "status": "pending", 
+    "uid": "aa9c7e40-c217-4e63-8692-f2239b5875ba"
+}

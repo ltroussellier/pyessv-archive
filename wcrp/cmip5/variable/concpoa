@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "concpoa", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "concpoa", 
+    "idx": 97, 
+    "namespace": "wcrp:cmip5:variable:concpoa", 
+    "status": "pending", 
+    "uid": "d63e81ca-7d53-47bd-b438-9e6ee04217cf"
+}

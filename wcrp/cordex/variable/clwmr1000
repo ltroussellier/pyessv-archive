@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clwmr1000", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "clwmr1000", 
+    "idx": 34, 
+    "namespace": "wcrp:cordex:variable:clwmr1000", 
+    "status": "pending", 
+    "uid": "2d70ea0a-81f2-4933-aa0b-e63de7a15a42"
+}

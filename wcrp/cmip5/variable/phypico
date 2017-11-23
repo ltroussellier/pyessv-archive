@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "phypico", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "phypico", 
+    "idx": 333, 
+    "namespace": "wcrp:cmip5:variable:phypico", 
+    "status": "pending", 
+    "uid": "bc358121-1aa2-4c56-a8fc-106441b652cf"
+}

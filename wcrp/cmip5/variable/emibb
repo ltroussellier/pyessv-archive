@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "emibb", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "emibb", 
+    "idx": 137, 
+    "namespace": "wcrp:cmip5:variable:emibb", 
+    "status": "pending", 
+    "uid": "ec227cf3-9f51-4d2e-b84b-d111628aaf56"
+}

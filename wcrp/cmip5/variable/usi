@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "usi", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "usi", 
+    "idx": 554, 
+    "namespace": "wcrp:cmip5:variable:usi", 
+    "status": "pending", 
+    "uid": "2686ec0e-a07a-4d97-8140-11238486c465"
+}

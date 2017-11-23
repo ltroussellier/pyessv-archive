@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clivi", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "clivi", 
+    "idx": 69, 
+    "namespace": "wcrp:cmip5:variable:clivi", 
+    "status": "pending", 
+    "uid": "1eb81932-abf6-4910-9639-02a2a8a07fa5"
+}

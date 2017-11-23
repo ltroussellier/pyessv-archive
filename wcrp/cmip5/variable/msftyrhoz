@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "msftyrhoz", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "msftyrhoz", 
+    "idx": 290, 
+    "namespace": "wcrp:cmip5:variable:msftyrhoz", 
+    "status": "pending", 
+    "uid": "fd361f17-c4a3-4ce8-847a-95aa0f4aa91e"
+}

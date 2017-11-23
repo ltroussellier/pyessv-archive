@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "zmeso", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "zmeso", 
+    "idx": 588, 
+    "namespace": "wcrp:cmip5:variable:zmeso", 
+    "status": "pending", 
+    "uid": "4ab8717b-eaa4-499c-a417-130f6f31a494"
+}

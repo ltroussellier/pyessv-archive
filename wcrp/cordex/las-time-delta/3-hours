@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "3-hours", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "idx": 3, 
+    "label": "3 hours", 
+    "namespace": "wcrp:cordex:las-time-delta:3-hours", 
+    "raw_name": "3 hours", 
+    "status": "pending", 
+    "uid": "0f1440b3-8ae7-4469-b233-05b06355e1ae"
+}

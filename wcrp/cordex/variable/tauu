@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tauu", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tauu", 
+    "idx": 140, 
+    "namespace": "wcrp:cordex:variable:tauu", 
+    "status": "pending", 
+    "uid": "320e2a71-feda-47d1-9638-1162a7f01ec6"
+}

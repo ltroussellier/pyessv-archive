@@ -6,7 +6,9 @@
         "activity_id": [
             "LUMIP"
         ], 
-        "additional_allowed_model_components": "", 
+        "additional_allowed_model_components": [
+            ""
+        ], 
         "end_year": "2014", 
         "experiment": "historical land-only alternate land-use history", 
         "experiment_id": "land-hist-altLu1", 
@@ -18,7 +20,8 @@
             "no parent"
         ], 
         "required_model_components": [
-            "LAND"
+            "LAND", 
+            "BGC"
         ], 
         "start_year": "1850 or 1700", 
         "sub_experiment_id": [

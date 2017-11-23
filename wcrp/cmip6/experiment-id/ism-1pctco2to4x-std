@@ -6,7 +6,9 @@
         "activity_id": [
             "ISMIP6"
         ], 
-        "additional_allowed_model_components": "", 
+        "additional_allowed_model_components": [
+            ""
+        ], 
         "end_year": "", 
         "experiment": "offline ice sheet model forced by ISMIP6-specified AOGCM 1pctCO2to4x output", 
         "experiment_id": "ism-1pctCO2to4x-std", 

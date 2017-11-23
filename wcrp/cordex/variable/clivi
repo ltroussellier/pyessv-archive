@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clivi", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "clivi", 
+    "idx": 30, 
+    "namespace": "wcrp:cordex:variable:clivi", 
+    "status": "pending", 
+    "uid": "0e2a6ac1-e2c7-4ded-93fb-07eeac1dc3df"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "omon", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "Omon", 
+    "idx": 8, 
+    "label": "Omon", 
+    "namespace": "wcrp:cmip5:cmor-table:omon", 
+    "raw_name": "Omon", 
+    "status": "pending", 
+    "uid": "c786f7d3-4e9f-412e-b282-af9571b078eb"
+}

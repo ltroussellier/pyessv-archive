@@ -7,7 +7,9 @@
             "LS3MIP", 
             "LUMIP"
         ], 
-        "additional_allowed_model_components": "", 
+        "additional_allowed_model_components": [
+            "BGC"
+        ], 
         "end_year": "2014", 
         "experiment": "historical land-only", 
         "experiment_id": "land-hist", 

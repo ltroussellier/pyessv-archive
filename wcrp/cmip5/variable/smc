@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "smc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "smc", 
+    "idx": 441, 
+    "namespace": "wcrp:cmip5:variable:smc", 
+    "status": "pending", 
+    "uid": "1fc43578-152c-403f-9107-c35b2a49da22"
+}

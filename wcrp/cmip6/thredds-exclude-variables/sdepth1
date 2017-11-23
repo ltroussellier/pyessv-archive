@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sdepth1", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "sdepth1", 
+    "idx": 53, 
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:sdepth1", 
+    "status": "pending", 
+    "uid": "91718447-7751-4fc4-a605-834ea6f43b1a"
+}

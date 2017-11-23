@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "pnitrate", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "pnitrate", 
+    "idx": 336, 
+    "namespace": "wcrp:cmip5:variable:pnitrate", 
+    "status": "pending", 
+    "uid": "eebbcca7-a709-4712-9931-b6bfdf53b9d5"
+}

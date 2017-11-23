@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "dbze", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "dbze", 
+    "idx": 12, 
+    "namespace": "wcrp:cordex:thredds-exclude-variables:dbze", 
+    "status": "pending", 
+    "uid": "ad1f2d5a-3a71-4004-8213-0e7e8a487c75"
+}

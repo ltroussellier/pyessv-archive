@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clt", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "clt", 
+    "idx": 73, 
+    "namespace": "wcrp:cmip5:variable:clt", 
+    "status": "pending", 
+    "uid": "017a10a1-8c07-466e-8214-5304c1e3a752"
+}

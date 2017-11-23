@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "po4", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "po4", 
+    "idx": 337, 
+    "namespace": "wcrp:cmip5:variable:po4", 
+    "status": "pending", 
+    "uid": "0a31fd7d-f610-47d1-aff3-17a044db8d0e"
+}

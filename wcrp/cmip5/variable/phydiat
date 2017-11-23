@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "phydiat", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "phydiat", 
+    "idx": 327, 
+    "namespace": "wcrp:cmip5:variable:phydiat", 
+    "status": "pending", 
+    "uid": "d9469f76-d637-4991-8d17-b4aa6e888d3c"
+}

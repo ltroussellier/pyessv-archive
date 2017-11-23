@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "dryso4", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "dryso4", 
+    "idx": 130, 
+    "namespace": "wcrp:cmip5:variable:dryso4", 
+    "status": "pending", 
+    "uid": "05cdd7d6-78d8-4b54-b6a6-7822f48af37c"
+}

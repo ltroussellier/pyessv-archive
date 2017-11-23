@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "phycalc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "phycalc", 
+    "idx": 326, 
+    "namespace": "wcrp:cmip5:variable:phycalc", 
+    "status": "pending", 
+    "uid": "d0167fd3-9f06-4fe9-9a90-11a8a42d21b5"
+}

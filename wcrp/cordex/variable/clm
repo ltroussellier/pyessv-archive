@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clm", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "clm", 
+    "idx": 32, 
+    "namespace": "wcrp:cordex:variable:clm", 
+    "status": "pending", 
+    "uid": "74e204f0-d6f3-434e-8a70-9fc669dcbab6"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "dissic", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "dissic", 
+    "idx": 113, 
+    "namespace": "wcrp:cmip5:variable:dissic", 
+    "status": "pending", 
+    "uid": "71a0d6dc-b2cb-420d-940a-af9c931dfeff"
+}

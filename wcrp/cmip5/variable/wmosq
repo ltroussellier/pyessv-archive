@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "wmosq", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "wmosq", 
+    "idx": 584, 
+    "namespace": "wcrp:cmip5:variable:wmosq", 
+    "status": "pending", 
+    "uid": "3eb40d41-b51b-4a34-ad10-629608634a60"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "va900", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "va900", 
+    "idx": 176, 
+    "namespace": "wcrp:cordex:variable:va900", 
+    "status": "pending", 
+    "uid": "be264957-b438-42e4-a3fa-d4b6d2c099e6"
+}

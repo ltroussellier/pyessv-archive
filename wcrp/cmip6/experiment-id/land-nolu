@@ -6,7 +6,9 @@
         "activity_id": [
             "LUMIP"
         ], 
-        "additional_allowed_model_components": "", 
+        "additional_allowed_model_components": [
+            "BGC"
+        ], 
         "end_year": "2014", 
         "experiment": "historical land-only with no land-use change", 
         "experiment_id": "land-noLu", 

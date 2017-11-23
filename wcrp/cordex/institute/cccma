@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "cccma", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "CCCma", 
+    "idx": 4, 
+    "label": "CCCma", 
+    "namespace": "wcrp:cordex:institute:cccma", 
+    "raw_name": "CCCma", 
+    "status": "pending", 
+    "uid": "9d91018f-f7c3-43da-a907-17597351dee6"
+}

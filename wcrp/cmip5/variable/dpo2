@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "dpo2", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "dpo2", 
+    "idx": 119, 
+    "namespace": "wcrp:cmip5:variable:dpo2", 
+    "status": "pending", 
+    "uid": "7389416d-af2a-46ff-b5b4-7f1a2f8a5524"
+}

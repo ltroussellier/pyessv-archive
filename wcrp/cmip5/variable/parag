@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "parag", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "parag", 
+    "idx": 313, 
+    "namespace": "wcrp:cmip5:variable:parag", 
+    "status": "pending", 
+    "uid": "f4d72ba9-fab2-4b33-8b75-862a46e55411"
+}

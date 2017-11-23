@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "areacella", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "areacella", 
+    "idx": 2, 
+    "namespace": "wcrp:cordex:variable:areacella", 
+    "status": "pending", 
+    "uid": "328cd66c-3ef5-4289-be4d-1ecddedb734c"
+}

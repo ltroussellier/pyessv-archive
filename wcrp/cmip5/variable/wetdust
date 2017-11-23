@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "wetdust", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "wetdust", 
+    "idx": 572, 
+    "namespace": "wcrp:cmip5:variable:wetdust", 
+    "status": "pending", 
+    "uid": "e5e41018-e336-499b-a3f7-75a556197b10"
+}

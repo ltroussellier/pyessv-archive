@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "vsfpr", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "vsfpr", 
+    "idx": 564, 
+    "namespace": "wcrp:cmip5:variable:vsfpr", 
+    "status": "pending", 
+    "uid": "164747f1-b64b-4c77-8f0a-a137b2373f83"
+}

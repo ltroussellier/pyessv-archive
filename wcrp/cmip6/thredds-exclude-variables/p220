@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "p220", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "p220", 
+    "idx": 37, 
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:p220", 
+    "status": "pending", 
+    "uid": "d63dd33c-7237-47d7-8faf-fefb558c07e1"
+}

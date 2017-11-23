@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "cancm4", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "CanCM4", 
+    "idx": 7, 
+    "label": "CanCM4", 
+    "namespace": "wcrp:cmip5:model:cancm4", 
+    "raw_name": "CanCM4", 
+    "status": "pending", 
+    "uid": "618c5bc9-9108-402f-b37c-130b9515c6b8"
+}

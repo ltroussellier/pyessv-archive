@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "loadsoa", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "loadsoa", 
+    "idx": 266, 
+    "namespace": "wcrp:cmip5:variable:loadsoa", 
+    "status": "pending", 
+    "uid": "51d2fec9-4e8e-4f5d-9cf3-704732786430"
+}

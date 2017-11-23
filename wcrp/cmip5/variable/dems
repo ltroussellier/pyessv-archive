@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "dems", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "dems", 
+    "idx": 106, 
+    "namespace": "wcrp:cmip5:variable:dems", 
+    "status": "pending", 
+    "uid": "6643e4ea-24af-4acf-bb23-60bfbe39f7c0"
+}

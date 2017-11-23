@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "time1", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "time1", 
+    "idx": 67, 
+    "namespace": "wcrp:cordex:thredds-exclude-variables:time1", 
+    "status": "pending", 
+    "uid": "10ccb710-a127-4dbf-a8fa-d6f209249331"
+}

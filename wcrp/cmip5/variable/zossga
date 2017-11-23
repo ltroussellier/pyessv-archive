@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "zossga", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "zossga", 
+    "idx": 595, 
+    "namespace": "wcrp:cmip5:variable:zossga", 
+    "status": "pending", 
+    "uid": "d2081bb2-8d9b-4829-b438-e9b1230e706a"
+}

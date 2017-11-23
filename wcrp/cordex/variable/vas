@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "vas", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "vas", 
+    "idx": 180, 
+    "namespace": "wcrp:cordex:variable:vas", 
+    "status": "pending", 
+    "uid": "5b63ad62-aaca-42d7-b67c-826101f58533"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ps", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "ps", 
+    "idx": 98, 
+    "namespace": "wcrp:cordex:variable:ps", 
+    "status": "pending", 
+    "uid": "927a415f-4d20-4491-bf65-945c486cb958"
+}

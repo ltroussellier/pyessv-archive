@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "plev7", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "plev7", 
+    "idx": 49, 
+    "namespace": "wcrp:cordex:thredds-exclude-variables:plev7", 
+    "status": "pending", 
+    "uid": "740f0c33-280b-4afb-8508-ccdd21ce518e"
+}

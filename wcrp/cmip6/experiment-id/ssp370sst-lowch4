@@ -6,7 +6,9 @@
         "activity_id": [
             "AerChemMIP"
         ], 
-        "additional_allowed_model_components": "", 
+        "additional_allowed_model_components": [
+            ""
+        ], 
         "end_year": "2055", 
         "experiment": "SSP3-7.0, prescribed SSTs, with low methane concentrations", 
         "experiment_id": "ssp370SST-lowCH4", 

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clice400", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "clice400", 
+    "idx": 20, 
+    "namespace": "wcrp:cordex:variable:clice400", 
+    "status": "pending", 
+    "uid": "559eb6be-02ba-4998-b9ae-4e21d53e9f10"
+}

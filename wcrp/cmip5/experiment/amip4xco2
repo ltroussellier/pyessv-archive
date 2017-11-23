@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "amip4xco2", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "4xCO2 AMIP", 
+    "idx": 4, 
+    "label": "amip4xCO2", 
+    "namespace": "wcrp:cmip5:experiment:amip4xco2", 
+    "raw_name": "amip4xCO2", 
+    "status": "pending", 
+    "uid": "caa7c20d-e476-417f-ba07-89bae56948ba"
+}

@@ -45,13 +45,13 @@
             }, 
             "seaIce": {
                 "description": "Fixed", 
-                "nominal_resolution": ""
+                "nominal_resolution": "10 km"
             }
         }, 
         "release_year": "2017", 
         "source_id": "NICAM16-9S"
     }, 
-    "idx": 30, 
+    "idx": 31, 
     "label": "NICAM16-9S", 
     "namespace": "wcrp:cmip6:source-id:nicam16-9s", 
     "raw_name": "NICAM16-9S", 

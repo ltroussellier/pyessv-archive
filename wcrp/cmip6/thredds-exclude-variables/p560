@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "p560", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "p560", 
+    "idx": 39, 
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:p560", 
+    "status": "pending", 
+    "uid": "696cd191-ebde-426a-9c46-d173293f9cad"
+}

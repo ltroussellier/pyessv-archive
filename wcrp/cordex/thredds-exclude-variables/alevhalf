@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "alevhalf", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "alevhalf", 
+    "idx": 4, 
+    "namespace": "wcrp:cordex:thredds-exclude-variables:alevhalf", 
+    "status": "pending", 
+    "uid": "9da50f2c-247f-47d7-8e93-88d6b1d8f78f"
+}

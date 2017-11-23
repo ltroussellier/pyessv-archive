@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "emiso2", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "emiso2", 
+    "idx": 144, 
+    "namespace": "wcrp:cmip5:variable:emiso2", 
+    "status": "pending", 
+    "uid": "00c48356-5f9c-4694-b897-9f510412625b"
+}

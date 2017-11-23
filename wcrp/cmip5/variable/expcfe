@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "expcfe", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "expcfe", 
+    "idx": 163, 
+    "namespace": "wcrp:cmip5:variable:expcfe", 
+    "status": "pending", 
+    "uid": "9a9d1860-90f8-4db0-970e-be56b6f5a1f4"
+}

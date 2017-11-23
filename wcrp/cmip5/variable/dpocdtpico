@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "dpocdtpico", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "dpocdtpico", 
+    "idx": 121, 
+    "namespace": "wcrp:cmip5:variable:dpocdtpico", 
+    "status": "pending", 
+    "uid": "a5e0f9aa-5f3e-4c4c-8ee5-3f6b1cce3d65"
+}

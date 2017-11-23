@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tran", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tran", 
+    "idx": 531, 
+    "namespace": "wcrp:cmip5:variable:tran", 
+    "status": "pending", 
+    "uid": "242006ae-a3c6-4fd1-a9b1-0fefa9a348c2"
+}

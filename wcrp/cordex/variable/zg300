@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "zg300", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "zg300", 
+    "idx": 184, 
+    "namespace": "wcrp:cordex:variable:zg300", 
+    "status": "pending", 
+    "uid": "8db0b351-5214-45db-a0d1-acaf4dcb9582"
+}

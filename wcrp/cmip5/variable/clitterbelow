@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "clitterbelow", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "cLitterBelow", 
+    "idx": 27, 
+    "label": "cLitterBelow", 
+    "namespace": "wcrp:cmip5:variable:clitterbelow", 
+    "raw_name": "cLitterBelow", 
+    "status": "pending", 
+    "uid": "ff6a65eb-cd73-49a4-8690-5644b2b25997"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tnsccwif", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tnsccwif", 
+    "idx": 490, 
+    "namespace": "wcrp:cmip5:variable:tnsccwif", 
+    "status": "pending", 
+    "uid": "8c814150-8be6-434d-b75b-9316299efb52"
+}

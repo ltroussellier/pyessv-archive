@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rsdsdiff", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "rsdsdiff", 
+    "idx": 400, 
+    "namespace": "wcrp:cmip5:variable:rsdsdiff", 
+    "status": "pending", 
+    "uid": "b52ceb88-03a1-41c3-99a1-ca3447f7f117"
+}

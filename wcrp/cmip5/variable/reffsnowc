@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "reffsnowc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "reffsnowc", 
+    "idx": 365, 
+    "namespace": "wcrp:cmip5:variable:reffsnowc", 
+    "status": "pending", 
+    "uid": "3d0a92ce-756b-4fd9-8f1c-ca6d7d478136"
+}

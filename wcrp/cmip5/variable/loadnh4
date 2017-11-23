@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "loadnh4", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "loadnh4", 
+    "idx": 261, 
+    "namespace": "wcrp:cmip5:variable:loadnh4", 
+    "status": "pending", 
+    "uid": "380ecada-8026-4a9b-b4fc-7214aee11f62"
+}

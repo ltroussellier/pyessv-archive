@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rlon", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "rlon", 
+    "idx": 59, 
+    "namespace": "wcrp:cordex:thredds-exclude-variables:rlon", 
+    "status": "pending", 
+    "uid": "bf7ee8aa-396e-49e0-9a46-01e1789a82c3"
+}

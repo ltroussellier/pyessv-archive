@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "cltlidarradar", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "cltlidarradar", 
+    "idx": 77, 
+    "namespace": "wcrp:cmip5:variable:cltlidarradar", 
+    "status": "pending", 
+    "uid": "ec782030-6bb0-42aa-a766-e3a29ac3e01f"
+}

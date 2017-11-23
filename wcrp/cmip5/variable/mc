@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "mc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "mc", 
+    "idx": 271, 
+    "namespace": "wcrp:cmip5:variable:mc", 
+    "status": "pending", 
+    "uid": "edb9f3e1-5732-4704-908e-65d9d3543f22"
+}

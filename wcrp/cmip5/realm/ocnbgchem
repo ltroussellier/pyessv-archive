@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "ocnbgchem", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "ocnBgchem", 
+    "idx": 7, 
+    "label": "ocnBgchem", 
+    "namespace": "wcrp:cmip5:realm:ocnbgchem", 
+    "raw_name": "ocnBgchem", 
+    "status": "pending", 
+    "uid": "c2d76e53-6f35-4cff-995f-985b8c23f3b3"
+}

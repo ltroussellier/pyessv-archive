@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sci", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "sci", 
+    "idx": 418, 
+    "namespace": "wcrp:cmip5:variable:sci", 
+    "status": "pending", 
+    "uid": "60449759-dbc3-496e-a844-420c542e5ee6"
+}

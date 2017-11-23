@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "grfrazil", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "grFrazil", 
+    "idx": 205, 
+    "label": "grFrazil", 
+    "namespace": "wcrp:cmip5:variable:grfrazil", 
+    "raw_name": "grFrazil", 
+    "status": "pending", 
+    "uid": "90396e98-58af-4279-bdad-d1b4ddfcfe8d"
+}

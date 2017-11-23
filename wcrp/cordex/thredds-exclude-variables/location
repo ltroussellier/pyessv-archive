@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "location", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "location", 
+    "idx": 31, 
+    "namespace": "wcrp:cordex:thredds-exclude-variables:location", 
+    "status": "pending", 
+    "uid": "9ae2b992-fc8f-4d59-a25c-ba26165d2ddc"
+}

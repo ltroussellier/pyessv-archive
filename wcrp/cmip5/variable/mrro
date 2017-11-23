@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "mrro", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "mrro", 
+    "idx": 280, 
+    "namespace": "wcrp:cmip5:variable:mrro", 
+    "status": "pending", 
+    "uid": "df548b91-4c6e-4b8c-9130-4bbc964e7796"
+}

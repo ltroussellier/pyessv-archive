@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "gfdl-esm2m", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "GFDL-ESM2M", 
+    "idx": 32, 
+    "label": "GFDL-ESM2M", 
+    "namespace": "wcrp:cmip5:model:gfdl-esm2m", 
+    "raw_name": "GFDL-ESM2M", 
+    "status": "pending", 
+    "uid": "a08be2a3-a80d-48a5-a165-69e1be5ee3c1"
+}

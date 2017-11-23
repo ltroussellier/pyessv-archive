@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "latitude-bnds", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "latitude_bnds", 
+    "idx": 23, 
+    "label": "latitude_bnds", 
+    "namespace": "wcrp:cmip5:thredds-exclude-variables:latitude-bnds", 
+    "raw_name": "latitude_bnds", 
+    "status": "pending", 
+    "uid": "b1701e33-ef41-47a3-964f-5c95d810baea"
+}

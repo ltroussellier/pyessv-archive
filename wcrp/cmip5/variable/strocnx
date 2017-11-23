@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "strocnx", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "strocnx", 
+    "idx": 457, 
+    "namespace": "wcrp:cmip5:variable:strocnx", 
+    "status": "pending", 
+    "uid": "0d5b995f-dec1-48b2-ba2c-611ef84a34d0"
+}

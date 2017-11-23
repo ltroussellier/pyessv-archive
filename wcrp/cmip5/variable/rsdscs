@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rsdscs", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "rsdscs", 
+    "idx": 398, 
+    "namespace": "wcrp:cmip5:variable:rsdscs", 
+    "status": "pending", 
+    "uid": "9ba08b41-627a-4563-8e0d-040a7bec2e1c"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ustar", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "ustar", 
+    "idx": 163, 
+    "namespace": "wcrp:cordex:variable:ustar", 
+    "status": "pending", 
+    "uid": "3b66391e-1ffe-4930-a692-265231fd6d1b"
+}

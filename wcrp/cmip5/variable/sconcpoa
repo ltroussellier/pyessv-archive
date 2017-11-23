@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sconcpoa", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "sconcpoa", 
+    "idx": 424, 
+    "namespace": "wcrp:cmip5:variable:sconcpoa", 
+    "status": "pending", 
+    "uid": "ec6c523c-153e-4c25-aaeb-d0696b079d2b"
+}

@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "alaro-0", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "idx": 33, 
+    "label": "ALARO-0", 
+    "namespace": "wcrp:cordex:rcm-name:alaro-0", 
+    "raw_name": "ALARO-0", 
+    "status": "pending", 
+    "uid": "cdbba66b-6f31-41af-8dd8-9a4f7ece5311"
+}

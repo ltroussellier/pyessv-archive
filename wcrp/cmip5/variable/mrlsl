@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "mrlsl", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "mrlsl", 
+    "idx": 278, 
+    "namespace": "wcrp:cmip5:variable:mrlsl", 
+    "status": "pending", 
+    "uid": "5cb6e450-08ca-491b-8d71-0734fd781f1e"
+}

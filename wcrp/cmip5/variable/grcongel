@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "grcongel", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "grCongel", 
+    "idx": 204, 
+    "label": "grCongel", 
+    "namespace": "wcrp:cmip5:variable:grcongel", 
+    "raw_name": "grCongel", 
+    "status": "pending", 
+    "uid": "a241cbec-4f26-45d8-b762-2c437aa795a1"
+}

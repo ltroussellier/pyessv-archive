@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "va", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "va", 
+    "idx": 555, 
+    "namespace": "wcrp:cmip5:variable:va", 
+    "status": "pending", 
+    "uid": "0f7e6a83-5be7-455c-a4bf-e153edde380f"
+}

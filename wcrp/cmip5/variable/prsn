@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "prsn", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "prsn", 
+    "idx": 347, 
+    "namespace": "wcrp:cmip5:variable:prsn", 
+    "status": "pending", 
+    "uid": "cb7f74e7-2157-44fe-94a2-bcdc331d6589"
+}

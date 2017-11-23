@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clfr900", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "clfr900", 
+    "idx": 12, 
+    "namespace": "wcrp:cordex:variable:clfr900", 
+    "status": "pending", 
+    "uid": "b25cef3c-0f31-4896-a2a9-fbc2d7aaa240"
+}

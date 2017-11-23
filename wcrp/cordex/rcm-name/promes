@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "promes", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "idx": 40, 
+    "label": "PROMES", 
+    "namespace": "wcrp:cordex:rcm-name:promes", 
+    "raw_name": "PROMES", 
+    "status": "pending", 
+    "uid": "0f882f5a-9e91-4126-a5b5-859b103b6dea"
+}

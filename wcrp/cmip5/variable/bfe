@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "bfe", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "bfe", 
+    "idx": 17, 
+    "namespace": "wcrp:cmip5:variable:bfe", 
+    "status": "pending", 
+    "uid": "b269d34a-d7ba-4540-a1bb-1b347fc306cd"
+}

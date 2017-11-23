@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "3hr", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "3hr", 
+    "idx": 4, 
+    "namespace": "wcrp:cordex:time-frequency:3hr", 
+    "status": "pending", 
+    "uid": "f2ccaf8e-1fd5-4ec1-ae03-79f9f53757f6"
+}

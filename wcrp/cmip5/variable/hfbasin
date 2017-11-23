@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hfbasin", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "hfbasin", 
+    "idx": 212, 
+    "namespace": "wcrp:cmip5:variable:hfbasin", 
+    "status": "pending", 
+    "uid": "211601a2-d161-4a7f-9db0-acf66d834851"
+}

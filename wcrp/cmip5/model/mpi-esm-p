@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "mpi-esm-p", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "MPI-ESM-P", 
+    "idx": 55, 
+    "label": "MPI-ESM-P", 
+    "namespace": "wcrp:cmip5:model:mpi-esm-p", 
+    "raw_name": "MPI-ESM-P", 
+    "status": "pending", 
+    "uid": "1c699a16-decb-437d-9b20-9d1a2ccfa95c"
+}

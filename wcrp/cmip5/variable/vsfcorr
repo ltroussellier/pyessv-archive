@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "vsfcorr", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "vsfcorr", 
+    "idx": 562, 
+    "namespace": "wcrp:cmip5:variable:vsfcorr", 
+    "status": "pending", 
+    "uid": "2064c811-aff0-421b-999a-d737bc7e0d81"
+}

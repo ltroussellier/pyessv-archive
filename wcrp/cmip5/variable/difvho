@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "difvho", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "difvho", 
+    "idx": 110, 
+    "namespace": "wcrp:cmip5:variable:difvho", 
+    "status": "pending", 
+    "uid": "25ac6800-da78-4a38-8aa2-4774bc6d2451"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tnsclwcm", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tnsclwcm", 
+    "idx": 517, 
+    "namespace": "wcrp:cmip5:variable:tnsclwcm", 
+    "status": "pending", 
+    "uid": "cac5bda4-97ef-4aca-ab28-9e5385c7ffb1"
+}

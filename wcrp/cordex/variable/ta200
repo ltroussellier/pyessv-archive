@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ta200", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "ta200", 
+    "idx": 123, 
+    "namespace": "wcrp:cordex:variable:ta200", 
+    "status": "pending", 
+    "uid": "fef6ba0e-81d0-4945-9510-63d6ffb94e5f"
+}

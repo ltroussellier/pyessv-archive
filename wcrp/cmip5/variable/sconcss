@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sconcss", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "sconcss", 
+    "idx": 427, 
+    "namespace": "wcrp:cmip5:variable:sconcss", 
+    "status": "pending", 
+    "uid": "ea1cf28c-5c8f-4ce4-8b31-ae82f7bf9935"
+}

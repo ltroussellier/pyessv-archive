@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sftof", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "sftof", 
+    "idx": 434, 
+    "namespace": "wcrp:cmip5:variable:sftof", 
+    "status": "pending", 
+    "uid": "c0d931a2-a272-43a2-91bc-7b249f42cd63"
+}

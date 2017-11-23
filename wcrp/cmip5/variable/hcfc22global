@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hcfc22global", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "hcfc22global", 
+    "idx": 210, 
+    "namespace": "wcrp:cmip5:variable:hcfc22global", 
+    "status": "pending", 
+    "uid": "1c4ed306-48f7-4053-a6ef-f1abe093e874"
+}

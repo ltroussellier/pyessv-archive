@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hfevapds", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "hfevapds", 
+    "idx": 218, 
+    "namespace": "wcrp:cmip5:variable:hfevapds", 
+    "status": "pending", 
+    "uid": "0e37f5db-1411-4ce1-888b-7e1080f68fdc"
+}

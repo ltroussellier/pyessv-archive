@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "region", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "region", 
+    "idx": 54, 
+    "namespace": "wcrp:cordex:thredds-exclude-variables:region", 
+    "status": "pending", 
+    "uid": "dbe24aa2-e033-4988-a210-f6d97542ebd9"
+}

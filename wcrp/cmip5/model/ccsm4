@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "ccsm4", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "CCSM4", 
+    "idx": 9, 
+    "label": "CCSM4", 
+    "namespace": "wcrp:cmip5:model:ccsm4", 
+    "raw_name": "CCSM4", 
+    "status": "pending", 
+    "uid": "478092a2-47ba-4b88-8834-62f57fca5466"
+}

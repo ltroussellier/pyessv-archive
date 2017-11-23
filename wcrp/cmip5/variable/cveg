@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "cveg", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "cVeg", 
+    "idx": 35, 
+    "label": "cVeg", 
+    "namespace": "wcrp:cmip5:variable:cveg", 
+    "raw_name": "cVeg", 
+    "status": "pending", 
+    "uid": "fcd2d01b-b423-4b21-8b70-221298b0524b"
+}

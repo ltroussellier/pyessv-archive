@@ -16,23 +16,23 @@
         "label_extended": "GFDL-ESM2M", 
         "model_component": {
             "aerosol": {
-                "description": "GFDL-AM2p14", 
+                "description": "GFDL-AM2", 
                 "nominal_resolution": "200 km"
             }, 
             "atmos": {
-                "description": "GFDL-AM2p14 (Cubed-sphere (c48L24) - 2.5 degree lon x 2 degree lat; 144 x 90 longitude/latitude; 24 levels; top level 10 hPa)", 
+                "description": "GFDL-AM2 (Cubed-sphere (c48L24) - 2.5 degree lon x 2 degree lat; 144 x 90 longitude/latitude; 24 levels; top level ~3 hPa)", 
                 "nominal_resolution": "200 km"
             }, 
             "atmosChem": {
-                "description": "GFDL-AM2p14 (full atmospheric chemistry)", 
+                "description": "GFDL-AM2 (full atmospheric chemistry)", 
                 "nominal_resolution": "200 km"
             }, 
             "land": {
-                "description": "GFDL-LM3p7", 
+                "description": "GFDL-LM3.0", 
                 "nominal_resolution": "200 km"
             }, 
             "landIce": {
-                "description": "GFDL-LM3p7", 
+                "description": "GFDL-LM3.0", 
                 "nominal_resolution": "200 km"
             }, 
             "ocean": {
@@ -44,14 +44,14 @@
                 "nominal_resolution": "none"
             }, 
             "seaIce": {
-                "description": "SISp2 (Tripolar360x200L50)", 
+                "description": "SIS (Tripolar360x200L50)", 
                 "nominal_resolution": "100 km"
             }
         }, 
-        "release_year": "2017", 
+        "release_year": "2012", 
         "source_id": "GFDL-ESM2M"
     }, 
-    "idx": 48, 
+    "idx": 51, 
     "label": "GFDL-ESM2M", 
     "namespace": "wcrp:cmip6:source-id:gfdl-esm2m", 
     "raw_name": "GFDL-ESM2M", 

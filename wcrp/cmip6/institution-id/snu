@@ -5,7 +5,7 @@
     "data": {
         "postal_address": "Seoul National University, Seoul 08826, Republic of Korea"
     }, 
-    "idx": 26, 
+    "idx": 28, 
     "label": "SNU", 
     "namespace": "wcrp:cmip6:institution-id:snu", 
     "raw_name": "SNU", 

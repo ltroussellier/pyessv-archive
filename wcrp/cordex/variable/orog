@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "orog", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "orog", 
+    "idx": 91, 
+    "namespace": "wcrp:cordex:variable:orog", 
+    "status": "pending", 
+    "uid": "59f3fe70-b7df-4ff9-879b-6e7742316c02"
+}

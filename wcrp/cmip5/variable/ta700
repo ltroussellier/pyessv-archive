@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ta700", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "ta700", 
+    "idx": 461, 
+    "namespace": "wcrp:cmip5:variable:ta700", 
+    "status": "pending", 
+    "uid": "fdf37aae-e848-4ba2-8f94-1e9f9085e6ba"
+}

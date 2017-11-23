@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "strairx", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "strairx", 
+    "idx": 454, 
+    "namespace": "wcrp:cmip5:variable:strairx", 
+    "status": "pending", 
+    "uid": "8d8e23ef-f79d-4d23-a07d-9532e178f513"
+}

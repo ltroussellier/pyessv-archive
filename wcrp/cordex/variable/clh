@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clh", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "clh", 
+    "idx": 16, 
+    "namespace": "wcrp:cordex:variable:clh", 
+    "status": "pending", 
+    "uid": "df56146f-6cc7-41e9-8df9-d92e248c20ff"
+}

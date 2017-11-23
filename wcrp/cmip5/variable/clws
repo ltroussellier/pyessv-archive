@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clws", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "clws", 
+    "idx": 80, 
+    "namespace": "wcrp:cmip5:variable:clws", 
+    "status": "pending", 
+    "uid": "d91954d9-347c-4916-b189-1a337a2510d2"
+}

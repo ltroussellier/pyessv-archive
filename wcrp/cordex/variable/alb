@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "alb", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "alb", 
+    "idx": 1, 
+    "namespace": "wcrp:cordex:variable:alb", 
+    "status": "pending", 
+    "uid": "187c49ff-b1bb-4af2-9cef-b1bb76959993"
+}

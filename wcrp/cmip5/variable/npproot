@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "npproot", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "nppRoot", 
+    "idx": 302, 
+    "label": "nppRoot", 
+    "namespace": "wcrp:cmip5:variable:npproot", 
+    "raw_name": "nppRoot", 
+    "status": "pending", 
+    "uid": "4996e528-4876-42a9-bb7e-9b0c55f84275"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "snc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "snc", 
+    "idx": 115, 
+    "namespace": "wcrp:cordex:variable:snc", 
+    "status": "pending", 
+    "uid": "29b5de4f-b77f-466e-a053-7a1d63c7f4fe"
+}

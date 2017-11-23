@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "rca4", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "idx": 34, 
+    "label": "RCA4", 
+    "namespace": "wcrp:cordex:rcm-name:rca4", 
+    "raw_name": "RCA4", 
+    "status": "pending", 
+    "uid": "7567f259-86bf-45bf-a14d-2598c1d4151f"
+}

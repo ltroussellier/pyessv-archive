@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "oyr", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "Oyr", 
+    "idx": 9, 
+    "label": "Oyr", 
+    "namespace": "wcrp:cmip5:cmor-table:oyr", 
+    "raw_name": "Oyr", 
+    "status": "pending", 
+    "uid": "07e02daf-e462-433b-b8b5-cd0348ab2a05"
+}

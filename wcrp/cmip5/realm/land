@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "land", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "land", 
+    "idx": 2, 
+    "namespace": "wcrp:cmip5:realm:land", 
+    "status": "pending", 
+    "uid": "469a9165-4035-4b23-a8e2-5c4fc91a26f8"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "soga", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "soga", 
+    "idx": 449, 
+    "namespace": "wcrp:cmip5:variable:soga", 
+    "status": "pending", 
+    "uid": "45e52431-5a7f-46f5-bf26-92bfa5743705"
+}

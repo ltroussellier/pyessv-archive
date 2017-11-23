@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "location", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "location", 
+    "idx": 28, 
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:location", 
+    "status": "pending", 
+    "uid": "c507c1dc-e2b0-4285-bbb3-3fa287a79924"
+}

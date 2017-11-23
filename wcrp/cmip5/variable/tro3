@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tro3", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tro3", 
+    "idx": 540, 
+    "namespace": "wcrp:cmip5:variable:tro3", 
+    "status": "pending", 
+    "uid": "6234b66c-1189-45b6-92c8-7e88ff4c2a5f"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "noaa-gfdl-gfdl-esm2m", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "NOAA-GFDL-GFDL-ESM2M", 
+    "idx": 13, 
+    "label": "NOAA-GFDL-GFDL-ESM2M", 
+    "namespace": "wcrp:cordex:driving-model:noaa-gfdl-gfdl-esm2m", 
+    "raw_name": "NOAA-GFDL-GFDL-ESM2M", 
+    "status": "pending", 
+    "uid": "49287abb-bd66-4568-ad84-8e44b8eddd1e"
+}

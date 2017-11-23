@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tasmints", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tasmints", 
+    "idx": 139, 
+    "namespace": "wcrp:cordex:variable:tasmints", 
+    "status": "pending", 
+    "uid": "06e552ee-b1c4-485c-913e-9f8ffe2b58d2"
+}

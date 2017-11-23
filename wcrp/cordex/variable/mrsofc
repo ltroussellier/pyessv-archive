@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "mrsofc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "mrsofc", 
+    "idx": 86, 
+    "namespace": "wcrp:cordex:variable:mrsofc", 
+    "status": "pending", 
+    "uid": "29805f1b-a6cd-42cf-8b0b-4e086e057c04"
+}

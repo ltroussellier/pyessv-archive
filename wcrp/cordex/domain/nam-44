@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "nam-44", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "North America", 
+    "idx": 24, 
+    "label": "NAM-44", 
+    "namespace": "wcrp:cordex:domain:nam-44", 
+    "raw_name": "NAM-44", 
+    "status": "pending", 
+    "uid": "91c383df-0145-4131-9419-94121977988f"
+}

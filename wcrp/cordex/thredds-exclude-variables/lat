@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "lat", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "lat", 
+    "idx": 22, 
+    "namespace": "wcrp:cordex:thredds-exclude-variables:lat", 
+    "status": "pending", 
+    "uid": "215216c5-447c-4db2-b8f6-b7631f12f293"
+}

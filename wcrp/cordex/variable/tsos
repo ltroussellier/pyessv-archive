@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tsos", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tsos", 
+    "idx": 145, 
+    "namespace": "wcrp:cordex:variable:tsos", 
+    "status": "pending", 
+    "uid": "9251b60e-be88-4222-87ab-44192276b369"
+}

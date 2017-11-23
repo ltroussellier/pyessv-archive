@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "bounds-lon", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "bounds_lon", 
+    "idx": 11, 
+    "label": "bounds_lon", 
+    "namespace": "wcrp:cordex:thredds-exclude-variables:bounds-lon", 
+    "raw_name": "bounds_lon", 
+    "status": "pending", 
+    "uid": "0fbc0118-1d7a-4828-945b-474d8de3408e"
+}

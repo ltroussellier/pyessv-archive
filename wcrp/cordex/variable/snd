@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "snd", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "snd", 
+    "idx": 116, 
+    "namespace": "wcrp:cordex:variable:snd", 
+    "status": "pending", 
+    "uid": "0119b09c-74af-48b3-a308-19c2d8a6df29"
+}

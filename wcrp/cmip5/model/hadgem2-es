@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "hadgem2-es", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "HadGEM2-ES", 
+    "idx": 43, 
+    "label": "HadGEM2-ES", 
+    "namespace": "wcrp:cmip5:model:hadgem2-es", 
+    "raw_name": "HadGEM2-ES", 
+    "status": "pending", 
+    "uid": "2950b7b5-4afe-47b3-aa7f-6a1f41e187f3"
+}

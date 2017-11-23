@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "p500", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "p500", 
+    "idx": 37, 
+    "namespace": "wcrp:cmip5:thredds-exclude-variables:p500", 
+    "status": "pending", 
+    "uid": "ed138e04-432b-43a6-beec-8399a234657f"
+}

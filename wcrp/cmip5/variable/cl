@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "cl", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "cl", 
+    "idx": 57, 
+    "namespace": "wcrp:cmip5:variable:cl", 
+    "status": "pending", 
+    "uid": "988a43d4-4440-4779-9809-76c166ff19ed"
+}

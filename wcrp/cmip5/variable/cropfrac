@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "cropfrac", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "cropFrac", 
+    "idx": 102, 
+    "label": "cropFrac", 
+    "namespace": "wcrp:cmip5:variable:cropfrac", 
+    "raw_name": "cropFrac", 
+    "status": "pending", 
+    "uid": "f0f5be68-5828-4ec9-9543-9c3d524795df"
+}

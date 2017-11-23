@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "o2", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "o2", 
+    "idx": 304, 
+    "namespace": "wcrp:cmip5:variable:o2", 
+    "status": "pending", 
+    "uid": "0b310608-3b66-486f-8c05-aed0519f83c5"
+}

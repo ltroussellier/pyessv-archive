@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "lat", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "lat", 
+    "idx": 20, 
+    "namespace": "wcrp:cmip5:thredds-exclude-variables:lat", 
+    "status": "pending", 
+    "uid": "cd40eff0-ab9c-4121-a84d-4a36b785277c"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rhs", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "rhs", 
+    "idx": 370, 
+    "namespace": "wcrp:cmip5:variable:rhs", 
+    "status": "pending", 
+    "uid": "95215475-b4dc-4fff-99db-d63cf24a1f2c"
+}

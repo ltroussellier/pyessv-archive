@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "cmcc-cms", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "CMCC-CMS", 
+    "idx": 17, 
+    "label": "CMCC-CMS", 
+    "namespace": "wcrp:cmip5:model:cmcc-cms", 
+    "raw_name": "CMCC-CMS", 
+    "status": "pending", 
+    "uid": "ef04f8e5-09d6-4705-8e6e-54730987ee63"
+}

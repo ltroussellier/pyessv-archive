@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "csoilfast", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "cSoilFast", 
+    "idx": 32, 
+    "label": "cSoilFast", 
+    "namespace": "wcrp:cmip5:variable:csoilfast", 
+    "raw_name": "cSoilFast", 
+    "status": "pending", 
+    "uid": "1da7c6b0-2a65-4866-8ca5-e2bcd3f39760"
+}

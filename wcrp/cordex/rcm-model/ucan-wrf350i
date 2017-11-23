@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "ucan-wrf350i", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "UCAN-WRF350I", 
+    "idx": 38, 
+    "label": "UCAN-WRF350I", 
+    "namespace": "wcrp:cordex:rcm-model:ucan-wrf350i", 
+    "raw_name": "UCAN-WRF350I", 
+    "status": "pending", 
+    "uid": "36dfea5a-7389-458d-b86a-2285c7ee2b82"
+}

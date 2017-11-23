@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "time1", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "time1", 
+    "idx": 57, 
+    "namespace": "wcrp:cmip5:thredds-exclude-variables:time1", 
+    "status": "pending", 
+    "uid": "4abd33ee-e5ab-4107-b700-34111a05a2f5"
+}

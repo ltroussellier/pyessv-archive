@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "prveg", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "prveg", 
+    "idx": 349, 
+    "namespace": "wcrp:cmip5:variable:prveg", 
+    "status": "pending", 
+    "uid": "bc6c6b03-dbf4-4454-9475-9cbab1834311"
+}

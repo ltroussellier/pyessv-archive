@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "croot", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "cRoot", 
+    "idx": 30, 
+    "label": "cRoot", 
+    "namespace": "wcrp:cmip5:variable:croot", 
+    "raw_name": "cRoot", 
+    "status": "pending", 
+    "uid": "caefc49e-32ab-4dd7-859f-8b57706e8df1"
+}

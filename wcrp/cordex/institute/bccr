@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "bccr", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "BCCR", 
+    "idx": 3, 
+    "label": "BCCR", 
+    "namespace": "wcrp:cordex:institute:bccr", 
+    "raw_name": "BCCR", 
+    "status": "pending", 
+    "uid": "b18abc4e-b5e4-4cd9-9b47-bd1a05b00198"
+}

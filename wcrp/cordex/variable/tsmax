@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tsmax", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tsmax", 
+    "idx": 143, 
+    "namespace": "wcrp:cordex:variable:tsmax", 
+    "status": "pending", 
+    "uid": "d06a40cc-8b79-4c86-97c0-26d7c29a07cb"
+}

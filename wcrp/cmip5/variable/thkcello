@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "thkcello", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "thkcello", 
+    "idx": 475, 
+    "namespace": "wcrp:cmip5:variable:thkcello", 
+    "status": "pending", 
+    "uid": "06984af8-7083-4579-8232-e557b7f57003"
+}

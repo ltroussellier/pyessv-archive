@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "sstclim4xco2", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "sstClim with CO2 forcing", 
+    "idx": 98, 
+    "label": "sstClim4xCO2", 
+    "namespace": "wcrp:cmip5:experiment:sstclim4xco2", 
+    "raw_name": "sstClim4xCO2", 
+    "status": "pending", 
+    "uid": "6087db03-578a-4617-a36e-5eca092d4ab8"
+}

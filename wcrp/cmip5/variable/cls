@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "cls", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "cls", 
+    "idx": 72, 
+    "namespace": "wcrp:cmip5:variable:cls", 
+    "status": "pending", 
+    "uid": "d638b0e1-f9e5-4f23-965f-893150673209"
+}

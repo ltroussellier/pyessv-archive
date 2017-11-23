@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "crp-gl", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "CRP-GL", 
+    "idx": 8, 
+    "label": "CRP-GL", 
+    "namespace": "wcrp:cordex:institute:crp-gl", 
+    "raw_name": "CRP-GL", 
+    "status": "pending", 
+    "uid": "f4d578c2-b2fc-458b-8cfe-0784666e6bcd"
+}

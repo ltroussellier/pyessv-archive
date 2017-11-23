@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "vmo", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "vmo", 
+    "idx": 557, 
+    "namespace": "wcrp:cmip5:variable:vmo", 
+    "status": "pending", 
+    "uid": "35fdf285-7e97-4004-a257-9ddda3da45b6"
+}

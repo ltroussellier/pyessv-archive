@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tas", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tas", 
+    "idx": 135, 
+    "namespace": "wcrp:cordex:variable:tas", 
+    "status": "pending", 
+    "uid": "0d208614-8de5-4d4c-990c-6a66281104e1"
+}

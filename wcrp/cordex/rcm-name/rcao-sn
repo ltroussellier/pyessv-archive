@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "rcao-sn", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "idx": 37, 
+    "label": "RCAO-SN", 
+    "namespace": "wcrp:cordex:rcm-name:rcao-sn", 
+    "raw_name": "RCAO-SN", 
+    "status": "pending", 
+    "uid": "67710e9b-16f6-455b-8aa2-a17cd7dfb653"
+}

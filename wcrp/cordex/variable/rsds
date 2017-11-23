@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rsds", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "rsds", 
+    "idx": 103, 
+    "namespace": "wcrp:cordex:variable:rsds", 
+    "status": "pending", 
+    "uid": "15e4a78e-5718-4ee5-bf62-c7f86605bfb2"
+}

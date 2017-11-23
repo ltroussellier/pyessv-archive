@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "zostoga", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "zostoga", 
+    "idx": 597, 
+    "namespace": "wcrp:cmip5:variable:zostoga", 
+    "status": "pending", 
+    "uid": "cc8d8799-6c27-4d4e-8382-dfa77e8c8b2c"
+}

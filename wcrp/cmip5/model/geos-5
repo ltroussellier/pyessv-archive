@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "geos-5", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "GEOS-5", 
+    "idx": 28, 
+    "label": "GEOS-5", 
+    "namespace": "wcrp:cmip5:model:geos-5", 
+    "raw_name": "GEOS-5", 
+    "status": "pending", 
+    "uid": "8319e031-c84f-43cb-8d52-56368519eca6"
+}

@@ -1,0 +1,14 @@
+{
+    "_type": "term", 
+    "canonical_name": "high", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "data": {
+        "color": "#cc4125", 
+        "sortOrdinal": 2
+    }, 
+    "idx": 2, 
+    "label": "High", 
+    "namespace": "esdoc:errata:severity:high", 
+    "status": "pending", 
+    "uid": "038f2471-9f74-4b46-a168-b731dc69cff1"
+}

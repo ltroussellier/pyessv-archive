@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "sfcwindmax", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "sfcWindmax", 
+    "idx": 429, 
+    "label": "sfcWindmax", 
+    "namespace": "wcrp:cmip5:variable:sfcwindmax", 
+    "raw_name": "sfcWindmax", 
+    "status": "pending", 
+    "uid": "9f69deb0-3fc2-499f-96f6-717b1ce7f927"
+}

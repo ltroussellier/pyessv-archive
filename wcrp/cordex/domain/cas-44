@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "cas-44", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "Central Asia", 
+    "idx": 10, 
+    "label": "CAS-44", 
+    "namespace": "wcrp:cordex:domain:cas-44", 
+    "raw_name": "CAS-44", 
+    "status": "pending", 
+    "uid": "c231008c-e065-45bc-b4b3-0ec452b35bf3"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hus200", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "hus200", 
+    "idx": 68, 
+    "namespace": "wcrp:cordex:variable:hus200", 
+    "status": "pending", 
+    "uid": "926896b7-538f-47ce-aaf7-ed5ccda5a6e7"
+}

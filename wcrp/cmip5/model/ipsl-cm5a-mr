@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "ipsl-cm5a-mr", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "IPSL-CM5A-MR", 
+    "idx": 46, 
+    "label": "IPSL-CM5A-MR", 
+    "namespace": "wcrp:cmip5:model:ipsl-cm5a-mr", 
+    "raw_name": "IPSL-CM5A-MR", 
+    "status": "pending", 
+    "uid": "677f16bb-82e7-4d35-a98e-e0f74ba5d773"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "uclm", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "UCLM", 
+    "idx": 28, 
+    "label": "UCLM", 
+    "namespace": "wcrp:cordex:institute:uclm", 
+    "raw_name": "UCLM", 
+    "status": "pending", 
+    "uid": "d85f00d8-a26c-471e-9dca-0191ae40cefd"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "fgoals-gl", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "FGOALS-gl", 
+    "idx": 25, 
+    "label": "FGOALS-gl", 
+    "namespace": "wcrp:cmip5:model:fgoals-gl", 
+    "raw_name": "FGOALS-gl", 
+    "status": "pending", 
+    "uid": "6c01d3e7-19ca-423d-a12c-71ef17b6e86d"
+}

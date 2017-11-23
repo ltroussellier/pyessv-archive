@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "dpco2", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "dpco2", 
+    "idx": 118, 
+    "namespace": "wcrp:cmip5:variable:dpco2", 
+    "status": "pending", 
+    "uid": "a4a5fb97-b265-427c-a997-95d3f6f250e6"
+}

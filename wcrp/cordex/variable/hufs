@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hufs", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "hufs", 
+    "idx": 52, 
+    "namespace": "wcrp:cordex:variable:hufs", 
+    "status": "pending", 
+    "uid": "d4336785-a31b-445c-ad2d-2a101b9a1ad8"
+}

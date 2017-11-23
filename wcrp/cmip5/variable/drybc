@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "drybc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "drybc", 
+    "idx": 122, 
+    "namespace": "wcrp:cmip5:variable:drybc", 
+    "status": "pending", 
+    "uid": "2aadab16-b3dd-4e02-a373-c6694d13eba4"
+}

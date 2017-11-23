@@ -63,7 +63,7 @@
         "release_year": "2017", 
         "source_id": "MIROC6"
     }, 
-    "idx": 58, 
+    "idx": 65, 
     "label": "MIROC6", 
     "namespace": "wcrp:cmip6:source-id:miroc6", 
     "raw_name": "MIROC6", 

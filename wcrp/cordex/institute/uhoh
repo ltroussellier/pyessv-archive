@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "uhoh", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "UHOH", 
+    "idx": 29, 
+    "label": "UHOH", 
+    "namespace": "wcrp:cordex:institute:uhoh", 
+    "raw_name": "UHOH", 
+    "status": "pending", 
+    "uid": "492d39cb-af1c-4e70-b1c2-077a2ca70330"
+}

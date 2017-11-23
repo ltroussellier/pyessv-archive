@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "c4pftfrac", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "c4PftFrac", 
+    "idx": 22, 
+    "label": "c4PftFrac", 
+    "namespace": "wcrp:cmip5:variable:c4pftfrac", 
+    "raw_name": "c4PftFrac", 
+    "status": "pending", 
+    "uid": "117f6d3c-d298-43de-b629-026c067ae627"
+}

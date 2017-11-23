@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "baresoilfrac", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "baresoilFrac", 
+    "idx": 9, 
+    "label": "baresoilFrac", 
+    "namespace": "wcrp:cmip5:variable:baresoilfrac", 
+    "raw_name": "baresoilFrac", 
+    "status": "pending", 
+    "uid": "62b5f575-8d9d-4efa-905d-c7934c4abde8"
+}

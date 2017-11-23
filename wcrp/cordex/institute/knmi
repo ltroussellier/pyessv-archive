@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "knmi", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "KNMI", 
+    "idx": 19, 
+    "label": "KNMI", 
+    "namespace": "wcrp:cordex:institute:knmi", 
+    "raw_name": "KNMI", 
+    "status": "pending", 
+    "uid": "8465f1e0-de44-425d-b438-b0a7cf02391d"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "intpcalc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "intpcalc", 
+    "idx": 248, 
+    "namespace": "wcrp:cmip5:variable:intpcalc", 
+    "status": "pending", 
+    "uid": "3f089b1d-ab0f-4dc7-8048-5b1035dd50f4"
+}

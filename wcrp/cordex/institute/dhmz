@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "dhmz", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "DHMZ", 
+    "idx": 10, 
+    "label": "DHMZ", 
+    "namespace": "wcrp:cordex:institute:dhmz", 
+    "raw_name": "DHMZ", 
+    "status": "pending", 
+    "uid": "a22cca50-0aae-4bb7-9404-30cc0cfd2edf"
+}

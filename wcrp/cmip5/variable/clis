@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clis", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "clis", 
+    "idx": 67, 
+    "namespace": "wcrp:cmip5:variable:clis", 
+    "status": "pending", 
+    "uid": "1b0e18a1-3046-41d0-bf72-655b75267fda"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rsut", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "rsut", 
+    "idx": 106, 
+    "namespace": "wcrp:cordex:variable:rsut", 
+    "status": "pending", 
+    "uid": "5e8cad21-2264-4969-87c3-7798ab27b21d"
+}

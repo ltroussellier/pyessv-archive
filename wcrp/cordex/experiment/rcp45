@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rcp45", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "RCP4.5", 
+    "idx": 3, 
+    "namespace": "wcrp:cordex:experiment:rcp45", 
+    "status": "pending", 
+    "uid": "30112252-1f52-4e83-88b3-2f8dc622020b"
+}

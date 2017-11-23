@@ -55,7 +55,7 @@
         "release_year": "2016", 
         "source_id": "HadGEM3-GC31-LL"
     }, 
-    "idx": 8, 
+    "idx": 44, 
     "label": "HadGEM3-GC31-LL", 
     "namespace": "wcrp:cmip6:source-id:hadgem3-gc31-ll", 
     "raw_name": "HadGEM3-GC31-LL", 

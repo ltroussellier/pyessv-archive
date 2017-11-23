@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "difvso", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "difvso", 
+    "idx": 112, 
+    "namespace": "wcrp:cmip5:variable:difvso", 
+    "status": "pending", 
+    "uid": "0fd18823-5c34-434b-8ec2-293e62ba53c6"
+}

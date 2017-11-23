@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rsuscs", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "rsuscs", 
+    "idx": 409, 
+    "namespace": "wcrp:cmip5:variable:rsuscs", 
+    "status": "pending", 
+    "uid": "edb7be81-1a50-41dc-b579-5a3206741396"
+}

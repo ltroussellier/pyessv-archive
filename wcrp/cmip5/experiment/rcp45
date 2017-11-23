@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rcp45", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "RCP4.5", 
+    "idx": 92, 
+    "namespace": "wcrp:cmip5:experiment:rcp45", 
+    "status": "pending", 
+    "uid": "ecc106fc-7320-4022-8951-bc628c5820e5"
+}

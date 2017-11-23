@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "u500", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "u500", 
+    "idx": 147, 
+    "namespace": "wcrp:cordex:variable:u500", 
+    "status": "pending", 
+    "uid": "089f9ca9-46c4-4c2e-a9b5-a60c7b2820c4"
+}

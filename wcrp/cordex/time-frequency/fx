@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "fx", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "fx", 
+    "idx": 1, 
+    "namespace": "wcrp:cordex:time-frequency:fx", 
+    "status": "pending", 
+    "uid": "d595f5c3-3838-41e5-9a1c-75c8cf4322fe"
+}

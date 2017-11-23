@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "med-44", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "HYMEX Mediterranean", 
+    "idx": 18, 
+    "label": "MED-44", 
+    "namespace": "wcrp:cordex:domain:med-44", 
+    "raw_name": "MED-44", 
+    "status": "pending", 
+    "uid": "e29b9a6a-47f5-4135-a5a0-164f0e2ee042"
+}

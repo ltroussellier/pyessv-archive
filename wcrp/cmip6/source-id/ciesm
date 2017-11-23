@@ -56,7 +56,7 @@
         "release_year": "2017", 
         "source_id": "CIESM"
     }, 
-    "idx": 19, 
+    "idx": 18, 
     "label": "CIESM", 
     "namespace": "wcrp:cmip6:source-id:ciesm", 
     "raw_name": "CIESM", 

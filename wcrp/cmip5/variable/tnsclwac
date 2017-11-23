@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tnsclwac", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tnsclwac", 
+    "idx": 511, 
+    "namespace": "wcrp:cmip5:variable:tnsclwac", 
+    "status": "pending", 
+    "uid": "d7fab26d-f0c3-4bf2-8ea8-fa17af824599"
+}

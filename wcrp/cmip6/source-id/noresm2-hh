@@ -16,7 +16,7 @@
         "model_component": {
             "aerosol": {
                 "description": "OsloAero", 
-                "nominal_resolution": ""
+                "nominal_resolution": "25 km"
             }, 
             "atmos": {
                 "description": "CAM-OSLO (0.25 degree resolution; 1152 x 768; 32 levels; top level 3 mb)", 
@@ -24,11 +24,11 @@
             }, 
             "atmosChem": {
                 "description": "OsloChemSimp", 
-                "nominal_resolution": ""
+                "nominal_resolution": "25 km"
             }, 
             "land": {
                 "description": "CLM", 
-                "nominal_resolution": ""
+                "nominal_resolution": "25 km"
             }, 
             "landIce": {
                 "description": "CISM", 
@@ -40,11 +40,11 @@
             }, 
             "ocnBgchem": {
                 "description": "HAMOCC", 
-                "nominal_resolution": ""
+                "nominal_resolution": "25 km"
             }, 
             "seaIce": {
                 "description": "CICE", 
-                "nominal_resolution": ""
+                "nominal_resolution": "25 km"
             }
         }, 
         "release_year": "2018", 

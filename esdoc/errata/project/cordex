@@ -1,0 +1,18 @@
+{
+    "_type": "term", 
+    "canonical_name": "cordex", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "data": {
+        "facets": [
+            "wcrp:cordex:experiment", 
+            "wcrp:cordex:rcm-model", 
+            "wcrp:cordex:variable"
+        ], 
+        "is_pid_client": false
+    }, 
+    "idx": 2, 
+    "label": "CORDEX", 
+    "namespace": "esdoc:errata:project:cordex", 
+    "status": "pending", 
+    "uid": "660e7c45-492b-4ca0-9390-2f29252a2401"
+}

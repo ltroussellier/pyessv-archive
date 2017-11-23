@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "plev8", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "plev8", 
+    "idx": 50, 
+    "namespace": "wcrp:cordex:thredds-exclude-variables:plev8", 
+    "status": "pending", 
+    "uid": "b14daac6-0b94-401f-9574-5a33cce8c198"
+}

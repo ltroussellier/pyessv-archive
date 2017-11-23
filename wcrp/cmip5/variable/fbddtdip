@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "fbddtdip", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "fbddtdip", 
+    "idx": 178, 
+    "namespace": "wcrp:cmip5:variable:fbddtdip", 
+    "status": "pending", 
+    "uid": "3b3dcbbd-2bb7-4db3-95b5-e3bc73520b2c"
+}

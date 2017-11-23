@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "zg", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "zg", 
+    "idx": 586, 
+    "namespace": "wcrp:cmip5:variable:zg", 
+    "status": "pending", 
+    "uid": "1667b1a0-b6f1-4dc7-befc-6d28e935ad97"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sit", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "sit", 
+    "idx": 439, 
+    "namespace": "wcrp:cmip5:variable:sit", 
+    "status": "pending", 
+    "uid": "9a957f19-d440-4d63-8e2f-8f5896b3b2d7"
+}

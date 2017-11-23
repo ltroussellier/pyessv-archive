@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "cwood", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "cWood", 
+    "idx": 36, 
+    "label": "cWood", 
+    "namespace": "wcrp:cmip5:variable:cwood", 
+    "raw_name": "cWood", 
+    "status": "pending", 
+    "uid": "05a654ee-d48f-4f61-bd0f-df42fe30bbed"
+}

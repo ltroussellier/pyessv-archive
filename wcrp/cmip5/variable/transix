@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "transix", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "transix", 
+    "idx": 533, 
+    "namespace": "wcrp:cmip5:variable:transix", 
+    "status": "pending", 
+    "uid": "dc90cfd9-b258-4b42-a853-4c18b91a4942"
+}

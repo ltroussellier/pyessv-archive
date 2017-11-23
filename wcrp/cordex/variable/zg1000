@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "zg1000", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "zg1000", 
+    "idx": 182, 
+    "namespace": "wcrp:cordex:variable:zg1000", 
+    "status": "pending", 
+    "uid": "a49ae39b-0cbb-465b-8fef-8af70b685dcd"
+}

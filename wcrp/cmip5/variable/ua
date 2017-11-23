@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ua", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "ua", 
+    "idx": 550, 
+    "namespace": "wcrp:cmip5:variable:ua", 
+    "status": "pending", 
+    "uid": "2d7959bf-606f-4b81-a439-3e3c7f13272f"
+}

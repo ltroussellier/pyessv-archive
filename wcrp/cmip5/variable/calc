@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "calc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "calc", 
+    "idx": 37, 
+    "namespace": "wcrp:cmip5:variable:calc", 
+    "status": "pending", 
+    "uid": "195ab761-b9a0-4dff-96ff-5e441e0b7ad0"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "plevs", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "plevs", 
+    "idx": 52, 
+    "namespace": "wcrp:cordex:thredds-exclude-variables:plevs", 
+    "status": "pending", 
+    "uid": "6a1a8010-5ad1-4b1a-b372-c8d2961a1d0b"
+}

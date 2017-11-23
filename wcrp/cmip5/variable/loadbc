@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "loadbc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "loadbc", 
+    "idx": 259, 
+    "namespace": "wcrp:cmip5:variable:loadbc", 
+    "status": "pending", 
+    "uid": "47a4f102-8f6f-425d-b4f4-543920edbd60"
+}

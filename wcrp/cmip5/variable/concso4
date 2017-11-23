@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "concso4", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "concso4", 
+    "idx": 99, 
+    "namespace": "wcrp:cmip5:variable:concso4", 
+    "status": "pending", 
+    "uid": "9d8dd640-e5d5-44eb-9d2f-e0addb87ebc7"
+}

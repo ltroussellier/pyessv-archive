@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hfdsn", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "hfdsn", 
+    "idx": 217, 
+    "namespace": "wcrp:cmip5:variable:hfdsn", 
+    "status": "pending", 
+    "uid": "6c2d59a1-6478-46f9-933b-25f4a2d0423e"
+}

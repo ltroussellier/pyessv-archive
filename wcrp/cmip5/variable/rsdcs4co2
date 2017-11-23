@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rsdcs4co2", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "rsdcs4co2", 
+    "idx": 396, 
+    "namespace": "wcrp:cmip5:variable:rsdcs4co2", 
+    "status": "pending", 
+    "uid": "986622eb-e9e7-4eaa-a54a-98f8e32d36cf"
+}

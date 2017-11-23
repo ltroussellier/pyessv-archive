@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "psladjust", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "pslAdjust", 
+    "idx": 353, 
+    "label": "pslAdjust", 
+    "namespace": "wcrp:cmip5:variable:psladjust", 
+    "raw_name": "pslAdjust", 
+    "status": "pending", 
+    "uid": "e7947c5c-39ca-480b-852a-702488956721"
+}

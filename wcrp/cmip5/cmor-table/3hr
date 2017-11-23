@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "3hr", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "3hr", 
+    "idx": 0, 
+    "namespace": "wcrp:cmip5:cmor-table:3hr", 
+    "status": "pending", 
+    "uid": "736ef0f9-6818-4cd3-a3da-121bcc32bcf6"
+}

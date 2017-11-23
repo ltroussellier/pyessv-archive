@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ccb", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "ccb", 
+    "idx": 38, 
+    "namespace": "wcrp:cmip5:variable:ccb", 
+    "status": "pending", 
+    "uid": "082473b3-f7a3-421b-a749-576239b07b74"
+}

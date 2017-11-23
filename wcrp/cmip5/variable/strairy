@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "strairy", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "strairy", 
+    "idx": 455, 
+    "namespace": "wcrp:cmip5:variable:strairy", 
+    "status": "pending", 
+    "uid": "8c701dcc-7b41-45c1-bbdb-329880ee3f19"
+}

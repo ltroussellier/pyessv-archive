@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rhsmax", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "rhsmax", 
+    "idx": 371, 
+    "namespace": "wcrp:cmip5:variable:rhsmax", 
+    "status": "pending", 
+    "uid": "31b07cc2-e092-47e8-86a0-e28110028361"
+}

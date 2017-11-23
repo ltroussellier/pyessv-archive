@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "mpi-m-mpi-esm-mr", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "MPI-M-MPI-ESM-MR", 
+    "idx": 10, 
+    "label": "MPI-M-MPI-ESM-MR", 
+    "namespace": "wcrp:cordex:driving-model:mpi-m-mpi-esm-mr", 
+    "raw_name": "MPI-M-MPI-ESM-MR", 
+    "status": "pending", 
+    "uid": "849205a5-98f7-4d1c-af89-fdb630733816"
+}

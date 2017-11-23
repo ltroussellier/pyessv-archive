@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "yr", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "yr", 
+    "idx": 7, 
+    "namespace": "wcrp:cmip5:time-frequency:yr", 
+    "status": "pending", 
+    "uid": "a23ba986-5b66-4c0c-a3a5-b1234fff3278"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "mri-agcm3-2h", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "MRI-AGCM3-2H", 
+    "idx": 56, 
+    "label": "MRI-AGCM3-2H", 
+    "namespace": "wcrp:cmip5:model:mri-agcm3-2h", 
+    "raw_name": "MRI-AGCM3-2H", 
+    "status": "pending", 
+    "uid": "4b146aab-6b1c-47e3-a0fe-7cda71061aa7"
+}

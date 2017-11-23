@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "evs", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "evs", 
+    "idx": 155, 
+    "namespace": "wcrp:cmip5:variable:evs", 
+    "status": "pending", 
+    "uid": "09b724fd-581d-4954-8441-a6a094030fb4"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "zossq", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "zossq", 
+    "idx": 596, 
+    "namespace": "wcrp:cmip5:variable:zossq", 
+    "status": "pending", 
+    "uid": "aee395f0-b9ce-49d7-824e-6e199918e1b3"
+}

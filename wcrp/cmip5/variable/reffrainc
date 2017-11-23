@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "reffrainc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "reffrainc", 
+    "idx": 363, 
+    "namespace": "wcrp:cmip5:variable:reffrainc", 
+    "status": "pending", 
+    "uid": "cb867c50-763f-4bfd-9b6a-00a66b2153d7"
+}

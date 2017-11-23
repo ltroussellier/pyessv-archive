@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "enea", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "ENEA", 
+    "idx": 12, 
+    "label": "ENEA", 
+    "namespace": "wcrp:cordex:institute:enea", 
+    "raw_name": "ENEA", 
+    "status": "pending", 
+    "uid": "46440b50-174d-47fe-b870-ffab36dddf31"
+}

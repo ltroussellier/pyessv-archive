@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rlut", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "rlut", 
+    "idx": 102, 
+    "namespace": "wcrp:cordex:variable:rlut", 
+    "status": "pending", 
+    "uid": "51845433-6971-4cce-9df6-38ed511c1182"
+}

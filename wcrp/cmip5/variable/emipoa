@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "emipoa", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "emipoa", 
+    "idx": 143, 
+    "namespace": "wcrp:cmip5:variable:emipoa", 
+    "status": "pending", 
+    "uid": "e458c770-64b7-4dac-acd5-3dae4ff2d891"
+}

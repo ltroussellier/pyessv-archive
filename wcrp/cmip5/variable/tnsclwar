@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tnsclwar", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tnsclwar", 
+    "idx": 512, 
+    "namespace": "wcrp:cmip5:variable:tnsclwar", 
+    "status": "pending", 
+    "uid": "893a8080-1185-4aef-ad33-10c888ea6931"
+}

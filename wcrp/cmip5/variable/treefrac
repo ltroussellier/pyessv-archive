@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "treefrac", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "treeFrac", 
+    "idx": 535, 
+    "label": "treeFrac", 
+    "namespace": "wcrp:cmip5:variable:treefrac", 
+    "raw_name": "treeFrac", 
+    "status": "pending", 
+    "uid": "e71d8f3a-54f9-4a28-a259-6575e719b8a1"
+}

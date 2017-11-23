@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "access1-3", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "ACCESS1-3", 
+    "idx": 1, 
+    "label": "ACCESS1-3", 
+    "namespace": "wcrp:cmip5:model:access1-3", 
+    "raw_name": "ACCESS1-3", 
+    "status": "pending", 
+    "uid": "b48b642a-25db-4c2c-bda9-bbf848ec773e"
+}

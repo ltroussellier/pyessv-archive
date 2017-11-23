@@ -6,7 +6,9 @@
         "activity_id": [
             "ISMIP6"
         ], 
-        "additional_allowed_model_components": "", 
+        "additional_allowed_model_components": [
+            ""
+        ], 
         "end_year": "2300", 
         "experiment": "offline ice sheet forced by ISM's own AOGCM ssp585 output", 
         "experiment_id": "ism-ssp585-self", 

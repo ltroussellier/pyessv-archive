@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "mohc-hadrm3p", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "MOHC-HadRM3P", 
+    "idx": 30, 
+    "label": "MOHC-HadRM3P", 
+    "namespace": "wcrp:cordex:rcm-model:mohc-hadrm3p", 
+    "raw_name": "MOHC-HadRM3P", 
+    "status": "pending", 
+    "uid": "a58cf659-939b-4b68-a731-f6b9b50809c9"
+}

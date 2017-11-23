@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "n2oglobal", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "n2oglobal", 
+    "idx": 295, 
+    "namespace": "wcrp:cmip5:variable:n2oglobal", 
+    "status": "pending", 
+    "uid": "a92108e4-0cca-4951-b299-5b06c6f9a0f6"
+}

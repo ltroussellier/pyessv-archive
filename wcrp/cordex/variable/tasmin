@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tasmin", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tasmin", 
+    "idx": 138, 
+    "namespace": "wcrp:cordex:variable:tasmin", 
+    "status": "pending", 
+    "uid": "df2ad7b5-b6d3-4def-b9f1-3208cbc9175c"
+}

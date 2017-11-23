@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "ffire", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "fFire", 
+    "idx": 167, 
+    "label": "fFire", 
+    "namespace": "wcrp:cmip5:variable:ffire", 
+    "raw_name": "fFire", 
+    "status": "pending", 
+    "uid": "1e388df5-532f-42c1-a425-e27b71bdb7d0"
+}

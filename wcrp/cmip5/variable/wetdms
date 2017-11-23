@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "wetdms", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "wetdms", 
+    "idx": 571, 
+    "namespace": "wcrp:cmip5:variable:wetdms", 
+    "status": "pending", 
+    "uid": "5503752e-3b12-47c8-9214-48aacbf908f2"
+}

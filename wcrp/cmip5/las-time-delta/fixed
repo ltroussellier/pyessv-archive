@@ -1,0 +1,9 @@
+{
+    "_type": "term", 
+    "canonical_name": "fixed", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "idx": 7, 
+    "namespace": "wcrp:cmip5:las-time-delta:fixed", 
+    "status": "pending", 
+    "uid": "c5be0403-f567-4518-8844-1cd08f542c16"
+}

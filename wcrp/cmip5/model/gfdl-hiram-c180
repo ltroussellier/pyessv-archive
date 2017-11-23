@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "gfdl-hiram-c180", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "GFDL-HIRAM-C180", 
+    "idx": 33, 
+    "label": "GFDL-HIRAM-C180", 
+    "namespace": "wcrp:cmip5:model:gfdl-hiram-c180", 
+    "raw_name": "GFDL-HIRAM-C180", 
+    "status": "pending", 
+    "uid": "6f18ea95-e1e3-4c6d-aa97-95697ad684c8"
+}

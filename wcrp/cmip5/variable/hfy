@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hfy", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "hfy", 
+    "idx": 233, 
+    "namespace": "wcrp:cmip5:variable:hfy", 
+    "status": "pending", 
+    "uid": "bf1a9d72-1367-4309-9096-25918cec7b65"
+}

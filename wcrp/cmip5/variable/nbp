@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "nbp", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "nbp", 
+    "idx": 296, 
+    "namespace": "wcrp:cmip5:variable:nbp", 
+    "status": "pending", 
+    "uid": "9589d99b-1219-4735-80cf-7eaa9755a85f"
+}

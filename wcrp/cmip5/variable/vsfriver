@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "vsfriver", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "vsfriver", 
+    "idx": 565, 
+    "namespace": "wcrp:cmip5:variable:vsfriver", 
+    "status": "pending", 
+    "uid": "0fca34dd-da86-42f7-81f8-1d075edbddac"
+}

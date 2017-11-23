@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "vas", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "vas", 
+    "idx": 556, 
+    "namespace": "wcrp:cmip5:variable:vas", 
+    "status": "pending", 
+    "uid": "bd1ac679-4480-4fab-a926-2a061fa7a13d"
+}

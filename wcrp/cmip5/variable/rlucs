@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rlucs", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "rlucs", 
+    "idx": 383, 
+    "namespace": "wcrp:cmip5:variable:rlucs", 
+    "status": "pending", 
+    "uid": "2bd163e5-5927-41e1-afa1-5466da47a59a"
+}

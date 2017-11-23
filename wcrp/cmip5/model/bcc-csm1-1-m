@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "bcc-csm1-1-m", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "bcc-csm1-1-m", 
+    "idx": 4, 
+    "namespace": "wcrp:cmip5:model:bcc-csm1-1-m", 
+    "status": "pending", 
+    "uid": "1fec8f7d-fd16-4cf0-96b7-99fd46b5297b"
+}

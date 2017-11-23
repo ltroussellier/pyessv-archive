@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "cll", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "cll", 
+    "idx": 31, 
+    "namespace": "wcrp:cordex:variable:cll", 
+    "status": "pending", 
+    "uid": "e2b8d3da-1575-4d87-b338-082c5aa6daa1"
+}

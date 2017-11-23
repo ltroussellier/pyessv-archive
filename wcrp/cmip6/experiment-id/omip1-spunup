@@ -6,7 +6,9 @@
         "activity_id": [
             "OMIP"
         ], 
-        "additional_allowed_model_components": "", 
+        "additional_allowed_model_components": [
+            ""
+        ], 
         "end_year": "", 
         "experiment": "OMIP experiment forced by Large and Yeager (CORE-2, NCEP) atmospheric data set and initialized from at least a 2000-year spin up of the coupled physical-biogeochemical model", 
         "experiment_id": "omip1-spunup", 

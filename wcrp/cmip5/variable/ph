@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ph", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "ph", 
+    "idx": 323, 
+    "namespace": "wcrp:cmip5:variable:ph", 
+    "status": "pending", 
+    "uid": "3f9980f2-b3dd-433d-8819-568524f31b8c"
+}

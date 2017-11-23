@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rlut", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "rlut", 
+    "idx": 388, 
+    "namespace": "wcrp:cmip5:variable:rlut", 
+    "status": "pending", 
+    "uid": "2a64bbac-d56b-4843-a1b0-583d003a007b"
+}

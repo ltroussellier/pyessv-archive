@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "mrfso", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "mrfso", 
+    "idx": 81, 
+    "namespace": "wcrp:cordex:variable:mrfso", 
+    "status": "pending", 
+    "uid": "0f3b9904-ec6b-4219-9ad9-a54c534ae2e1"
+}

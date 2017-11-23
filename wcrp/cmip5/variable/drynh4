@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "drynh4", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "drynh4", 
+    "idx": 126, 
+    "namespace": "wcrp:cmip5:variable:drynh4", 
+    "status": "pending", 
+    "uid": "390e606d-7ece-4498-9a04-7bf40494a7ea"
+}

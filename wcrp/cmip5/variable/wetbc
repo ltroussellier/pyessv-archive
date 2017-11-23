@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "wetbc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "wetbc", 
+    "idx": 570, 
+    "namespace": "wcrp:cmip5:variable:wetbc", 
+    "status": "pending", 
+    "uid": "5f48a8a7-c406-4f3a-9ef8-c35bbac019a7"
+}

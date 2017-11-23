@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ua925", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "ua925", 
+    "idx": 159, 
+    "namespace": "wcrp:cordex:variable:ua925", 
+    "status": "pending", 
+    "uid": "ee68d75d-ef1b-4918-a90e-5a6b16221611"
+}

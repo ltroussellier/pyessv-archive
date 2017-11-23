@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "rmib-ugent", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "RMIB-UGent", 
+    "idx": 25, 
+    "label": "RMIB-UGent", 
+    "namespace": "wcrp:cordex:institute:rmib-ugent", 
+    "raw_name": "RMIB-UGent", 
+    "status": "pending", 
+    "uid": "e0a3242a-d919-4448-b383-7c7ed3dc6121"
+}

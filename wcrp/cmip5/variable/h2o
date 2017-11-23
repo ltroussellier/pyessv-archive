@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "h2o", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "h2o", 
+    "idx": 209, 
+    "namespace": "wcrp:cmip5:variable:h2o", 
+    "status": "pending", 
+    "uid": "725416c5-cb26-40fd-bf50-22cec1bd0221"
+}

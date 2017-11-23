@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "cdnc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "cdnc", 
+    "idx": 40, 
+    "namespace": "wcrp:cmip5:variable:cdnc", 
+    "status": "pending", 
+    "uid": "e2dda1b2-9d2d-4cff-9e31-ef866640fb59"
+}

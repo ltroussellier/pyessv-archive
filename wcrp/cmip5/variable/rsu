@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rsu", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "rsu", 
+    "idx": 404, 
+    "namespace": "wcrp:cmip5:variable:rsu", 
+    "status": "pending", 
+    "uid": "549a869d-2b68-4d61-898a-cd2f71d93f44"
+}

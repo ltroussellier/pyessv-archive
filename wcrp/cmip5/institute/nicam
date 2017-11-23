@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "nicam", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "idx": 60, 
+    "label": "NICAM", 
+    "namespace": "wcrp:cmip5:institute:nicam", 
+    "raw_name": "NICAM", 
+    "status": "pending", 
+    "uid": "b680d37e-982f-47a7-a588-d090c86a7848"
+}

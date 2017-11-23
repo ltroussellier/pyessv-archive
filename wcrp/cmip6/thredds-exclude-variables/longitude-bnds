@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "longitude-bnds", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "longitude_bnds", 
+    "idx": 32, 
+    "label": "longitude_bnds", 
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:longitude-bnds", 
+    "raw_name": "longitude_bnds", 
+    "status": "pending", 
+    "uid": "d493a65a-48b1-4729-a9bf-78b691a9ea02"
+}

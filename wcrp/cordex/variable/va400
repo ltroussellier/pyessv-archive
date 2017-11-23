@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "va400", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "va400", 
+    "idx": 170, 
+    "namespace": "wcrp:cordex:variable:va400", 
+    "status": "pending", 
+    "uid": "cc9561d4-8452-4324-a06a-aa7d2d4d5887"
+}

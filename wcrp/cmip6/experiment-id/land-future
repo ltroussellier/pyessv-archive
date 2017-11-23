@@ -6,7 +6,9 @@
         "activity_id": [
             "LS3MIP"
         ], 
-        "additional_allowed_model_components": "", 
+        "additional_allowed_model_components": [
+            "BGC"
+        ], 
         "end_year": "2100", 
         "experiment": "future land-only", 
         "experiment_id": "land-future", 

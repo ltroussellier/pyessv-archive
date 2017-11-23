@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "arag", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "arag", 
+    "idx": 5, 
+    "namespace": "wcrp:cmip5:variable:arag", 
+    "status": "pending", 
+    "uid": "4cded93e-b8d4-463e-a626-81646e317811"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ta925", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "ta925", 
+    "idx": 132, 
+    "namespace": "wcrp:cordex:variable:ta925", 
+    "status": "pending", 
+    "uid": "a0c029d4-0148-479f-ba30-bba2e19ad697"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "knmi-racmo21p", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "KNMI-RACMO21P", 
+    "idx": 24, 
+    "label": "KNMI-RACMO21P", 
+    "namespace": "wcrp:cordex:rcm-model:knmi-racmo21p", 
+    "raw_name": "KNMI-RACMO21P", 
+    "status": "pending", 
+    "uid": "340b47ab-0d6e-40bb-9474-67305a2eafba"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "cct", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "cct", 
+    "idx": 39, 
+    "namespace": "wcrp:cmip5:variable:cct", 
+    "status": "pending", 
+    "uid": "88b7139d-bbb3-4316-bcd1-6f16cadbf097"
+}

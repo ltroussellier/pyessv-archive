@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tslsi", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tslsi", 
+    "idx": 546, 
+    "namespace": "wcrp:cmip5:variable:tslsi", 
+    "status": "pending", 
+    "uid": "00688247-08eb-465b-90f0-fb6e11e0b58a"
+}

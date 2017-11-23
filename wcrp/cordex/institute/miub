@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "miub", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "MIUB", 
+    "idx": 21, 
+    "label": "MIUB", 
+    "namespace": "wcrp:cordex:institute:miub", 
+    "raw_name": "MIUB", 
+    "status": "pending", 
+    "uid": "e12fe40d-92b1-4f93-bac3-1a0b7e88450e"
+}

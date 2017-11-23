@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "npp", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "npp", 
+    "idx": 300, 
+    "namespace": "wcrp:cmip5:variable:npp", 
+    "status": "pending", 
+    "uid": "c648127f-3ecf-4780-b58f-f54d58b6b328"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "zsatarag", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "zsatarag", 
+    "idx": 598, 
+    "namespace": "wcrp:cmip5:variable:zsatarag", 
+    "status": "pending", 
+    "uid": "b03ade94-58c4-4bcc-9835-9af5a7456387"
+}

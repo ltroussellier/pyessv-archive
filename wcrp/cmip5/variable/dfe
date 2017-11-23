@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "dfe", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "dfe", 
+    "idx": 109, 
+    "namespace": "wcrp:cmip5:variable:dfe", 
+    "status": "pending", 
+    "uid": "ee1b8b4a-21c7-40ab-ba8a-a1d69d801432"
+}

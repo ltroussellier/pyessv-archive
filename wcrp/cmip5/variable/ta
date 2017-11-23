@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ta", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "ta", 
+    "idx": 460, 
+    "namespace": "wcrp:cmip5:variable:ta", 
+    "status": "pending", 
+    "uid": "0f11954f-c9ed-4fb2-a780-7885deea1cc7"
+}

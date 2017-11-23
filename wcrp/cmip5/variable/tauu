@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tauu", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tauu", 
+    "idx": 467, 
+    "namespace": "wcrp:cmip5:variable:tauu", 
+    "status": "pending", 
+    "uid": "e8ac61ca-de11-4ef7-959e-2689b2518e22"
+}

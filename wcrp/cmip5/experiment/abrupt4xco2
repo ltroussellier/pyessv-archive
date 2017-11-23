@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "abrupt4xco2", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "Abrupt 4xCO2", 
+    "idx": 1, 
+    "label": "abrupt4xCO2", 
+    "namespace": "wcrp:cmip5:experiment:abrupt4xco2", 
+    "raw_name": "abrupt4xCO2", 
+    "status": "pending", 
+    "uid": "7ff81a83-11ad-4179-8a14-79d73556ae52"
+}

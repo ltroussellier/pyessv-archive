@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tnhusa", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tnhusa", 
+    "idx": 478, 
+    "namespace": "wcrp:cmip5:variable:tnhusa", 
+    "status": "pending", 
+    "uid": "83ab3a56-39d9-476e-8e75-ef16ce3cdee2"
+}

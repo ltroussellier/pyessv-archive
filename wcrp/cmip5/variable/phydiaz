@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "phydiaz", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "phydiaz", 
+    "idx": 328, 
+    "namespace": "wcrp:cmip5:variable:phydiaz", 
+    "status": "pending", 
+    "uid": "1ccbfdb1-a807-4ab5-99e6-8da15f7caf2f"
+}

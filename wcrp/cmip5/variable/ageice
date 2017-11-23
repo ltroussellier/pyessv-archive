@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ageice", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "ageice", 
+    "idx": 1, 
+    "namespace": "wcrp:cmip5:variable:ageice", 
+    "status": "pending", 
+    "uid": "8ea08850-4252-432b-96bf-b4f958bbe400"
+}

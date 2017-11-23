@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "dbze", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "dbze", 
+    "idx": 11, 
+    "namespace": "wcrp:cmip5:thredds-exclude-variables:dbze", 
+    "status": "pending", 
+    "uid": "957da50a-4006-452a-a393-c3106e6cf425"
+}

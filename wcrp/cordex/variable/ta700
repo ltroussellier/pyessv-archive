@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ta700", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "ta700", 
+    "idx": 128, 
+    "namespace": "wcrp:cordex:variable:ta700", 
+    "status": "pending", 
+    "uid": "4f338d7e-a79a-43a1-a053-7546c6ca0b06"
+}

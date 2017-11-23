@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "concnh4", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "concnh4", 
+    "idx": 94, 
+    "namespace": "wcrp:cmip5:variable:concnh4", 
+    "status": "pending", 
+    "uid": "28524304-3a3b-4d65-8e9b-98fff093f9b9"
+}

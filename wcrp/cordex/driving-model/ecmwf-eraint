@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "ecmwf-eraint", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "ECMWF-ERAINT", 
+    "idx": 3, 
+    "label": "ECMWF-ERAINT", 
+    "namespace": "wcrp:cordex:driving-model:ecmwf-eraint", 
+    "raw_name": "ECMWF-ERAINT", 
+    "status": "pending", 
+    "uid": "46f64cf0-70df-40f5-96dd-47ded0810a94"
+}

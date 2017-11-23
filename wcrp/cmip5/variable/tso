@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tso", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tso", 
+    "idx": 549, 
+    "namespace": "wcrp:cmip5:variable:tso", 
+    "status": "pending", 
+    "uid": "1de20423-0183-4747-87f7-da32f5273845"
+}

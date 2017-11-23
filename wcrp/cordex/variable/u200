@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "u200", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "u200", 
+    "idx": 146, 
+    "namespace": "wcrp:cordex:variable:u200", 
+    "status": "pending", 
+    "uid": "4eb7ace4-079c-4c53-a670-22b7a2f7bae5"
+}

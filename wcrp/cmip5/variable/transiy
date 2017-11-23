@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "transiy", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "transiy", 
+    "idx": 534, 
+    "namespace": "wcrp:cmip5:variable:transiy", 
+    "status": "pending", 
+    "uid": "43a59924-67f2-485b-8fb6-cac68599a2bb"
+}

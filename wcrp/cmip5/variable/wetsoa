@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "wetsoa", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "wetsoa", 
+    "idx": 578, 
+    "namespace": "wcrp:cmip5:variable:wetsoa", 
+    "status": "pending", 
+    "uid": "89fec9fe-6e2c-489a-8574-b1615b7d3aa9"
+}

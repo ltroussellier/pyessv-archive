@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "1-hour", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "idx": 1, 
+    "label": "1 hour", 
+    "namespace": "wcrp:cmip6:las-time-delta:1-hour", 
+    "raw_name": "1 hour", 
+    "status": "pending", 
+    "uid": "8d416dc4-0577-4ad3-aab9-25fb580b5d16"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tauvo", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tauvo", 
+    "idx": 472, 
+    "namespace": "wcrp:cmip5:variable:tauvo", 
+    "status": "pending", 
+    "uid": "3630772a-7a33-47af-b9b0-e4dffb5eea67"
+}

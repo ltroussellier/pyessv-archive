@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ta500", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "ta500", 
+    "idx": 126, 
+    "namespace": "wcrp:cordex:variable:ta500", 
+    "status": "pending", 
+    "uid": "5dc466a6-57bd-49b4-975f-014c9e126040"
+}

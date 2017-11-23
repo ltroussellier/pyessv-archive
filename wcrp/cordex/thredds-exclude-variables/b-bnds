@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "b-bnds", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "b_bnds", 
+    "idx": 7, 
+    "label": "b_bnds", 
+    "namespace": "wcrp:cordex:thredds-exclude-variables:b-bnds", 
+    "raw_name": "b_bnds", 
+    "status": "pending", 
+    "uid": "20d69d18-679f-4fcf-b5ed-980f8a3a7772"
+}

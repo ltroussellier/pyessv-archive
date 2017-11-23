@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "canam4", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "CanAM4", 
+    "idx": 6, 
+    "label": "CanAM4", 
+    "namespace": "wcrp:cmip5:model:canam4", 
+    "raw_name": "CanAM4", 
+    "status": "pending", 
+    "uid": "8effb5e6-8fc8-493e-9784-234d5e4b39e6"
+}

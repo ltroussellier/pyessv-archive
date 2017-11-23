@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "p0", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "p0", 
+    "idx": 41, 
+    "namespace": "wcrp:cordex:thredds-exclude-variables:p0", 
+    "status": "pending", 
+    "uid": "efa0aaca-07a9-4c9e-ad19-0631b02893f4"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "concss", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "concss", 
+    "idx": 101, 
+    "namespace": "wcrp:cmip5:variable:concss", 
+    "status": "pending", 
+    "uid": "1bcebad1-d57d-4933-9ebe-904b5ac84906"
+}

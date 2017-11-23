@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tauv", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tauv", 
+    "idx": 470, 
+    "namespace": "wcrp:cmip5:variable:tauv", 
+    "status": "pending", 
+    "uid": "42e701e6-9d2c-40db-bd66-59a8610aab4a"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sza5", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "sza5", 
+    "idx": 54, 
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:sza5", 
+    "status": "pending", 
+    "uid": "40da5989-82b5-436a-9814-5b7eff30b6bc"
+}

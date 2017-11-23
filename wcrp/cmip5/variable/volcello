@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "volcello", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "volcello", 
+    "idx": 559, 
+    "namespace": "wcrp:cmip5:variable:volcello", 
+    "status": "pending", 
+    "uid": "acb8dbe0-b7d8-4cfe-bd2b-57dc5c5a3dd1"
+}

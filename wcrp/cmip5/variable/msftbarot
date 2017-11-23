@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "msftbarot", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "msftbarot", 
+    "idx": 285, 
+    "namespace": "wcrp:cmip5:variable:msftbarot", 
+    "status": "pending", 
+    "uid": "d5796abb-7a39-45cd-a715-0376b59f0b30"
+}

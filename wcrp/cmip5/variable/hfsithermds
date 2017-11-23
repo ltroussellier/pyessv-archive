@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hfsithermds", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "hfsithermds", 
+    "idx": 226, 
+    "namespace": "wcrp:cmip5:variable:hfsithermds", 
+    "status": "pending", 
+    "uid": "c9da891c-2075-4e8c-8f4e-a2fff50b17e2"
+}

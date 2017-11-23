@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "concaerh2o", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "concaerh2o", 
+    "idx": 88, 
+    "namespace": "wcrp:cmip5:variable:concaerh2o", 
+    "status": "pending", 
+    "uid": "5acbd6bd-40e8-4ab3-9866-9b9c7577c56d"
+}

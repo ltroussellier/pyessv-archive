@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "cfsites", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "cfSites", 
+    "idx": 15, 
+    "label": "cfSites", 
+    "namespace": "wcrp:cmip5:cmor-table:cfsites", 
+    "raw_name": "cfSites", 
+    "status": "pending", 
+    "uid": "51420c31-046b-4c0a-b8a5-42d007be8674"
+}

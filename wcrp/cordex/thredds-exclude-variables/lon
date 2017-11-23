@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "lon", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "lon", 
+    "idx": 32, 
+    "namespace": "wcrp:cordex:thredds-exclude-variables:lon", 
+    "status": "pending", 
+    "uid": "5b490fc2-c44d-46de-ba53-dbc7b345746b"
+}

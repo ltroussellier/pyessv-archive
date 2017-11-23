@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "epc100", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "epc100", 
+    "idx": 148, 
+    "namespace": "wcrp:cmip5:variable:epc100", 
+    "status": "pending", 
+    "uid": "0db8a126-357b-42f7-aec8-20eb77fbb557"
+}

@@ -28,7 +28,7 @@
             }, 
             "land": {
                 "description": "CoLM 1.0", 
-                "nominal_resolution": ""
+                "nominal_resolution": "100 km"
             }, 
             "landIce": {
                 "description": "none", 
@@ -44,7 +44,7 @@
             }, 
             "seaIce": {
                 "description": "SIS 1.0", 
-                "nominal_resolution": ""
+                "nominal_resolution": "100 km"
             }
         }, 
         "release_year": "2016", 

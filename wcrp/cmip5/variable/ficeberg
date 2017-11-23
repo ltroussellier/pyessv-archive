@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ficeberg", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "ficeberg", 
+    "idx": 194, 
+    "namespace": "wcrp:cmip5:variable:ficeberg", 
+    "status": "pending", 
+    "uid": "fcd0b5d2-a131-47e7-87f8-a101d18c22d3"
+}

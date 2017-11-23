@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clic", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "clic", 
+    "idx": 66, 
+    "namespace": "wcrp:cmip5:variable:clic", 
+    "status": "pending", 
+    "uid": "6cc0d4b0-73ac-4734-8880-37e8b26d3f0a"
+}

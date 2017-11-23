@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "dtauc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "dtauc", 
+    "idx": 133, 
+    "namespace": "wcrp:cmip5:variable:dtauc", 
+    "status": "pending", 
+    "uid": "001f1576-decf-487d-b7b0-82cce41f881d"
+}

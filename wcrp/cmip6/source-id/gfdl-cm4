@@ -54,7 +54,7 @@
         "release_year": "2017", 
         "source_id": "GFDL-CM4"
     }, 
-    "idx": 52, 
+    "idx": 58, 
     "label": "GFDL-CM4", 
     "namespace": "wcrp:cmip6:source-id:gfdl-cm4", 
     "raw_name": "GFDL-CM4", 

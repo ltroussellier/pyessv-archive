@@ -6,7 +6,9 @@
         "activity_id": [
             "LS3MIP"
         ], 
-        "additional_allowed_model_components": "", 
+        "additional_allowed_model_components": [
+            "BGC"
+        ], 
         "end_year": "2014", 
         "experiment": "as land-hist with WFDEI forcings", 
         "experiment_id": "land-hist-wfdei", 

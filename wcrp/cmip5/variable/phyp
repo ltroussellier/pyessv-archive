@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "phyp", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "phyp", 
+    "idx": 332, 
+    "namespace": "wcrp:cmip5:variable:phyp", 
+    "status": "pending", 
+    "uid": "29f06e9f-7fe5-468a-a113-bb735064a71e"
+}

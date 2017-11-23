@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "mgo-rrcm", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "MGO-RRCM", 
+    "idx": 27, 
+    "label": "MGO-RRCM", 
+    "namespace": "wcrp:cordex:rcm-model:mgo-rrcm", 
+    "raw_name": "MGO-RRCM", 
+    "status": "pending", 
+    "uid": "f3b838c6-3090-4727-86cc-6d8ced964ecc"
+}

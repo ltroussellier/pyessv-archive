@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clwvi", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "clwvi", 
+    "idx": 81, 
+    "namespace": "wcrp:cmip5:variable:clwvi", 
+    "status": "pending", 
+    "uid": "2e2868e5-8945-46eb-bf24-29cb5fb2ed99"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ci", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "ci", 
+    "idx": 56, 
+    "namespace": "wcrp:cmip5:variable:ci", 
+    "status": "pending", 
+    "uid": "127b56d3-094d-4d37-8911-7081426121af"
+}

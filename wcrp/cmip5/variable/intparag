@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "intparag", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "intparag", 
+    "idx": 245, 
+    "namespace": "wcrp:cmip5:variable:intparag", 
+    "status": "pending", 
+    "uid": "c720cee3-495c-41c1-b612-0ebbf0578a91"
+}

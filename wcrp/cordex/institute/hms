@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "hms", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "HMS", 
+    "idx": 14, 
+    "label": "HMS", 
+    "namespace": "wcrp:cordex:institute:hms", 
+    "raw_name": "HMS", 
+    "status": "pending", 
+    "uid": "8034ee7b-7bbe-4745-8515-c8d7e4a8149f"
+}

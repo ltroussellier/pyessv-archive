@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "longitude", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "longitude", 
+    "idx": 36, 
+    "namespace": "wcrp:cordex:thredds-exclude-variables:longitude", 
+    "status": "pending", 
+    "uid": "c9f3bf62-6552-4635-9a9c-2f79a57a689a"
+}

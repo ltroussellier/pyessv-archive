@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "zg450", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "zg450", 
+    "idx": 187, 
+    "namespace": "wcrp:cordex:variable:zg450", 
+    "status": "pending", 
+    "uid": "4a1d51cb-2445-438e-8c47-bbdf409ec04a"
+}

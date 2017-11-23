@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "co2mmr", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "co2mmr", 
+    "idx": 84, 
+    "namespace": "wcrp:cmip5:variable:co2mmr", 
+    "status": "pending", 
+    "uid": "421e57a5-613e-4f7f-8c70-ac1b9526c482"
+}

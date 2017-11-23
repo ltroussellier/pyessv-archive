@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "nuim", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "NUIM", 
+    "idx": 24, 
+    "label": "NUIM", 
+    "namespace": "wcrp:cordex:institute:nuim", 
+    "raw_name": "NUIM", 
+    "status": "pending", 
+    "uid": "b5722229-7d2a-4836-b2ab-ba728b33eb5d"
+}

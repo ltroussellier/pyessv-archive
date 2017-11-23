@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "mross", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "mross", 
+    "idx": 82, 
+    "namespace": "wcrp:cordex:variable:mross", 
+    "status": "pending", 
+    "uid": "2c963e12-1aa6-4581-ae39-9f03aca49bdb"
+}

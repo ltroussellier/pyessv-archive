@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tnsclibl", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tnsclibl", 
+    "idx": 496, 
+    "namespace": "wcrp:cmip5:variable:tnsclibl", 
+    "status": "pending", 
+    "uid": "2030e2f2-6548-4a5b-9717-ad728d223534"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "fddtdin", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "fddtdin", 
+    "idx": 186, 
+    "namespace": "wcrp:cmip5:variable:fddtdin", 
+    "status": "pending", 
+    "uid": "f9dacb75-5968-4206-b2ae-300cf0cdfb40"
+}

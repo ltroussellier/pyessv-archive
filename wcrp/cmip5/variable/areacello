@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "areacello", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "areacello", 
+    "idx": 7, 
+    "namespace": "wcrp:cmip5:variable:areacello", 
+    "status": "pending", 
+    "uid": "13cd8ccb-d890-4413-bc11-10eb21e8d558"
+}

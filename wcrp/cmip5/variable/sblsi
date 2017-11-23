@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sblsi", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "sblsi", 
+    "idx": 417, 
+    "namespace": "wcrp:cmip5:variable:sblsi", 
+    "status": "pending", 
+    "uid": "11972ee9-904a-4be3-8fbe-7e42b276ac15"
+}

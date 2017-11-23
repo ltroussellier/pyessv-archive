@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sfriver", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "sfriver", 
+    "idx": 431, 
+    "namespace": "wcrp:cmip5:variable:sfriver", 
+    "status": "pending", 
+    "uid": "23540fd8-1608-4eac-b48a-faeb6612e69f"
+}

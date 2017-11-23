@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "plev3", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "plev3", 
+    "idx": 43, 
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:plev3", 
+    "status": "pending", 
+    "uid": "50424d5d-4dce-478d-be12-a70fb52b6e45"
+}

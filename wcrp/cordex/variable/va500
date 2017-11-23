@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "va500", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "va500", 
+    "idx": 171, 
+    "namespace": "wcrp:cordex:variable:va500", 
+    "status": "pending", 
+    "uid": "f7596c81-f57c-468e-bc6e-9dbddb47fb2b"
+}

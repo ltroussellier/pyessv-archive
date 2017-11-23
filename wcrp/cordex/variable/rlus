@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rlus", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "rlus", 
+    "idx": 101, 
+    "namespace": "wcrp:cordex:variable:rlus", 
+    "status": "pending", 
+    "uid": "2268d692-bf7b-47de-b732-7e0899b57a3c"
+}

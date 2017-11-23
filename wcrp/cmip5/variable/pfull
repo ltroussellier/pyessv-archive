@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "pfull", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "pfull", 
+    "idx": 322, 
+    "namespace": "wcrp:cmip5:variable:pfull", 
+    "status": "pending", 
+    "uid": "39148419-afd4-41d8-969d-0555d73f37e2"
+}

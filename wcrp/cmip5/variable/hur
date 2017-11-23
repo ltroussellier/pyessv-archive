@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hur", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "hur", 
+    "idx": 238, 
+    "namespace": "wcrp:cmip5:variable:hur", 
+    "status": "pending", 
+    "uid": "54799856-f8aa-4e9f-9a46-10ac345dc130"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "basin", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "basin", 
+    "idx": 8, 
+    "namespace": "wcrp:cordex:thredds-exclude-variables:basin", 
+    "status": "pending", 
+    "uid": "5aca272b-b3a2-4b47-8aeb-dbb714738d83"
+}

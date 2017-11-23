@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "pp", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "pp", 
+    "idx": 340, 
+    "namespace": "wcrp:cmip5:variable:pp", 
+    "status": "pending", 
+    "uid": "265e99b4-7aa2-4014-8730-2f72bc62e97d"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sootsn", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "sootsn", 
+    "idx": 450, 
+    "namespace": "wcrp:cmip5:variable:sootsn", 
+    "status": "pending", 
+    "uid": "82561dd1-6837-471f-a6b5-33c59c8584f8"
+}

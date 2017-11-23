@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "prlsprof", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "prlsprof", 
+    "idx": 346, 
+    "namespace": "wcrp:cmip5:variable:prlsprof", 
+    "status": "pending", 
+    "uid": "a0afbe42-6e2e-4ab2-87be-76d694b56a1c"
+}

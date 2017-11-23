@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "concbb", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "concbb", 
+    "idx": 89, 
+    "namespace": "wcrp:cmip5:variable:concbb", 
+    "status": "pending", 
+    "uid": "4c79ac7b-f1b6-4426-8d7b-cf70d7d5774e"
+}

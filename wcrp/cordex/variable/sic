@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sic", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "sic", 
+    "idx": 112, 
+    "namespace": "wcrp:cordex:variable:sic", 
+    "status": "pending", 
+    "uid": "d8afb3e2-2d90-4cd7-a78c-6c0761b8bb57"
+}

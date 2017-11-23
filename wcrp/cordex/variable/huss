@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "huss", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "huss", 
+    "idx": 80, 
+    "namespace": "wcrp:cordex:variable:huss", 
+    "status": "pending", 
+    "uid": "839be32d-7c5f-4801-a5cc-a673f542679c"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "tasadjust", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tasAdjust", 
+    "idx": 464, 
+    "label": "tasAdjust", 
+    "namespace": "wcrp:cmip5:variable:tasadjust", 
+    "raw_name": "tasAdjust", 
+    "status": "pending", 
+    "uid": "0e21d653-6995-4e07-9038-5ba2e45932fa"
+}

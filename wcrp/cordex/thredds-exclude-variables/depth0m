@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "depth0m", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "depth0m", 
+    "idx": 14, 
+    "namespace": "wcrp:cordex:thredds-exclude-variables:depth0m", 
+    "status": "pending", 
+    "uid": "10acc86e-d273-4d7d-b2d9-c8ce5541c11e"
+}

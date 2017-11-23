@@ -52,7 +52,7 @@
         "release_year": "2017", 
         "source_id": "EC-Earth3-CC"
     }, 
-    "idx": 55, 
+    "idx": 62, 
     "label": "EC-Earth3-CC", 
     "namespace": "wcrp:cmip6:source-id:ec-earth3-cc", 
     "raw_name": "EC-Earth3-CC", 

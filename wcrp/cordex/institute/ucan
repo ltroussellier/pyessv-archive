@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "ucan", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "UCAN", 
+    "idx": 27, 
+    "label": "UCAN", 
+    "namespace": "wcrp:cordex:institute:ucan", 
+    "raw_name": "UCAN", 
+    "status": "pending", 
+    "uid": "1033898f-efdb-4ce9-8a80-83edb59b90e3"
+}

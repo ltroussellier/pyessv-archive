@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "reffclws", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "reffclws", 
+    "idx": 361, 
+    "namespace": "wcrp:cmip5:variable:reffclws", 
+    "status": "pending", 
+    "uid": "0669b18b-75fa-400b-93d4-760db1acb94e"
+}

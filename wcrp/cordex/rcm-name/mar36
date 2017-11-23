@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "mar36", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "idx": 42, 
+    "label": "MAR36", 
+    "namespace": "wcrp:cordex:rcm-name:mar36", 
+    "raw_name": "MAR36", 
+    "status": "pending", 
+    "uid": "2a6ddae0-959d-4fc4-b713-ba97fc5cd3b3"
+}

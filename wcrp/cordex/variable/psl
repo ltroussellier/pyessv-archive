@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "psl", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "psl", 
+    "idx": 99, 
+    "namespace": "wcrp:cordex:variable:psl", 
+    "status": "pending", 
+    "uid": "c3964de4-c915-4485-b534-a3e6bb813913"
+}

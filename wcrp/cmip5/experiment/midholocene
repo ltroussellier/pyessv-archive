@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "midholocene", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "Mid-Holocene", 
+    "idx": 78, 
+    "label": "midHolocene", 
+    "namespace": "wcrp:cmip5:experiment:midholocene", 
+    "raw_name": "midHolocene", 
+    "status": "pending", 
+    "uid": "36a2ae5e-c36d-46bb-bc51-a4b64d913d4a"
+}

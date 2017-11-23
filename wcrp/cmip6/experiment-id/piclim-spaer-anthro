@@ -6,7 +6,9 @@
         "activity_id": [
             "RFMIP"
         ], 
-        "additional_allowed_model_components": "", 
+        "additional_allowed_model_components": [
+            ""
+        ], 
         "end_year": "", 
         "experiment": "effective radiative forcing at present day with specified anthropogenic aerosol optical properties, anthropogenic forcings", 
         "experiment_id": "piClim-spAer-anthro", 

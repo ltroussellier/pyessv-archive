@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "fbddtalk", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "fbddtalk", 
+    "idx": 174, 
+    "namespace": "wcrp:cmip5:variable:fbddtalk", 
+    "status": "pending", 
+    "uid": "d13acd9d-b51b-4d46-b796-110e9ebf866d"
+}

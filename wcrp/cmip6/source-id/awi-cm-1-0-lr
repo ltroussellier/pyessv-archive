@@ -57,7 +57,7 @@
         "release_year": "2017", 
         "source_id": "AWI-CM-1-0-LR"
     }, 
-    "idx": 51, 
+    "idx": 57, 
     "label": "AWI-CM 1.0 LR", 
     "namespace": "wcrp:cmip6:source-id:awi-cm-1-0-lr", 
     "raw_name": "AWI-CM-1-0-LR", 

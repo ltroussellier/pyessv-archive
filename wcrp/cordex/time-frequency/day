@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "day", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "day", 
+    "idx": 0, 
+    "namespace": "wcrp:cordex:time-frequency:day", 
+    "status": "pending", 
+    "uid": "c98e6f9a-9739-49b6-8e74-0d5d3db3af42"
+}

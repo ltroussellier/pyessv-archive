@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sftgif", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "sftgif", 
+    "idx": 432, 
+    "namespace": "wcrp:cmip5:variable:sftgif", 
+    "status": "pending", 
+    "uid": "b64422fc-472d-4b56-9a0e-46087cb6e506"
+}

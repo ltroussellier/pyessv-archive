@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tnsclwri", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tnsclwri", 
+    "idx": 521, 
+    "namespace": "wcrp:cmip5:variable:tnsclwri", 
+    "status": "pending", 
+    "uid": "9daedb51-686c-4be5-9c1e-b39a66b9f4ae"
+}

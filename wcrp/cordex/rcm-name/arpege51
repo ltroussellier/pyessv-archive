@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "arpege51", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "idx": 9, 
+    "label": "ARPEGE51", 
+    "namespace": "wcrp:cordex:rcm-name:arpege51", 
+    "raw_name": "ARPEGE51", 
+    "status": "pending", 
+    "uid": "a9a3c7dc-d49a-465f-b85d-f45163623339"
+}

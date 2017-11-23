@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "b-bnds", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "b_bnds", 
+    "idx": 7, 
+    "label": "b_bnds", 
+    "namespace": "wcrp:cmip5:thredds-exclude-variables:b-bnds", 
+    "raw_name": "b_bnds", 
+    "status": "pending", 
+    "uid": "74afe026-a646-4761-b1fe-66d0a2288c62"
+}

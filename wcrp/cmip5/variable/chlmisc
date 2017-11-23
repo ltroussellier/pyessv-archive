@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "chlmisc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "chlmisc", 
+    "idx": 54, 
+    "namespace": "wcrp:cmip5:variable:chlmisc", 
+    "status": "pending", 
+    "uid": "61496f6c-c063-46d7-b121-40ccfc8e0640"
+}

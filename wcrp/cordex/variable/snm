@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "snm", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "snm", 
+    "idx": 117, 
+    "namespace": "wcrp:cordex:variable:snm", 
+    "status": "pending", 
+    "uid": "55c57b48-98a7-4f6a-8806-8bf16d20cec1"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "darag", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "darag", 
+    "idx": 103, 
+    "namespace": "wcrp:cmip5:variable:darag", 
+    "status": "pending", 
+    "uid": "840fd17e-05e1-4591-9503-f4b81ecd21f1"
+}

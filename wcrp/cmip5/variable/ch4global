@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ch4global", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "ch4global", 
+    "idx": 48, 
+    "namespace": "wcrp:cmip5:variable:ch4global", 
+    "status": "pending", 
+    "uid": "f37b5001-4c25-4a9f-8933-5f674e7dd638"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "idl", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "IDL", 
+    "idx": 16, 
+    "label": "IDL", 
+    "namespace": "wcrp:cordex:institute:idl", 
+    "raw_name": "IDL", 
+    "status": "pending", 
+    "uid": "07cc3fad-13de-453e-83a3-556d9135786d"
+}

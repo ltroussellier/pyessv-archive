@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "alt40", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "alt40", 
+    "idx": 5, 
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:alt40", 
+    "status": "pending", 
+    "uid": "539e0cba-0f6f-47d1-af2d-4abae57f86d5"
+}

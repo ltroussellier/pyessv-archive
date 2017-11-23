@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "awi-hirham5", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "AWI-HIRHAM5", 
+    "idx": 2, 
+    "label": "AWI-HIRHAM5", 
+    "namespace": "wcrp:cordex:rcm-model:awi-hirham5", 
+    "raw_name": "AWI-HIRHAM5", 
+    "status": "pending", 
+    "uid": "3599bcc2-e68a-4ba7-82e7-bef1d39e0fe8"
+}

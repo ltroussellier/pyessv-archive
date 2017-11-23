@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tsnint", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tsnint", 
+    "idx": 548, 
+    "namespace": "wcrp:cmip5:variable:tsnint", 
+    "status": "pending", 
+    "uid": "fe60354c-5139-4c47-8fbe-c2511089befd"
+}

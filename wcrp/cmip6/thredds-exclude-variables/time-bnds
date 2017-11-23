@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "time-bnds", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "time_bnds", 
+    "idx": 60, 
+    "label": "time_bnds", 
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:time-bnds", 
+    "raw_name": "time_bnds", 
+    "status": "pending", 
+    "uid": "13e87026-e623-4399-8060-525f3d265d17"
+}

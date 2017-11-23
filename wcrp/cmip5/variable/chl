@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "chl", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "chl", 
+    "idx": 50, 
+    "namespace": "wcrp:cmip5:variable:chl", 
+    "status": "pending", 
+    "uid": "36eb32d3-1c82-44b6-b9d3-f8c88138aaf7"
+}

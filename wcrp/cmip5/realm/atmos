@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "atmos", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "atmos", 
+    "idx": 0, 
+    "namespace": "wcrp:cmip5:realm:atmos", 
+    "status": "pending", 
+    "uid": "6b316c3c-887f-45bb-bcc8-0c663dc048e2"
+}

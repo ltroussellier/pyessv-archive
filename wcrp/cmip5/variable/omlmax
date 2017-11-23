@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "omlmax", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "omlmax", 
+    "idx": 310, 
+    "namespace": "wcrp:cmip5:variable:omlmax", 
+    "status": "pending", 
+    "uid": "a4d93494-ff96-4f54-942d-a3fd78ffc608"
+}

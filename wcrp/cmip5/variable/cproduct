@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "cproduct", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "cProduct", 
+    "idx": 29, 
+    "label": "cProduct", 
+    "namespace": "wcrp:cmip5:variable:cproduct", 
+    "raw_name": "cProduct", 
+    "status": "pending", 
+    "uid": "397bb8ea-0a61-4212-b88d-f4f72d40dcb2"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "output", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "output", 
+    "idx": 0, 
+    "namespace": "wcrp:cordex:product:output", 
+    "status": "pending", 
+    "uid": "d7e07bb8-813f-46b8-a3cc-49b984ffb180"
+}

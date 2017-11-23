@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "csoilmedium", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "cSoilMedium", 
+    "idx": 33, 
+    "label": "cSoilMedium", 
+    "namespace": "wcrp:cmip5:variable:csoilmedium", 
+    "raw_name": "cSoilMedium", 
+    "status": "pending", 
+    "uid": "96b1d34d-c5e9-4f76-80b8-d0c96a0d57ff"
+}

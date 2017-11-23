@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sst", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "sst", 
+    "idx": 120, 
+    "namespace": "wcrp:cordex:variable:sst", 
+    "status": "pending", 
+    "uid": "ee80794e-789f-457a-a5a5-a39e929c0218"
+}

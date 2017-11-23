@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "co3satcalc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "co3satcalc", 
+    "idx": 87, 
+    "namespace": "wcrp:cmip5:variable:co3satcalc", 
+    "status": "pending", 
+    "uid": "27f5c7d7-d046-4813-8ee3-99ebca4b4b03"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tnscliag", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tnscliag", 
+    "idx": 493, 
+    "namespace": "wcrp:cmip5:variable:tnscliag", 
+    "status": "pending", 
+    "uid": "61901c6b-2ee6-44cb-97af-3b8d70435688"
+}

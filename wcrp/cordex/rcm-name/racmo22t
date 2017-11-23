@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "racmo22t", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "idx": 26, 
+    "label": "RACMO22T", 
+    "namespace": "wcrp:cordex:rcm-name:racmo22t", 
+    "raw_name": "RACMO22T", 
+    "status": "pending", 
+    "uid": "463a1d54-ddf4-4d5f-aed1-19b95b7985b9"
+}

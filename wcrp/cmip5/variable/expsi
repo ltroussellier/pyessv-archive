@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "expsi", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "expsi", 
+    "idx": 166, 
+    "namespace": "wcrp:cmip5:variable:expsi", 
+    "status": "pending", 
+    "uid": "f3c89b43-4592-4f11-a34f-1526f52e38d0"
+}

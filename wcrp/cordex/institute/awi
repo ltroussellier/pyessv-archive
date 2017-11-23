@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "awi", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "AWI", 
+    "idx": 2, 
+    "label": "AWI", 
+    "namespace": "wcrp:cordex:institute:awi", 
+    "raw_name": "AWI", 
+    "status": "pending", 
+    "uid": "436f9c4a-5048-46ba-a687-6595280d2cca"
+}

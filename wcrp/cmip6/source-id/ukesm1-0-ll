@@ -18,7 +18,8 @@
         ], 
         "institution_id": [
             "MOHC", 
-            "NERC"
+            "NERC", 
+            "NIWA"
         ], 
         "label_extended": "UKESM1.0-N96ORCA1", 
         "model_component": {

@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "aladin53", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "idx": 11, 
+    "label": "ALADIN53", 
+    "namespace": "wcrp:cordex:rcm-name:aladin53", 
+    "raw_name": "ALADIN53", 
+    "status": "pending", 
+    "uid": "d34293c8-7303-468a-91df-71be10d2d706"
+}

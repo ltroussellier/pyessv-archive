@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "sfcwind", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "sfcWind", 
+    "idx": 428, 
+    "label": "sfcWind", 
+    "namespace": "wcrp:cmip5:variable:sfcwind", 
+    "raw_name": "sfcWind", 
+    "status": "pending", 
+    "uid": "77a31d84-79f6-4dc0-ace1-5cf06eca155e"
+}

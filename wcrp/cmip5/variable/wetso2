@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "wetso2", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "wetso2", 
+    "idx": 576, 
+    "namespace": "wcrp:cmip5:variable:wetso2", 
+    "status": "pending", 
+    "uid": "fca08078-01e5-4acf-9e85-c390c4668b90"
+}

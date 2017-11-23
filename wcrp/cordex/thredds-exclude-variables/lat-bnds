@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "lat-bnds", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "lat_bnds", 
+    "idx": 23, 
+    "label": "lat_bnds", 
+    "namespace": "wcrp:cordex:thredds-exclude-variables:lat-bnds", 
+    "raw_name": "lat_bnds", 
+    "status": "pending", 
+    "uid": "32a077cc-9377-4078-b330-986a60a9c68f"
+}

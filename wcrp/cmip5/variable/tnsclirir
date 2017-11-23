@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tnsclirir", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tnsclirir", 
+    "idx": 508, 
+    "namespace": "wcrp:cmip5:variable:tnsclirir", 
+    "status": "pending", 
+    "uid": "29fe2f61-2d85-404b-bc37-c3b4ab6344fd"
+}

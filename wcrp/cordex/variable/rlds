@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rlds", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "rlds", 
+    "idx": 100, 
+    "namespace": "wcrp:cordex:variable:rlds", 
+    "status": "pending", 
+    "uid": "90836525-675b-47b2-8e60-4e98be2a6674"
+}

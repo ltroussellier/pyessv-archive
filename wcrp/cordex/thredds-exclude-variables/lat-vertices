@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "lat-vertices", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "lat_vertices", 
+    "idx": 27, 
+    "label": "lat_vertices", 
+    "namespace": "wcrp:cordex:thredds-exclude-variables:lat-vertices", 
+    "raw_name": "lat_vertices", 
+    "status": "pending", 
+    "uid": "dd481afd-8bd9-4611-bb95-ed44563adca3"
+}

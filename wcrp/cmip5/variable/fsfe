@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "fsfe", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "fsfe", 
+    "idx": 200, 
+    "namespace": "wcrp:cmip5:variable:fsfe", 
+    "status": "pending", 
+    "uid": "530ce775-940a-478c-9f5b-79b0c2d72a51"
+}

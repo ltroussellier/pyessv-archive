@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rhopoto", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "rhopoto", 
+    "idx": 369, 
+    "namespace": "wcrp:cmip5:variable:rhopoto", 
+    "status": "pending", 
+    "uid": "a31a809a-a82b-4c25-9116-931c6e3e16fe"
+}

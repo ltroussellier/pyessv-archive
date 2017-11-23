@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "output1", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "output1", 
+    "idx": 0, 
+    "namespace": "wcrp:cmip5:product:output1", 
+    "status": "pending", 
+    "uid": "f0de0b2b-9c86-45ba-9a1f-738116e9a121"
+}

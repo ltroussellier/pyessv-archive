@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "mrros", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "mrros", 
+    "idx": 281, 
+    "namespace": "wcrp:cmip5:variable:mrros", 
+    "status": "pending", 
+    "uid": "f824a5da-3e08-4e3c-b866-c3d27843384d"
+}

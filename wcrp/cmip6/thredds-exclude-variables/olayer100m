@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "olayer100m", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "olayer100m", 
+    "idx": 33, 
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:olayer100m", 
+    "status": "pending", 
+    "uid": "8a613e6a-08bf-499a-82c8-97e57333b3ff"
+}

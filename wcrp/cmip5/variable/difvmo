@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "difvmo", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "difvmo", 
+    "idx": 111, 
+    "namespace": "wcrp:cmip5:variable:difvmo", 
+    "status": "pending", 
+    "uid": "38b40a90-6047-4128-89fd-8010d7d53dc5"
+}

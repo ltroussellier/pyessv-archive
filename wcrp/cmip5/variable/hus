@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hus", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "hus", 
+    "idx": 240, 
+    "namespace": "wcrp:cmip5:variable:hus", 
+    "status": "pending", 
+    "uid": "dd47e266-18d0-423e-81a4-da7a12e38969"
+}

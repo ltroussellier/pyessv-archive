@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "phyfe", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "phyfe", 
+    "idx": 329, 
+    "namespace": "wcrp:cmip5:variable:phyfe", 
+    "status": "pending", 
+    "uid": "f7aec6be-4fa5-4326-b218-e68281ee86b7"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "phyc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "phyc", 
+    "idx": 325, 
+    "namespace": "wcrp:cmip5:variable:phyc", 
+    "status": "pending", 
+    "uid": "c31b8fd2-b859-49bc-9b49-5b17e84b4bf1"
+}

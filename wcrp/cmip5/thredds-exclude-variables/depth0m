@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "depth0m", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "depth0m", 
+    "idx": 13, 
+    "namespace": "wcrp:cmip5:thredds-exclude-variables:depth0m", 
+    "status": "pending", 
+    "uid": "cbdf0e70-e063-4135-b72c-f20834c7ccd0"
+}

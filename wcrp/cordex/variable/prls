@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "prls", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "prls", 
+    "idx": 95, 
+    "namespace": "wcrp:cordex:variable:prls", 
+    "status": "pending", 
+    "uid": "aac7aa2d-eabd-4062-b0cf-009c79fa8f89"
+}

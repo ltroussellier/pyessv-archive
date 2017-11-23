@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "msftmrhozba", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "msftmrhozba", 
+    "idx": 287, 
+    "namespace": "wcrp:cmip5:variable:msftmrhozba", 
+    "status": "pending", 
+    "uid": "1e8582a4-d18b-45dd-bb53-47040950f4e2"
+}

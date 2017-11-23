@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "intpbfe", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "intpbfe", 
+    "idx": 246, 
+    "namespace": "wcrp:cmip5:variable:intpbfe", 
+    "status": "pending", 
+    "uid": "0b51015b-cecc-4032-9dab-dbc957462089"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sem", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "sem", 
+    "idx": 3, 
+    "namespace": "wcrp:cordex:time-frequency:sem", 
+    "status": "pending", 
+    "uid": "825d3276-3281-4cc0-b5c9-ab78be369ebd"
+}

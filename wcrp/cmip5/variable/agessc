@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "agessc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "agessc", 
+    "idx": 2, 
+    "namespace": "wcrp:cmip5:variable:agessc", 
+    "status": "pending", 
+    "uid": "e34b61a8-d164-4b85-b7b7-f58660b81650"
+}

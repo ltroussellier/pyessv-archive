@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "co2mass", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "co2mass", 
+    "idx": 83, 
+    "namespace": "wcrp:cmip5:variable:co2mass", 
+    "status": "pending", 
+    "uid": "d7ca916e-74d5-42bc-aeea-ff5eea9fbabd"
+}

@@ -6,7 +6,9 @@
         "activity_id": [
             "RFMIP"
         ], 
-        "additional_allowed_model_components": "", 
+        "additional_allowed_model_components": [
+            ""
+        ], 
         "end_year": "", 
         "experiment": "offline assessment of radiative transfer parmeterizations in clear skies", 
         "experiment_id": "rad-irf", 

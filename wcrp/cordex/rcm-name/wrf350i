@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "wrf350i", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "idx": 39, 
+    "label": "WRF350I", 
+    "namespace": "wcrp:cordex:rcm-name:wrf350i", 
+    "raw_name": "WRF350I", 
+    "status": "pending", 
+    "uid": "3911276f-a503-46e9-9268-f6b72e1d3fe4"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "region", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "region", 
+    "idx": 48, 
+    "namespace": "wcrp:cmip5:thredds-exclude-variables:region", 
+    "status": "pending", 
+    "uid": "fab338f8-41bb-4216-8678-8862a8148337"
+}

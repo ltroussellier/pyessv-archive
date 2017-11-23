@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "intpdiat", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "intpdiat", 
+    "idx": 250, 
+    "namespace": "wcrp:cmip5:variable:intpdiat", 
+    "status": "pending", 
+    "uid": "fe7d68d7-39e2-41d5-b256-347cd6875789"
+}

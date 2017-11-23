@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sza5", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "sza5", 
+    "idx": 63, 
+    "namespace": "wcrp:cordex:thredds-exclude-variables:sza5", 
+    "status": "pending", 
+    "uid": "a901ae94-8ad7-46e2-bcbf-0246cc8440b4"
+}

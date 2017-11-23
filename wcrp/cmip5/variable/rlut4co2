@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rlut4co2", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "rlut4co2", 
+    "idx": 389, 
+    "namespace": "wcrp:cmip5:variable:rlut4co2", 
+    "status": "pending", 
+    "uid": "32c0b2ab-59cc-4c12-90fb-19a1fad6d05b"
+}

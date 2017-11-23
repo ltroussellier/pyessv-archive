@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "v200", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "v200", 
+    "idx": 164, 
+    "namespace": "wcrp:cordex:variable:v200", 
+    "status": "pending", 
+    "uid": "ef6a7a4e-87a6-4b1e-be23-759ca4eb7443"
+}

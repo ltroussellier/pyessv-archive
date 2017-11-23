@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "pradjust", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "prAdjust", 
+    "idx": 342, 
+    "label": "prAdjust", 
+    "namespace": "wcrp:cmip5:variable:pradjust", 
+    "raw_name": "prAdjust", 
+    "status": "pending", 
+    "uid": "aa5e4999-70ba-4519-9d97-6b8756e344a3"
+}

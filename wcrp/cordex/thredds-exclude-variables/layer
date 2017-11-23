@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "layer", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "layer", 
+    "idx": 28, 
+    "namespace": "wcrp:cordex:thredds-exclude-variables:layer", 
+    "status": "pending", 
+    "uid": "3fb63ea0-6b57-4abb-b1dd-37264edb5ca9"
+}

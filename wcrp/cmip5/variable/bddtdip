@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "bddtdip", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "bddtdip", 
+    "idx": 15, 
+    "namespace": "wcrp:cmip5:variable:bddtdip", 
+    "status": "pending", 
+    "uid": "5072dd25-a223-4355-81a4-2c93eb3f6b5f"
+}

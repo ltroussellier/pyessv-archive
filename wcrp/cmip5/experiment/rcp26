@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rcp26", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "RCP2.6", 
+    "idx": 91, 
+    "namespace": "wcrp:cmip5:experiment:rcp26", 
+    "status": "pending", 
+    "uid": "6be6e47a-4a96-46aa-8744-0ce684f030ff"
+}

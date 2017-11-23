@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sic", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "sic", 
+    "idx": 437, 
+    "namespace": "wcrp:cmip5:variable:sic", 
+    "status": "pending", 
+    "uid": "393c4d20-0e7f-4bb8-b34a-3c77488389fa"
+}

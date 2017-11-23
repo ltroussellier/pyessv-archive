@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "plevs", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "plevs", 
+    "idx": 47, 
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:plevs", 
+    "status": "pending", 
+    "uid": "3837232e-caa9-483f-9f04-43cf7551063d"
+}

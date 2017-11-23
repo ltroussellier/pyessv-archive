@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "mohc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "MOHC", 
+    "idx": 22, 
+    "label": "MOHC", 
+    "namespace": "wcrp:cordex:institute:mohc", 
+    "raw_name": "MOHC", 
+    "status": "pending", 
+    "uid": "7219da61-be54-4387-9368-1192f13d6dfa"
+}

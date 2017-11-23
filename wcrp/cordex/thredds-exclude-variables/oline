@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "oline", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "oline", 
+    "idx": 40, 
+    "namespace": "wcrp:cordex:thredds-exclude-variables:oline", 
+    "status": "pending", 
+    "uid": "b89faeec-4441-4cd7-920f-cf0d7b19b99f"
+}

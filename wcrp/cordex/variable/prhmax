@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "prhmax", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "prhmax", 
+    "idx": 94, 
+    "namespace": "wcrp:cordex:variable:prhmax", 
+    "status": "pending", 
+    "uid": "9176de9d-e2b9-433c-8414-6f39b18f3d69"
+}

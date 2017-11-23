@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "depth", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "depth", 
+    "idx": 12, 
+    "namespace": "wcrp:cmip5:thredds-exclude-variables:depth", 
+    "status": "pending", 
+    "uid": "60cb10ca-569f-442b-a135-cc4b3924dd05"
+}

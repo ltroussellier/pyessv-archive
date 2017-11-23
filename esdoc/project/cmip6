@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "cmip6", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "idx": 1, 
+    "label": "CMIP6", 
+    "namespace": "esdoc:errata:project:cmip6", 
+    "status": "pending", 
+    "uid": "c64d6cd0-34b2-4056-8bdf-d7eb546b09ea"
+}

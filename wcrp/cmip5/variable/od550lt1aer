@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "od550lt1aer", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "od550lt1aer", 
+    "idx": 307, 
+    "namespace": "wcrp:cmip5:variable:od550lt1aer", 
+    "status": "pending", 
+    "uid": "02d62da8-1a5a-4154-bb61-43c934fb9ac6"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "exparag", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "exparag", 
+    "idx": 160, 
+    "namespace": "wcrp:cmip5:variable:exparag", 
+    "status": "pending", 
+    "uid": "cb691a61-341a-42e2-89c5-8f204632df94"
+}

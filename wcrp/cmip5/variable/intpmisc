@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "intpmisc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "intpmisc", 
+    "idx": 252, 
+    "namespace": "wcrp:cmip5:variable:intpmisc", 
+    "status": "pending", 
+    "uid": "ebfa331a-eaec-40fa-824f-b77c77bb6081"
+}

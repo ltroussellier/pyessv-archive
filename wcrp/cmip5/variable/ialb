@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ialb", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "ialb", 
+    "idx": 242, 
+    "namespace": "wcrp:cmip5:variable:ialb", 
+    "status": "pending", 
+    "uid": "fdc7ca9b-8587-421b-bcc6-462503b24782"
+}

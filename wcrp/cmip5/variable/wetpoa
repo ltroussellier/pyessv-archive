@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "wetpoa", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "wetpoa", 
+    "idx": 575, 
+    "namespace": "wcrp:cmip5:variable:wetpoa", 
+    "status": "pending", 
+    "uid": "236cb00a-60c5-494c-914d-3b0d2a72758a"
+}

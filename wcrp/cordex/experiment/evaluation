@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "evaluation", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "Evaluation", 
+    "idx": 0, 
+    "namespace": "wcrp:cordex:experiment:evaluation", 
+    "status": "pending", 
+    "uid": "aeb05b5a-2779-472e-b6b1-d1b6f911e8de"
+}

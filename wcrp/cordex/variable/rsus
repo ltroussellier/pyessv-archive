@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rsus", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "rsus", 
+    "idx": 105, 
+    "namespace": "wcrp:cordex:variable:rsus", 
+    "status": "pending", 
+    "uid": "e6b635bf-9b6c-45fa-a4f1-588debb0bbc4"
+}

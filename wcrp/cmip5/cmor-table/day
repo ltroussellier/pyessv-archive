@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "day", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "day", 
+    "idx": 16, 
+    "namespace": "wcrp:cmip5:cmor-table:day", 
+    "status": "pending", 
+    "uid": "c3bb4e46-848e-4f00-a874-c3f4da6dcee3"
+}

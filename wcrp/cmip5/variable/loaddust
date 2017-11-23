@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "loaddust", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "loaddust", 
+    "idx": 260, 
+    "namespace": "wcrp:cmip5:variable:loaddust", 
+    "status": "pending", 
+    "uid": "2b8fb1a2-3f25-4f05-a35a-7fc8dccf0dde"
+}

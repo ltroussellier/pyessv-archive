@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "grlateral", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "grLateral", 
+    "idx": 206, 
+    "label": "grLateral", 
+    "namespace": "wcrp:cmip5:variable:grlateral", 
+    "raw_name": "grLateral", 
+    "status": "pending", 
+    "uid": "11f02fb7-5386-4f97-8034-742129603d06"
+}

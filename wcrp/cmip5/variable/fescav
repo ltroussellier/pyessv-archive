@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "fescav", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "fescav", 
+    "idx": 190, 
+    "namespace": "wcrp:cmip5:variable:fescav", 
+    "status": "pending", 
+    "uid": "3d4cd44d-6b96-482f-92fb-991440153230"
+}

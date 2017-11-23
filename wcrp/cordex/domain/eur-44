@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "eur-44", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "Europe", 
+    "idx": 16, 
+    "label": "EUR-44", 
+    "namespace": "wcrp:cordex:domain:eur-44", 
+    "raw_name": "EUR-44", 
+    "status": "pending", 
+    "uid": "bb0168c4-144f-4164-abbe-610c025240e1"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tnsclibfpcl", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tnsclibfpcl", 
+    "idx": 495, 
+    "namespace": "wcrp:cmip5:variable:tnsclibfpcl", 
+    "status": "pending", 
+    "uid": "5c122517-88f8-411c-92e1-fb37d0883460"
+}

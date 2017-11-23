@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "gfdl-cm2p1", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "GFDL-CM2p1", 
+    "idx": 29, 
+    "label": "GFDL-CM2p1", 
+    "namespace": "wcrp:cmip5:model:gfdl-cm2p1", 
+    "raw_name": "GFDL-CM2p1", 
+    "status": "pending", 
+    "uid": "6a8e4c38-7c70-477a-b2d2-fd0a67d7199e"
+}

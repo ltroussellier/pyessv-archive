@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "latitude", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "latitude", 
+    "idx": 22, 
+    "namespace": "wcrp:cmip5:thredds-exclude-variables:latitude", 
+    "status": "pending", 
+    "uid": "a2a125eb-d724-4d93-8959-0d088b6a04de"
+}

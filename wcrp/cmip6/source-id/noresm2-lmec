@@ -16,7 +16,7 @@
         "model_component": {
             "aerosol": {
                 "description": "OsloAero", 
-                "nominal_resolution": ""
+                "nominal_resolution": "250 km"
             }, 
             "atmos": {
                 "description": "CAM-OSLO (2 degree resolution; 144 x 96; 32 levels; top level 3 mb)", 
@@ -24,11 +24,11 @@
             }, 
             "atmosChem": {
                 "description": "OsloChemComp", 
-                "nominal_resolution": ""
+                "nominal_resolution": "250 km"
             }, 
             "land": {
                 "description": "CLM", 
-                "nominal_resolution": ""
+                "nominal_resolution": "250 km"
             }, 
             "landIce": {
                 "description": "CISM", 
@@ -40,17 +40,17 @@
             }, 
             "ocnBgchem": {
                 "description": "HAMOCC", 
-                "nominal_resolution": ""
+                "nominal_resolution": "100 km"
             }, 
             "seaIce": {
                 "description": "CICE", 
-                "nominal_resolution": ""
+                "nominal_resolution": "100 km"
             }
         }, 
         "release_year": "2017", 
         "source_id": "NorESM2-LMEC"
     }, 
-    "idx": 47, 
+    "idx": 50, 
     "label": "NorESM2-LMEC", 
     "namespace": "wcrp:cmip6:source-id:noresm2-lmec", 
     "raw_name": "NorESM2-LMEC", 

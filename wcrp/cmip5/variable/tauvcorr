@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "tauvcorr", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tauvcorr", 
+    "idx": 471, 
+    "namespace": "wcrp:cmip5:variable:tauvcorr", 
+    "status": "pending", 
+    "uid": "8b89010b-45df-4ad7-8525-61d8222478ed"
+}

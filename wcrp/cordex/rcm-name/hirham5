@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "hirham5", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "idx": 15, 
+    "label": "HIRHAM5", 
+    "namespace": "wcrp:cordex:rcm-name:hirham5", 
+    "raw_name": "HIRHAM5", 
+    "status": "pending", 
+    "uid": "9bf754f5-fb7a-44cb-b1ef-df203e69be65"
+}

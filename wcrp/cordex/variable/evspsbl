@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "evspsbl", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "evspsbl", 
+    "idx": 48, 
+    "namespace": "wcrp:cordex:variable:evspsbl", 
+    "status": "pending", 
+    "uid": "b261b989-d9e8-439f-93a2-98c29ddb6e5b"
+}

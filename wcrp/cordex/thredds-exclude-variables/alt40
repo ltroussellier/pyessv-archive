@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "alt40", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "alt40", 
+    "idx": 5, 
+    "namespace": "wcrp:cordex:thredds-exclude-variables:alt40", 
+    "status": "pending", 
+    "uid": "3126f464-d354-4d9f-a704-8ed24a351b46"
+}

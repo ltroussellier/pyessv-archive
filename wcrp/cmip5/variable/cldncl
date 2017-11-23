@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "cldncl", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "cldncl", 
+    "idx": 62, 
+    "namespace": "wcrp:cmip5:variable:cldncl", 
+    "status": "pending", 
+    "uid": "fd02c8b8-e290-44cc-ba34-4eaf76c4385f"
+}

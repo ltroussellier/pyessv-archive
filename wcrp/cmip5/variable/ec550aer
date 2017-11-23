@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "ec550aer", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "ec550aer", 
+    "idx": 135, 
+    "namespace": "wcrp:cmip5:variable:ec550aer", 
+    "status": "pending", 
+    "uid": "d6bc3a2c-4904-4d98-aa41-64a8aa94d6b3"
+}

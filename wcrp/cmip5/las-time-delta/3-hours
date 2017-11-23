@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "3-hours", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "idx": 4, 
+    "label": "3 hours", 
+    "namespace": "wcrp:cmip5:las-time-delta:3-hours", 
+    "raw_name": "3 hours", 
+    "status": "pending", 
+    "uid": "d7aa6514-430b-4514-880a-505297246eba"
+}

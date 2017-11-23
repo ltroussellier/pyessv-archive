@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "iitm", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "IITM", 
+    "idx": 17, 
+    "label": "IITM", 
+    "namespace": "wcrp:cordex:institute:iitm", 
+    "raw_name": "IITM", 
+    "status": "pending", 
+    "uid": "b3a4281f-0ab7-41de-a7e9-f9aff3c96f46"
+}

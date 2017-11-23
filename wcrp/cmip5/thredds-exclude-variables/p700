@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "p700", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "p700", 
+    "idx": 39, 
+    "namespace": "wcrp:cmip5:thredds-exclude-variables:p700", 
+    "status": "pending", 
+    "uid": "8f0bb398-3b9b-4900-9f2a-0a815c54dc17"
+}

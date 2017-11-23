@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "sconcdust", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "sconcdust", 
+    "idx": 420, 
+    "namespace": "wcrp:cmip5:variable:sconcdust", 
+    "status": "pending", 
+    "uid": "06cdd3ae-8244-4767-a1e3-9de07aa41cdb"
+}

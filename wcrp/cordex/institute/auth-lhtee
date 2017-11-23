@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "auth-lhtee", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "AUTH-LHTEE", 
+    "idx": 0, 
+    "label": "AUTH-LHTEE", 
+    "namespace": "wcrp:cordex:institute:auth-lhtee", 
+    "raw_name": "AUTH-LHTEE", 
+    "status": "pending", 
+    "uid": "689ebdc9-4167-428e-9bf9-104d7052fce6"
+}

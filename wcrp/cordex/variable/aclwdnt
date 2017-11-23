@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "aclwdnt", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "aclwdnt", 
+    "idx": 0, 
+    "namespace": "wcrp:cordex:variable:aclwdnt", 
+    "status": "pending", 
+    "uid": "caf1e065-faf8-40a9-8197-d26e8f2af176"
+}

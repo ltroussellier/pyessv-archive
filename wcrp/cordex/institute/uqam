@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "uqam", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "UQAM", 
+    "idx": 31, 
+    "label": "UQAM", 
+    "namespace": "wcrp:cordex:institute:uqam", 
+    "raw_name": "UQAM", 
+    "status": "pending", 
+    "uid": "8ae504be-ee96-4de4-8a6a-24712b7e60d3"
+}

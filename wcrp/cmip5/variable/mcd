@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "mcd", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "mcd", 
+    "idx": 272, 
+    "namespace": "wcrp:cmip5:variable:mcd", 
+    "status": "pending", 
+    "uid": "5b15e451-6195-4c18-a583-725104bde0a5"
+}

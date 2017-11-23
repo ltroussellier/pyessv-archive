@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "3hr", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "3hr", 
+    "idx": 0, 
+    "namespace": "wcrp:cmip5:time-frequency:3hr", 
+    "status": "pending", 
+    "uid": "1924332a-77c5-48c3-8cac-b2787f81fa0b"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "albs", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "albs", 
+    "idx": 4, 
+    "namespace": "wcrp:cmip5:variable:albs", 
+    "status": "pending", 
+    "uid": "2822117c-9a45-4e7d-bef2-3d8940088650"
+}

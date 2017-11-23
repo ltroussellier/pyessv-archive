@@ -1,0 +1,11 @@
+{
+    "_type": "term", 
+    "canonical_name": "mri", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "idx": 59, 
+    "label": "MRI", 
+    "namespace": "wcrp:cmip5:institute:mri", 
+    "raw_name": "MRI", 
+    "status": "pending", 
+    "uid": "ec70a408-4330-4225-925b-0879927623bc"
+}

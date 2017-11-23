@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "v1a", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "v1a", 
+    "idx": 6, 
+    "namespace": "wcrp:cordex:rcm-version:v1a", 
+    "status": "pending", 
+    "uid": "03792096-8f44-4a66-83de-760edca84345"
+}

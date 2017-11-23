@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "swit", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "swit", 
+    "idx": 459, 
+    "namespace": "wcrp:cmip5:variable:swit", 
+    "status": "pending", 
+    "uid": "4158f583-6ecf-4344-b56e-f3e80ed93c76"
+}

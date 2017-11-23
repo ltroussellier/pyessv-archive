@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "inc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "inc", 
+    "idx": 243, 
+    "namespace": "wcrp:cmip5:variable:inc", 
+    "status": "pending", 
+    "uid": "43e3ad8b-d1dc-41b2-95e5-69d9b88fb85d"
+}

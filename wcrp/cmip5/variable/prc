@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "prc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "prc", 
+    "idx": 343, 
+    "namespace": "wcrp:cmip5:variable:prc", 
+    "status": "pending", 
+    "uid": "d1b49f8e-53ca-4ec3-b3e4-dcdab44af792"
+}

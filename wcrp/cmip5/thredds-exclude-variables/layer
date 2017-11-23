@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "layer", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "layer", 
+    "idx": 24, 
+    "namespace": "wcrp:cmip5:thredds-exclude-variables:layer", 
+    "status": "pending", 
+    "uid": "9d8c737c-97f7-41c8-9977-7dcf7333f0da"
+}

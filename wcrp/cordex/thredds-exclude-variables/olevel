@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "olevel", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "olevel", 
+    "idx": 39, 
+    "namespace": "wcrp:cordex:thredds-exclude-variables:olevel", 
+    "status": "pending", 
+    "uid": "1ee6649d-d979-4416-a8d8-9ced24d2b073"
+}

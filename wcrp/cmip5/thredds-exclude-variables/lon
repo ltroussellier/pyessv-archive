@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "lon", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "lon", 
+    "idx": 28, 
+    "namespace": "wcrp:cmip5:thredds-exclude-variables:lon", 
+    "status": "pending", 
+    "uid": "3d35317c-6612-4fd1-89a1-88041f810100"
+}

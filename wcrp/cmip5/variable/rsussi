@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rsussi", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "rsussi", 
+    "idx": 410, 
+    "namespace": "wcrp:cmip5:variable:rsussi", 
+    "status": "pending", 
+    "uid": "d26b57a5-eab6-455e-97cf-d70429966f6e"
+}

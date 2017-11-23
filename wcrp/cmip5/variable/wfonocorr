@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "wfonocorr", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "wfonocorr", 
+    "idx": 582, 
+    "namespace": "wcrp:cmip5:variable:wfonocorr", 
+    "status": "pending", 
+    "uid": "f76041a8-01c2-4e2e-ab3a-8dc0acad0e45"
+}

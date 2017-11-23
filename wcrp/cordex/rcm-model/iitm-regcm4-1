@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "iitm-regcm4-1", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "IITM-RegCM4-1", 
+    "idx": 22, 
+    "label": "IITM-RegCM4-1", 
+    "namespace": "wcrp:cordex:rcm-model:iitm-regcm4-1", 
+    "raw_name": "IITM-RegCM4-1", 
+    "status": "pending", 
+    "uid": "002a8939-d3ab-4760-99d2-8fb8ee574a7e"
+}

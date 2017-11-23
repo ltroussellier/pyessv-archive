@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "friver", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "friver", 
+    "idx": 197, 
+    "namespace": "wcrp:cmip5:variable:friver", 
+    "status": "pending", 
+    "uid": "c0566eca-5d33-4680-8833-d46268d6ca1a"
+}

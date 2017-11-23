@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hfxdiff", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "hfxdiff", 
+    "idx": 232, 
+    "namespace": "wcrp:cmip5:variable:hfxdiff", 
+    "status": "pending", 
+    "uid": "2b2bd137-fa78-4945-a43e-59d7352e3711"
+}

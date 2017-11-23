@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "mrsos", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "mrsos", 
+    "idx": 87, 
+    "namespace": "wcrp:cordex:variable:mrsos", 
+    "status": "pending", 
+    "uid": "22c6c07c-f1c2-4490-9673-26c9dcfb2539"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "va925", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "va925", 
+    "idx": 177, 
+    "namespace": "wcrp:cordex:variable:va925", 
+    "status": "pending", 
+    "uid": "ea579e1c-7a0b-4f52-a56b-fd58d00ad636"
+}

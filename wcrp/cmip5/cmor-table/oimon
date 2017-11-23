@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "oimon", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "OImon", 
+    "idx": 6, 
+    "label": "OImon", 
+    "namespace": "wcrp:cmip5:cmor-table:oimon", 
+    "raw_name": "OImon", 
+    "status": "pending", 
+    "uid": "1e2be73a-3ad6-4813-9371-a0ffac53a306"
+}

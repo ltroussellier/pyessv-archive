@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "talk", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "talk", 
+    "idx": 462, 
+    "namespace": "wcrp:cmip5:variable:talk", 
+    "status": "pending", 
+    "uid": "bc442cae-ddf4-47f5-b953-30b9026f323a"
+}

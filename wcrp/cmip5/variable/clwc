@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "clwc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "clwc", 
+    "idx": 79, 
+    "namespace": "wcrp:cmip5:variable:clwc", 
+    "status": "pending", 
+    "uid": "fa5cdd36-2334-47d1-9ac1-1c160dc5c9eb"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "reffclic", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "reffclic", 
+    "idx": 358, 
+    "namespace": "wcrp:cmip5:variable:reffclic", 
+    "status": "pending", 
+    "uid": "fdf26480-0e96-4023-a912-adf75a40e9bd"
+}

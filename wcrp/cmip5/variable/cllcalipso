@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "cllcalipso", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "cllcalipso", 
+    "idx": 70, 
+    "namespace": "wcrp:cmip5:variable:cllcalipso", 
+    "status": "pending", 
+    "uid": "42e76eca-381c-4587-85ef-d3fec3d9ab3f"
+}

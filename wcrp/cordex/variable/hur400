@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hur400", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "hur400", 
+    "idx": 56, 
+    "namespace": "wcrp:cordex:variable:hur400", 
+    "status": "pending", 
+    "uid": "063b2fc5-4993-4132-8e5a-750d5d1c620d"
+}

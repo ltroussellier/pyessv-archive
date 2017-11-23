@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "historical", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "Historical", 
+    "idx": 1, 
+    "namespace": "wcrp:cordex:experiment:historical", 
+    "status": "pending", 
+    "uid": "0823e5b4-3bed-46d3-b80a-f34debab114f"
+}

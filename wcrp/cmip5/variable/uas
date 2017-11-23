@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "uas", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "uas", 
+    "idx": 551, 
+    "namespace": "wcrp:cmip5:variable:uas", 
+    "status": "pending", 
+    "uid": "04f22d72-885b-47d8-9fd9-48896601ec45"
+}

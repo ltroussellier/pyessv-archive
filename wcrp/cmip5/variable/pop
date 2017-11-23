@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "pop", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "pop", 
+    "idx": 339, 
+    "namespace": "wcrp:cmip5:variable:pop", 
+    "status": "pending", 
+    "uid": "e2171667-a952-48bb-8087-e886d2809702"
+}

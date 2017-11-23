@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "plev-bnds", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "plev_bnds", 
+    "idx": 45, 
+    "label": "plev_bnds", 
+    "namespace": "wcrp:cmip5:thredds-exclude-variables:plev-bnds", 
+    "raw_name": "plev_bnds", 
+    "status": "pending", 
+    "uid": "244ae9de-5bea-4473-9210-6a6e63a6cd12"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "pr", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "pr", 
+    "idx": 92, 
+    "namespace": "wcrp:cordex:variable:pr", 
+    "status": "pending", 
+    "uid": "453a5d41-52a8-49db-a2ba-cf6e89837934"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "rsus", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "rsus", 
+    "idx": 408, 
+    "namespace": "wcrp:cmip5:variable:rsus", 
+    "status": "pending", 
+    "uid": "a0a7c33e-dbad-4e59-b686-b75dddfb9d9e"
+}

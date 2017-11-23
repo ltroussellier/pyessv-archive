@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "epsi100", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "epsi100", 
+    "idx": 151, 
+    "namespace": "wcrp:cmip5:variable:epsi100", 
+    "status": "pending", 
+    "uid": "3ff24a3c-9308-4b91-be55-04696bb2fe7d"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "aqua4k", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "Aqua planet plus 4K anomaly", 
+    "idx": 6, 
+    "label": "aqua4K", 
+    "namespace": "wcrp:cmip5:experiment:aqua4k", 
+    "raw_name": "aqua4K", 
+    "status": "pending", 
+    "uid": "e49d6960-1979-428d-bc67-8801b321f5a2"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "tau-bnds", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "tau_bnds", 
+    "idx": 56, 
+    "label": "tau_bnds", 
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:tau-bnds", 
+    "raw_name": "tau_bnds", 
+    "status": "pending", 
+    "uid": "13049f7a-397b-4c7f-bb7a-1b1c00f2b062"
+}

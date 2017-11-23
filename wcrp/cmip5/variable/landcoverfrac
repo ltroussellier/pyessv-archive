@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "landcoverfrac", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "landCoverFrac", 
+    "idx": 258, 
+    "label": "landCoverFrac", 
+    "namespace": "wcrp:cmip5:variable:landcoverfrac", 
+    "raw_name": "landCoverFrac", 
+    "status": "pending", 
+    "uid": "f420d6a0-3006-434a-86e7-abd3d4a5c773"
+}

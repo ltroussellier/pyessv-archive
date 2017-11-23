@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "prlsns", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "prlsns", 
+    "idx": 345, 
+    "namespace": "wcrp:cmip5:variable:prlsns", 
+    "status": "pending", 
+    "uid": "c372915f-2231-4a2c-b411-3f19efac18f9"
+}

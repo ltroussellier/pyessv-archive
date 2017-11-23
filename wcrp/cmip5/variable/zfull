@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "zfull", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "zfull", 
+    "idx": 585, 
+    "namespace": "wcrp:cmip5:variable:zfull", 
+    "status": "pending", 
+    "uid": "80e9514e-fd08-42d1-8326-af34b9e61a7a"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "abs550aer", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "abs550aer", 
+    "idx": 0, 
+    "namespace": "wcrp:cmip5:variable:abs550aer", 
+    "status": "pending", 
+    "uid": "86802f77-5902-4703-ae07-08e9ebfe3018"
+}
