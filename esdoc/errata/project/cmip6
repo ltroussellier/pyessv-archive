@@ -4,6 +4,7 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
         "facets": [
+            "wcrp:cmip6:institution-id", 
             "wcrp:cmip6:experiment-id", 
             "wcrp:cmip6:source-id", 
             "wcrp:cmip6:variable"
@@ -14,5 +15,5 @@
     "label": "CMIP6", 
     "namespace": "esdoc:errata:project:cmip6", 
     "status": "pending", 
-    "uid": "083ca095-309f-49ab-a7e8-70fc137d1953"
+    "uid": "c8b3409e-76e2-425b-b4a2-4d115cbad903"
 }

@@ -4,6 +4,7 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
         "facets": [
+            "wcrp:cmip5:institute", 
             "wcrp:cmip5:experiment", 
             "wcrp:cmip5:model", 
             "wcrp:cmip5:variable"
@@ -14,5 +15,5 @@
     "label": "CMIP5", 
     "namespace": "esdoc:errata:project:cmip5", 
     "status": "pending", 
-    "uid": "de4702b0-ea63-4c45-b99c-39a9382c402f"
+    "uid": "b28f9031-3f6d-46df-8310-2f308c32123e"
 }

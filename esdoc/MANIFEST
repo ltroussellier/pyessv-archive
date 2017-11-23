@@ -1,0 +1,71 @@
+{
+    "_type": "authority", 
+    "canonical_name": "esdoc", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "Earth System Documentation", 
+    "label": "ES-DOC", 
+    "namespace": "esdoc", 
+    "scopes": [
+        {
+            "_type": "scope", 
+            "canonical_name": "errata", 
+            "collections": [
+                {
+                    "_type": "collection", 
+                    "canonical_name": "project", 
+                    "create_date": "2017-06-21 00:00:00+00:00", 
+                    "description": "Errata supported project codes", 
+                    "label": "Project", 
+                    "namespace": "esdoc:errata:project", 
+                    "term_regex": "^[a-z0-9\\-]*$", 
+                    "terms": [
+                        "cmip5:CMIP5", 
+                        "cmip6:CMIP6", 
+                        "cordex:CORDEX"
+                    ], 
+                    "uid": "e5260b23-0cc9-463b-bdff-8694209487b3"
+                }, 
+                {
+                    "_type": "collection", 
+                    "canonical_name": "severity", 
+                    "create_date": "2017-06-21 00:00:00+00:00", 
+                    "description": "Errata severity codes", 
+                    "label": "Severity", 
+                    "namespace": "esdoc:errata:severity", 
+                    "term_regex": "^[a-z0-9\\-]*$", 
+                    "terms": [
+                        "critical:Critical", 
+                        "high:High", 
+                        "low:Low", 
+                        "medium:Medium"
+                    ], 
+                    "uid": "46c835ac-3b3e-40dc-b174-92735e240d32"
+                }, 
+                {
+                    "_type": "collection", 
+                    "canonical_name": "status", 
+                    "create_date": "2017-06-21 00:00:00+00:00", 
+                    "description": "Errata status codes", 
+                    "label": "Status", 
+                    "namespace": "esdoc:errata:status", 
+                    "term_regex": "^[a-z0-9\\-]*$", 
+                    "terms": [
+                        "new:New", 
+                        "onhold:On Hold", 
+                        "resolved:Resolved", 
+                        "wontfix:Wont Fix"
+                    ], 
+                    "uid": "16f8808f-4a57-436b-8d17-a928f7123729"
+                }
+            ], 
+            "create_date": "2017-06-21 00:00:00+00:00", 
+            "description": "Controlled Vocabularies (CVs) for use in dataset errata", 
+            "label": "Dataset Errata", 
+            "namespace": "esdoc:errata", 
+            "uid": "a94e0ce8-a6f7-4315-be87-1d79bea9feaf", 
+            "url": "https://github.com/ES-DOC/esdoc-errata-ws"
+        }
+    ], 
+    "uid": "f786746b-4734-4512-b493-2423212e6e3b", 
+    "url": "https://es-doc.org"
+}
