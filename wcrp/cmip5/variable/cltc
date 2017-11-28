@@ -3,8 +3,7 @@
     "canonical_name": "cltc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cltc", 
-    "idx": 74, 
     "namespace": "wcrp:cmip5:variable:cltc", 
     "status": "pending", 
-    "uid": "2200cfa4-4347-4c63-9965-3e78c0ae7545"
+    "uid": "6e394ea6-430d-4af3-9885-f7c8872aa749"
 }

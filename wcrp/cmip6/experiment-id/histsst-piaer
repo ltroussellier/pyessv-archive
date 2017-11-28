@@ -30,7 +30,6 @@
         "tier": "2"
     }, 
     "description": "Historical WMGHG, halocarbon concentrations and tropospheric ozone precursors emissions, 1850 aerosol precursor emissions, prescribed SSTs", 
-    "idx": 163, 
     "label": "histSST-piAer", 
     "namespace": "wcrp:cmip6:experiment-id:histsst-piaer", 
     "raw_name": "histSST-piAer", 

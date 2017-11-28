@@ -3,8 +3,7 @@
     "canonical_name": "concdust", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "concdust", 
-    "idx": 93, 
     "namespace": "wcrp:cmip5:variable:concdust", 
     "status": "pending", 
-    "uid": "a638f768-bd6c-4352-aa4b-13f72fa72d50"
+    "uid": "c08a8781-5468-49e6-afc7-0d3d2098351a"
 }

@@ -3,10 +3,9 @@
     "canonical_name": "hadgem2-ao", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "HadGEM2-AO", 
-    "idx": 41, 
     "label": "HadGEM2-AO", 
     "namespace": "wcrp:cmip5:model:hadgem2-ao", 
     "raw_name": "HadGEM2-AO", 
     "status": "pending", 
-    "uid": "dbb3acd6-a06b-483d-b903-e26595f806ec"
+    "uid": "deea2fc5-5119-406b-9f2f-ea3868f993b4"
 }

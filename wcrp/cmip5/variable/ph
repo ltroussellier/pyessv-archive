@@ -3,8 +3,7 @@
     "canonical_name": "ph", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ph", 
-    "idx": 323, 
     "namespace": "wcrp:cmip5:variable:ph", 
     "status": "pending", 
-    "uid": "81c27929-b3ff-4690-8f00-77f1602d9705"
+    "uid": "9d25c2ab-46dd-41c4-9ce2-3fe077f42dd2"
 }

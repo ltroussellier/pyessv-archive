@@ -31,7 +31,6 @@
         "tier": "1"
     }, 
     "description": "DECK: control", 
-    "idx": 115, 
     "label": "piControl", 
     "namespace": "wcrp:cmip6:experiment-id:picontrol", 
     "raw_name": "piControl", 

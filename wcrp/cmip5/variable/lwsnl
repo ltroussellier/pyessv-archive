@@ -3,8 +3,7 @@
     "canonical_name": "lwsnl", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "lwsnl", 
-    "idx": 268, 
     "namespace": "wcrp:cmip5:variable:lwsnl", 
     "status": "pending", 
-    "uid": "dc9e5179-d8aa-4065-aa86-296aee11b7d6"
+    "uid": "ddb9eee8-23bf-4bda-9f77-9e49556b5644"
 }

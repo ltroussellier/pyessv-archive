@@ -3,8 +3,7 @@
     "canonical_name": "phydiat", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "phydiat", 
-    "idx": 327, 
     "namespace": "wcrp:cmip5:variable:phydiat", 
     "status": "pending", 
-    "uid": "5a2fc54c-6a66-4466-b306-8926fe82b951"
+    "uid": "4b10db79-0ec7-4799-bf26-ccc7f6955762"
 }

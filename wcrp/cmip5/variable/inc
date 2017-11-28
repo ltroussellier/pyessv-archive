@@ -3,8 +3,7 @@
     "canonical_name": "inc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "inc", 
-    "idx": 243, 
     "namespace": "wcrp:cmip5:variable:inc", 
     "status": "pending", 
-    "uid": "04cd4b89-f9e3-4f37-90db-f7e9132df71d"
+    "uid": "c1c99932-7191-4073-8c17-8f5e179a508c"
 }

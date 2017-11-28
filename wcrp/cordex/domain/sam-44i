@@ -3,10 +3,9 @@
     "canonical_name": "sam-44i", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "South America", 
-    "idx": 27, 
     "label": "SAM-44i", 
     "namespace": "wcrp:cordex:domain:sam-44i", 
     "raw_name": "SAM-44i", 
     "status": "pending", 
-    "uid": "9b96a6ee-3e93-4f68-9174-6e08ddff622d"
+    "uid": "2872c909-6448-4366-917b-367c690605fb"
 }

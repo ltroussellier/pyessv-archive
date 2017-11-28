@@ -3,8 +3,7 @@
     "canonical_name": "hfibthermds", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hfibthermds", 
-    "idx": 220, 
     "namespace": "wcrp:cmip5:variable:hfibthermds", 
     "status": "pending", 
-    "uid": "6051f706-a8ca-446d-a478-4e9cce1d7dc4"
+    "uid": "10167af5-d09e-409a-a8a1-2abfca2de91a"
 }

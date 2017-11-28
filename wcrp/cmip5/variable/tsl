@@ -3,8 +3,7 @@
     "canonical_name": "tsl", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tsl", 
-    "idx": 545, 
     "namespace": "wcrp:cmip5:variable:tsl", 
     "status": "pending", 
-    "uid": "870646da-cf77-4c0e-a11d-cb54afdbdbbc"
+    "uid": "9b8f6ea5-d2e2-42f2-aae1-5f91581cda11"
 }

@@ -3,10 +3,9 @@
     "canonical_name": "arc-44", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "The Arctic", 
-    "idx": 4, 
     "label": "ARC-44", 
     "namespace": "wcrp:cordex:domain:arc-44", 
     "raw_name": "ARC-44", 
     "status": "pending", 
-    "uid": "f493a0fd-045b-4cda-817f-cc7cd2650f30"
+    "uid": "ada49ae0-1a99-4107-a71a-823829483da4"
 }

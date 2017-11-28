@@ -3,8 +3,7 @@
     "canonical_name": "ssi", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ssi", 
-    "idx": 453, 
     "namespace": "wcrp:cmip5:variable:ssi", 
     "status": "pending", 
-    "uid": "a0c948a3-fd00-49a8-9d32-f0d6169def39"
+    "uid": "23d3122a-304c-4e2c-b8c9-fdb50b7b4ad1"
 }

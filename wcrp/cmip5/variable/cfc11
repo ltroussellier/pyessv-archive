@@ -3,8 +3,7 @@
     "canonical_name": "cfc11", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cfc11", 
-    "idx": 43, 
     "namespace": "wcrp:cmip5:variable:cfc11", 
     "status": "pending", 
-    "uid": "954becee-b9c9-4a63-ae06-485ba877075a"
+    "uid": "cdd11ca0-c479-4f03-a7c4-849a0e85ca6b"
 }

@@ -30,7 +30,6 @@
         "tier": "2"
     }, 
     "description": "Same as land-hist but with irrigated area held at 1850 levels", 
-    "idx": 89, 
     "label": "land-crop-noIrrig", 
     "namespace": "wcrp:cmip6:experiment-id:land-crop-noirrig", 
     "raw_name": "land-crop-noIrrig", 

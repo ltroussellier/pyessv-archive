@@ -3,8 +3,7 @@
     "canonical_name": "ch4global", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ch4global", 
-    "idx": 48, 
     "namespace": "wcrp:cmip5:variable:ch4global", 
     "status": "pending", 
-    "uid": "7f1f0b86-9320-41c3-9a0f-b61cd95e16aa"
+    "uid": "1514b70e-522e-4328-a468-142e80b8cdb5"
 }

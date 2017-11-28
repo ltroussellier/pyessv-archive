@@ -3,10 +3,9 @@
     "canonical_name": "iitm", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "IITM", 
-    "idx": 17, 
     "label": "IITM", 
     "namespace": "wcrp:cordex:institute:iitm", 
     "raw_name": "IITM", 
     "status": "pending", 
-    "uid": "a4bee24c-a4e7-40dc-a540-cbf44a139e31"
+    "uid": "dd7ded71-39cf-4937-88ef-ab94f7071fd6"
 }

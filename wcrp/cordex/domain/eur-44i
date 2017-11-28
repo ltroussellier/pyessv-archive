@@ -3,10 +3,9 @@
     "canonical_name": "eur-44i", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Europe", 
-    "idx": 17, 
     "label": "EUR-44i", 
     "namespace": "wcrp:cordex:domain:eur-44i", 
     "raw_name": "EUR-44i", 
     "status": "pending", 
-    "uid": "d620eef5-9407-479b-82f2-57518dffc45a"
+    "uid": "cfe33f61-bba8-4791-b064-ed9f3aaa83db"
 }

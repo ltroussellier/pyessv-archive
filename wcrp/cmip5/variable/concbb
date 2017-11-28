@@ -3,8 +3,7 @@
     "canonical_name": "concbb", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "concbb", 
-    "idx": 89, 
     "namespace": "wcrp:cmip5:variable:concbb", 
     "status": "pending", 
-    "uid": "6e7895ed-1a87-4c08-872a-5ecd4f3f60a2"
+    "uid": "5f473acf-e58a-45eb-a8f9-017e289c668c"
 }

@@ -31,7 +31,6 @@
         "tier": "1"
     }, 
     "description": "Historical (non-CH4) WMGHG concentrations and NTCF emissions, 1850 CH4 concentrations", 
-    "idx": 237, 
     "label": "histSST-piCH4", 
     "namespace": "wcrp:cmip6:experiment-id:histsst-pich4", 
     "raw_name": "histSST-piCH4", 

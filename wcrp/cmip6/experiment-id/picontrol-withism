@@ -32,7 +32,6 @@
         "tier": "1"
     }, 
     "description": "Pre-industrial control simulation that includes interactive ice sheets", 
-    "idx": 179, 
     "label": "piControl-withism", 
     "namespace": "wcrp:cmip6:experiment-id:picontrol-withism", 
     "raw_name": "piControl-withism", 

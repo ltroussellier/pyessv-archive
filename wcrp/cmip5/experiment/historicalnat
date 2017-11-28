@@ -3,10 +3,9 @@
     "canonical_name": "historicalnat", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Historical with natural forcing only", 
-    "idx": 76, 
     "label": "historicalNat", 
     "namespace": "wcrp:cmip5:experiment:historicalnat", 
     "raw_name": "historicalNat", 
     "status": "pending", 
-    "uid": "fe61ce7c-aae2-4a6f-9395-892df27e02f5"
+    "uid": "a3c82a1a-ad22-4c47-b91f-b2ab2e5a7c06"
 }

@@ -5,7 +5,6 @@
     "data": {
         "postal_address": "Goddard Institute for Space Studies, New York, NY 10025, USA"
     }, 
-    "idx": 23, 
     "label": "NASA-GISS", 
     "namespace": "wcrp:cmip6:institution-id:nasa-giss", 
     "raw_name": "NASA-GISS", 

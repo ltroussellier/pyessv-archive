@@ -3,8 +3,7 @@
     "canonical_name": "grids", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "grids", 
-    "idx": 18, 
     "namespace": "wcrp:cmip5:cmor-table:grids", 
     "status": "pending", 
-    "uid": "4029d463-d84a-4f07-85b1-4a53d5075691"
+    "uid": "9e23f346-c80f-480d-a7ff-f764fd61bf17"
 }

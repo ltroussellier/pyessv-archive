@@ -3,8 +3,7 @@
     "canonical_name": "graz", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "graz", 
-    "idx": 208, 
     "namespace": "wcrp:cmip5:variable:graz", 
     "status": "pending", 
-    "uid": "05ffe0eb-2061-4539-9e34-cffaccd25a59"
+    "uid": "aee91036-8e4f-4772-9202-6bca96247ffc"
 }

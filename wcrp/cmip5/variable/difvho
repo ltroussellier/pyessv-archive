@@ -3,8 +3,7 @@
     "canonical_name": "difvho", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "difvho", 
-    "idx": 110, 
     "namespace": "wcrp:cmip5:variable:difvho", 
     "status": "pending", 
-    "uid": "168d6f0a-5f92-47ed-9119-7759bc9d9923"
+    "uid": "bccba43b-bab4-4ee4-94a6-8d2e1ac2e5cc"
 }

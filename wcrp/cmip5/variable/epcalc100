@@ -3,8 +3,7 @@
     "canonical_name": "epcalc100", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "epcalc100", 
-    "idx": 149, 
     "namespace": "wcrp:cmip5:variable:epcalc100", 
     "status": "pending", 
-    "uid": "07ba4e15-8e40-46ad-b8d5-0ee02615838b"
+    "uid": "148ad698-e4c3-46d3-9b19-a5de6505e213"
 }

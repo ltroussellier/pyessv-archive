@@ -3,10 +3,9 @@
     "canonical_name": "cam-44", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Central America", 
-    "idx": 8, 
     "label": "CAM-44", 
     "namespace": "wcrp:cordex:domain:cam-44", 
     "raw_name": "CAM-44", 
     "status": "pending", 
-    "uid": "abf13ac0-e67b-49c7-ab79-feecc536d757"
+    "uid": "54822238-b307-4ca0-8b4c-d15c042a0b60"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "plev7", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "plev7", 
-    "idx": 44, 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:plev7", 
     "status": "pending", 
-    "uid": "863e7e8b-0437-43a6-a0ee-c644414f9f73"
+    "uid": "f6dfa05f-c6b5-45ea-a661-4c1da056d8c7"
 }

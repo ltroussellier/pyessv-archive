@@ -3,10 +3,9 @@
     "canonical_name": "cmcc-cesm", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "CMCC-CESM", 
-    "idx": 15, 
     "label": "CMCC-CESM", 
     "namespace": "wcrp:cmip5:model:cmcc-cesm", 
     "raw_name": "CMCC-CESM", 
     "status": "pending", 
-    "uid": "cfdd9ca3-f2ba-41b8-9799-2c775126db05"
+    "uid": "04ce3137-0c40-433e-84df-5699f3aea34b"
 }

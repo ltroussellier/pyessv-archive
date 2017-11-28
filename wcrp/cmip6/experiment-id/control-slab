@@ -32,7 +32,6 @@
         "tier": "3"
     }, 
     "description": "slab control run for volc-pinatubo-slab", 
-    "idx": 56, 
     "namespace": "wcrp:cmip6:experiment-id:control-slab", 
     "status": "pending", 
     "uid": "78dd09fc-ff75-46f7-9f52-8e025d30bf1c"

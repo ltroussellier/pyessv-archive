@@ -3,8 +3,7 @@
     "canonical_name": "concoa", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "concoa", 
-    "idx": 96, 
     "namespace": "wcrp:cmip5:variable:concoa", 
     "status": "pending", 
-    "uid": "fc8707bf-8c8b-48eb-bf87-abb2eaa7f11e"
+    "uid": "9a3e200e-3d11-4960-b629-3170434fe14f"
 }

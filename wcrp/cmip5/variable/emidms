@@ -3,8 +3,7 @@
     "canonical_name": "emidms", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "emidms", 
-    "idx": 139, 
     "namespace": "wcrp:cmip5:variable:emidms", 
     "status": "pending", 
-    "uid": "74b413ff-d1cb-46a0-85b7-763b024fdfa7"
+    "uid": "987f3ffd-b839-468b-b199-e6ae825192a8"
 }

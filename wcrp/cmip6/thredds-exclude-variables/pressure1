@@ -3,8 +3,7 @@
     "canonical_name": "pressure1", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "pressure1", 
-    "idx": 48, 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:pressure1", 
     "status": "pending", 
-    "uid": "8c6c89b1-60c0-436a-a02f-6596c2250766"
+    "uid": "e0033fa0-29ca-4abe-91c5-cb8f0e458b9f"
 }

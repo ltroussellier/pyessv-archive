@@ -3,8 +3,7 @@
     "canonical_name": "psl", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "psl", 
-    "idx": 352, 
     "namespace": "wcrp:cmip5:variable:psl", 
     "status": "pending", 
-    "uid": "17c6f593-5f19-44e3-bf72-d761d4f7a139"
+    "uid": "20e55dd8-8482-41f7-8c97-1ece3d877f4b"
 }

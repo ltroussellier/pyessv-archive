@@ -29,7 +29,6 @@
         "tier": "1"
     }, 
     "description": "Pre-industrial control simulation for \"offline\" ice sheets", 
-    "idx": 15, 
     "label": "ism-piControl-self", 
     "namespace": "wcrp:cmip6:experiment-id:ism-picontrol-self", 
     "raw_name": "ism-piControl-self", 

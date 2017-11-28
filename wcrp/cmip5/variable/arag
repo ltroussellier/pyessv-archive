@@ -3,8 +3,7 @@
     "canonical_name": "arag", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "arag", 
-    "idx": 5, 
     "namespace": "wcrp:cmip5:variable:arag", 
     "status": "pending", 
-    "uid": "45b5fee2-f6b3-45b3-bb65-99c4ae2ca831"
+    "uid": "11b0f66e-a495-4351-9075-c7ee3357a2c1"
 }

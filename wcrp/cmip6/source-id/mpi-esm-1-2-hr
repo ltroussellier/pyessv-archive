@@ -59,7 +59,6 @@
         "release_year": "2017", 
         "source_id": "MPI-ESM-1-2-HR"
     }, 
-    "idx": 27, 
     "label": "MPI-ESM1.2-HR", 
     "namespace": "wcrp:cmip6:source-id:mpi-esm-1-2-hr", 
     "raw_name": "MPI-ESM-1-2-HR", 

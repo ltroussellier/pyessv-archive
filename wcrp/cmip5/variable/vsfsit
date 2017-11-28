@@ -3,8 +3,7 @@
     "canonical_name": "vsfsit", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "vsfsit", 
-    "idx": 566, 
     "namespace": "wcrp:cmip5:variable:vsfsit", 
     "status": "pending", 
-    "uid": "de0fd7f5-474b-427e-b850-ef1dfdc0044a"
+    "uid": "65b0a51e-d0e8-442c-bb0a-99e9c74cec13"
 }

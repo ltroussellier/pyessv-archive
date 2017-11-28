@@ -31,7 +31,6 @@
         "tier": "1"
     }, 
     "description": "Additional land use policy sensitivity simulation for high radiative forcing scenario, keep all forcings the same as in C4MIP esmssp5-8.5 scenario except use SSP1-2.6 land use; emission driven", 
-    "idx": 48, 
     "label": "esm-ssp585-ssp126Lu", 
     "namespace": "wcrp:cmip6:experiment-id:esm-ssp585-ssp126lu", 
     "raw_name": "esm-ssp585-ssp126Lu", 

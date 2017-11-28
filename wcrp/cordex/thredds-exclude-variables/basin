@@ -3,8 +3,7 @@
     "canonical_name": "basin", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "basin", 
-    "idx": 8, 
     "namespace": "wcrp:cordex:thredds-exclude-variables:basin", 
     "status": "pending", 
-    "uid": "f999380e-9459-440e-9b07-5fd181ef1d52"
+    "uid": "3bfbaa09-0ba6-4930-b4c9-7dc25f63ffa3"
 }

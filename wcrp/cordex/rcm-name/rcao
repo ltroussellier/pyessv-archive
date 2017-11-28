@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "rcao", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 36, 
     "label": "RCAO", 
     "namespace": "wcrp:cordex:rcm-name:rcao", 
     "raw_name": "RCAO", 
     "status": "pending", 
-    "uid": "cb63988e-437a-4edb-87b8-04d0c9b07248"
+    "uid": "525a21ed-30a5-4952-9b71-b4b8b1723e69"
 }

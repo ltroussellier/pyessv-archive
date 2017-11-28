@@ -31,7 +31,6 @@
         "tier": "1"
     }, 
     "description": "DECK: abrupt4xCO2", 
-    "idx": 95, 
     "label": "abrupt-4xCO2", 
     "namespace": "wcrp:cmip6:experiment-id:abrupt-4xco2", 
     "raw_name": "abrupt-4xCO2", 

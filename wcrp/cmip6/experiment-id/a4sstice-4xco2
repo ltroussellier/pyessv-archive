@@ -30,7 +30,6 @@
         "tier": "2"
     }, 
     "description": "As a4SSTice, but CO2 is quadrupled, and the increase in CO2 is seen by both the radiation scheme and vegetation", 
-    "idx": 154, 
     "label": "a4SSTice-4xCO2", 
     "namespace": "wcrp:cmip6:experiment-id:a4sstice-4xco2", 
     "raw_name": "a4SSTice-4xCO2", 

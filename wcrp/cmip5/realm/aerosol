@@ -3,8 +3,7 @@
     "canonical_name": "aerosol", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "aerosol", 
-    "idx": 5, 
     "namespace": "wcrp:cmip5:realm:aerosol", 
     "status": "pending", 
-    "uid": "518a3597-00d8-423e-8347-e0cb474350d8"
+    "uid": "3f837d06-c2cc-4d79-b18e-2c744bbf0104"
 }

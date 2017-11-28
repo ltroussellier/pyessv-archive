@@ -3,8 +3,7 @@
     "canonical_name": "wmo", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "wmo", 
-    "idx": 583, 
     "namespace": "wcrp:cmip5:variable:wmo", 
     "status": "pending", 
-    "uid": "ec072f22-4866-4dd4-9f04-9b40620a8de5"
+    "uid": "16126c29-f2da-42b8-b502-e49442d02aa6"
 }

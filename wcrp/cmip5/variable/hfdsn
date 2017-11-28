@@ -3,8 +3,7 @@
     "canonical_name": "hfdsn", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hfdsn", 
-    "idx": 217, 
     "namespace": "wcrp:cmip5:variable:hfdsn", 
     "status": "pending", 
-    "uid": "1a8c2566-085f-4292-8e0f-e211b2ba3b97"
+    "uid": "80a8060d-d56f-4474-b129-f1d69c26aaf8"
 }

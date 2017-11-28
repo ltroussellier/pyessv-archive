@@ -3,10 +3,9 @@
     "canonical_name": "cveg", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cVeg", 
-    "idx": 35, 
     "label": "cVeg", 
     "namespace": "wcrp:cmip5:variable:cveg", 
     "raw_name": "cVeg", 
     "status": "pending", 
-    "uid": "7dd1d0c1-8668-4ac1-b61d-ea3c4545fcfe"
+    "uid": "6990a717-783d-4b25-a493-a842eb82ae59"
 }

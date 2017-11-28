@@ -3,8 +3,7 @@
     "canonical_name": "concso2", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "concso2", 
-    "idx": 98, 
     "namespace": "wcrp:cmip5:variable:concso2", 
     "status": "pending", 
-    "uid": "bd597149-73d6-4fcd-9985-599a8023318e"
+    "uid": "77b3d27d-ec7c-43a0-a4d2-30bb48c6b8b3"
 }

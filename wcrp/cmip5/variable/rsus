@@ -3,8 +3,7 @@
     "canonical_name": "rsus", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rsus", 
-    "idx": 408, 
     "namespace": "wcrp:cmip5:variable:rsus", 
     "status": "pending", 
-    "uid": "a49939ae-3acd-484f-b30d-a12368c1fe66"
+    "uid": "112549a8-b8c1-47bc-9253-db3988ea7ec7"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "oline", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "oline", 
-    "idx": 35, 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:oline", 
     "status": "pending", 
-    "uid": "5ec05269-52ac-4fb7-b6e5-ef97507be472"
+    "uid": "97283e0b-2757-4458-95e2-a05a4d07fddd"
 }

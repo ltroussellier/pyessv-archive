@@ -3,8 +3,7 @@
     "canonical_name": "fescav", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fescav", 
-    "idx": 190, 
     "namespace": "wcrp:cmip5:variable:fescav", 
     "status": "pending", 
-    "uid": "c5292394-c22b-432a-8cf8-7f88ed6047bc"
+    "uid": "42e90431-a71a-4310-9bd9-964da58a2fae"
 }

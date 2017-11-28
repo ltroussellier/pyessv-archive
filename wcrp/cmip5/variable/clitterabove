@@ -3,10 +3,9 @@
     "canonical_name": "clitterabove", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cLitterAbove", 
-    "idx": 26, 
     "label": "cLitterAbove", 
     "namespace": "wcrp:cmip5:variable:clitterabove", 
     "raw_name": "cLitterAbove", 
     "status": "pending", 
-    "uid": "8e96b887-604f-4b00-852f-038fabd0c652"
+    "uid": "9db15861-0131-475b-9044-0dccdc36acb4"
 }

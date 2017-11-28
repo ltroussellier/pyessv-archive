@@ -3,10 +3,9 @@
     "canonical_name": "ipsl-ineris", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "IPSL-INERIS", 
-    "idx": 18, 
     "label": "IPSL-INERIS", 
     "namespace": "wcrp:cordex:institute:ipsl-ineris", 
     "raw_name": "IPSL-INERIS", 
     "status": "pending", 
-    "uid": "098ba504-6cf6-4e20-92c2-5872f0cb905b"
+    "uid": "0e61a7f3-4821-47de-b7fa-f5fcd81bad20"
 }

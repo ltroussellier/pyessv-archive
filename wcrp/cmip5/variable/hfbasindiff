@@ -3,8 +3,7 @@
     "canonical_name": "hfbasindiff", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hfbasindiff", 
-    "idx": 214, 
     "namespace": "wcrp:cmip5:variable:hfbasindiff", 
     "status": "pending", 
-    "uid": "d57a0329-31cc-4b8f-8241-5e4faabd7830"
+    "uid": "f75eac41-6157-47a9-8e55-22d8cc40da74"
 }

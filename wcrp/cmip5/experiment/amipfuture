@@ -3,10 +3,9 @@
     "canonical_name": "amipfuture", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "AMIP plus patterned anomaly", 
-    "idx": 5, 
     "label": "amipFuture", 
     "namespace": "wcrp:cmip5:experiment:amipfuture", 
     "raw_name": "amipFuture", 
     "status": "pending", 
-    "uid": "ab00bfdf-359a-499d-9d1c-405c221ea73d"
+    "uid": "78239d89-980a-4f32-ade0-1a0894608ab1"
 }

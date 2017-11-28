@@ -3,10 +3,9 @@
     "canonical_name": "historicalant", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Historical with anthropogenic forcing only", 
-    "idx": 72, 
     "label": "historicalAnt", 
     "namespace": "wcrp:cmip5:experiment:historicalant", 
     "raw_name": "historicalAnt", 
     "status": "pending", 
-    "uid": "a9fd06b9-9f10-4a24-9a8e-d1eb6ea07a16"
+    "uid": "a2e755c1-25dc-4544-bcf0-4f5baa13c750"
 }

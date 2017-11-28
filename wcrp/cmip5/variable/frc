@@ -3,8 +3,7 @@
     "canonical_name": "frc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "frc", 
-    "idx": 195, 
     "namespace": "wcrp:cmip5:variable:frc", 
     "status": "pending", 
-    "uid": "ff970a8a-0030-4edb-98dd-78bdc3d2d11e"
+    "uid": "3f02d7a9-0403-414a-9191-9e568ef6ab71"
 }

@@ -29,7 +29,6 @@
         "tier": "3"
     }, 
     "description": "Last interglacial simulation of ice sheet evolution driven by PMIP lig127k", 
-    "idx": 60, 
     "namespace": "wcrp:cmip6:experiment-id:ism-lig127k-std", 
     "status": "pending", 
     "uid": "8e13527f-1592-4862-820c-bca7b84ac85d"

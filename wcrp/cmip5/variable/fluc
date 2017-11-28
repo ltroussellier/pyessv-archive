@@ -3,10 +3,9 @@
     "canonical_name": "fluc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fLuc", 
-    "idx": 171, 
     "label": "fLuc", 
     "namespace": "wcrp:cmip5:variable:fluc", 
     "raw_name": "fLuc", 
     "status": "pending", 
-    "uid": "ca8e4069-fc4b-4835-b08d-450ddb6aa245"
+    "uid": "31e6c24b-be91-4066-8571-ace65546cac1"
 }

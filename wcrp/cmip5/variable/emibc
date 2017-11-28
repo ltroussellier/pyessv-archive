@@ -3,8 +3,7 @@
     "canonical_name": "emibc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "emibc", 
-    "idx": 138, 
     "namespace": "wcrp:cmip5:variable:emibc", 
     "status": "pending", 
-    "uid": "14882fee-e56c-4b1d-8d85-0eb042be6afa"
+    "uid": "85a3b1de-c090-4bca-9a17-b5577765c8e7"
 }

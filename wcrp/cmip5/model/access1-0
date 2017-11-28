@@ -3,10 +3,9 @@
     "canonical_name": "access1-0", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ACCESS1-0", 
-    "idx": 0, 
     "label": "ACCESS1-0", 
     "namespace": "wcrp:cmip5:model:access1-0", 
     "raw_name": "ACCESS1-0", 
     "status": "pending", 
-    "uid": "cb8ab8d2-96ba-4440-9029-458dca1682d5"
+    "uid": "c3e43300-c57c-44b0-90b1-69ff005bd844"
 }

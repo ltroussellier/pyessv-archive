@@ -3,8 +3,7 @@
     "canonical_name": "snw", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "snw", 
-    "idx": 447, 
     "namespace": "wcrp:cmip5:variable:snw", 
     "status": "pending", 
-    "uid": "b86d1d29-aed6-47e6-a48c-584be78cc6a4"
+    "uid": "7b76a09b-fdf9-43dd-84b8-aa243a4779c6"
 }

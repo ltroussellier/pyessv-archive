@@ -29,7 +29,6 @@
         "tier": "2"
     }, 
     "description": "Coupled integrationswith historic external forcings (as in highresSST-present)", 
-    "idx": 30, 
     "namespace": "wcrp:cmip6:experiment-id:hist-1950", 
     "status": "pending", 
     "uid": "1cc3376b-6b0c-441f-b115-2a6a02740197"

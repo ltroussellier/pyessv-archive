@@ -3,8 +3,7 @@
     "canonical_name": "fgco2", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fgco2", 
-    "idx": 191, 
     "namespace": "wcrp:cmip5:variable:fgco2", 
     "status": "pending", 
-    "uid": "e70b79f0-7c1e-4d63-b21c-4c81c51f42e6"
+    "uid": "54bdf4d7-4150-44a9-992a-95f3812d8695"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "dpco2", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "dpco2", 
-    "idx": 118, 
     "namespace": "wcrp:cmip5:variable:dpco2", 
     "status": "pending", 
-    "uid": "09fdb033-5927-4222-87d9-1e207d0d719c"
+    "uid": "172661c7-1ed3-46ae-b06b-0e83bcc3d16b"
 }

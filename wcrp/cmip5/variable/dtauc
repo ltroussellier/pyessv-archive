@@ -3,8 +3,7 @@
     "canonical_name": "dtauc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "dtauc", 
-    "idx": 133, 
     "namespace": "wcrp:cmip5:variable:dtauc", 
     "status": "pending", 
-    "uid": "f18c050b-54e1-4938-b904-c037fd428e4b"
+    "uid": "bccc0057-cc22-4833-8b4a-64bacf29aa22"
 }

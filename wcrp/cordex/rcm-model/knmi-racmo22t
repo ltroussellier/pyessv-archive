@@ -3,10 +3,9 @@
     "canonical_name": "knmi-racmo22t", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "KNMI-RACMO22T", 
-    "idx": 26, 
     "label": "KNMI-RACMO22T", 
     "namespace": "wcrp:cordex:rcm-model:knmi-racmo22t", 
     "raw_name": "KNMI-RACMO22T", 
     "status": "pending", 
-    "uid": "dc2db537-fa45-4bb2-9c1a-a9796b3def63"
+    "uid": "1bb0bcb2-aa7b-4780-95ed-9b42f9335585"
 }

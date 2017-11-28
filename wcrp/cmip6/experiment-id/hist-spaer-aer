@@ -29,7 +29,6 @@
         "tier": "2"
     }, 
     "description": "Prescribed anthropogenic aerosol optical properties. Changes in aerosols only", 
-    "idx": 149, 
     "label": "hist-spAer-aer", 
     "namespace": "wcrp:cmip6:experiment-id:hist-spaer-aer", 
     "raw_name": "hist-spAer-aer", 

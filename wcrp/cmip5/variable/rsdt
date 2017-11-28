@@ -3,8 +3,7 @@
     "canonical_name": "rsdt", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rsdt", 
-    "idx": 402, 
     "namespace": "wcrp:cmip5:variable:rsdt", 
     "status": "pending", 
-    "uid": "6618514d-c71c-409f-bd92-9a017842e7df"
+    "uid": "2d5f5fcf-56bb-42b9-91d0-60fde4e907ed"
 }

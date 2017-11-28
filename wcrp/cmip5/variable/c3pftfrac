@@ -3,10 +3,9 @@
     "canonical_name": "c3pftfrac", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "c3PftFrac", 
-    "idx": 21, 
     "label": "c3PftFrac", 
     "namespace": "wcrp:cmip5:variable:c3pftfrac", 
     "raw_name": "c3PftFrac", 
     "status": "pending", 
-    "uid": "9e21f672-12ff-4ff2-9953-3dc07af20059"
+    "uid": "64459a67-56ac-41fe-ad21-efcbd0482d58"
 }

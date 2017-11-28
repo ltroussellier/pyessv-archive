@@ -3,8 +3,7 @@
     "canonical_name": "ua", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ua", 
-    "idx": 550, 
     "namespace": "wcrp:cmip5:variable:ua", 
     "status": "pending", 
-    "uid": "ad6995a6-95bd-47d2-9f6e-ef1a5386b0a1"
+    "uid": "bfc52aa0-0ce2-459c-aba5-685628255a61"
 }

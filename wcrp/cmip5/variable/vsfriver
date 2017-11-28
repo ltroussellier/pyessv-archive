@@ -3,8 +3,7 @@
     "canonical_name": "vsfriver", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "vsfriver", 
-    "idx": 565, 
     "namespace": "wcrp:cmip5:variable:vsfriver", 
     "status": "pending", 
-    "uid": "ee0d735b-eadc-4d90-9af5-0d42a5379456"
+    "uid": "3b452aac-7712-428a-8a32-53f15f3ada21"
 }

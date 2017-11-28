@@ -3,8 +3,7 @@
     "canonical_name": "dissoc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "dissoc", 
-    "idx": 114, 
     "namespace": "wcrp:cmip5:variable:dissoc", 
     "status": "pending", 
-    "uid": "a6aacfb4-3b91-4ab7-a85d-3d92e8873626"
+    "uid": "94a50d22-8a80-4a96-83e7-60177d3a8652"
 }

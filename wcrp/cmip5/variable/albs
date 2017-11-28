@@ -3,8 +3,7 @@
     "canonical_name": "albs", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "albs", 
-    "idx": 4, 
     "namespace": "wcrp:cmip5:variable:albs", 
     "status": "pending", 
-    "uid": "b610cced-a6d1-4c52-bf15-1c5ce4e071ff"
+    "uid": "846d5e92-56b9-427b-bac8-4382ff7f0ad0"
 }

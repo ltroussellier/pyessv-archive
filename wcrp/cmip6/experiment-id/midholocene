@@ -31,7 +31,6 @@
         "tier": "1"
     }, 
     "description": "main forcings: trace gases, orbital parameters, dust (forcing, or feedback if dust cycle represented in model)", 
-    "idx": 102, 
     "label": "midHolocene", 
     "namespace": "wcrp:cmip6:experiment-id:midholocene", 
     "raw_name": "midHolocene", 

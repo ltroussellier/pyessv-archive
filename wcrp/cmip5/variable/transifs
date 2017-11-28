@@ -3,8 +3,7 @@
     "canonical_name": "transifs", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "transifs", 
-    "idx": 532, 
     "namespace": "wcrp:cmip5:variable:transifs", 
     "status": "pending", 
-    "uid": "cd415836-290b-4fcd-ab93-21c81824b7b2"
+    "uid": "bd9d2588-4ddf-4dac-aaa9-c1693bb679da"
 }

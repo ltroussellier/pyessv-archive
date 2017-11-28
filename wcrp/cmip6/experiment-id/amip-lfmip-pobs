@@ -31,7 +31,6 @@
         "tier": "2"
     }, 
     "description": "Land-hist land conditions; AMIP SSTs", 
-    "idx": 140, 
     "label": "amip-lfmip-pObs", 
     "namespace": "wcrp:cmip6:experiment-id:amip-lfmip-pobs", 
     "raw_name": "amip-lfmip-pObs", 

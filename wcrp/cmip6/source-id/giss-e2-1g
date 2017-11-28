@@ -50,7 +50,6 @@
         "release_year": "2016", 
         "source_id": "GISS-E2-1G"
     }, 
-    "idx": 3, 
     "label": "GISS-E2.1G", 
     "namespace": "wcrp:cmip6:source-id:giss-e2-1g", 
     "raw_name": "GISS-E2-1G", 

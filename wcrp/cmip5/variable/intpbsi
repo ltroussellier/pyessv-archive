@@ -3,8 +3,7 @@
     "canonical_name": "intpbsi", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "intpbsi", 
-    "idx": 247, 
     "namespace": "wcrp:cmip5:variable:intpbsi", 
     "status": "pending", 
-    "uid": "8ea68ef1-d338-4cac-a57e-ccb5c994230e"
+    "uid": "49675d2f-3c2f-46d5-ad84-71b2b1ebc749"
 }

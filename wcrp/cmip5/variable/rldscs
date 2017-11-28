@@ -3,8 +3,7 @@
     "canonical_name": "rldscs", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rldscs", 
-    "idx": 379, 
     "namespace": "wcrp:cmip5:variable:rldscs", 
     "status": "pending", 
-    "uid": "73afe9b1-2164-40fc-bd2d-b8eddf6c5808"
+    "uid": "5f0fd9b2-d770-421a-8400-1fce6e8ab6e5"
 }

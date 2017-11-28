@@ -51,7 +51,6 @@
         "release_year": "2017", 
         "source_id": "BCC-CSM2-HR"
     }, 
-    "idx": 23, 
     "label": "BCC-CSM 2 HR", 
     "namespace": "wcrp:cmip6:source-id:bcc-csm2-hr", 
     "raw_name": "BCC-CSM2-HR", 

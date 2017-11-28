@@ -3,8 +3,7 @@
     "canonical_name": "loadbc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "loadbc", 
-    "idx": 259, 
     "namespace": "wcrp:cmip5:variable:loadbc", 
     "status": "pending", 
-    "uid": "915ccab1-43cf-4a54-8bd3-d41bb921d857"
+    "uid": "f96de565-ea9d-4189-ad14-8fdd362bf5eb"
 }

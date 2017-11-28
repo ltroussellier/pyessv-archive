@@ -3,10 +3,9 @@
     "canonical_name": "amip4xco2", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "4xCO2 AMIP", 
-    "idx": 4, 
     "label": "amip4xCO2", 
     "namespace": "wcrp:cmip5:experiment:amip4xco2", 
     "raw_name": "amip4xCO2", 
     "status": "pending", 
-    "uid": "faa59479-1a5b-4758-81dd-44188897c2db"
+    "uid": "9f6e8b5f-255e-4074-9c2c-6a92e7c39815"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "bcc-csm", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "bcc-csm", 
-    "idx": 2, 
     "namespace": "wcrp:cmip5:model:bcc-csm", 
     "status": "pending", 
-    "uid": "c193a5ca-30fc-4f53-b6ac-cc402b08ad2f"
+    "uid": "9fd8de63-659b-414c-b2c0-cf8c5dca65a9"
 }

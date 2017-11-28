@@ -3,8 +3,7 @@
     "canonical_name": "talk", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "talk", 
-    "idx": 462, 
     "namespace": "wcrp:cmip5:variable:talk", 
     "status": "pending", 
-    "uid": "89af18e7-8dc7-4da1-aeb9-a4d9aa941a58"
+    "uid": "e39dd4e2-4899-42b2-9fd2-d06efb020607"
 }

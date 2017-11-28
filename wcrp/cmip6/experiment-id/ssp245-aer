@@ -31,7 +31,6 @@
         "tier": "3"
     }, 
     "description": "Extension of aerosol-only run under SSP2-4.5", 
-    "idx": 143, 
     "namespace": "wcrp:cmip6:experiment-id:ssp245-aer", 
     "status": "pending", 
     "uid": "6c22ef0d-ffc1-48b5-b9e1-56128bc4c020"

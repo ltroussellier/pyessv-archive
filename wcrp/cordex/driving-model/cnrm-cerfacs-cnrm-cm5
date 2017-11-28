@@ -3,10 +3,9 @@
     "canonical_name": "cnrm-cerfacs-cnrm-cm5", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "CNRM-CERFACS-CNRM-CM5", 
-    "idx": 2, 
     "label": "CNRM-CERFACS-CNRM-CM5", 
     "namespace": "wcrp:cordex:driving-model:cnrm-cerfacs-cnrm-cm5", 
     "raw_name": "CNRM-CERFACS-CNRM-CM5", 
     "status": "pending", 
-    "uid": "714529d0-4ff2-4f2f-acb6-e89a035cf808"
+    "uid": "ec8878cc-d70d-4be6-a6cf-2c96cd9a6d9e"
 }

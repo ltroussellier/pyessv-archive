@@ -3,8 +3,7 @@
     "canonical_name": "esmrcp85", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ESM RCP8.5", 
-    "idx": 69, 
     "namespace": "wcrp:cmip5:experiment:esmrcp85", 
     "status": "pending", 
-    "uid": "89fdd57f-9992-4e06-82fd-6716e449e0ac"
+    "uid": "8fc1f512-52e9-40e3-8a58-f19310b50fa5"
 }

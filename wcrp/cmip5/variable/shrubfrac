@@ -3,10 +3,9 @@
     "canonical_name": "shrubfrac", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "shrubFrac", 
-    "idx": 435, 
     "label": "shrubFrac", 
     "namespace": "wcrp:cmip5:variable:shrubfrac", 
     "raw_name": "shrubFrac", 
     "status": "pending", 
-    "uid": "1be9fd7f-daab-47d8-8369-4a0a2df80dac"
+    "uid": "00147371-c69d-450d-b823-c855289dd5d1"
 }

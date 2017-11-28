@@ -3,8 +3,7 @@
     "canonical_name": "depth100m", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "depth100m", 
-    "idx": 15, 
     "namespace": "wcrp:cordex:thredds-exclude-variables:depth100m", 
     "status": "pending", 
-    "uid": "d04f3345-6a32-45be-9702-e3c06fdd06ac"
+    "uid": "fe2c212e-dcd2-4624-8381-6615c2d1345d"
 }

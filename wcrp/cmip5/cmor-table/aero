@@ -3,8 +3,7 @@
     "canonical_name": "aero", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "aero", 
-    "idx": 10, 
     "namespace": "wcrp:cmip5:cmor-table:aero", 
     "status": "pending", 
-    "uid": "2ee22205-8dde-42c1-91ab-f0e41af6a08c"
+    "uid": "a54bcdc7-1db6-416c-8912-5e7dbb422f1d"
 }

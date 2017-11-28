@@ -2,7 +2,6 @@
     "_type": "term", 
     "canonical_name": "omon", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 37, 
     "label": "Omon", 
     "namespace": "wcrp:cmip6:table-id:omon", 
     "raw_name": "Omon", 

@@ -3,8 +3,7 @@
     "canonical_name": "cltlidarradar", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cltlidarradar", 
-    "idx": 77, 
     "namespace": "wcrp:cmip5:variable:cltlidarradar", 
     "status": "pending", 
-    "uid": "84c326fc-1d97-43f3-922c-49b7be674dc8"
+    "uid": "04a79b6c-fb6c-4de5-a34b-f97ec76c5eed"
 }

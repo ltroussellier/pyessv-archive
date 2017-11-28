@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "ncar", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 9, 
     "label": "NCAR", 
     "namespace": "wcrp:cmip5:institute:ncar", 
     "raw_name": "NCAR", 
     "status": "pending", 
-    "uid": "485ec804-e1fc-47ac-a980-69cbf2482a06"
+    "uid": "3f57bbb8-acdb-40b4-97f2-55bc611a607f"
 }

@@ -3,10 +3,9 @@
     "canonical_name": "was-44", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "West Asia", 
-    "idx": 28, 
     "label": "WAS-44", 
     "namespace": "wcrp:cordex:domain:was-44", 
     "raw_name": "WAS-44", 
     "status": "pending", 
-    "uid": "03fa59d1-085a-44cc-8dbc-675accdbb239"
+    "uid": "8c2aeb67-cf37-4766-a482-8307229b456f"
 }

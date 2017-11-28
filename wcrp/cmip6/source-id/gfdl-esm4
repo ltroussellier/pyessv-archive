@@ -57,7 +57,6 @@
         "release_year": "2017", 
         "source_id": "GFDL-ESM4"
     }, 
-    "idx": 71, 
     "label": "GFDL-ESM4", 
     "namespace": "wcrp:cmip6:source-id:gfdl-esm4", 
     "raw_name": "GFDL-ESM4", 

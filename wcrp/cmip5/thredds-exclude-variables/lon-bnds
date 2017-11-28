@@ -3,10 +3,9 @@
     "canonical_name": "lon-bnds", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "lon_bnds", 
-    "idx": 29, 
     "label": "lon_bnds", 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:lon-bnds", 
     "raw_name": "lon_bnds", 
     "status": "pending", 
-    "uid": "dfc2c357-cd06-46ad-87dd-bfaa389a103b"
+    "uid": "6988a0a7-59e2-45b9-ba76-0a1fb1a228ba"
 }

@@ -31,7 +31,6 @@
         "tier": "1"
     }, 
     "description": "Same as CMIP6 historical but with land cover held at 1850, no human activity; concentration driven", 
-    "idx": 184, 
     "label": "hist-noLu", 
     "namespace": "wcrp:cmip6:experiment-id:hist-nolu", 
     "raw_name": "hist-noLu", 

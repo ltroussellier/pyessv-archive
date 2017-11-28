@@ -3,8 +3,7 @@
     "canonical_name": "hfls", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hfls", 
-    "idx": 221, 
     "namespace": "wcrp:cmip5:variable:hfls", 
     "status": "pending", 
-    "uid": "9cc5f674-cde2-47b4-b4b7-9056333f0075"
+    "uid": "6ba7d63d-1ca8-4c67-9023-beab9641d4f5"
 }

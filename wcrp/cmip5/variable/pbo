@@ -3,8 +3,7 @@
     "canonical_name": "pbo", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "pbo", 
-    "idx": 317, 
     "namespace": "wcrp:cmip5:variable:pbo", 
     "status": "pending", 
-    "uid": "70dfcfc4-4a75-40e9-8b6f-0dc41129984f"
+    "uid": "ac0bbec0-12e9-4fa6-9cb8-c37a3d8e3163"
 }

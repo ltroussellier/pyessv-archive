@@ -3,8 +3,7 @@
     "canonical_name": "mc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "mc", 
-    "idx": 271, 
     "namespace": "wcrp:cmip5:variable:mc", 
     "status": "pending", 
-    "uid": "663611b2-c401-4361-b986-e6ce10d0a158"
+    "uid": "2088b486-1e41-4b5d-b7a0-772ca59d33ec"
 }

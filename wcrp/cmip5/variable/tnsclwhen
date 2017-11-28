@@ -3,8 +3,7 @@
     "canonical_name": "tnsclwhen", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tnsclwhen", 
-    "idx": 518, 
     "namespace": "wcrp:cmip5:variable:tnsclwhen", 
     "status": "pending", 
-    "uid": "76e5e9c4-7365-4f23-852e-a9db9975ca3a"
+    "uid": "bf2ae010-cb04-4596-8eec-c6fa693586bd"
 }

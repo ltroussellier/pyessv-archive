@@ -3,10 +3,9 @@
     "canonical_name": "miroc5", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "MIROC5", 
-    "idx": 52, 
     "label": "MIROC5", 
     "namespace": "wcrp:cmip5:model:miroc5", 
     "raw_name": "MIROC5", 
     "status": "pending", 
-    "uid": "03287103-0b26-4b45-a89a-8a4534497a18"
+    "uid": "20dd78df-c3c7-4e96-9fb4-94066efea274"
 }

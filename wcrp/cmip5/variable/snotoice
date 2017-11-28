@@ -3,10 +3,9 @@
     "canonical_name": "snotoice", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "snoToIce", 
-    "idx": 445, 
     "label": "snoToIce", 
     "namespace": "wcrp:cmip5:variable:snotoice", 
     "raw_name": "snoToIce", 
     "status": "pending", 
-    "uid": "e4cb1140-d3a5-4181-8e33-e5d20c60ed69"
+    "uid": "9fd44336-06f0-4e2d-a181-9464516e9b76"
 }

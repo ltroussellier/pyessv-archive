@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "mohc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 43, 
     "label": "MOHC", 
     "namespace": "wcrp:cmip5:institute:mohc", 
     "raw_name": "MOHC", 
     "status": "pending", 
-    "uid": "76e23ed2-d036-4755-ac83-26275ed52078"
+    "uid": "ba574fc4-1b15-45b4-b13e-b489eeb93b6c"
 }

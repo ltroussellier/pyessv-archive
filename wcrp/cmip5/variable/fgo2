@@ -3,8 +3,7 @@
     "canonical_name": "fgo2", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fgo2", 
-    "idx": 193, 
     "namespace": "wcrp:cmip5:variable:fgo2", 
     "status": "pending", 
-    "uid": "b7129f7b-6b14-4eb5-a92a-79ee6c2be6ad"
+    "uid": "391c7ffd-422a-4373-b796-eb6c526793c5"
 }

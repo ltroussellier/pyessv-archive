@@ -3,10 +3,9 @@
     "canonical_name": "cuni", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "CUNI", 
-    "idx": 9, 
     "label": "CUNI", 
     "namespace": "wcrp:cordex:institute:cuni", 
     "raw_name": "CUNI", 
     "status": "pending", 
-    "uid": "1accbe9d-3d89-4e36-b4d6-5bdec42ef6b6"
+    "uid": "8c6c68b0-8d3a-4c09-bb72-f017af1f4ce5"
 }

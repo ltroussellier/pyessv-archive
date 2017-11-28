@@ -31,7 +31,6 @@
         "tier": "1"
     }, 
     "description": "Historical WMGHG concentrations and halocarbons emissions, 1850 NTCF emissions, prescribed SSTs", 
-    "idx": 234, 
     "label": "histSST-piNTCF", 
     "namespace": "wcrp:cmip6:experiment-id:histsst-pintcf", 
     "raw_name": "histSST-piNTCF", 

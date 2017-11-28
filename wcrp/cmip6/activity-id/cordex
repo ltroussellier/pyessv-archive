@@ -2,7 +2,6 @@
     "_type": "term", 
     "canonical_name": "cordex", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 0, 
     "label": "CORDEX", 
     "namespace": "wcrp:cmip6:activity-id:cordex", 
     "raw_name": "CORDEX", 

@@ -30,7 +30,6 @@
         "tier": "2"
     }, 
     "description": "Time-varying forcing. SST and sea ice fixed at preindustrial control. Interactive vegetation", 
-    "idx": 18, 
     "label": "piClim-histall", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-histall", 
     "raw_name": "piClim-histall", 

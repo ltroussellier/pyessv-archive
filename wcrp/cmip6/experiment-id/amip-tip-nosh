@@ -30,7 +30,6 @@
         "tier": "3"
     }, 
     "description": "Surface sensible heat released at the elevation above 500m over the TIP is not allowed to heat the atmosphere. Same model as DECK", 
-    "idx": 72, 
     "label": "amip-TIP-nosh", 
     "namespace": "wcrp:cmip6:experiment-id:amip-tip-nosh", 
     "raw_name": "amip-TIP-nosh", 

@@ -3,8 +3,7 @@
     "canonical_name": "soga", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "soga", 
-    "idx": 449, 
     "namespace": "wcrp:cmip5:variable:soga", 
     "status": "pending", 
-    "uid": "13103108-ca5c-4ca6-972f-078e4342f0b9"
+    "uid": "6fda7da7-415c-438b-8d3c-9d66527642d8"
 }

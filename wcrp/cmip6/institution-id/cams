@@ -5,7 +5,6 @@
     "data": {
         "postal_address": "Chinese Academy of Meteorological Sciences, Beijing 100081, China"
     }, 
-    "idx": 8, 
     "label": "CAMS", 
     "namespace": "wcrp:cmip6:institution-id:cams", 
     "raw_name": "CAMS", 

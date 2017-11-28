@@ -31,7 +31,6 @@
         "tier": "1"
     }, 
     "description": "30-year atmosphere only integration using preindustrial sea-surface temperature and sea-ice climatology. Interactive vegetation", 
-    "idx": 117, 
     "label": "piClim-control", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-control", 
     "raw_name": "piClim-control", 

@@ -3,8 +3,7 @@
     "canonical_name": "alev1", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "alev1", 
-    "idx": 2, 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:alev1", 
     "status": "pending", 
-    "uid": "42172bd2-6593-449f-be37-01fc4ff4afa9"
+    "uid": "3a5f10e5-57ae-4460-a86b-ed2638098c31"
 }

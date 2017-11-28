@@ -3,8 +3,7 @@
     "canonical_name": "wap500", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "wap500", 
-    "idx": 569, 
     "namespace": "wcrp:cmip5:variable:wap500", 
     "status": "pending", 
-    "uid": "adfa7824-8713-45b8-bd78-84e92898b0b4"
+    "uid": "1a5eb26c-bbca-4d97-94de-2c30099cd367"
 }

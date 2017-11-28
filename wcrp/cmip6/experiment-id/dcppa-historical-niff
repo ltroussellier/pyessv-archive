@@ -87,7 +87,6 @@
         "tier": "4"
     }, 
     "description": "A4.2 Hindcasts initialized from historical climate simulations as in DCPP-A2.2, but with no information from the future. First full hindcast year follows start year (e.g., for s1960, first full hindcast year is 1961)", 
-    "idx": 1, 
     "label": "dcppA-historical-niff", 
     "namespace": "wcrp:cmip6:experiment-id:dcppa-historical-niff", 
     "raw_name": "dcppA-historical-niff", 

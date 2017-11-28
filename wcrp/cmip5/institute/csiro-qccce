@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "csiro-qccce", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 21, 
     "label": "CSIRO-QCCCE", 
     "namespace": "wcrp:cmip5:institute:csiro-qccce", 
     "raw_name": "CSIRO-QCCCE", 
     "status": "pending", 
-    "uid": "87189165-cf9b-4dc2-9449-ae294f75ade6"
+    "uid": "a60afdcb-0792-4d8f-852b-f44673c847c0"
 }

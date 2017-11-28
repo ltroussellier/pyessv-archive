@@ -30,7 +30,6 @@
         "tier": "2"
     }, 
     "description": "Perturbation from 1850 control using 2014 BC emissions", 
-    "idx": 202, 
     "label": "piClim-BC", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-bc", 
     "raw_name": "piClim-BC", 

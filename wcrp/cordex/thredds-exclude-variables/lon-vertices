@@ -3,10 +3,9 @@
     "canonical_name": "lon-vertices", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "lon_vertices", 
-    "idx": 35, 
     "label": "lon_vertices", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:lon-vertices", 
     "raw_name": "lon_vertices", 
     "status": "pending", 
-    "uid": "605450d0-9735-4966-96d9-85adde1523e6"
+    "uid": "c429f629-4bbc-4d1c-b1c5-f23ebad75127"
 }

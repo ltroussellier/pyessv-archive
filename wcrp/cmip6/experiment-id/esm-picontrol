@@ -31,7 +31,6 @@
         "tier": "1"
     }, 
     "description": "DECK: control (emission-driven)", 
-    "idx": 116, 
     "label": "esm-piControl", 
     "namespace": "wcrp:cmip6:experiment-id:esm-picontrol", 
     "raw_name": "esm-piControl", 

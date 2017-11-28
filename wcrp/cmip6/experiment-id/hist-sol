@@ -31,7 +31,6 @@
         "tier": "3"
     }, 
     "description": "Historical solar-only transient simulation using settings from CMIP6 historical simulation but fixed GHG and ODS (1850 level)", 
-    "idx": 138, 
     "namespace": "wcrp:cmip6:experiment-id:hist-sol", 
     "status": "pending", 
     "uid": "740b83d6-e5b4-48f2-86ba-77c8a04c7a21"

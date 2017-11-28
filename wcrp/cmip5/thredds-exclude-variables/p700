@@ -3,8 +3,7 @@
     "canonical_name": "p700", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "p700", 
-    "idx": 39, 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:p700", 
     "status": "pending", 
-    "uid": "c0df2f97-05c4-48be-9246-57128ffc5ce1"
+    "uid": "572f4e79-da7e-4e92-83d4-0574529d086e"
 }

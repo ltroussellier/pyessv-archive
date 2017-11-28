@@ -31,7 +31,6 @@
         "tier": "2"
     }, 
     "description": "Prescribed land conditions 1980-2014 climate with Land-Hist-cruNcep", 
-    "idx": 232, 
     "label": "lfmip-pdLC-cruNcep", 
     "namespace": "wcrp:cmip6:experiment-id:lfmip-pdlc-cruncep", 
     "raw_name": "lfmip-pdLC-cruNcep", 

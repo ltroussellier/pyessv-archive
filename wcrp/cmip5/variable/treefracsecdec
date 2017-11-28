@@ -3,10 +3,9 @@
     "canonical_name": "treefracsecdec", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "treeFracSecDec", 
-    "idx": 538, 
     "label": "treeFracSecDec", 
     "namespace": "wcrp:cmip5:variable:treefracsecdec", 
     "raw_name": "treeFracSecDec", 
     "status": "pending", 
-    "uid": "ba8f33b5-f9bc-4702-bc33-dd384330e56d"
+    "uid": "b9f2e926-985e-4fb5-a6d8-f20dec3e3c05"
 }

@@ -31,7 +31,6 @@
         "tier": "2"
     }, 
     "description": "Perturbation from 1850 control using 2014 N2O concentrations", 
-    "idx": 73, 
     "label": "piClim-N2O", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-n2o", 
     "raw_name": "piClim-N2O", 

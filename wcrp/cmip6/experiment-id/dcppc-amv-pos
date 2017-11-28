@@ -31,7 +31,6 @@
         "tier": "1"
     }, 
     "description": "C1.2 Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs", 
-    "idx": 24, 
     "label": "dcppC-amv-pos", 
     "namespace": "wcrp:cmip6:experiment-id:dcppc-amv-pos", 
     "raw_name": "dcppC-amv-pos", 

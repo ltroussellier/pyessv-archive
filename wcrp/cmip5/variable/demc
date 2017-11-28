@@ -3,8 +3,7 @@
     "canonical_name": "demc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "demc", 
-    "idx": 105, 
     "namespace": "wcrp:cmip5:variable:demc", 
     "status": "pending", 
-    "uid": "19989176-3cb4-4136-bd71-74f8e2bd8090"
+    "uid": "0edc3b14-8606-4ad7-9a91-984b797b04a5"
 }

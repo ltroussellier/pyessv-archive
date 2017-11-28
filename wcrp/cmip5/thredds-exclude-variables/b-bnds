@@ -3,10 +3,9 @@
     "canonical_name": "b-bnds", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "b_bnds", 
-    "idx": 7, 
     "label": "b_bnds", 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:b-bnds", 
     "raw_name": "b_bnds", 
     "status": "pending", 
-    "uid": "62c4ae63-be0d-47b6-a0bf-fb57886827b6"
+    "uid": "9eef9f46-6b1a-4279-b77c-57c1ebee0583"
 }

@@ -3,10 +3,9 @@
     "canonical_name": "pasturefrac", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "pastureFrac", 
-    "idx": 315, 
     "label": "pastureFrac", 
     "namespace": "wcrp:cmip5:variable:pasturefrac", 
     "raw_name": "pastureFrac", 
     "status": "pending", 
-    "uid": "ba2f448a-b5f2-4177-8293-7d128428d993"
+    "uid": "a34cb1b8-5c01-4d5f-afd6-a5737a0258a2"
 }

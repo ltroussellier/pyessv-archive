@@ -3,8 +3,7 @@
     "canonical_name": "rootd", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rootd", 
-    "idx": 392, 
     "namespace": "wcrp:cmip5:variable:rootd", 
     "status": "pending", 
-    "uid": "4ba9a76a-578b-43a2-a1f9-99658234a8b6"
+    "uid": "01f89fb9-0403-40ce-97dd-d760bc4e4c0e"
 }

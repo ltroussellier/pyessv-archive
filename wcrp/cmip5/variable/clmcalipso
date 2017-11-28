@@ -3,8 +3,7 @@
     "canonical_name": "clmcalipso", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "clmcalipso", 
-    "idx": 71, 
     "namespace": "wcrp:cmip5:variable:clmcalipso", 
     "status": "pending", 
-    "uid": "806bc92a-c604-4f13-91dd-33ea5c2f194f"
+    "uid": "06c1b912-a3eb-450b-8c35-91c46e0a1356"
 }

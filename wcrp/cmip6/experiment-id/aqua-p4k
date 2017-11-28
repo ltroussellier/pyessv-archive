@@ -30,7 +30,6 @@
         "tier": "1"
     }, 
     "description": "Extended version of CMIP5/CFMIP-2 aqua4K experiment. Aquaplanet experiment where SSTs are subject to a uniform warming of 4K", 
-    "idx": 4, 
     "label": "aqua-p4K", 
     "namespace": "wcrp:cmip6:experiment-id:aqua-p4k", 
     "raw_name": "aqua-p4K", 

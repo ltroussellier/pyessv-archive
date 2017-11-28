@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "lasg-cess", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 24, 
     "label": "LASG-CESS", 
     "namespace": "wcrp:cmip5:institute:lasg-cess", 
     "raw_name": "LASG-CESS", 
     "status": "pending", 
-    "uid": "b40eb4c7-cffb-4988-b666-7b11f28d55f1"
+    "uid": "a96846b3-d91c-464b-a36a-047f1364ecb3"
 }

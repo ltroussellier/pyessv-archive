@@ -3,10 +3,9 @@
     "canonical_name": "aquacontrol", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Aqua planet control", 
-    "idx": 8, 
     "label": "aquaControl", 
     "namespace": "wcrp:cmip5:experiment:aquacontrol", 
     "raw_name": "aquaControl", 
     "status": "pending", 
-    "uid": "2d0a20f2-5073-4aa5-90f3-d012192dd6a0"
+    "uid": "28fb9057-5892-465d-a685-458c9d9fee43"
 }

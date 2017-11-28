@@ -3,8 +3,7 @@
     "canonical_name": "pp", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "pp", 
-    "idx": 340, 
     "namespace": "wcrp:cmip5:variable:pp", 
     "status": "pending", 
-    "uid": "e0e83c4c-2206-4ec8-bc44-2dfba8a737f2"
+    "uid": "5c5acc39-abc1-48ca-a665-97e2931858a8"
 }

@@ -54,7 +54,6 @@
         "release_year": "2017", 
         "source_id": "NorESM2-LME"
     }, 
-    "idx": 74, 
     "label": "NorESM2-LME", 
     "namespace": "wcrp:cmip6:source-id:noresm2-lme", 
     "raw_name": "NorESM2-LME", 

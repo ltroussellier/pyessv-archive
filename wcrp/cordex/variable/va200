@@ -3,8 +3,7 @@
     "canonical_name": "va200", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "va200", 
-    "idx": 168, 
     "namespace": "wcrp:cordex:variable:va200", 
     "status": "pending", 
-    "uid": "5287fb13-ee72-4f29-b03e-bedfed55ce4d"
+    "uid": "d1f788a7-1549-47e6-8ce9-495a0641df22"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "phycalc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "phycalc", 
-    "idx": 326, 
     "namespace": "wcrp:cmip5:variable:phycalc", 
     "status": "pending", 
-    "uid": "c9c60734-2c9c-48da-b3a3-e148a3fe0103"
+    "uid": "d12db301-16b9-4c78-a8ad-5c68d756066d"
 }

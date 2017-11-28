@@ -3,8 +3,7 @@
     "canonical_name": "frn", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "frn", 
-    "idx": 198, 
     "namespace": "wcrp:cmip5:variable:frn", 
     "status": "pending", 
-    "uid": "5fe69e68-3875-4d2a-925d-eb7490e8ec08"
+    "uid": "5fbeea5d-20f8-49ca-bc8f-b9c9a938530a"
 }

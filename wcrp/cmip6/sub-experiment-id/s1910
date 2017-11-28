@@ -3,7 +3,6 @@
     "canonical_name": "s1910", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "initialized near end of year 1910", 
-    "idx": 20, 
     "namespace": "wcrp:cmip6:sub-experiment-id:s1910", 
     "status": "pending", 
     "uid": "8aa0dbf1-6c26-4b63-beda-5480923f5982"

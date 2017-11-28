@@ -3,8 +3,7 @@
     "canonical_name": "prc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "prc", 
-    "idx": 93, 
     "namespace": "wcrp:cordex:variable:prc", 
     "status": "pending", 
-    "uid": "b8faa7c9-4190-4abd-8c5c-9bee234b3d8a"
+    "uid": "1d32b0e4-d0e2-4ff5-a9ef-038a1d92c540"
 }

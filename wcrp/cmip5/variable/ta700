@@ -3,8 +3,7 @@
     "canonical_name": "ta700", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ta700", 
-    "idx": 461, 
     "namespace": "wcrp:cmip5:variable:ta700", 
     "status": "pending", 
-    "uid": "e60b2d71-4e50-4c9c-a003-ede31565262a"
+    "uid": "cd8ddd32-34df-4c99-a3a6-886bc5296928"
 }

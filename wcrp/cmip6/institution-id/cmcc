@@ -5,7 +5,6 @@
     "data": {
         "postal_address": "Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici, Lecce 73100, Italy"
     }, 
-    "idx": 9, 
     "label": "CMCC", 
     "namespace": "wcrp:cmip6:institution-id:cmcc", 
     "raw_name": "CMCC", 

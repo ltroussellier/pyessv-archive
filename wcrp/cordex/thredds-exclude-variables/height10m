@@ -3,8 +3,7 @@
     "canonical_name": "height10m", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "height10m", 
-    "idx": 19, 
     "namespace": "wcrp:cordex:thredds-exclude-variables:height10m", 
     "status": "pending", 
-    "uid": "e66c01d9-7570-4ba0-9753-34f87146b688"
+    "uid": "468df63f-3515-4c94-ba5b-5f9c9491bee2"
 }

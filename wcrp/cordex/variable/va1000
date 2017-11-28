@@ -3,8 +3,7 @@
     "canonical_name": "va1000", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "va1000", 
-    "idx": 167, 
     "namespace": "wcrp:cordex:variable:va1000", 
     "status": "pending", 
-    "uid": "a74f1f16-7570-4981-931b-054794958f80"
+    "uid": "1016a7a7-c872-4a34-9131-43e6c6548b85"
 }

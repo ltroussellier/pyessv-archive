@@ -3,10 +3,9 @@
     "canonical_name": "cnrm-aladin52", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "CNRM-ALADIN52", 
-    "idx": 8, 
     "label": "CNRM-ALADIN52", 
     "namespace": "wcrp:cordex:rcm-model:cnrm-aladin52", 
     "raw_name": "CNRM-ALADIN52", 
     "status": "pending", 
-    "uid": "5bfdf867-0a2a-4d0b-aed0-9f7859ac44be"
+    "uid": "f6be17ce-83cd-4094-9e28-4915ab6fdcc1"
 }

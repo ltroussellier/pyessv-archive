@@ -31,7 +31,6 @@
         "tier": "1"
     }, 
     "description": "Historical anthropogenic-Aerosols-only run", 
-    "idx": 119, 
     "namespace": "wcrp:cmip6:experiment-id:hist-aer", 
     "status": "pending", 
     "uid": "cf37f8ff-ddbd-427b-b867-46ac969e945c"

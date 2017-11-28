@@ -3,8 +3,7 @@
     "canonical_name": "fsc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fsc", 
-    "idx": 199, 
     "namespace": "wcrp:cmip5:variable:fsc", 
     "status": "pending", 
-    "uid": "7468a8d9-d364-470b-bfe1-5a6a2780fbca"
+    "uid": "4d1df7ab-267e-46f5-b755-19fb32f0ed9b"
 }

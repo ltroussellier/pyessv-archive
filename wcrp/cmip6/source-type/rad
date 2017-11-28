@@ -2,7 +2,6 @@
     "_type": "term", 
     "canonical_name": "rad", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 0, 
     "label": "RAD", 
     "namespace": "wcrp:cmip6:source-type:rad", 
     "raw_name": "RAD", 

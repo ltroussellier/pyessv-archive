@@ -3,8 +3,7 @@
     "canonical_name": "pon", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "pon", 
-    "idx": 338, 
     "namespace": "wcrp:cmip5:variable:pon", 
     "status": "pending", 
-    "uid": "85e44fba-27ab-43a5-9a7c-93ecd3ba8949"
+    "uid": "40557dda-2743-4e47-b240-3d373a433b56"
 }

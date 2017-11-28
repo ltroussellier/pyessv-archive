@@ -31,7 +31,6 @@
         "tier": "3"
     }, 
     "description": "Perturbation from 1850 control using 2014 CO/VOC emissions", 
-    "idx": 22, 
     "label": "piClim-VOC", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-voc", 
     "raw_name": "piClim-VOC", 

@@ -3,8 +3,7 @@
     "canonical_name": "loaddust", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "loaddust", 
-    "idx": 260, 
     "namespace": "wcrp:cmip5:variable:loaddust", 
     "status": "pending", 
-    "uid": "f5178101-5530-4096-8403-36c94e6c7ae2"
+    "uid": "d15fa2f0-9db4-49c9-ab3a-3577478da9db"
 }

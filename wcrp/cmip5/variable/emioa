@@ -3,8 +3,7 @@
     "canonical_name": "emioa", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "emioa", 
-    "idx": 142, 
     "namespace": "wcrp:cmip5:variable:emioa", 
     "status": "pending", 
-    "uid": "d9175575-4dd3-4304-bcab-50d92fadbfa7"
+    "uid": "ede06c0c-0987-4b28-8222-10e1c49352f9"
 }

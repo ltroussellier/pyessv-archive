@@ -3,8 +3,7 @@
     "canonical_name": "tnscliemi", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tnscliemi", 
-    "idx": 500, 
     "namespace": "wcrp:cmip5:variable:tnscliemi", 
     "status": "pending", 
-    "uid": "a222975d-7420-4f4c-87e6-c74b7d232a85"
+    "uid": "f4dff1fb-9ca5-453c-bc91-fcc50cda71d7"
 }

@@ -32,7 +32,6 @@
         "tier": "3"
     }, 
     "description": "C1.11 Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs", 
-    "idx": 146, 
     "label": "dcppC-atl-pacemaker", 
     "namespace": "wcrp:cmip6:experiment-id:dcppc-atl-pacemaker", 
     "raw_name": "dcppC-atl-pacemaker", 

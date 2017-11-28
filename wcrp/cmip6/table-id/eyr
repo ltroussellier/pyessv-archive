@@ -2,7 +2,6 @@
     "_type": "term", 
     "canonical_name": "eyr", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 24, 
     "label": "Eyr", 
     "namespace": "wcrp:cmip6:table-id:eyr", 
     "raw_name": "Eyr", 

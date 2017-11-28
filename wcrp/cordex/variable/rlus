@@ -3,8 +3,7 @@
     "canonical_name": "rlus", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rlus", 
-    "idx": 101, 
     "namespace": "wcrp:cordex:variable:rlus", 
     "status": "pending", 
-    "uid": "cdda867f-c855-4041-be78-21855c4f2814"
+    "uid": "8433086c-8622-437d-ba49-5853b1423d1e"
 }

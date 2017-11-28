@@ -30,7 +30,6 @@
         "tier": "2"
     }, 
     "description": "Same as land-hist but with all new crop and pastureland treated as unmanaged grassland", 
-    "idx": 26, 
     "namespace": "wcrp:cmip6:experiment-id:land-crop-grass", 
     "status": "pending", 
     "uid": "c4e4f57a-9833-4efb-a94d-889e2aadee9d"

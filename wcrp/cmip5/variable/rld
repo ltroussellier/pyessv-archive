@@ -3,8 +3,7 @@
     "canonical_name": "rld", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rld", 
-    "idx": 374, 
     "namespace": "wcrp:cmip5:variable:rld", 
     "status": "pending", 
-    "uid": "5e30173c-73e9-41c9-95bf-47e13d4ffe90"
+    "uid": "ef49937a-32e7-44ae-9a13-aa310bdb34ef"
 }

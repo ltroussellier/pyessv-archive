@@ -31,7 +31,6 @@
         "tier": "1"
     }, 
     "description": "main forcings: trace gases, volcanoes, solar variability, land use", 
-    "idx": 88, 
     "namespace": "wcrp:cmip6:experiment-id:past1000", 
     "status": "pending", 
     "uid": "5e45536e-2ea5-4b19-bf13-410c0c68d79e"

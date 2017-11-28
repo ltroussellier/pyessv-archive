@@ -3,8 +3,7 @@
     "canonical_name": "emiss", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "emiss", 
-    "idx": 146, 
     "namespace": "wcrp:cmip5:variable:emiss", 
     "status": "pending", 
-    "uid": "13db747f-2553-42d8-9669-42c9e25d8b9a"
+    "uid": "d9e841f8-fb75-4935-9d8a-11f56b6ef86c"
 }

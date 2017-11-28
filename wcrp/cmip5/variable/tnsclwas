@@ -3,8 +3,7 @@
     "canonical_name": "tnsclwas", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tnsclwas", 
-    "idx": 513, 
     "namespace": "wcrp:cmip5:variable:tnsclwas", 
     "status": "pending", 
-    "uid": "0a23fb27-0f37-416a-b37f-f821b4eb28ae"
+    "uid": "07d3c51e-b3e1-4ebc-9a7c-f3d25f42d8e4"
 }

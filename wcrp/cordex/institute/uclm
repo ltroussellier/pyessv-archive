@@ -3,10 +3,9 @@
     "canonical_name": "uclm", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "UCLM", 
-    "idx": 28, 
     "label": "UCLM", 
     "namespace": "wcrp:cordex:institute:uclm", 
     "raw_name": "UCLM", 
     "status": "pending", 
-    "uid": "6ed0201b-89af-4e54-8cf6-bb68f745cd25"
+    "uid": "86af60bf-42da-4b25-b512-7f6c6d2f1758"
 }

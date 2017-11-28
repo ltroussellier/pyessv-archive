@@ -3,8 +3,7 @@
     "canonical_name": "bddtalk", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "bddtalk", 
-    "idx": 11, 
     "namespace": "wcrp:cmip5:variable:bddtalk", 
     "status": "pending", 
-    "uid": "90c0ed85-3428-413c-8494-f551af9874b2"
+    "uid": "565fb149-a7d7-4004-b091-af19acacfa18"
 }

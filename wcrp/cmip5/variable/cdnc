@@ -3,8 +3,7 @@
     "canonical_name": "cdnc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cdnc", 
-    "idx": 40, 
     "namespace": "wcrp:cmip5:variable:cdnc", 
     "status": "pending", 
-    "uid": "0635295d-c514-4137-842e-6b8c5501723f"
+    "uid": "ad6620f8-54f7-419b-8790-f276db7b3595"
 }

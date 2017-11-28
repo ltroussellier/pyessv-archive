@@ -31,7 +31,6 @@
         "tier": "1"
     }, 
     "description": "Perturbation from 1850 control using 2014 halocarbon concentrations", 
-    "idx": 99, 
     "label": "piClim-HC", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-hc", 
     "raw_name": "piClim-HC", 

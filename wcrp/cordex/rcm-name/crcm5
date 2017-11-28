@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "crcm5", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 43, 
     "label": "CRCM5", 
     "namespace": "wcrp:cordex:rcm-name:crcm5", 
     "raw_name": "CRCM5", 
     "status": "pending", 
-    "uid": "bfe72746-82f5-421f-9df0-18ca6ba51522"
+    "uid": "8f08a916-3d3f-44fe-9f5c-e697da5d729e"
 }

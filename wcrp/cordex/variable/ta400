@@ -3,8 +3,7 @@
     "canonical_name": "ta400", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ta400", 
-    "idx": 125, 
     "namespace": "wcrp:cordex:variable:ta400", 
     "status": "pending", 
-    "uid": "7e32f7a3-7c63-4ec7-b684-f1b6f8523459"
+    "uid": "89a50422-c92a-463b-8c0c-4e5f84423962"
 }

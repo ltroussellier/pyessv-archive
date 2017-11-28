@@ -3,8 +3,7 @@
     "canonical_name": "snd", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "snd", 
-    "idx": 443, 
     "namespace": "wcrp:cmip5:variable:snd", 
     "status": "pending", 
-    "uid": "305808a7-61ba-4ab3-a3d0-d5bbd921bea3"
+    "uid": "085a2e77-a23a-4d21-a621-62369f374404"
 }

@@ -3,10 +3,9 @@
     "canonical_name": "grassfrac", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "grassFrac", 
-    "idx": 207, 
     "label": "grassFrac", 
     "namespace": "wcrp:cmip5:variable:grassfrac", 
     "raw_name": "grassFrac", 
     "status": "pending", 
-    "uid": "e6ad8d6e-20a1-4126-919c-7015b2c4a162"
+    "uid": "801a724c-3b53-42cd-82e7-a4396e9e17a8"
 }

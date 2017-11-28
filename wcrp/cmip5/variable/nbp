@@ -3,8 +3,7 @@
     "canonical_name": "nbp", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "nbp", 
-    "idx": 296, 
     "namespace": "wcrp:cmip5:variable:nbp", 
     "status": "pending", 
-    "uid": "a1c5e97a-5105-4737-a1bc-7ae6d89fe218"
+    "uid": "ae48e428-676f-4ddb-9572-74c04032cbb9"
 }

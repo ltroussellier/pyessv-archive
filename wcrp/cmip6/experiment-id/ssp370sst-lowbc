@@ -30,7 +30,6 @@
         "tier": "2"
     }, 
     "description": "Future SSP3-7.0 with reduced black carbon emissions, prescribed SSTs", 
-    "idx": 86, 
     "label": "ssp370SST-lowBC", 
     "namespace": "wcrp:cmip6:experiment-id:ssp370sst-lowbc", 
     "raw_name": "ssp370SST-lowBC", 

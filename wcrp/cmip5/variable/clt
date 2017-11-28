@@ -3,8 +3,7 @@
     "canonical_name": "clt", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "clt", 
-    "idx": 73, 
     "namespace": "wcrp:cmip5:variable:clt", 
     "status": "pending", 
-    "uid": "a436356f-0300-46fa-8c1f-1a06d78ff96e"
+    "uid": "ec29da76-0221-4148-a6ca-355dc1e0aa87"
 }

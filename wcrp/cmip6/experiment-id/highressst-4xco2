@@ -29,7 +29,6 @@
         "tier": "3"
     }, 
     "description": "Similar to CFMIP amip-4xCO2, SSTs are held at highresSST-present values and the CO2 seen by the radiation scheme is quadrupled", 
-    "idx": 211, 
     "label": "highresSST-4xCO2", 
     "namespace": "wcrp:cmip6:experiment-id:highressst-4xco2", 
     "raw_name": "highresSST-4xCO2", 

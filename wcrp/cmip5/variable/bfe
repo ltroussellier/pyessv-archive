@@ -3,8 +3,7 @@
     "canonical_name": "bfe", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "bfe", 
-    "idx": 17, 
     "namespace": "wcrp:cmip5:variable:bfe", 
     "status": "pending", 
-    "uid": "a5bd4e40-a7dc-48df-a36e-486dba2bbe3b"
+    "uid": "b05dc994-d009-479c-8697-e2cdee84ebfb"
 }

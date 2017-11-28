@@ -30,7 +30,6 @@
         "tier": "1"
     }, 
     "description": "DECK: AMIP", 
-    "idx": 247, 
     "namespace": "wcrp:cmip6:experiment-id:amip", 
     "status": "pending", 
     "uid": "455bcede-0735-4ebd-9415-6c982ed3274e"

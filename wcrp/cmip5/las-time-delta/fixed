@@ -2,8 +2,7 @@
     "_type": "term", 
     "canonical_name": "fixed", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 7, 
     "namespace": "wcrp:cmip5:las-time-delta:fixed", 
     "status": "pending", 
-    "uid": "402550af-c8f2-4386-9c98-b9c45cc3a091"
+    "uid": "3d94f3aa-f976-4a41-b0f3-fcdcee2d4129"
 }

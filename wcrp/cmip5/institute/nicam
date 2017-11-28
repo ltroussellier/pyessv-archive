@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "nicam", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 60, 
     "label": "NICAM", 
     "namespace": "wcrp:cmip5:institute:nicam", 
     "raw_name": "NICAM", 
     "status": "pending", 
-    "uid": "961e3918-2b08-43f4-943c-94540fb26ec2"
+    "uid": "2ce67848-34fb-493c-a140-12f051ae446e"
 }

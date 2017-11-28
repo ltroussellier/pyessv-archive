@@ -3,10 +3,9 @@
     "canonical_name": "cmcc-cm", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "CMCC-CM", 
-    "idx": 16, 
     "label": "CMCC-CM", 
     "namespace": "wcrp:cmip5:model:cmcc-cm", 
     "raw_name": "CMCC-CM", 
     "status": "pending", 
-    "uid": "e59a8627-fe41-412f-9098-8408c5ff3711"
+    "uid": "301044f6-7a54-429b-b99f-f693ae56123b"
 }

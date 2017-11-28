@@ -3,8 +3,7 @@
     "canonical_name": "alt40", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "alt40", 
-    "idx": 5, 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:alt40", 
     "status": "pending", 
-    "uid": "c635723b-81ff-4621-ba1e-c895c313df06"
+    "uid": "371328c9-21f7-45fd-9805-3b2f3a265d13"
 }

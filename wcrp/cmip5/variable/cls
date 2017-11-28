@@ -3,8 +3,7 @@
     "canonical_name": "cls", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cls", 
-    "idx": 72, 
     "namespace": "wcrp:cmip5:variable:cls", 
     "status": "pending", 
-    "uid": "cc2e74c0-18c1-4ea9-b4a2-f12f673c4a0b"
+    "uid": "30a2c9fc-8626-4d4d-917c-1e73ffec7a33"
 }

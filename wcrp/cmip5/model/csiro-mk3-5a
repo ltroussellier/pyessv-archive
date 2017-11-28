@@ -3,10 +3,9 @@
     "canonical_name": "csiro-mk3-5a", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "CSIRO-Mk3-5A", 
-    "idx": 20, 
     "label": "CSIRO-Mk3-5A", 
     "namespace": "wcrp:cmip5:model:csiro-mk3-5a", 
     "raw_name": "CSIRO-Mk3-5A", 
     "status": "pending", 
-    "uid": "26ebc2ac-ddc0-48f6-87a7-9a3c34a26c63"
+    "uid": "6ce74419-91f2-4b58-8e2f-7282081870c4"
 }

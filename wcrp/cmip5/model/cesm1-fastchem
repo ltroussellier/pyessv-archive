@@ -3,10 +3,9 @@
     "canonical_name": "cesm1-fastchem", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "CESM1-FASTCHEM", 
-    "idx": 13, 
     "label": "CESM1-FASTCHEM", 
     "namespace": "wcrp:cmip5:model:cesm1-fastchem", 
     "raw_name": "CESM1-FASTCHEM", 
     "status": "pending", 
-    "uid": "e009ffad-6370-4412-a57d-0933bff67684"
+    "uid": "cf1de725-63d6-43f3-aa58-2b874f1723b5"
 }

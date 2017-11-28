@@ -3,10 +3,9 @@
     "canonical_name": "esmfdbk1", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ESM feedback 1", 
-    "idx": 64, 
     "label": "esmFdbk1", 
     "namespace": "wcrp:cmip5:experiment:esmfdbk1", 
     "raw_name": "esmFdbk1", 
     "status": "pending", 
-    "uid": "ea0bba9d-9ccf-4257-a54e-536330fdeb39"
+    "uid": "c9ca41f0-0ee5-4f0b-9d9c-02846bac060b"
 }

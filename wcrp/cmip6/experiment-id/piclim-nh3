@@ -30,7 +30,6 @@
         "tier": "3"
     }, 
     "description": "Perturbation from 1850 control using 2014 NH3 emissions", 
-    "idx": 2, 
     "label": "piClim-NH3", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-nh3", 
     "raw_name": "piClim-NH3", 

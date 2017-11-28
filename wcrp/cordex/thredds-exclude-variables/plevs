@@ -3,8 +3,7 @@
     "canonical_name": "plevs", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "plevs", 
-    "idx": 52, 
     "namespace": "wcrp:cordex:thredds-exclude-variables:plevs", 
     "status": "pending", 
-    "uid": "04bbec27-74bd-4eca-94d9-8e127f0f4d2d"
+    "uid": "42ed6477-580d-44d7-b947-97ab4b55df0a"
 }

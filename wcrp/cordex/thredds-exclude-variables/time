@@ -3,8 +3,7 @@
     "canonical_name": "time", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "time", 
-    "idx": 66, 
     "namespace": "wcrp:cordex:thredds-exclude-variables:time", 
     "status": "pending", 
-    "uid": "7b5de4e2-9419-43b5-b7f2-7a94efbc6625"
+    "uid": "fdaa6b2e-931a-4be7-97d4-b29971cefc0a"
 }

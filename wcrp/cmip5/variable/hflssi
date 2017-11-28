@@ -3,8 +3,7 @@
     "canonical_name": "hflssi", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hflssi", 
-    "idx": 222, 
     "namespace": "wcrp:cmip5:variable:hflssi", 
     "status": "pending", 
-    "uid": "7f68b715-01b7-4f67-bdb1-c2d1ba6c76bd"
+    "uid": "91c838c8-ecda-47e5-a81c-a2f516de2f52"
 }

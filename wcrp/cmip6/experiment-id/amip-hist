@@ -30,7 +30,6 @@
         "tier": "1"
     }, 
     "description": "Extended AMIP run that covers 1870-2014. All natural and anthropogenic historical forcings as used in CMIP6 Historical Simulation will be included. AGCM resolution as CMIP6 Historical Simulation. The HadISST data will be used", 
-    "idx": 9, 
     "namespace": "wcrp:cmip6:experiment-id:amip-hist", 
     "status": "pending", 
     "uid": "bc1cb96f-5dba-46b4-8851-95f0f243f7d5"

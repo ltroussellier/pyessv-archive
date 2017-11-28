@@ -31,7 +31,6 @@
         "tier": "1"
     }, 
     "description": "branched from 1pctCO2 run at year 140 and run with CO2 fixed at 4x pre-industrial concentration", 
-    "idx": 245, 
     "label": "1pctCO2-4xext", 
     "namespace": "wcrp:cmip6:experiment-id:1pctco2-4xext", 
     "raw_name": "1pctCO2-4xext", 

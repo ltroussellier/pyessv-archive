@@ -3,8 +3,7 @@
     "canonical_name": "region", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "region", 
-    "idx": 49, 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:region", 
     "status": "pending", 
-    "uid": "a881bf1b-fb84-46db-9206-62e2d3754de9"
+    "uid": "0f05bdbb-4441-4486-82a6-d30dcb1dd8bd"
 }

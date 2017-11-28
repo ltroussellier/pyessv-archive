@@ -31,7 +31,6 @@
         "tier": "1"
     }, 
     "description": "Future scenario with medium radiative forcing by the end of century. Following approximately RCP4.5 global forcing pathway but with new forcing based on SSP2. Concentration-driven", 
-    "idx": 113, 
     "namespace": "wcrp:cmip6:experiment-id:ssp245", 
     "status": "pending", 
     "uid": "ffdf1842-84a3-4d80-b315-8c5cab9541b3"

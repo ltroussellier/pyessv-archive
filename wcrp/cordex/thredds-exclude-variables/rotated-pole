@@ -3,10 +3,9 @@
     "canonical_name": "rotated-pole", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rotated_pole", 
-    "idx": 58, 
     "label": "rotated_pole", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:rotated-pole", 
     "raw_name": "rotated_pole", 
     "status": "pending", 
-    "uid": "939162f4-5bd2-4b73-8dad-6187c13000b1"
+    "uid": "5ed9d5ec-2fbb-430a-8f57-5ec9f32fdb98"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "uas", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "uas", 
-    "idx": 162, 
     "namespace": "wcrp:cordex:variable:uas", 
     "status": "pending", 
-    "uid": "2bd5d49d-0462-406d-88f1-f96d88c747ff"
+    "uid": "92e22352-b6f4-4b58-8c8c-709d39fb51c2"
 }

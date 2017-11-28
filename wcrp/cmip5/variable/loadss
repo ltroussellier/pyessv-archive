@@ -3,8 +3,7 @@
     "canonical_name": "loadss", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "loadss", 
-    "idx": 267, 
     "namespace": "wcrp:cmip5:variable:loadss", 
     "status": "pending", 
-    "uid": "c0e2e622-f650-45da-8444-7d270bc6bd4c"
+    "uid": "f2d2f26b-4ef8-480d-98b2-e111e3500d0f"
 }

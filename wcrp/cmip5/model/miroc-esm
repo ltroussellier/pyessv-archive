@@ -3,10 +3,9 @@
     "canonical_name": "miroc-esm", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "MIROC-ESM", 
-    "idx": 48, 
     "label": "MIROC-ESM", 
     "namespace": "wcrp:cmip5:model:miroc-esm", 
     "raw_name": "MIROC-ESM", 
     "status": "pending", 
-    "uid": "fe77a165-217f-4d77-98b0-c5d2243f0bfa"
+    "uid": "0fbde100-ed6f-4894-9422-abe9b0ea2204"
 }

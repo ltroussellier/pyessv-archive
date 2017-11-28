@@ -30,7 +30,6 @@
         "tier": "1"
     }, 
     "description": "As CMIP5/CFMIP-2 amip4K experiment. AMIP experiment where SSTs are subject to a uniform warming of 4K", 
-    "idx": 127, 
     "label": "amip-p4K", 
     "namespace": "wcrp:cmip6:experiment-id:amip-p4k", 
     "raw_name": "amip-p4K", 

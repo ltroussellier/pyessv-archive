@@ -3,8 +3,7 @@
     "canonical_name": "prlsprof", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "prlsprof", 
-    "idx": 346, 
     "namespace": "wcrp:cmip5:variable:prlsprof", 
     "status": "pending", 
-    "uid": "b437e128-1954-4ed5-9893-4f31ef7b2d59"
+    "uid": "2ce26b82-b267-4a46-9fb9-a7395ae6bdf7"
 }

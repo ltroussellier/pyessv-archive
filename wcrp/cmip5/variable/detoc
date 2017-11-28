@@ -3,8 +3,7 @@
     "canonical_name": "detoc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "detoc", 
-    "idx": 108, 
     "namespace": "wcrp:cmip5:variable:detoc", 
     "status": "pending", 
-    "uid": "f8db0912-7ee6-4325-b327-1f227ed9457d"
+    "uid": "8bd28146-06e2-4bdd-b335-bd24d0eea622"
 }

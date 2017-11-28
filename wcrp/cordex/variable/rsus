@@ -3,8 +3,7 @@
     "canonical_name": "rsus", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rsus", 
-    "idx": 105, 
     "namespace": "wcrp:cordex:variable:rsus", 
     "status": "pending", 
-    "uid": "6b1c2e9d-9cfa-4ae7-8c26-e6b866542880"
+    "uid": "73eca374-ae80-43c8-8f65-15a597e2d4a8"
 }

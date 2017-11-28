@@ -3,8 +3,7 @@
     "canonical_name": "rho", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rho", 
-    "idx": 50, 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:rho", 
     "status": "pending", 
-    "uid": "2b74060d-f175-47c3-9635-8c406b20fa0d"
+    "uid": "6f4c9d35-1c8d-4211-84bb-6432c335b941"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "vsfevap", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "vsfevap", 
-    "idx": 563, 
     "namespace": "wcrp:cmip5:variable:vsfevap", 
     "status": "pending", 
-    "uid": "3063c1e1-0374-4f22-ae5b-c4eeb21899db"
+    "uid": "b72bc4d1-78bd-484f-87e5-f3c40d9a7be3"
 }

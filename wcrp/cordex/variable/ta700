@@ -3,8 +3,7 @@
     "canonical_name": "ta700", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ta700", 
-    "idx": 128, 
     "namespace": "wcrp:cordex:variable:ta700", 
     "status": "pending", 
-    "uid": "fa46be2a-92b1-4dcc-b24e-f9f26e355b70"
+    "uid": "4bcef314-5074-40e2-8df1-a549fdb070c5"
 }

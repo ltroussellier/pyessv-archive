@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "nsf-doe-ncar", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 14, 
     "label": "NSF-DOE-NCAR", 
     "namespace": "wcrp:cmip5:institute:nsf-doe-ncar", 
     "raw_name": "NSF-DOE-NCAR", 
     "status": "pending", 
-    "uid": "bbea3fe5-b9f6-4664-be9a-8322efff31be"
+    "uid": "a211f53d-5e9a-4eec-bb2d-eeee1fb1f157"
 }

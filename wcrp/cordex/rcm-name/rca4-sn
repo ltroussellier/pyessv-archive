@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "rca4-sn", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 35, 
     "label": "RCA4-SN", 
     "namespace": "wcrp:cordex:rcm-name:rca4-sn", 
     "raw_name": "RCA4-SN", 
     "status": "pending", 
-    "uid": "e7e35588-f08a-4f70-938d-16ae528e0ede"
+    "uid": "1872b6ef-7bff-4214-8002-8ca67e6adb63"
 }

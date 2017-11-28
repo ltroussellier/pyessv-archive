@@ -3,10 +3,9 @@
     "canonical_name": "volcin2010", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Prediction with 2010 volcano", 
-    "idx": 101, 
     "label": "volcIn2010", 
     "namespace": "wcrp:cmip5:experiment:volcin2010", 
     "raw_name": "volcIn2010", 
     "status": "pending", 
-    "uid": "7fbc23ce-8e39-4535-b170-c185083205a8"
+    "uid": "0b9c47e7-9266-481d-9b64-27c88b3b7c5b"
 }

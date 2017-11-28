@@ -3,8 +3,7 @@
     "canonical_name": "chl", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "chl", 
-    "idx": 50, 
     "namespace": "wcrp:cmip5:variable:chl", 
     "status": "pending", 
-    "uid": "0eb17462-1e09-483c-a8fb-c10d16a902c3"
+    "uid": "b4bce003-7958-42a6-9fdd-eac3ca3879ec"
 }

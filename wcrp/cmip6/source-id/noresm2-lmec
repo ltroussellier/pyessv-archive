@@ -50,7 +50,6 @@
         "release_year": "2017", 
         "source_id": "NorESM2-LMEC"
     }, 
-    "idx": 50, 
     "label": "NorESM2-LMEC", 
     "namespace": "wcrp:cmip6:source-id:noresm2-lmec", 
     "raw_name": "NorESM2-LMEC", 

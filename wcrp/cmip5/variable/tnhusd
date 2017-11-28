@@ -3,8 +3,7 @@
     "canonical_name": "tnhusd", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tnhusd", 
-    "idx": 480, 
     "namespace": "wcrp:cmip5:variable:tnhusd", 
     "status": "pending", 
-    "uid": "fdfc8104-9455-4198-94fe-d4bb4d766a3c"
+    "uid": "932e4fd7-0e4a-4207-a6a7-d624edd32743"
 }

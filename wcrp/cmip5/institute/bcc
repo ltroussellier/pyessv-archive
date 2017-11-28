@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "bcc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 4, 
     "label": "BCC", 
     "namespace": "wcrp:cmip5:institute:bcc", 
     "raw_name": "BCC", 
     "status": "pending", 
-    "uid": "411f80a2-73c5-4e85-ac6f-66626fb66459"
+    "uid": "448ba182-2d5b-4bfe-aac9-85c156fb8dee"
 }

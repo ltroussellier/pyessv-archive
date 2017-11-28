@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "mpi-m", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 55, 
     "label": "MPI-M", 
     "namespace": "wcrp:cmip5:institute:mpi-m", 
     "raw_name": "MPI-M", 
     "status": "pending", 
-    "uid": "594bcf21-f092-400e-a1f2-62228d79b179"
+    "uid": "261f7563-ac21-4541-88b1-44f11e1f047b"
 }

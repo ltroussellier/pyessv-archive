@@ -3,8 +3,7 @@
     "canonical_name": "p500", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "p500", 
-    "idx": 38, 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:p500", 
     "status": "pending", 
-    "uid": "c05f666c-6fdd-4861-a0e6-cbe9f9dcca3e"
+    "uid": "6c84010c-bfcf-449a-88d2-4311a3775d16"
 }

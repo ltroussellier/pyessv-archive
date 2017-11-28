@@ -3,8 +3,7 @@
     "canonical_name": "transix", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "transix", 
-    "idx": 533, 
     "namespace": "wcrp:cmip5:variable:transix", 
     "status": "pending", 
-    "uid": "1aab0398-51bc-42d7-8935-7ca6068d0b10"
+    "uid": "389584b2-7357-4cb7-923d-3e56414ad4bc"
 }

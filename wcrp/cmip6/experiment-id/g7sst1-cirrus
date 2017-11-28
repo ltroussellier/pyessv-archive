@@ -30,7 +30,6 @@
         "tier": "2"
     }, 
     "description": "Time slice at 2020 (ScenarioMIP Tier 1 high forcing scenario and cirrus thinning according to G7cirrus)", 
-    "idx": 241, 
     "label": "G7SST1-cirrus", 
     "namespace": "wcrp:cmip6:experiment-id:g7sst1-cirrus", 
     "raw_name": "G7SST1-cirrus", 

@@ -3,10 +3,9 @@
     "canonical_name": "clitter", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cLitter", 
-    "idx": 25, 
     "label": "cLitter", 
     "namespace": "wcrp:cmip5:variable:clitter", 
     "raw_name": "cLitter", 
     "status": "pending", 
-    "uid": "21625732-f45b-4630-93fa-006015f11a12"
+    "uid": "982ecd27-4da0-47c2-adc9-213f90ba30d0"
 }

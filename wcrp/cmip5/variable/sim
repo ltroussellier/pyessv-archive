@@ -3,8 +3,7 @@
     "canonical_name": "sim", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sim", 
-    "idx": 438, 
     "namespace": "wcrp:cmip5:variable:sim", 
     "status": "pending", 
-    "uid": "37948872-be29-407b-8e57-3459be889b54"
+    "uid": "93fc14ae-ae6e-4947-96c2-5ec7d9a993ed"
 }

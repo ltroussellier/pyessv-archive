@@ -3,8 +3,7 @@
     "canonical_name": "rsds", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rsds", 
-    "idx": 397, 
     "namespace": "wcrp:cmip5:variable:rsds", 
     "status": "pending", 
-    "uid": "8b50f48b-a033-4570-a2e3-fbd57b5ce2ce"
+    "uid": "6c1d2027-e5e3-45d3-9fea-b43e9fa68ef8"
 }

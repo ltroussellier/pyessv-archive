@@ -3,8 +3,7 @@
     "canonical_name": "hfssi", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hfssi", 
-    "idx": 229, 
     "namespace": "wcrp:cmip5:variable:hfssi", 
     "status": "pending", 
-    "uid": "d7d86e78-e2a5-43b4-97e2-1b4e4de31763"
+    "uid": "9927c9ab-28df-4b79-96e4-5ce5fe929daa"
 }

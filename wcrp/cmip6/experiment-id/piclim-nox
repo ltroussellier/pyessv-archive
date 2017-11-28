@@ -31,7 +31,6 @@
         "tier": "3"
     }, 
     "description": "Perturbation from 1850 control using 2014 NOx emissions", 
-    "idx": 135, 
     "label": "piClim-NOx", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-nox", 
     "raw_name": "piClim-NOx", 

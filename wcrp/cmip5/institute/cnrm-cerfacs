@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "cnrm-cerfacs", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 19, 
     "label": "CNRM-CERFACS", 
     "namespace": "wcrp:cmip5:institute:cnrm-cerfacs", 
     "raw_name": "CNRM-CERFACS", 
     "status": "pending", 
-    "uid": "97e5fe99-d841-46ea-a2fa-7de064d4d10c"
+    "uid": "a7a1e79a-50a9-48e1-8b53-7ef6b579b449"
 }

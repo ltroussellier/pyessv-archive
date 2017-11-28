@@ -51,7 +51,6 @@
         "release_year": "2017", 
         "source_id": "EMAC-2-53-Vol"
     }, 
-    "idx": 43, 
     "label": "EMAC-2-53-Vol", 
     "namespace": "wcrp:cmip6:source-id:emac-2-53-vol", 
     "raw_name": "EMAC-2-53-Vol", 

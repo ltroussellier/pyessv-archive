@@ -3,8 +3,7 @@
     "canonical_name": "huss", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "huss", 
-    "idx": 241, 
     "namespace": "wcrp:cmip5:variable:huss", 
     "status": "pending", 
-    "uid": "0bdfc3fb-413e-4072-8b5f-37b8493f37f4"
+    "uid": "94b7fd90-37fc-4d3f-a98b-b86b0e9c62ad"
 }

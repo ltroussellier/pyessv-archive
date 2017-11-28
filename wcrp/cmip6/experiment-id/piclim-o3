@@ -31,7 +31,6 @@
         "tier": "2"
     }, 
     "description": "Perturbation from 1850 control using 2014 ozone precursor emissions", 
-    "idx": 233, 
     "label": "piClim-O3", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-o3", 
     "raw_name": "piClim-O3", 

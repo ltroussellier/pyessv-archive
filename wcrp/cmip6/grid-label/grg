@@ -2,7 +2,6 @@
     "_type": "term", 
     "canonical_name": "grg", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 17, 
     "namespace": "wcrp:cmip6:grid-label:grg", 
     "status": "pending", 
     "uid": "58df5799-bbad-453a-bd98-fa3108e05dec"

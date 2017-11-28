@@ -3,8 +3,7 @@
     "canonical_name": "mon", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "mon", 
-    "idx": 4, 
     "namespace": "wcrp:cmip5:time-frequency:mon", 
     "status": "pending", 
-    "uid": "9ddcb7b4-ee4f-4378-80d8-41f3b78f03ed"
+    "uid": "aec5bf55-9de3-4256-961a-a258b45a54f0"
 }

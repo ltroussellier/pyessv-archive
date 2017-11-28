@@ -3,10 +3,9 @@
     "canonical_name": "chmi", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "CHMI", 
-    "idx": 5, 
     "label": "CHMI", 
     "namespace": "wcrp:cordex:institute:chmi", 
     "raw_name": "CHMI", 
     "status": "pending", 
-    "uid": "12375741-ac8e-4127-a5a5-0d748d8e7351"
+    "uid": "8e675bb2-1ba8-4eb6-b569-d059d0046653"
 }

@@ -3,10 +3,9 @@
     "canonical_name": "nppwood", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "nppWood", 
-    "idx": 303, 
     "label": "nppWood", 
     "namespace": "wcrp:cmip5:variable:nppwood", 
     "raw_name": "nppWood", 
     "status": "pending", 
-    "uid": "88c1cd07-2c0e-401c-b555-9223b175c386"
+    "uid": "bdc08735-1db4-48b3-beca-79ece82346ac"
 }

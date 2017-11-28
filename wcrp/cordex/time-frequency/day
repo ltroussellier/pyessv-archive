@@ -3,8 +3,7 @@
     "canonical_name": "day", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "day", 
-    "idx": 0, 
     "namespace": "wcrp:cordex:time-frequency:day", 
     "status": "pending", 
-    "uid": "11ccc0a2-607e-4760-b88e-4767ce22f064"
+    "uid": "335aafc8-50ab-4048-b4dd-267fd4ebbf35"
 }

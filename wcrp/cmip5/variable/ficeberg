@@ -3,8 +3,7 @@
     "canonical_name": "ficeberg", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ficeberg", 
-    "idx": 194, 
     "namespace": "wcrp:cmip5:variable:ficeberg", 
     "status": "pending", 
-    "uid": "c9fce6d7-6e93-4dc7-b4fa-8d0db67ab55c"
+    "uid": "460c47cb-e2c5-48c6-808c-7a9f28313a5e"
 }

@@ -3,10 +3,9 @@
     "canonical_name": "miub-wrf331a", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "MIUB-WRF331A", 
-    "idx": 28, 
     "label": "MIUB-WRF331A", 
     "namespace": "wcrp:cordex:rcm-model:miub-wrf331a", 
     "raw_name": "MIUB-WRF331A", 
     "status": "pending", 
-    "uid": "7ddc59e1-ce4e-4e2e-963c-aaf6ed4f0b06"
+    "uid": "1f9e22ae-d104-4533-a768-129b7174358e"
 }

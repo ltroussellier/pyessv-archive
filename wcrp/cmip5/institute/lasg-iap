@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "lasg-iap", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 26, 
     "label": "LASG-IAP", 
     "namespace": "wcrp:cmip5:institute:lasg-iap", 
     "raw_name": "LASG-IAP", 
     "status": "pending", 
-    "uid": "8061ad21-56b7-4d38-bfdb-4bc79d2a7c82"
+    "uid": "cb9a503d-2852-455b-90d9-8b47879b61f0"
 }

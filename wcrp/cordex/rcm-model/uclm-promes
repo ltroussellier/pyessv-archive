@@ -3,10 +3,9 @@
     "canonical_name": "uclm-promes", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "UCLM-PROMES", 
-    "idx": 39, 
     "label": "UCLM-PROMES", 
     "namespace": "wcrp:cordex:rcm-model:uclm-promes", 
     "raw_name": "UCLM-PROMES", 
     "status": "pending", 
-    "uid": "d170cdbc-f05b-4717-8d3b-d3d89b1d2a1a"
+    "uid": "2b48fb46-8764-4c6f-84c3-9a8bece88f9c"
 }

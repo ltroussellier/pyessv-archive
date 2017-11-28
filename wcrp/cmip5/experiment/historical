@@ -3,8 +3,7 @@
     "canonical_name": "historical", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Historical", 
-    "idx": 70, 
     "namespace": "wcrp:cmip5:experiment:historical", 
     "status": "pending", 
-    "uid": "d3ef97d2-cc33-4f4c-8f8c-f37ca558fb0a"
+    "uid": "301948a7-d8fb-46af-b6f8-aa0fc094fe9e"
 }

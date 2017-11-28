@@ -3,8 +3,7 @@
     "canonical_name": "historical", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Historical", 
-    "idx": 1, 
     "namespace": "wcrp:cordex:experiment:historical", 
     "status": "pending", 
-    "uid": "6628f2dc-038a-4bf6-a010-96f8dd27854b"
+    "uid": "fb507537-36b5-4f19-9528-408ee354e177"
 }

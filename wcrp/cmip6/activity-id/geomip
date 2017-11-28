@@ -2,7 +2,6 @@
     "_type": "term", 
     "canonical_name": "geomip", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 5, 
     "label": "GeoMIP", 
     "namespace": "wcrp:cmip6:activity-id:geomip", 
     "raw_name": "GeoMIP", 

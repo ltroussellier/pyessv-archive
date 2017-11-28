@@ -3,8 +3,7 @@
     "canonical_name": "ua1000", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ua1000", 
-    "idx": 149, 
     "namespace": "wcrp:cordex:variable:ua1000", 
     "status": "pending", 
-    "uid": "ba77d161-a60a-4855-9d0c-bb5cbbc0c976"
+    "uid": "b3deccd7-7685-4923-8eca-f9792c306313"
 }

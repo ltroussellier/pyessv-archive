@@ -2,7 +2,6 @@
     "_type": "term", 
     "canonical_name": "ifxant", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 25, 
     "label": "IfxAnt", 
     "namespace": "wcrp:cmip6:table-id:ifxant", 
     "raw_name": "IfxAnt", 

@@ -3,8 +3,7 @@
     "canonical_name": "toffset", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "toffset", 
-    "idx": 528, 
     "namespace": "wcrp:cmip5:variable:toffset", 
     "status": "pending", 
-    "uid": "db97c123-e615-48ad-b8d8-cd4dfec9786b"
+    "uid": "927a773c-81e8-459f-b712-e65dc93bc113"
 }

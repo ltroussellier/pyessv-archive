@@ -50,7 +50,6 @@
         "release_year": "2017", 
         "source_id": "FGOALS-g3"
     }, 
-    "idx": 8, 
     "label": "FGOALS-g3", 
     "namespace": "wcrp:cmip6:source-id:fgoals-g3", 
     "raw_name": "FGOALS-g3", 

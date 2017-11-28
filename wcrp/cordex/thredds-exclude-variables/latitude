@@ -3,8 +3,7 @@
     "canonical_name": "latitude", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "latitude", 
-    "idx": 25, 
     "namespace": "wcrp:cordex:thredds-exclude-variables:latitude", 
     "status": "pending", 
-    "uid": "c59e584f-4d6f-4762-a9b6-9c06199b1e76"
+    "uid": "3eafe710-8079-4a2e-99a0-0c5904937184"
 }

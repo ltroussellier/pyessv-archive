@@ -3,8 +3,7 @@
     "canonical_name": "fco2fos", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fco2fos", 
-    "idx": 181, 
     "namespace": "wcrp:cmip5:variable:fco2fos", 
     "status": "pending", 
-    "uid": "c8a5bcde-cd23-42af-bb14-e714a1f57ece"
+    "uid": "f6fe4849-063a-48df-86f8-45cac778e5a3"
 }

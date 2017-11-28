@@ -31,7 +31,6 @@
         "tier": "2"
     }, 
     "description": "Extension beyond 2014 of the CMIP6 historical (CO2 emission-driven)", 
-    "idx": 21, 
     "namespace": "wcrp:cmip6:experiment-id:esm-hist-ext", 
     "status": "pending", 
     "uid": "854b7a9f-e87d-4bb5-88fd-42531e67735b"

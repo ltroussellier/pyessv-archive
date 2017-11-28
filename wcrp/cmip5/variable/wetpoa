@@ -3,8 +3,7 @@
     "canonical_name": "wetpoa", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "wetpoa", 
-    "idx": 575, 
     "namespace": "wcrp:cmip5:variable:wetpoa", 
     "status": "pending", 
-    "uid": "585cfce5-521f-4d7d-b6dc-7f868fd937c2"
+    "uid": "9dc946a8-05d6-4e53-8a0c-872a3262826c"
 }

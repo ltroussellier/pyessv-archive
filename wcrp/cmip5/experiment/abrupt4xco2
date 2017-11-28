@@ -3,10 +3,9 @@
     "canonical_name": "abrupt4xco2", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Abrupt 4xCO2", 
-    "idx": 1, 
     "label": "abrupt4xCO2", 
     "namespace": "wcrp:cmip5:experiment:abrupt4xco2", 
     "raw_name": "abrupt4xCO2", 
     "status": "pending", 
-    "uid": "af0227c3-9b8b-4029-ac4e-8a701a14563c"
+    "uid": "951dd97a-6f12-4c5f-bdfe-4439ac28b346"
 }

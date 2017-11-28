@@ -3,8 +3,7 @@
     "canonical_name": "depth100m", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "depth100m", 
-    "idx": 15, 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:depth100m", 
     "status": "pending", 
-    "uid": "6271a2b7-0aee-4523-b69d-45aea297c57a"
+    "uid": "4da0b905-0986-4680-8fb4-f88f67e9c997"
 }

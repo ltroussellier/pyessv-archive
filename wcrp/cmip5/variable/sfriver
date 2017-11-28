@@ -3,8 +3,7 @@
     "canonical_name": "sfriver", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sfriver", 
-    "idx": 431, 
     "namespace": "wcrp:cmip5:variable:sfriver", 
     "status": "pending", 
-    "uid": "e3091505-8e5e-4a65-933f-878cc42120f3"
+    "uid": "f4f605b0-e534-4c9c-8efe-8f311ac3b236"
 }

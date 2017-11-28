@@ -3,10 +3,9 @@
     "canonical_name": "ipsl-ipsl-cm5a-lr", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "IPSL-IPSL-CM5A-LR", 
-    "idx": 5, 
     "label": "IPSL-IPSL-CM5A-LR", 
     "namespace": "wcrp:cordex:driving-model:ipsl-ipsl-cm5a-lr", 
     "raw_name": "IPSL-IPSL-CM5A-LR", 
     "status": "pending", 
-    "uid": "eb341597-3fd0-4173-8198-bfe84279b9f7"
+    "uid": "cc370aa5-6c21-485e-8f71-f4f4cea2b3bf"
 }

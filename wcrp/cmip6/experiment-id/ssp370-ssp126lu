@@ -31,7 +31,6 @@
         "tier": "1"
     }, 
     "description": "Additional land use policy sensitivity simulation for high radiative forcing scenario, keep all forcings the same as ScenarioMIP SSP3-7 (deforestation scenario), but replace land use from SSP1-2.6 (afforestation) scenario; concentration-driven", 
-    "idx": 120, 
     "label": "ssp370-ssp126Lu", 
     "namespace": "wcrp:cmip6:experiment-id:ssp370-ssp126lu", 
     "raw_name": "ssp370-ssp126Lu", 

@@ -3,8 +3,7 @@
     "canonical_name": "cltisccp", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cltisccp", 
-    "idx": 76, 
     "namespace": "wcrp:cmip5:variable:cltisccp", 
     "status": "pending", 
-    "uid": "ac0343b5-42bd-4b0c-a656-6aaa583ca6c5"
+    "uid": "a43ea921-1901-4e20-b255-3e84a16bebcd"
 }

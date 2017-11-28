@@ -3,10 +3,9 @@
     "canonical_name": "mohc-hadrm3p", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "MOHC-HadRM3P", 
-    "idx": 30, 
     "label": "MOHC-HadRM3P", 
     "namespace": "wcrp:cordex:rcm-model:mohc-hadrm3p", 
     "raw_name": "MOHC-HadRM3P", 
     "status": "pending", 
-    "uid": "fd34d34a-dad4-47c7-bbc9-8554cad51d5c"
+    "uid": "58cc46a7-788e-4453-b70a-b25b578ba489"
 }

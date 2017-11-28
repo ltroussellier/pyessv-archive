@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "wrf331a", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 28, 
     "label": "WRF331A", 
     "namespace": "wcrp:cordex:rcm-name:wrf331a", 
     "raw_name": "WRF331A", 
     "status": "pending", 
-    "uid": "63681ea4-9724-4241-9ea6-e9a351f70b72"
+    "uid": "d44f773f-c238-47f3-9f10-e5e36a7bbc40"
 }

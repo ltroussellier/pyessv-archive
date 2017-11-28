@@ -3,8 +3,7 @@
     "canonical_name": "zfull", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "zfull", 
-    "idx": 585, 
     "namespace": "wcrp:cmip5:variable:zfull", 
     "status": "pending", 
-    "uid": "2957a548-626d-4ae0-a7d3-0b4b4a87f8c8"
+    "uid": "4ccafd33-e486-48a5-be30-2bb77700bf68"
 }

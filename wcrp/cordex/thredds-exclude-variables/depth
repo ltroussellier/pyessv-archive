@@ -3,8 +3,7 @@
     "canonical_name": "depth", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "depth", 
-    "idx": 13, 
     "namespace": "wcrp:cordex:thredds-exclude-variables:depth", 
     "status": "pending", 
-    "uid": "ee801de9-63d9-46fb-a1a5-4b12bea45ab1"
+    "uid": "e41aacc3-70f7-4fbd-9a60-22d9ffd46aa1"
 }

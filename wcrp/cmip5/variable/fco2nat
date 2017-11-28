@@ -3,8 +3,7 @@
     "canonical_name": "fco2nat", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fco2nat", 
-    "idx": 182, 
     "namespace": "wcrp:cmip5:variable:fco2nat", 
     "status": "pending", 
-    "uid": "6fe00e95-19d6-49e8-b570-446a03fe29df"
+    "uid": "1a95a605-32f1-43b3-b43f-79226b4323b4"
 }

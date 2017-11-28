@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "csiro-bom", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 1, 
     "label": "CSIRO-BOM", 
     "namespace": "wcrp:cmip5:institute:csiro-bom", 
     "raw_name": "CSIRO-BOM", 
     "status": "pending", 
-    "uid": "d38ffbc8-8528-4ecb-b57c-0bb580135d50"
+    "uid": "a9687f95-d9d4-4271-b93e-35c7b36601a3"
 }

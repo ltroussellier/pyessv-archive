@@ -3,8 +3,7 @@
     "canonical_name": "no3", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "no3", 
-    "idx": 299, 
     "namespace": "wcrp:cmip5:variable:no3", 
     "status": "pending", 
-    "uid": "7555cd96-8938-4fcb-9777-85c8f4b41cfe"
+    "uid": "11ce2041-0b63-45b4-bcb3-f06bfe3d5aa7"
 }

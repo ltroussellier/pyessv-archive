@@ -3,8 +3,7 @@
     "canonical_name": "sbl", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sbl", 
-    "idx": 416, 
     "namespace": "wcrp:cmip5:variable:sbl", 
     "status": "pending", 
-    "uid": "93eeb971-ec72-4fbc-a187-436d9ef578b3"
+    "uid": "dcfc299b-dc82-415f-9e5b-26fecaf5c5e0"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "wetdms", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "wetdms", 
-    "idx": 571, 
     "namespace": "wcrp:cmip5:variable:wetdms", 
     "status": "pending", 
-    "uid": "ec61c74c-5144-43b1-a8c8-8e9caa1ea7b6"
+    "uid": "98cdab7e-91c9-4da0-a7f8-4924a9879ab1"
 }

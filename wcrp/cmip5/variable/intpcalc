@@ -3,8 +3,7 @@
     "canonical_name": "intpcalc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "intpcalc", 
-    "idx": 248, 
     "namespace": "wcrp:cmip5:variable:intpcalc", 
     "status": "pending", 
-    "uid": "52a2776b-4abe-4004-b5e7-943ca7786432"
+    "uid": "8f7b8e19-f6de-4d92-afb3-3f53bf84716e"
 }

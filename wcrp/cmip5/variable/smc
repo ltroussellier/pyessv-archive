@@ -3,8 +3,7 @@
     "canonical_name": "smc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "smc", 
-    "idx": 441, 
     "namespace": "wcrp:cmip5:variable:smc", 
     "status": "pending", 
-    "uid": "80a5b050-4c48-441f-a4d7-f196caf7c34f"
+    "uid": "3485ed94-a9f6-499f-80ce-334c2ab8cc8d"
 }

@@ -60,7 +60,6 @@
         "release_year": "2017", 
         "source_id": "CNRM-CM6-1"
     }, 
-    "idx": 40, 
     "label": "CNRM-CM6-1", 
     "namespace": "wcrp:cmip6:source-id:cnrm-cm6-1", 
     "raw_name": "CNRM-CM6-1", 

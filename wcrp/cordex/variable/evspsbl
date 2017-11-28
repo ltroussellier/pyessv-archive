@@ -3,8 +3,7 @@
     "canonical_name": "evspsbl", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "evspsbl", 
-    "idx": 48, 
     "namespace": "wcrp:cordex:variable:evspsbl", 
     "status": "pending", 
-    "uid": "d0df9d8b-c081-4596-b093-b83850907da6"
+    "uid": "c1e2890a-fdf9-4cd2-82ef-1727db901ccf"
 }

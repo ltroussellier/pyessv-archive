@@ -3,8 +3,7 @@
     "canonical_name": "rsdssi", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rsdssi", 
-    "idx": 401, 
     "namespace": "wcrp:cmip5:variable:rsdssi", 
     "status": "pending", 
-    "uid": "d3eb0cfe-5275-4501-85bb-4039dc788f3a"
+    "uid": "9275a10a-5a89-40c0-af9e-fc7d3191b6c0"
 }

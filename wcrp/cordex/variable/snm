@@ -3,8 +3,7 @@
     "canonical_name": "snm", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "snm", 
-    "idx": 117, 
     "namespace": "wcrp:cordex:variable:snm", 
     "status": "pending", 
-    "uid": "e9fb55e3-26e7-4d06-9428-c56abbab5847"
+    "uid": "82e0c912-7df5-433d-af1e-175278f8eee9"
 }

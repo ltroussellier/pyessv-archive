@@ -3,8 +3,7 @@
     "canonical_name": "p220", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "p220", 
-    "idx": 37, 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:p220", 
     "status": "pending", 
-    "uid": "771cc12e-fc04-4c98-8335-975a35ab4b85"
+    "uid": "b00200d2-a6bf-4967-9669-6465c5f900f7"
 }

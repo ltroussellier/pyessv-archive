@@ -31,7 +31,6 @@
         "tier": "1"
     }, 
     "description": "Biogeochemically-coupled specified concentration simulation in which CO2 increases at a rate of 1% per year until quadrupling", 
-    "idx": 130, 
     "label": "1pctCO2-bgc", 
     "namespace": "wcrp:cmip6:experiment-id:1pctco2-bgc", 
     "raw_name": "1pctCO2-bgc", 

@@ -3,8 +3,7 @@
     "canonical_name": "hus900", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hus900", 
-    "idx": 76, 
     "namespace": "wcrp:cordex:variable:hus900", 
     "status": "pending", 
-    "uid": "697dcbdf-6d05-4b2b-9854-d11fb256c81d"
+    "uid": "797db222-ba99-48ca-93a6-7d5e5ee778ef"
 }

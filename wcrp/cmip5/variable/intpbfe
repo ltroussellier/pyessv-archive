@@ -3,8 +3,7 @@
     "canonical_name": "intpbfe", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "intpbfe", 
-    "idx": 246, 
     "namespace": "wcrp:cmip5:variable:intpbfe", 
     "status": "pending", 
-    "uid": "3b29b147-eaa5-4154-b3ee-bfea0f5a09bf"
+    "uid": "a499d223-6909-43fe-b89b-8ca8fb1ce7c2"
 }

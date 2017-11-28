@@ -3,8 +3,7 @@
     "canonical_name": "depth0m", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "depth0m", 
-    "idx": 13, 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:depth0m", 
     "status": "pending", 
-    "uid": "e6e31228-c79e-4b38-9204-0353d8c4a766"
+    "uid": "a67ea4e7-148d-4beb-b5b9-f04007982b59"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "slev", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "slev", 
-    "idx": 113, 
     "namespace": "wcrp:cordex:variable:slev", 
     "status": "pending", 
-    "uid": "2cc50c00-c2c7-4732-a728-ecceb1a5aa70"
+    "uid": "b0096f65-7977-4cf3-b5ce-31670b2f205b"
 }

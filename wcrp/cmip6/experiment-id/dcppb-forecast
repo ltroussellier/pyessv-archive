@@ -45,7 +45,6 @@
         "tier": "1"
     }, 
     "description": "B1 (and B2.1, B2.2) Ongoing decadal forecasts. First full forecast year follows start year (e.g., for s2017, first full forecast year is 2018)", 
-    "idx": 148, 
     "label": "dcppB-forecast", 
     "namespace": "wcrp:cmip6:experiment-id:dcppb-forecast", 
     "raw_name": "dcppB-forecast", 

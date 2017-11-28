@@ -3,8 +3,7 @@
     "canonical_name": "expcalc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "expcalc", 
-    "idx": 162, 
     "namespace": "wcrp:cmip5:variable:expcalc", 
     "status": "pending", 
-    "uid": "f559807b-7366-483f-8308-2264d8ac72a2"
+    "uid": "842fecbb-961a-4f54-9fc8-b569ef364534"
 }

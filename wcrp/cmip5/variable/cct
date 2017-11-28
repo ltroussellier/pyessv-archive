@@ -3,8 +3,7 @@
     "canonical_name": "cct", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cct", 
-    "idx": 39, 
     "namespace": "wcrp:cmip5:variable:cct", 
     "status": "pending", 
-    "uid": "8bcee5d1-786f-4c21-b059-a2298abc4e7a"
+    "uid": "f50fcf11-a077-4dd7-93a0-8b309f971a52"
 }

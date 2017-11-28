@@ -3,8 +3,7 @@
     "canonical_name": "fediss", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fediss", 
-    "idx": 189, 
     "namespace": "wcrp:cmip5:variable:fediss", 
     "status": "pending", 
-    "uid": "e86b921d-2e97-401b-8d5a-ab07491a2a14"
+    "uid": "39417dae-3eed-4653-9830-e9bad23c445b"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "tnhus", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tnhus", 
-    "idx": 477, 
     "namespace": "wcrp:cmip5:variable:tnhus", 
     "status": "pending", 
-    "uid": "3f2d916a-1d74-4b0d-b82a-2e55b2381631"
+    "uid": "4ce3f006-67bf-464a-8ba6-53ed7a213dab"
 }

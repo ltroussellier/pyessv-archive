@@ -30,7 +30,6 @@
         "tier": "1"
     }, 
     "description": "As in RFMIP-ERF-PI-Cntrl but with present-day anthropogenic forcing (greenhouse gases, aerosols and land-use)", 
-    "idx": 27, 
     "label": "piClim-anthro", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-anthro", 
     "raw_name": "piClim-anthro", 

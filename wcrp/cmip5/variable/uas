@@ -3,8 +3,7 @@
     "canonical_name": "uas", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "uas", 
-    "idx": 551, 
     "namespace": "wcrp:cmip5:variable:uas", 
     "status": "pending", 
-    "uid": "1a339e35-fc98-4e35-9296-f0c59e7134ff"
+    "uid": "3a2d3d27-c70e-4ddc-91b6-908626f1c367"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "spco2", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "spco2", 
-    "idx": 452, 
     "namespace": "wcrp:cmip5:variable:spco2", 
     "status": "pending", 
-    "uid": "dcb62815-aba4-4756-9f81-4952dcd330a8"
+    "uid": "bb08c184-c659-42d3-9221-df42ecfc533d"
 }

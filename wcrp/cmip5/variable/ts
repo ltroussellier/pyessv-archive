@@ -3,8 +3,7 @@
     "canonical_name": "ts", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ts", 
-    "idx": 542, 
     "namespace": "wcrp:cmip5:variable:ts", 
     "status": "pending", 
-    "uid": "e910786d-c7cb-4f11-986f-eff2002ae640"
+    "uid": "a01d7af2-7b46-4a32-925f-eab42706faff"
 }

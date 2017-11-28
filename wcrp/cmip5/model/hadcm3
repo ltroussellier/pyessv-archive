@@ -3,10 +3,9 @@
     "canonical_name": "hadcm3", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "HadCM3", 
-    "idx": 39, 
     "label": "HadCM3", 
     "namespace": "wcrp:cmip5:model:hadcm3", 
     "raw_name": "HadCM3", 
     "status": "pending", 
-    "uid": "ce84984a-f72e-4526-9343-0a7e34de534d"
+    "uid": "3492fe09-7960-4068-ae78-0633c87165fe"
 }

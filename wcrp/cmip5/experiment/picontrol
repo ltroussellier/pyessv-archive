@@ -3,10 +3,9 @@
     "canonical_name": "picontrol", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Pre-Industrial control", 
-    "idx": 90, 
     "label": "piControl", 
     "namespace": "wcrp:cmip5:experiment:picontrol", 
     "raw_name": "piControl", 
     "status": "pending", 
-    "uid": "914a9a1c-141f-465d-9885-def747c448b6"
+    "uid": "d9b97cc7-c697-4ee0-a4a9-c40566185c88"
 }

@@ -3,10 +3,9 @@
     "canonical_name": "ichec-ec-earth", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ICHEC-EC-EARTH", 
-    "idx": 4, 
     "label": "ICHEC-EC-EARTH", 
     "namespace": "wcrp:cordex:driving-model:ichec-ec-earth", 
     "raw_name": "ICHEC-EC-EARTH", 
     "status": "pending", 
-    "uid": "999057a8-1b98-4f40-85ab-cdc577d25f64"
+    "uid": "fbf704c2-357f-4275-8ca0-48a85cfae480"
 }

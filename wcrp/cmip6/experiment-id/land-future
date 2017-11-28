@@ -29,7 +29,6 @@
         "tier": "2"
     }, 
     "description": "Land only simulations", 
-    "idx": 191, 
     "namespace": "wcrp:cmip6:experiment-id:land-future", 
     "status": "pending", 
     "uid": "9d9b113a-29a5-4847-bb9e-04e078bff506"

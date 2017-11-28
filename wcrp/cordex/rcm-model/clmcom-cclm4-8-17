@@ -3,10 +3,9 @@
     "canonical_name": "clmcom-cclm4-8-17", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "CLMcom-CCLM4-8-17", 
-    "idx": 7, 
     "label": "CLMcom-CCLM4-8-17", 
     "namespace": "wcrp:cordex:rcm-model:clmcom-cclm4-8-17", 
     "raw_name": "CLMcom-CCLM4-8-17", 
     "status": "pending", 
-    "uid": "aac2dd09-5cce-4ac9-b308-135fa6bf8c5b"
+    "uid": "f048ade6-80cb-4897-9b47-96527f170a06"
 }

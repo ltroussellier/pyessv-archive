@@ -3,8 +3,7 @@
     "canonical_name": "emidust", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "emidust", 
-    "idx": 140, 
     "namespace": "wcrp:cmip5:variable:emidust", 
     "status": "pending", 
-    "uid": "e4e70891-ebb1-4e09-a27d-58b501a56671"
+    "uid": "6d4d63b5-164d-4175-bee8-8bf8e0eabf73"
 }

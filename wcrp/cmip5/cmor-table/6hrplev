@@ -3,10 +3,9 @@
     "canonical_name": "6hrplev", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "6hrPlev", 
-    "idx": 2, 
     "label": "6hrPlev", 
     "namespace": "wcrp:cmip5:cmor-table:6hrplev", 
     "raw_name": "6hrPlev", 
     "status": "pending", 
-    "uid": "ff4c5d0f-3cd0-49d6-8be5-56851ad89572"
+    "uid": "2dbba41b-2cc5-429e-b7ac-2da3e98e3efc"
 }

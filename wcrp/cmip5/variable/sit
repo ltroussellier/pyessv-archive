@@ -3,8 +3,7 @@
     "canonical_name": "sit", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sit", 
-    "idx": 439, 
     "namespace": "wcrp:cmip5:variable:sit", 
     "status": "pending", 
-    "uid": "ba968e52-19cb-4739-9e57-01f5acfed57e"
+    "uid": "a0349a7d-a009-43b1-bf90-37adfa97d5f9"
 }

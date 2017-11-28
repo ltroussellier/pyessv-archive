@@ -3,8 +3,7 @@
     "canonical_name": "land", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "land", 
-    "idx": 2, 
     "namespace": "wcrp:cmip5:realm:land", 
     "status": "pending", 
-    "uid": "f477ed45-599f-4228-b2c0-1e21fae0b6b4"
+    "uid": "164e235b-3d17-44ca-aea8-b2e32daada01"
 }

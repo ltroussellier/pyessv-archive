@@ -3,8 +3,7 @@
     "canonical_name": "bsi", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "bsi", 
-    "idx": 19, 
     "namespace": "wcrp:cmip5:variable:bsi", 
     "status": "pending", 
-    "uid": "2fc811bf-ba56-4572-964d-ffd8d7ec6c9d"
+    "uid": "6b276bad-37ec-4ec5-be57-0d4ecbc702ba"
 }

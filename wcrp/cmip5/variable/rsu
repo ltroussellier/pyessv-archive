@@ -3,8 +3,7 @@
     "canonical_name": "rsu", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rsu", 
-    "idx": 404, 
     "namespace": "wcrp:cmip5:variable:rsu", 
     "status": "pending", 
-    "uid": "c7a393ed-8f99-4f2b-bf44-d9aa9eaff87f"
+    "uid": "b397cce2-0e91-4cc5-94a6-2b2967ad4133"
 }

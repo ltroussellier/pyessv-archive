@@ -3,8 +3,7 @@
     "canonical_name": "clm", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "clm", 
-    "idx": 32, 
     "namespace": "wcrp:cordex:variable:clm", 
     "status": "pending", 
-    "uid": "45afba02-131f-497a-a1ed-1b5126a19063"
+    "uid": "b6d388c6-5048-4540-a081-4b8300ecd944"
 }

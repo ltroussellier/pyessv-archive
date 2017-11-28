@@ -3,8 +3,7 @@
     "canonical_name": "concsoa", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "concsoa", 
-    "idx": 100, 
     "namespace": "wcrp:cmip5:variable:concsoa", 
     "status": "pending", 
-    "uid": "82f798a9-e092-440e-b7e6-b05a2260154c"
+    "uid": "098e977c-3f50-4656-9cbc-4af14336ad9d"
 }

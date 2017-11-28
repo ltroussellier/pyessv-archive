@@ -3,8 +3,7 @@
     "canonical_name": "difvmo", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "difvmo", 
-    "idx": 111, 
     "namespace": "wcrp:cmip5:variable:difvmo", 
     "status": "pending", 
-    "uid": "682340ad-b590-4300-a43a-675319a39573"
+    "uid": "79bc12bd-0702-4a8d-bcfe-1c457b4a8319"
 }

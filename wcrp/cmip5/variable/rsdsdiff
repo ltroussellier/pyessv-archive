@@ -3,8 +3,7 @@
     "canonical_name": "rsdsdiff", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rsdsdiff", 
-    "idx": 400, 
     "namespace": "wcrp:cmip5:variable:rsdsdiff", 
     "status": "pending", 
-    "uid": "dbf1867e-d94e-46ae-9d83-29b6462e545f"
+    "uid": "342ae306-3fda-4960-b6a3-208f7d286642"
 }

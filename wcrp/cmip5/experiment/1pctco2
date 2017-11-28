@@ -3,10 +3,9 @@
     "canonical_name": "1pctco2", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "1 percent per year CO2", 
-    "idx": 0, 
     "label": "1pctCO2", 
     "namespace": "wcrp:cmip5:experiment:1pctco2", 
     "raw_name": "1pctCO2", 
     "status": "pending", 
-    "uid": "b72ef39f-55aa-4c0e-b1be-ec6c775580e4"
+    "uid": "ffc7759e-4e5a-4e85-9e78-e6500f71cd96"
 }

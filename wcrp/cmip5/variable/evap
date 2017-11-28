@@ -3,8 +3,7 @@
     "canonical_name": "evap", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "evap", 
-    "idx": 152, 
     "namespace": "wcrp:cmip5:variable:evap", 
     "status": "pending", 
-    "uid": "6b128217-daf5-46d6-9576-31876c8068b1"
+    "uid": "7319bfc8-8385-4ebf-ab19-96d7da623fbe"
 }

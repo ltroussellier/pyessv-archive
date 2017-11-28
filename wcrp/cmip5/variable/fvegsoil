@@ -3,10 +3,9 @@
     "canonical_name": "fvegsoil", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fVegSoil", 
-    "idx": 173, 
     "label": "fVegSoil", 
     "namespace": "wcrp:cmip5:variable:fvegsoil", 
     "raw_name": "fVegSoil", 
     "status": "pending", 
-    "uid": "4e19a064-64e9-466b-8182-0b7c6dfe1204"
+    "uid": "47da28fc-8db3-436b-8303-256529ab75ba"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "hfds", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hfds", 
-    "idx": 216, 
     "namespace": "wcrp:cmip5:variable:hfds", 
     "status": "pending", 
-    "uid": "16f60d0d-6725-4a3b-8453-4dbb559bbb1c"
+    "uid": "7d2503ee-5691-498d-90d3-17069f9b5657"
 }

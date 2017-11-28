@@ -31,7 +31,6 @@
         "tier": "2"
     }, 
     "description": "Historical WMGHG, halocarbon concentrations and O3 precursor emissions, 1850 aerosol precursor emissions", 
-    "idx": 71, 
     "label": "hist-piAer", 
     "namespace": "wcrp:cmip6:experiment-id:hist-piaer", 
     "raw_name": "hist-piAer", 

@@ -3,8 +3,7 @@
     "canonical_name": "zmicro", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "zmicro", 
-    "idx": 589, 
     "namespace": "wcrp:cmip5:variable:zmicro", 
     "status": "pending", 
-    "uid": "c4c39c32-26d6-4fe0-894a-c8c4464e3d98"
+    "uid": "dfd97550-431e-4303-8c9d-64f6e3b79efc"
 }

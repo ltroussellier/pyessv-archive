@@ -2,7 +2,6 @@
     "_type": "term", 
     "canonical_name": "aerchemmip", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 3, 
     "label": "AerChemMIP", 
     "namespace": "wcrp:cmip6:activity-id:aerchemmip", 
     "raw_name": "AerChemMIP", 

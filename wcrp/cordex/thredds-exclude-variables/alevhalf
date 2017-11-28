@@ -3,8 +3,7 @@
     "canonical_name": "alevhalf", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "alevhalf", 
-    "idx": 4, 
     "namespace": "wcrp:cordex:thredds-exclude-variables:alevhalf", 
     "status": "pending", 
-    "uid": "3f46e3ab-6be2-4e96-8a7d-1ebd9d695b5a"
+    "uid": "1fb2b9cd-48a0-41a3-be0c-dd592a5f92fe"
 }

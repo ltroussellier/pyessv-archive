@@ -3,8 +3,7 @@
     "canonical_name": "prsn", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "prsn", 
-    "idx": 96, 
     "namespace": "wcrp:cordex:variable:prsn", 
     "status": "pending", 
-    "uid": "9aa79b3d-1770-4780-afb5-97523dcf6523"
+    "uid": "390c441c-ef21-4e46-859b-085566a48c44"
 }

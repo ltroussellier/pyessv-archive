@@ -31,7 +31,6 @@
         "tier": "1"
     }, 
     "description": "C1.5 Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs", 
-    "idx": 6, 
     "label": "dcppC-ipv-pos", 
     "namespace": "wcrp:cmip6:experiment-id:dcppc-ipv-pos", 
     "raw_name": "dcppC-ipv-pos", 

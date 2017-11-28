@@ -3,8 +3,7 @@
     "canonical_name": "intpdiat", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "intpdiat", 
-    "idx": 250, 
     "namespace": "wcrp:cmip5:variable:intpdiat", 
     "status": "pending", 
-    "uid": "f90a54cc-a25b-446e-a4b9-10106c166bde"
+    "uid": "207b5bb4-6b88-4e82-9136-1fbe15994a32"
 }

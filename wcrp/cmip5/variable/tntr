@@ -3,8 +3,7 @@
     "canonical_name": "tntr", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tntr", 
-    "idx": 526, 
     "namespace": "wcrp:cmip5:variable:tntr", 
     "status": "pending", 
-    "uid": "00479d3e-9233-4c78-aed0-cdd9781a8ca5"
+    "uid": "cc05cb83-92dd-43b5-bc9e-94a447576e48"
 }

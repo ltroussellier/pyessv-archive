@@ -3,8 +3,7 @@
     "canonical_name": "rhs", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rhs", 
-    "idx": 370, 
     "namespace": "wcrp:cmip5:variable:rhs", 
     "status": "pending", 
-    "uid": "ee36bbdd-0b1a-45aa-80cf-3540122031be"
+    "uid": "f984e541-be5a-4ae0-a756-26b78539afa5"
 }

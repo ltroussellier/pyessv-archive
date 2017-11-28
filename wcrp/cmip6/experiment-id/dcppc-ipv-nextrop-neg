@@ -31,7 +31,6 @@
         "tier": "2"
     }, 
     "description": "C1.9 and predictability of the hiatus and of similar long timescale variations of both signs", 
-    "idx": 152, 
     "label": "dcppC-ipv-NexTrop-neg", 
     "namespace": "wcrp:cmip6:experiment-id:dcppc-ipv-nextrop-neg", 
     "raw_name": "dcppC-ipv-NexTrop-neg", 

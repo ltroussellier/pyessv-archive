@@ -51,7 +51,6 @@
         "release_year": "2017", 
         "source_id": "NICAM16-9S"
     }, 
-    "idx": 31, 
     "label": "NICAM16-9S", 
     "namespace": "wcrp:cmip6:source-id:nicam16-9s", 
     "raw_name": "NICAM16-9S", 

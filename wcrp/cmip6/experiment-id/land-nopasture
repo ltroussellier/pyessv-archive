@@ -30,7 +30,6 @@
         "tier": "2"
     }, 
     "description": "Same as land-hist but with grazing and other management on pastureland held at 1850 levels/distribution, i.e. all new pastureland is treated as unmanaged grassland (as in land-crop-grass)", 
-    "idx": 126, 
     "label": "land-noPasture", 
     "namespace": "wcrp:cmip6:experiment-id:land-nopasture", 
     "raw_name": "land-noPasture", 

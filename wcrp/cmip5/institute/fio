@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "fio", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 27, 
     "label": "FIO", 
     "namespace": "wcrp:cmip5:institute:fio", 
     "raw_name": "FIO", 
     "status": "pending", 
-    "uid": "03c83c83-0fea-4bfa-ab4c-10cf8c802a49"
+    "uid": "3febd22a-d439-4403-a7bc-be0f8a818f7b"
 }

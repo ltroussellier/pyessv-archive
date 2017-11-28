@@ -31,7 +31,6 @@
         "tier": "2"
     }, 
     "description": "C1.7 Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs", 
-    "idx": 70, 
     "label": "dcppC-amv-ExTrop-neg", 
     "namespace": "wcrp:cmip6:experiment-id:dcppc-amv-extrop-neg", 
     "raw_name": "dcppC-amv-ExTrop-neg", 

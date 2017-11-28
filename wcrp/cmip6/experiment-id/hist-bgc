@@ -31,7 +31,6 @@
         "tier": "2"
     }, 
     "description": "Concentration-driven historical simulation, biogeochemically-coupled", 
-    "idx": 128, 
     "namespace": "wcrp:cmip6:experiment-id:hist-bgc", 
     "status": "pending", 
     "uid": "4b8e0f88-0480-45c2-91d8-80a382f04c5e"

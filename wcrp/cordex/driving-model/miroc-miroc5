@@ -3,10 +3,9 @@
     "canonical_name": "miroc-miroc5", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "MIROC-MIROC5", 
-    "idx": 7, 
     "label": "MIROC-MIROC5", 
     "namespace": "wcrp:cordex:driving-model:miroc-miroc5", 
     "raw_name": "MIROC-MIROC5", 
     "status": "pending", 
-    "uid": "c39b7ef0-4594-427f-a77c-63c369acc88b"
+    "uid": "74dae732-42cf-42cc-8fce-db0fed826c7f"
 }

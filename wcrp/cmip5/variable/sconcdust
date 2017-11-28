@@ -3,8 +3,7 @@
     "canonical_name": "sconcdust", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sconcdust", 
-    "idx": 420, 
     "namespace": "wcrp:cmip5:variable:sconcdust", 
     "status": "pending", 
-    "uid": "9c37bfdb-ec04-4696-a1e3-8d2470a440ea"
+    "uid": "60b4b2c8-2bfb-4534-b228-e527fd235f18"
 }

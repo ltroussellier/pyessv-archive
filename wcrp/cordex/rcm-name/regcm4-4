@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "regcm4-4", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 23, 
     "label": "RegCM4-4", 
     "namespace": "wcrp:cordex:rcm-name:regcm4-4", 
     "raw_name": "RegCM4-4", 
     "status": "pending", 
-    "uid": "13984797-fb12-439c-b431-f31c884de2cf"
+    "uid": "f4ba2fa4-c94b-4ec9-9da7-1dc46c837d00"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "hus", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hus", 
-    "idx": 240, 
     "namespace": "wcrp:cmip5:variable:hus", 
     "status": "pending", 
-    "uid": "aafdf57e-44ad-48a9-ba0b-06932defd9b5"
+    "uid": "794c68dd-4061-4dd7-9133-9f9ece4bbe1c"
 }

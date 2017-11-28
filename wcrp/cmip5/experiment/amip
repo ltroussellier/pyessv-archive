@@ -3,8 +3,7 @@
     "canonical_name": "amip", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "AMIP", 
-    "idx": 2, 
     "namespace": "wcrp:cmip5:experiment:amip", 
     "status": "pending", 
-    "uid": "ee67652d-5163-427b-8884-b2694f4f1a8f"
+    "uid": "0317be50-5244-425d-b2a6-28974a7d59e1"
 }

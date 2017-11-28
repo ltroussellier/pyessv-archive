@@ -31,7 +31,6 @@
         "tier": "3"
     }, 
     "description": "Historical CO2-only run", 
-    "idx": 150, 
     "label": "hist-CO2", 
     "namespace": "wcrp:cmip6:experiment-id:hist-co2", 
     "raw_name": "hist-CO2", 

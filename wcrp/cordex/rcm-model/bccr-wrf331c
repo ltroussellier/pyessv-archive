@@ -3,10 +3,9 @@
     "canonical_name": "bccr-wrf331c", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "BCCR-WRF331C", 
-    "idx": 4, 
     "label": "BCCR-WRF331C", 
     "namespace": "wcrp:cordex:rcm-model:bccr-wrf331c", 
     "raw_name": "BCCR-WRF331C", 
     "status": "pending", 
-    "uid": "7e60321e-182a-4c19-ad78-43dc0b00c764"
+    "uid": "dc644aeb-9328-4757-9614-10aeb8cf1a62"
 }

@@ -3,10 +3,9 @@
     "canonical_name": "enea-regcm4-3", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ENEA-RegCM4-3", 
-    "idx": 16, 
     "label": "ENEA-RegCM4-3", 
     "namespace": "wcrp:cordex:rcm-model:enea-regcm4-3", 
     "raw_name": "ENEA-RegCM4-3", 
     "status": "pending", 
-    "uid": "6d716df5-acc4-4c14-adfa-d55371488372"
+    "uid": "66e5eb2e-10b8-483c-88a5-c5e2f4a2915d"
 }

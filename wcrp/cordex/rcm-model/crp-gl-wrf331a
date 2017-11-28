@@ -3,10 +3,9 @@
     "canonical_name": "crp-gl-wrf331a", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "CRP-GL-WRF331A", 
-    "idx": 12, 
     "label": "CRP-GL-WRF331A", 
     "namespace": "wcrp:cordex:rcm-model:crp-gl-wrf331a", 
     "raw_name": "CRP-GL-WRF331A", 
     "status": "pending", 
-    "uid": "ee6e8e41-034b-4c5c-8119-35fb49e91f63"
+    "uid": "24d7f964-6132-4c81-b21d-12189ccfbfad"
 }

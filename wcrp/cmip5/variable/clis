@@ -3,8 +3,7 @@
     "canonical_name": "clis", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "clis", 
-    "idx": 67, 
     "namespace": "wcrp:cmip5:variable:clis", 
     "status": "pending", 
-    "uid": "613a8595-a715-47d7-ade3-fa7331b2bfca"
+    "uid": "f793b67f-26bd-4c85-85de-04e1d861f191"
 }

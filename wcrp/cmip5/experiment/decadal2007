@@ -3,8 +3,7 @@
     "canonical_name": "decadal2007", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "10- or 30-year run initialized in year 2007", 
-    "idx": 57, 
     "namespace": "wcrp:cmip5:experiment:decadal2007", 
     "status": "pending", 
-    "uid": "87ea9878-3f8a-4bd9-bef5-b8ac82d9fd14"
+    "uid": "8ba92285-7ae5-4f4d-b900-ddfa4670effc"
 }

@@ -30,7 +30,6 @@
         "tier": "2"
     }, 
     "description": "As amip experiment but SSTs are subject to a uniform cooling of 4K", 
-    "idx": 81, 
     "label": "amip-m4K", 
     "namespace": "wcrp:cmip6:experiment-id:amip-m4k", 
     "raw_name": "amip-m4K", 

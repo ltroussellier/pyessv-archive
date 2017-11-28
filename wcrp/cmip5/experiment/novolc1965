@@ -3,10 +3,9 @@
     "canonical_name": "novolc1965", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Volcano-free hindcasts initiated in 1965", 
-    "idx": 80, 
     "label": "noVolc1965", 
     "namespace": "wcrp:cmip5:experiment:novolc1965", 
     "raw_name": "noVolc1965", 
     "status": "pending", 
-    "uid": "1cf09c22-6dda-49ca-acba-9eb06a1eb7e3"
+    "uid": "7c9736b1-d104-48d7-8c84-8115392b8d0c"
 }

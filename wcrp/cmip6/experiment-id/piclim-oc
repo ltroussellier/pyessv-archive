@@ -30,7 +30,6 @@
         "tier": "3"
     }, 
     "description": "Perturbation from 1850 control using 2014 OC emissions", 
-    "idx": 3, 
     "label": "piClim-OC", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-oc", 
     "raw_name": "piClim-OC", 

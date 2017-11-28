@@ -3,8 +3,7 @@
     "canonical_name": "nep", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "nep", 
-    "idx": 297, 
     "namespace": "wcrp:cmip5:variable:nep", 
     "status": "pending", 
-    "uid": "4bebe494-56bc-4eba-8231-9c120f132601"
+    "uid": "cde1a6f2-1c20-48fa-b75c-bc62a17428b9"
 }

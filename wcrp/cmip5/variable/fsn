@@ -3,8 +3,7 @@
     "canonical_name": "fsn", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fsn", 
-    "idx": 202, 
     "namespace": "wcrp:cmip5:variable:fsn", 
     "status": "pending", 
-    "uid": "ca4e83ba-7579-4766-ad7f-62cf8cb8b05b"
+    "uid": "86229c90-c902-44e8-8ce9-1f32647e8ed0"
 }

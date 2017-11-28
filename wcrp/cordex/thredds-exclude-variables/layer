@@ -3,8 +3,7 @@
     "canonical_name": "layer", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "layer", 
-    "idx": 28, 
     "namespace": "wcrp:cordex:thredds-exclude-variables:layer", 
     "status": "pending", 
-    "uid": "ea42cdd2-6631-451d-b53c-1f7a8cf11ec6"
+    "uid": "33ce1505-983f-4130-917b-1537807e8331"
 }

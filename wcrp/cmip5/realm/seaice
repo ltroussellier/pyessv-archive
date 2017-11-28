@@ -3,10 +3,9 @@
     "canonical_name": "seaice", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "seaIce", 
-    "idx": 4, 
     "label": "seaIce", 
     "namespace": "wcrp:cmip5:realm:seaice", 
     "raw_name": "seaIce", 
     "status": "pending", 
-    "uid": "470d2101-c038-4e23-a231-4f4b2191be89"
+    "uid": "a7a9af6e-3b68-4b4a-8bd5-5725966dc696"
 }

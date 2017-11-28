@@ -3,8 +3,7 @@
     "canonical_name": "tas", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tas", 
-    "idx": 463, 
     "namespace": "wcrp:cmip5:variable:tas", 
     "status": "pending", 
-    "uid": "f7ad882c-4f63-4fd5-96e0-0b62ae00b39a"
+    "uid": "a7819725-b846-4f15-a606-ad6aa7cd7b31"
 }

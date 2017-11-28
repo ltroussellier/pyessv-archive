@@ -3,8 +3,7 @@
     "canonical_name": "tsmin", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tsmin", 
-    "idx": 144, 
     "namespace": "wcrp:cordex:variable:tsmin", 
     "status": "pending", 
-    "uid": "81de48cf-afa1-4b7a-b88c-dd8f8848c7fd"
+    "uid": "27e594ff-a5c7-4669-a8b4-8e4ee4534dc1"
 }

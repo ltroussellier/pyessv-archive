@@ -3,8 +3,7 @@
     "canonical_name": "divice", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "divice", 
-    "idx": 115, 
     "namespace": "wcrp:cmip5:variable:divice", 
     "status": "pending", 
-    "uid": "dc2ee426-c11a-49b7-ae59-e28471ff9341"
+    "uid": "9e83d7d3-a0e8-4ecd-bc5a-19df8c405da8"
 }

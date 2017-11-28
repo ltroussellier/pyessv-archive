@@ -33,7 +33,6 @@
         "tier": "1"
     }, 
     "description": "C3.1 Effects of volcanoes on decadal prediction and predictability of forced and internal variability components. First full hindcast year is 1991", 
-    "idx": 201, 
     "label": "dcppC-hindcast-noPinatubo", 
     "namespace": "wcrp:cmip6:experiment-id:dcppc-hindcast-nopinatubo", 
     "raw_name": "dcppC-hindcast-noPinatubo", 

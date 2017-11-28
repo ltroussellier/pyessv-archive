@@ -3,8 +3,7 @@
     "canonical_name": "hfevapds", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hfevapds", 
-    "idx": 218, 
     "namespace": "wcrp:cmip5:variable:hfevapds", 
     "status": "pending", 
-    "uid": "77a024e2-bdab-4e8b-8f3d-13ab881d3b58"
+    "uid": "c35d5d28-0dc3-4e8d-88af-b485e2f3512f"
 }

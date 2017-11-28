@@ -31,7 +31,6 @@
         "tier": "2"
     }, 
     "description": "Prescribed land conditions 30yr running mean with Land-Hist-wfdei", 
-    "idx": 172, 
     "label": "lfmip-rmLC-wfdei", 
     "namespace": "wcrp:cmip6:experiment-id:lfmip-rmlc-wfdei", 
     "raw_name": "lfmip-rmLC-wfdei", 

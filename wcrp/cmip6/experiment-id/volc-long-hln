@@ -31,7 +31,6 @@
         "tier": "2"
     }, 
     "description": "Idealized Northern Hemisphere high-latitude eruption emitting 28.1 Tg of SO2. Experiment initialized from PiControl", 
-    "idx": 20, 
     "label": "volc-long-hlN", 
     "namespace": "wcrp:cmip6:experiment-id:volc-long-hln", 
     "raw_name": "volc-long-hlN", 

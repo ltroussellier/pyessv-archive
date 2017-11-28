@@ -3,8 +3,7 @@
     "canonical_name": "sdepth", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sdepth", 
-    "idx": 52, 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:sdepth", 
     "status": "pending", 
-    "uid": "0f9334ef-b7e9-4630-9a84-9a98e509e688"
+    "uid": "356419e3-d29e-47b7-8081-07428d0d39bf"
 }

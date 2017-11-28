@@ -3,8 +3,7 @@
     "canonical_name": "hfy", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hfy", 
-    "idx": 233, 
     "namespace": "wcrp:cmip5:variable:hfy", 
     "status": "pending", 
-    "uid": "952a27c6-513d-47f7-b89b-65042e62decb"
+    "uid": "28b820eb-f959-4d9b-8ecd-b961615ff4e7"
 }

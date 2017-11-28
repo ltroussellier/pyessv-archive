@@ -3,8 +3,7 @@
     "canonical_name": "3hr", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "3hr", 
-    "idx": 4, 
     "namespace": "wcrp:cordex:time-frequency:3hr", 
     "status": "pending", 
-    "uid": "cf115981-70bc-4d11-a2f9-764851805538"
+    "uid": "e257856f-6c8d-4890-9fc7-6de363dd7611"
 }

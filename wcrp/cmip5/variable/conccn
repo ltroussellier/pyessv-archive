@@ -3,8 +3,7 @@
     "canonical_name": "conccn", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "conccn", 
-    "idx": 91, 
     "namespace": "wcrp:cmip5:variable:conccn", 
     "status": "pending", 
-    "uid": "db766611-c7f7-4a3e-9ab7-091cb75fc884"
+    "uid": "36b79218-2933-4eb4-950c-823f972f316e"
 }

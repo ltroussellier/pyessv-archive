@@ -3,8 +3,7 @@
     "canonical_name": "tnsccw", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tnsccw", 
-    "idx": 483, 
     "namespace": "wcrp:cmip5:variable:tnsccw", 
     "status": "pending", 
-    "uid": "5e4d9dad-14ae-410e-b320-ea1f063cdfee"
+    "uid": "c243dc78-4acb-47a9-8b85-7f65c9411a5c"
 }

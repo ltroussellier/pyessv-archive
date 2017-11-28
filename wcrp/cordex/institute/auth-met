@@ -3,10 +3,9 @@
     "canonical_name": "auth-met", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "AUTH-Met", 
-    "idx": 1, 
     "label": "AUTH-Met", 
     "namespace": "wcrp:cordex:institute:auth-met", 
     "raw_name": "AUTH-Met", 
     "status": "pending", 
-    "uid": "45568dbb-4ada-4bf6-82c6-3dd4bff4089c"
+    "uid": "c9c7a84a-b820-4a01-9a76-b255cddf0d13"
 }

@@ -31,7 +31,6 @@
         "tier": "1"
     }, 
     "description": "Perturbation from 1850 control using 2014 CH4 concentrations", 
-    "idx": 32, 
     "label": "piClim-CH4", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-ch4", 
     "raw_name": "piClim-CH4", 

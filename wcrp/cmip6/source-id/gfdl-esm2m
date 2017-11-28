@@ -51,7 +51,6 @@
         "release_year": "2012", 
         "source_id": "GFDL-ESM2M"
     }, 
-    "idx": 51, 
     "label": "GFDL-ESM2M", 
     "namespace": "wcrp:cmip6:source-id:gfdl-esm2m", 
     "raw_name": "GFDL-ESM2M", 

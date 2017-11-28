@@ -3,8 +3,7 @@
     "canonical_name": "pr", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "pr", 
-    "idx": 341, 
     "namespace": "wcrp:cmip5:variable:pr", 
     "status": "pending", 
-    "uid": "b551e837-f5d6-4304-8eeb-ac2b446eb83f"
+    "uid": "d07578f7-0657-4a23-b3c2-d486dce593cf"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "depth0m", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "depth0m", 
-    "idx": 14, 
     "namespace": "wcrp:cordex:thredds-exclude-variables:depth0m", 
     "status": "pending", 
-    "uid": "3baaf581-fe5c-4fe6-9e17-eb1e57b5a9f0"
+    "uid": "75c2b1f0-ab0f-4acc-9c85-0685c2a52622"
 }

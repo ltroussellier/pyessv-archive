@@ -3,10 +3,9 @@
     "canonical_name": "idl-wrf331d", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "IDL-WRF331D", 
-    "idx": 20, 
     "label": "IDL-WRF331D", 
     "namespace": "wcrp:cordex:rcm-model:idl-wrf331d", 
     "raw_name": "IDL-WRF331D", 
     "status": "pending", 
-    "uid": "50a1263f-f971-4f52-b8e1-c8d1c46cb18e"
+    "uid": "e2be1e0d-e417-4d13-b2f6-343f5cb65a9e"
 }

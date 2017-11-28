@@ -3,8 +3,7 @@
     "canonical_name": "tauucorr", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tauucorr", 
-    "idx": 468, 
     "namespace": "wcrp:cmip5:variable:tauucorr", 
     "status": "pending", 
-    "uid": "ecb1236c-79ab-4925-9784-d240a19e5af1"
+    "uid": "2de6f4a1-a2ce-41a9-b111-d22b7d4ce561"
 }

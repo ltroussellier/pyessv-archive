@@ -3,8 +3,7 @@
     "canonical_name": "rtmt", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rtmt", 
-    "idx": 415, 
     "namespace": "wcrp:cmip5:variable:rtmt", 
     "status": "pending", 
-    "uid": "fe9c6953-ff28-4169-abc6-ebf18cef8fa7"
+    "uid": "8e462622-428f-4d02-95b4-bb12aba49fbe"
 }

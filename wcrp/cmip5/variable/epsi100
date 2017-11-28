@@ -3,8 +3,7 @@
     "canonical_name": "epsi100", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "epsi100", 
-    "idx": 151, 
     "namespace": "wcrp:cmip5:variable:epsi100", 
     "status": "pending", 
-    "uid": "ddc34f7e-8fe3-4b8c-bc53-840bc02d13b1"
+    "uid": "75dc174f-7586-4b30-9183-fc8b95dd5ec0"
 }

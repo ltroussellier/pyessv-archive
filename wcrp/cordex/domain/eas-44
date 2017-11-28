@@ -3,10 +3,9 @@
     "canonical_name": "eas-44", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "East Asia", 
-    "idx": 12, 
     "label": "EAS-44", 
     "namespace": "wcrp:cordex:domain:eas-44", 
     "raw_name": "EAS-44", 
     "status": "pending", 
-    "uid": "3df44fd9-7c9c-44ac-adf2-8153542f114c"
+    "uid": "debaf997-d4ca-4250-9085-8ba15ead6a9b"
 }

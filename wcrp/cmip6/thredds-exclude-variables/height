@@ -3,8 +3,7 @@
     "canonical_name": "height", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "height", 
-    "idx": 18, 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:height", 
     "status": "pending", 
-    "uid": "00932f3a-febb-4f7d-830c-9c6381aeb0af"
+    "uid": "ed4e158e-11ca-420f-87b3-714e7ee04f73"
 }

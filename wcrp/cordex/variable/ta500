@@ -3,8 +3,7 @@
     "canonical_name": "ta500", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ta500", 
-    "idx": 126, 
     "namespace": "wcrp:cordex:variable:ta500", 
     "status": "pending", 
-    "uid": "b5d8538b-0289-4cf6-9e4a-02df1eeec9a3"
+    "uid": "fca88684-322e-40ab-baf5-5ccac12ca610"
 }

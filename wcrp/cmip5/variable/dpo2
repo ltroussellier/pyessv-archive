@@ -3,8 +3,7 @@
     "canonical_name": "dpo2", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "dpo2", 
-    "idx": 119, 
     "namespace": "wcrp:cmip5:variable:dpo2", 
     "status": "pending", 
-    "uid": "b9c01ed9-3edb-4cdf-997b-179870e4d6b1"
+    "uid": "9d10ec34-26f2-4963-9f2c-912b00e4fb53"
 }

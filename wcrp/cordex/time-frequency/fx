@@ -3,8 +3,7 @@
     "canonical_name": "fx", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fx", 
-    "idx": 1, 
     "namespace": "wcrp:cordex:time-frequency:fx", 
     "status": "pending", 
-    "uid": "cd6b5b90-971d-426c-b131-8fa73fef41c6"
+    "uid": "f64b8015-c535-49f7-987f-8e6278f44847"
 }

@@ -3,10 +3,9 @@
     "canonical_name": "depth-bnds", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "depth_bnds", 
-    "idx": 15, 
     "label": "depth_bnds", 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:depth-bnds", 
     "raw_name": "depth_bnds", 
     "status": "pending", 
-    "uid": "96a4b8be-d628-4252-b78c-1da6673ed20a"
+    "uid": "06921cf1-304c-4435-a391-093bd753e926"
 }

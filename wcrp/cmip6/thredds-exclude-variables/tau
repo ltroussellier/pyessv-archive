@@ -3,8 +3,7 @@
     "canonical_name": "tau", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tau", 
-    "idx": 55, 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:tau", 
     "status": "pending", 
-    "uid": "86102d34-dac4-41e5-98c7-5b96c05b083c"
+    "uid": "78ab0275-5aec-4eda-9029-1c658c6ed7de"
 }

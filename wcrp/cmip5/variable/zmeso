@@ -3,8 +3,7 @@
     "canonical_name": "zmeso", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "zmeso", 
-    "idx": 588, 
     "namespace": "wcrp:cmip5:variable:zmeso", 
     "status": "pending", 
-    "uid": "b9254e3b-772f-4af7-ba58-7a9c5cb008b6"
+    "uid": "ae9d73ef-085b-4a82-bf14-ae5da2a88939"
 }

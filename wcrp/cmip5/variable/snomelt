@@ -3,8 +3,7 @@
     "canonical_name": "snomelt", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "snomelt", 
-    "idx": 446, 
     "namespace": "wcrp:cmip5:variable:snomelt", 
     "status": "pending", 
-    "uid": "ec3e3735-4f22-4b63-9cb5-3b9ad5503e8f"
+    "uid": "bbb80259-374c-490b-b09e-d6cc768ce459"
 }

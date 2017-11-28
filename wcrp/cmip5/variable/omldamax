@@ -3,8 +3,7 @@
     "canonical_name": "omldamax", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "omldamax", 
-    "idx": 309, 
     "namespace": "wcrp:cmip5:variable:omldamax", 
     "status": "pending", 
-    "uid": "6e656e48-7b45-40e5-b886-015e56da6e4e"
+    "uid": "f4b43de5-54ac-479e-8a37-66f16d571eff"
 }

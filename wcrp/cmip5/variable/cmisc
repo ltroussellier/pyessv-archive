@@ -3,10 +3,9 @@
     "canonical_name": "cmisc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cMisc", 
-    "idx": 28, 
     "label": "cMisc", 
     "namespace": "wcrp:cmip5:variable:cmisc", 
     "raw_name": "cMisc", 
     "status": "pending", 
-    "uid": "cf3a64bf-826a-40c8-883e-bd4906fc2c1e"
+    "uid": "442152e3-716b-426b-a6dc-7ea9208860f1"
 }

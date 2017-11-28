@@ -3,8 +3,7 @@
     "canonical_name": "lat", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "lat", 
-    "idx": 20, 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:lat", 
     "status": "pending", 
-    "uid": "7970e11e-26bc-4b12-a799-62f1d01dabbc"
+    "uid": "8dc9ec50-e070-4ce1-a53a-ad6f3164b58f"
 }

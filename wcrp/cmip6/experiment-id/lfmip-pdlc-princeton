@@ -31,7 +31,6 @@
         "tier": "2"
     }, 
     "description": "Prescribed land conditions 1980-2014 climate with Land-Hist-princeton", 
-    "idx": 142, 
     "label": "lfmip-pdLC-princeton", 
     "namespace": "wcrp:cmip6:experiment-id:lfmip-pdlc-princeton", 
     "raw_name": "lfmip-pdLC-princeton", 

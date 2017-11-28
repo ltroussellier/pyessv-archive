@@ -51,7 +51,6 @@
         "release_year": "2017", 
         "source_id": "MPIESM-1-2-HAM"
     }, 
-    "idx": 15, 
     "label": "MPIESM1.2-HAM", 
     "namespace": "wcrp:cmip6:source-id:mpiesm-1-2-ham", 
     "raw_name": "MPIESM-1-2-HAM", 

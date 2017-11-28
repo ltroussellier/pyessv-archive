@@ -3,8 +3,7 @@
     "canonical_name": "rcp26", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "RCP2.6", 
-    "idx": 2, 
     "namespace": "wcrp:cordex:experiment:rcp26", 
     "status": "pending", 
-    "uid": "56b64ad2-26d4-40ea-8c38-9887f0c8403e"
+    "uid": "7c440157-2c71-4edf-8c10-24bcc10938e5"
 }

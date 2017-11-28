@@ -3,8 +3,7 @@
     "canonical_name": "hfss", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hfss", 
-    "idx": 51, 
     "namespace": "wcrp:cordex:variable:hfss", 
     "status": "pending", 
-    "uid": "be3b94b1-f2f6-4e31-be8d-e273d34dab1b"
+    "uid": "a1565ba6-a9f4-43d0-81d7-a555a0718654"
 }

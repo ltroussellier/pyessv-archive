@@ -3,10 +3,9 @@
     "canonical_name": "cfmon", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cfMon", 
-    "idx": 13, 
     "label": "cfMon", 
     "namespace": "wcrp:cmip5:cmor-table:cfmon", 
     "raw_name": "cfMon", 
     "status": "pending", 
-    "uid": "1bdcbd4f-27e0-485b-acfc-3cbf228a86a0"
+    "uid": "cfec28ef-3add-41e2-a4d1-2edbe0ef07d9"
 }

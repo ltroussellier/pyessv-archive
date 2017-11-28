@@ -2,7 +2,6 @@
     "_type": "term", 
     "canonical_name": "dynvarmip", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 17, 
     "label": "DynVarMIP", 
     "namespace": "wcrp:cmip6:activity-id:dynvarmip", 
     "raw_name": "DynVarMIP", 

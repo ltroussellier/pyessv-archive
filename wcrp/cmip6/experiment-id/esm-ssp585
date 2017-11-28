@@ -31,7 +31,6 @@
         "tier": "1"
     }, 
     "description": "Emissions-driven future scenario simulation", 
-    "idx": 167, 
     "namespace": "wcrp:cmip6:experiment-id:esm-ssp585", 
     "status": "pending", 
     "uid": "cae3e4f1-96d7-49da-acbc-58eab9f31cf9"

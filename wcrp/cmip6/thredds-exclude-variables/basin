@@ -3,8 +3,7 @@
     "canonical_name": "basin", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "basin", 
-    "idx": 8, 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:basin", 
     "status": "pending", 
-    "uid": "7c6884c5-7a19-4e1d-ab99-f4cb5aa42f68"
+    "uid": "89c4507a-aff6-46c9-a7ba-0f6d3aaf09c8"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "rsntds", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rsntds", 
-    "idx": 403, 
     "namespace": "wcrp:cmip5:variable:rsntds", 
     "status": "pending", 
-    "uid": "8673de1a-5527-4b5c-901e-554a23e3a10f"
+    "uid": "70653961-b5a8-4497-84be-49ba27d6bdec"
 }

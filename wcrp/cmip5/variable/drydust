@@ -3,8 +3,7 @@
     "canonical_name": "drydust", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "drydust", 
-    "idx": 124, 
     "namespace": "wcrp:cmip5:variable:drydust", 
     "status": "pending", 
-    "uid": "89b4d699-ad82-4713-8b46-27e1fe78441e"
+    "uid": "f89ade89-45b5-4020-89b8-e3067f7e9997"
 }

@@ -29,7 +29,6 @@
         "tier": "1"
     }, 
     "description": "Prescribed anthropogenic aerosol optical properties. All forcings", 
-    "idx": 166, 
     "label": "hist-spAer-all", 
     "namespace": "wcrp:cmip6:experiment-id:hist-spaer-all", 
     "raw_name": "hist-spAer-all", 

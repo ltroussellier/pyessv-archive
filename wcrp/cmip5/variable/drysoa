@@ -3,8 +3,7 @@
     "canonical_name": "drysoa", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "drysoa", 
-    "idx": 131, 
     "namespace": "wcrp:cmip5:variable:drysoa", 
     "status": "pending", 
-    "uid": "053ff44b-f0cf-4103-b830-be4a67237230"
+    "uid": "c0d9a786-be81-4a17-b05b-0b6c155b40e5"
 }

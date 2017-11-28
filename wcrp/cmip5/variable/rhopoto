@@ -3,8 +3,7 @@
     "canonical_name": "rhopoto", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rhopoto", 
-    "idx": 369, 
     "namespace": "wcrp:cmip5:variable:rhopoto", 
     "status": "pending", 
-    "uid": "6f17ff8a-d1b0-4544-8e11-20e904b403a8"
+    "uid": "ed606ee7-8ac4-42a2-8e82-24a0f3fe9250"
 }

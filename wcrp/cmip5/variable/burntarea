@@ -3,10 +3,9 @@
     "canonical_name": "burntarea", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "burntArea", 
-    "idx": 20, 
     "label": "burntArea", 
     "namespace": "wcrp:cmip5:variable:burntarea", 
     "raw_name": "burntArea", 
     "status": "pending", 
-    "uid": "073b359c-462c-4fe9-aa91-3ae1cdabaf22"
+    "uid": "20090abc-affd-4891-8b35-b53268fdfec0"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "dmc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "dmc", 
-    "idx": 116, 
     "namespace": "wcrp:cmip5:variable:dmc", 
     "status": "pending", 
-    "uid": "5d156cc8-e407-461b-adf8-3561d885d0ad"
+    "uid": "7aa94785-2685-4c80-adb4-5e54e5886319"
 }

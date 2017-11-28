@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "canrcm4", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 5, 
     "label": "CanRCM4", 
     "namespace": "wcrp:cordex:rcm-name:canrcm4", 
     "raw_name": "CanRCM4", 
     "status": "pending", 
-    "uid": "e774bdfc-2fbd-416c-8f6c-3b1f223b977b"
+    "uid": "61f447ce-414f-460e-88d6-5118486250d9"
 }

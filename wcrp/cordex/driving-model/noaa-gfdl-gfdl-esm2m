@@ -3,10 +3,9 @@
     "canonical_name": "noaa-gfdl-gfdl-esm2m", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "NOAA-GFDL-GFDL-ESM2M", 
-    "idx": 13, 
     "label": "NOAA-GFDL-GFDL-ESM2M", 
     "namespace": "wcrp:cordex:driving-model:noaa-gfdl-gfdl-esm2m", 
     "raw_name": "NOAA-GFDL-GFDL-ESM2M", 
     "status": "pending", 
-    "uid": "4aa7f2d7-7ca6-4cf7-86df-95455a99f144"
+    "uid": "79e0dcf6-b485-494e-8e3f-9c75bff5f5f3"
 }

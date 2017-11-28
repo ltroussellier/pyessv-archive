@@ -3,10 +3,9 @@
     "canonical_name": "amip4k", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "AMIP plus 4K anomaly", 
-    "idx": 3, 
     "label": "amip4K", 
     "namespace": "wcrp:cmip5:experiment:amip4k", 
     "raw_name": "amip4K", 
     "status": "pending", 
-    "uid": "da723dea-3c45-4bcd-b93b-ef310c11b766"
+    "uid": "3e1b6928-5d05-468e-b257-80c8fb3834c3"
 }

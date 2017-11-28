@@ -3,10 +3,9 @@
     "canonical_name": "uqam-crcm5", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "UQAM-CRCM5", 
-    "idx": 42, 
     "label": "UQAM-CRCM5", 
     "namespace": "wcrp:cordex:rcm-model:uqam-crcm5", 
     "raw_name": "UQAM-CRCM5", 
     "status": "pending", 
-    "uid": "eb19ab50-b068-45a2-bd6d-ed87a7cb83f9"
+    "uid": "8306f99a-6993-4604-85bf-75780698cf21"
 }

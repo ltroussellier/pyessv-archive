@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "nasa-giss", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 38, 
     "label": "NASA-GISS", 
     "namespace": "wcrp:cmip5:institute:nasa-giss", 
     "raw_name": "NASA-GISS", 
     "status": "pending", 
-    "uid": "f67f0507-609a-49e4-b8a5-c8e349522268"
+    "uid": "c739d375-de00-4164-a7b1-6adde6eb3dbe"
 }

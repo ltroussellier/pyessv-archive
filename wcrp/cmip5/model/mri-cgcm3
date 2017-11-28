@@ -3,10 +3,9 @@
     "canonical_name": "mri-cgcm3", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "MRI-CGCM3", 
-    "idx": 58, 
     "label": "MRI-CGCM3", 
     "namespace": "wcrp:cmip5:model:mri-cgcm3", 
     "raw_name": "MRI-CGCM3", 
     "status": "pending", 
-    "uid": "e4225789-8d73-4640-a320-7738cd3d47ca"
+    "uid": "28106e7b-00eb-4e5b-a70c-b5cdc195afb0"
 }

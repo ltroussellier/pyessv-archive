@@ -31,7 +31,6 @@
         "tier": "2"
     }, 
     "description": "Prescribed land conditions 30yr running mean with Land-Hist-cruNcep", 
-    "idx": 223, 
     "label": "lfmip-rmLC-cruNcep", 
     "namespace": "wcrp:cmip6:experiment-id:lfmip-rmlc-cruncep", 
     "raw_name": "lfmip-rmLC-cruNcep", 

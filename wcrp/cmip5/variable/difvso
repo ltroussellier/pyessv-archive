@@ -3,8 +3,7 @@
     "canonical_name": "difvso", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "difvso", 
-    "idx": 112, 
     "namespace": "wcrp:cmip5:variable:difvso", 
     "status": "pending", 
-    "uid": "725be3f7-f873-43c4-a15e-3f1174f9a39c"
+    "uid": "5597efb8-a70a-492a-ab98-bfac3fcd0f5e"
 }

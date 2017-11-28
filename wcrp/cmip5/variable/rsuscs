@@ -3,8 +3,7 @@
     "canonical_name": "rsuscs", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rsuscs", 
-    "idx": 409, 
     "namespace": "wcrp:cmip5:variable:rsuscs", 
     "status": "pending", 
-    "uid": "919105e2-042c-479d-b401-d1940893df4a"
+    "uid": "31a732d1-e7ff-473a-9192-cebb36b152c8"
 }

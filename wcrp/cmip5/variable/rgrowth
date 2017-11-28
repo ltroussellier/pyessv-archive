@@ -3,10 +3,9 @@
     "canonical_name": "rgrowth", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rGrowth", 
-    "idx": 355, 
     "label": "rGrowth", 
     "namespace": "wcrp:cmip5:variable:rgrowth", 
     "raw_name": "rGrowth", 
     "status": "pending", 
-    "uid": "78d32a11-bed8-4ed4-8aca-593b4f6ce2e2"
+    "uid": "f7592a50-4b0e-4e9c-9101-b4986dccdf99"
 }

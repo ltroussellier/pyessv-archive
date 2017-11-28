@@ -3,8 +3,7 @@
     "canonical_name": "vmo", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "vmo", 
-    "idx": 557, 
     "namespace": "wcrp:cmip5:variable:vmo", 
     "status": "pending", 
-    "uid": "2162ec67-f957-429d-9ca1-e6714d97b121"
+    "uid": "cc60f9bf-c8f6-4e62-a560-db5e751fd556"
 }

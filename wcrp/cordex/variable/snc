@@ -3,8 +3,7 @@
     "canonical_name": "snc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "snc", 
-    "idx": 115, 
     "namespace": "wcrp:cordex:variable:snc", 
     "status": "pending", 
-    "uid": "51efce01-207b-4986-9ad6-a9c694c28b45"
+    "uid": "f11e30f5-b9f5-4679-9b7d-5db74d96cbe5"
 }

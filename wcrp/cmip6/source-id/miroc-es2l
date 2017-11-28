@@ -59,7 +59,6 @@
         "release_year": "2017", 
         "source_id": "MIROC-ES2L"
     }, 
-    "idx": 75, 
     "label": "MIROC-ES2L", 
     "namespace": "wcrp:cmip6:source-id:miroc-es2l", 
     "raw_name": "MIROC-ES2L", 

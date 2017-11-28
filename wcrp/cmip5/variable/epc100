@@ -3,8 +3,7 @@
     "canonical_name": "epc100", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "epc100", 
-    "idx": 148, 
     "namespace": "wcrp:cmip5:variable:epc100", 
     "status": "pending", 
-    "uid": "c0f882b5-f470-49a8-b1c3-44b4a3db2dec"
+    "uid": "8083510e-cc8f-48f0-9f0a-be721b093dba"
 }

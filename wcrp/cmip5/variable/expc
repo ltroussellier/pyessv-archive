@@ -3,8 +3,7 @@
     "canonical_name": "expc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "expc", 
-    "idx": 161, 
     "namespace": "wcrp:cmip5:variable:expc", 
     "status": "pending", 
-    "uid": "77f9a648-0a34-43e2-9200-170d61dffe58"
+    "uid": "644e5f9e-6fb2-40b1-bcea-0727e220a202"
 }

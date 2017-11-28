@@ -3,8 +3,7 @@
     "canonical_name": "phalf", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "phalf", 
-    "idx": 324, 
     "namespace": "wcrp:cmip5:variable:phalf", 
     "status": "pending", 
-    "uid": "91ad400f-8b93-443d-9f76-d46d09dc9000"
+    "uid": "9c76bef6-8a85-4330-aed9-d611a3e13ff8"
 }

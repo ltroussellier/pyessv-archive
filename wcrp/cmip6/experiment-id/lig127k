@@ -31,7 +31,6 @@
         "tier": "1"
     }, 
     "description": "main forcings: astronomical parameters, trace gases, dust (forcing, or feedback if dust cycle represented in model)", 
-    "idx": 92, 
     "namespace": "wcrp:cmip6:experiment-id:lig127k", 
     "status": "pending", 
     "uid": "b3d3cd2f-b86a-4ad0-a248-8817662c3c4d"

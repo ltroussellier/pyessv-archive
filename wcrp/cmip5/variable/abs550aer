@@ -3,8 +3,7 @@
     "canonical_name": "abs550aer", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "abs550aer", 
-    "idx": 0, 
     "namespace": "wcrp:cmip5:variable:abs550aer", 
     "status": "pending", 
-    "uid": "0ed98865-b3cb-450d-b315-3424434bdd75"
+    "uid": "933abf7e-633c-42ab-8e99-4380ee8c1f47"
 }

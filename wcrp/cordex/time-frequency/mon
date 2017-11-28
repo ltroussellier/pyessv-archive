@@ -3,8 +3,7 @@
     "canonical_name": "mon", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "mon", 
-    "idx": 2, 
     "namespace": "wcrp:cordex:time-frequency:mon", 
     "status": "pending", 
-    "uid": "5d4c22c2-c958-45d6-b06d-99decd45d5a4"
+    "uid": "a975a560-4780-4dd2-af46-e80d9840014e"
 }

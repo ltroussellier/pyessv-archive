@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "hadgem3-ra", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 29, 
     "label": "HadGEM3-RA", 
     "namespace": "wcrp:cordex:rcm-name:hadgem3-ra", 
     "raw_name": "HadGEM3-RA", 
     "status": "pending", 
-    "uid": "5a1f50c2-a265-4755-a12c-0c35c2925cf8"
+    "uid": "ac96fc70-a39e-4a4f-8864-3645932c677e"
 }

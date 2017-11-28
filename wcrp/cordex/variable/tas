@@ -3,8 +3,7 @@
     "canonical_name": "tas", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tas", 
-    "idx": 135, 
     "namespace": "wcrp:cordex:variable:tas", 
     "status": "pending", 
-    "uid": "5ba19d7d-9d5a-4e30-9e90-8fcc20c8053b"
+    "uid": "b71442ec-bc51-4ba2-9fd3-c35e8254e1ad"
 }

@@ -3,10 +3,9 @@
     "canonical_name": "aus-44", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Australasia", 
-    "idx": 6, 
     "label": "AUS-44", 
     "namespace": "wcrp:cordex:domain:aus-44", 
     "raw_name": "AUS-44", 
     "status": "pending", 
-    "uid": "f968de72-7052-463f-9a86-5db61a8afbbf"
+    "uid": "50df8d79-2532-4b52-be4a-80a7ff3e22b0"
 }

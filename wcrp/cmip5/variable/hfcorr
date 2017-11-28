@@ -3,8 +3,7 @@
     "canonical_name": "hfcorr", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hfcorr", 
-    "idx": 215, 
     "namespace": "wcrp:cmip5:variable:hfcorr", 
     "status": "pending", 
-    "uid": "4b711e09-97fc-41ed-8d7f-ba3bc5ce970e"
+    "uid": "e3d1a1bb-8ac6-4d9f-a8b1-1631fbed74a4"
 }

@@ -31,7 +31,6 @@
         "tier": "2"
     }, 
     "description": "Prescribed land conditions 30yr running mean", 
-    "idx": 64, 
     "label": "lfmip-rmLC", 
     "namespace": "wcrp:cmip6:experiment-id:lfmip-rmlc", 
     "raw_name": "lfmip-rmLC", 

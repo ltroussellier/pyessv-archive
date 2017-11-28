@@ -31,7 +31,6 @@
         "tier": "2"
     }, 
     "description": "1xCO2 experiment, parallel to piControl, with a flux of passive tracer added at the ocean surface at the same rate as the surface net heat flux anomaly applied in the FAFMIP heat experiment", 
-    "idx": 28, 
     "namespace": "wcrp:cmip6:experiment-id:faf-passiveheat", 
     "status": "pending", 
     "uid": "ba6264d0-c39d-468c-872f-fee3b79e17dc"

@@ -3,10 +3,9 @@
     "canonical_name": "smhi", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "SMHI", 
-    "idx": 26, 
     "label": "SMHI", 
     "namespace": "wcrp:cordex:institute:smhi", 
     "raw_name": "SMHI", 
     "status": "pending", 
-    "uid": "f3a444c0-b2bf-404a-8949-51bd9f1b5931"
+    "uid": "7ef24bac-ca7d-4438-9500-64131eaf2f0a"
 }

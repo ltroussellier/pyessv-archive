@@ -3,10 +3,9 @@
     "canonical_name": "giss-e2-h-cc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "GISS-E2-H-CC", 
-    "idx": 36, 
     "label": "GISS-E2-H-CC", 
     "namespace": "wcrp:cmip5:model:giss-e2-h-cc", 
     "raw_name": "GISS-E2-H-CC", 
     "status": "pending", 
-    "uid": "bd2131e6-cb1b-4af5-ab02-e0f5c052594f"
+    "uid": "56da863c-14a6-4d53-892e-805655d6d2dd"
 }

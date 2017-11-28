@@ -3,10 +3,9 @@
     "canonical_name": "clmcom", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "CLMcom", 
-    "idx": 6, 
     "label": "CLMcom", 
     "namespace": "wcrp:cordex:institute:clmcom", 
     "raw_name": "CLMcom", 
     "status": "pending", 
-    "uid": "d80a0b8a-781c-40aa-98b4-cbe025657e87"
+    "uid": "79d097a0-f745-43a4-9ffb-f14fbda57302"
 }

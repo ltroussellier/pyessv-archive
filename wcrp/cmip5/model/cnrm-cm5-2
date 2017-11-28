@@ -3,10 +3,9 @@
     "canonical_name": "cnrm-cm5-2", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "CNRM-CM5-2", 
-    "idx": 19, 
     "label": "CNRM-CM5-2", 
     "namespace": "wcrp:cmip5:model:cnrm-cm5-2", 
     "raw_name": "CNRM-CM5-2", 
     "status": "pending", 
-    "uid": "0a5691d9-d41f-4696-946a-577f97b15b64"
+    "uid": "67059657-4362-40fb-98c1-4e431fab1c4e"
 }

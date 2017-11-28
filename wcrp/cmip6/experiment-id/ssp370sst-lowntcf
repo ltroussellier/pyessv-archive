@@ -31,7 +31,6 @@
         "tier": "1"
     }, 
     "description": "Future SSP3-7.0 with reduced NTCF emissions, prescribed SSTs", 
-    "idx": 171, 
     "label": "ssp370SST-lowNTCF", 
     "namespace": "wcrp:cmip6:experiment-id:ssp370sst-lowntcf", 
     "raw_name": "ssp370SST-lowNTCF", 

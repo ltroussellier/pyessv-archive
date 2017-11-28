@@ -30,7 +30,6 @@
         "tier": "2"
     }, 
     "description": "As amip-p4K experiment, but with cloud-radiative effects switched off in the LW radiation code", 
-    "idx": 66, 
     "label": "amip-p4K-lwoff", 
     "namespace": "wcrp:cmip6:experiment-id:amip-p4k-lwoff", 
     "raw_name": "amip-p4K-lwoff", 

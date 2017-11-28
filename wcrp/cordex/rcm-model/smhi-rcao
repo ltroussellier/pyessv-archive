@@ -3,10 +3,9 @@
     "canonical_name": "smhi-rcao", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "SMHI-RCAO", 
-    "idx": 35, 
     "label": "SMHI-RCAO", 
     "namespace": "wcrp:cordex:rcm-model:smhi-rcao", 
     "raw_name": "SMHI-RCAO", 
     "status": "pending", 
-    "uid": "68567726-1883-4dca-b6c6-13e5982f6fb9"
+    "uid": "c3c08d93-749a-42fc-be2d-ec5242fdcf61"
 }

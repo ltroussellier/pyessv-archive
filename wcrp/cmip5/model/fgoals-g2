@@ -3,10 +3,9 @@
     "canonical_name": "fgoals-g2", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "FGOALS-g2", 
-    "idx": 24, 
     "label": "FGOALS-g2", 
     "namespace": "wcrp:cmip5:model:fgoals-g2", 
     "raw_name": "FGOALS-g2", 
     "status": "pending", 
-    "uid": "d1072410-8ce1-41ea-8d93-097600f89083"
+    "uid": "2dc31809-c279-41c9-b34c-e3a72820be04"
 }

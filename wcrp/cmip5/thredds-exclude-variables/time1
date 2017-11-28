@@ -3,8 +3,7 @@
     "canonical_name": "time1", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "time1", 
-    "idx": 57, 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:time1", 
     "status": "pending", 
-    "uid": "fdf9ea8e-70dd-4165-bc02-46a3f22ee9aa"
+    "uid": "13e64d02-f715-4a05-a1d2-89f5c7a2ab0b"
 }

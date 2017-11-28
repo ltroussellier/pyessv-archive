@@ -3,10 +3,9 @@
     "canonical_name": "mna-22i", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Middle East and North Africa", 
-    "idx": 21, 
     "label": "MNA-22i", 
     "namespace": "wcrp:cordex:domain:mna-22i", 
     "raw_name": "MNA-22i", 
     "status": "pending", 
-    "uid": "18baaf59-bd67-4906-b245-e1feefe076af"
+    "uid": "19ff9def-03b6-4d1f-83de-fa4240c26df1"
 }

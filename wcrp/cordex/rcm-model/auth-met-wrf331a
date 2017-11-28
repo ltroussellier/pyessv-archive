@@ -3,10 +3,9 @@
     "canonical_name": "auth-met-wrf331a", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "AUTH-Met-WRF331A", 
-    "idx": 1, 
     "label": "AUTH-Met-WRF331A", 
     "namespace": "wcrp:cordex:rcm-model:auth-met-wrf331a", 
     "raw_name": "AUTH-Met-WRF331A", 
     "status": "pending", 
-    "uid": "4af7dac3-df68-4325-aa2a-545626beac13"
+    "uid": "a6e158a8-da17-4291-af44-f97fe927a7a4"
 }

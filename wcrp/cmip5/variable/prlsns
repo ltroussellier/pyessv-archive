@@ -3,8 +3,7 @@
     "canonical_name": "prlsns", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "prlsns", 
-    "idx": 345, 
     "namespace": "wcrp:cmip5:variable:prlsns", 
     "status": "pending", 
-    "uid": "e4506afc-805b-4e05-bda3-b96e37f789f8"
+    "uid": "40505a48-9b12-4d72-94da-cf345fab11cf"
 }

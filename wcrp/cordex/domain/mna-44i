@@ -3,10 +3,9 @@
     "canonical_name": "mna-44i", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Middle East and North Africa", 
-    "idx": 23, 
     "label": "MNA-44i", 
     "namespace": "wcrp:cordex:domain:mna-44i", 
     "raw_name": "MNA-44i", 
     "status": "pending", 
-    "uid": "997d8194-ba60-49e5-a15a-3065b21638ce"
+    "uid": "4bd25cac-dbf8-423c-8fd6-3672ad203145"
 }

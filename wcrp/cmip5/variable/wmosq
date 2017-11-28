@@ -3,8 +3,7 @@
     "canonical_name": "wmosq", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "wmosq", 
-    "idx": 584, 
     "namespace": "wcrp:cmip5:variable:wmosq", 
     "status": "pending", 
-    "uid": "0fd4fb7b-ef29-4fe1-9b69-a05453fd00b0"
+    "uid": "08ec55c7-ab95-4123-8195-6b1ccb506727"
 }

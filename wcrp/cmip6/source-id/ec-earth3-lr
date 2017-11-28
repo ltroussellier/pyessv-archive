@@ -51,7 +51,6 @@
         "release_year": "2017", 
         "source_id": "EC-Earth3-LR"
     }, 
-    "idx": 32, 
     "label": "EC-Earth3-LR", 
     "namespace": "wcrp:cmip6:source-id:ec-earth3-lr", 
     "raw_name": "EC-Earth3-LR", 

@@ -3,8 +3,7 @@
     "canonical_name": "reffsnows", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "reffsnows", 
-    "idx": 366, 
     "namespace": "wcrp:cmip5:variable:reffsnows", 
     "status": "pending", 
-    "uid": "dcdf22e6-8bbe-4f6e-bd34-df0f5a2acd82"
+    "uid": "6ad6fe68-c210-4cce-b048-7a44b44ca1e6"
 }

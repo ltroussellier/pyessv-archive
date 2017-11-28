@@ -3,8 +3,7 @@
     "canonical_name": "rldssi", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rldssi", 
-    "idx": 380, 
     "namespace": "wcrp:cmip5:variable:rldssi", 
     "status": "pending", 
-    "uid": "d07f55d5-c958-45e9-ab08-64c1da329c71"
+    "uid": "cd82cadc-078a-4d0b-b9f8-f66d48f20d9a"
 }

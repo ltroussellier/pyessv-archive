@@ -3,8 +3,7 @@
     "canonical_name": "rcp45", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "RCP4.5", 
-    "idx": 92, 
     "namespace": "wcrp:cmip5:experiment:rcp45", 
     "status": "pending", 
-    "uid": "1c2eca0e-4424-488d-9f38-3d6f46eabc48"
+    "uid": "eaba5edd-5a28-4832-ac94-c4c3dfe012df"
 }

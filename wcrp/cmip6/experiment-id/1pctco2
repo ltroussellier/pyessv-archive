@@ -31,7 +31,6 @@
         "tier": "1"
     }, 
     "description": "DECK: 1pctCO2", 
-    "idx": 82, 
     "label": "1pctCO2", 
     "namespace": "wcrp:cmip6:experiment-id:1pctco2", 
     "raw_name": "1pctCO2", 

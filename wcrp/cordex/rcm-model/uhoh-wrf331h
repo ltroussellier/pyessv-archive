@@ -3,10 +3,9 @@
     "canonical_name": "uhoh-wrf331h", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "UHOH-WRF331H", 
-    "idx": 40, 
     "label": "UHOH-WRF331H", 
     "namespace": "wcrp:cordex:rcm-model:uhoh-wrf331h", 
     "raw_name": "UHOH-WRF331H", 
     "status": "pending", 
-    "uid": "4e1cb52d-612f-4a82-8b84-449f9179ac73"
+    "uid": "897fbefb-94c1-418e-97a9-34d0c2c0a671"
 }

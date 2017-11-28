@@ -3,10 +3,9 @@
     "canonical_name": "treefracsecever", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "treeFracSecEver", 
-    "idx": 539, 
     "label": "treeFracSecEver", 
     "namespace": "wcrp:cmip5:variable:treefracsecever", 
     "raw_name": "treeFracSecEver", 
     "status": "pending", 
-    "uid": "e8b78dfd-6fbf-4fcc-bc6b-b1d0ab73a045"
+    "uid": "ba9b9d05-b5dc-4309-97aa-4aa411fa5113"
 }

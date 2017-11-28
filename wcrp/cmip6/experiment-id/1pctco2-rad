@@ -31,7 +31,6 @@
         "tier": "2"
     }, 
     "description": "Radiatively-coupled specified concentration simulation in which CO2 increases at a rate of 1% per year until quadrupling", 
-    "idx": 217, 
     "label": "1pctCO2-rad", 
     "namespace": "wcrp:cmip6:experiment-id:1pctco2-rad", 
     "raw_name": "1pctCO2-rad", 

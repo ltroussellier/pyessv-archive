@@ -3,8 +3,7 @@
     "canonical_name": "hfydiff", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hfydiff", 
-    "idx": 235, 
     "namespace": "wcrp:cmip5:variable:hfydiff", 
     "status": "pending", 
-    "uid": "239ba945-566a-4e2c-8ddc-398593bf4d8c"
+    "uid": "5da1fc09-1842-42cc-8b5e-8469cde068a0"
 }

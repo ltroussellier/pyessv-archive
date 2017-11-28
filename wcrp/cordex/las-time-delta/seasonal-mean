@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "seasonal-mean", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 4, 
     "label": "seasonal mean", 
     "namespace": "wcrp:cordex:las-time-delta:seasonal-mean", 
     "raw_name": "seasonal mean", 
     "status": "pending", 
-    "uid": "70a4df29-18b7-4c84-a925-d277c6824bf3"
+    "uid": "74453790-d44d-4eee-ad93-16d88ecba64d"
 }

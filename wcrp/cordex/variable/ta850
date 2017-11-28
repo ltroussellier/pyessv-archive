@@ -3,8 +3,7 @@
     "canonical_name": "ta850", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ta850", 
-    "idx": 129, 
     "namespace": "wcrp:cordex:variable:ta850", 
     "status": "pending", 
-    "uid": "e153c67f-2bd9-4cd5-978c-88a5981a8776"
+    "uid": "80ffa88b-d7bd-4220-8696-6ce6ee37521f"
 }

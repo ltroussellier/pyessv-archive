@@ -3,8 +3,7 @@
     "canonical_name": "intpmisc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "intpmisc", 
-    "idx": 252, 
     "namespace": "wcrp:cmip5:variable:intpmisc", 
     "status": "pending", 
-    "uid": "06d4274d-a2f6-451e-8e31-72b37260b3d5"
+    "uid": "ac54fff4-e335-41b2-ab84-24e904ca1832"
 }

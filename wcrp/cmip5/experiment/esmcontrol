@@ -3,10 +3,9 @@
     "canonical_name": "esmcontrol", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ESM pre-industrial control", 
-    "idx": 63, 
     "label": "esmControl", 
     "namespace": "wcrp:cmip5:experiment:esmcontrol", 
     "raw_name": "esmControl", 
     "status": "pending", 
-    "uid": "fe11936e-eebd-4a07-90da-d40179cf359e"
+    "uid": "e73d4481-19e5-4ecf-b044-d634718ff8f0"
 }

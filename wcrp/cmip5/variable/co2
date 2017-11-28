@@ -3,8 +3,7 @@
     "canonical_name": "co2", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "co2", 
-    "idx": 82, 
     "namespace": "wcrp:cmip5:variable:co2", 
     "status": "pending", 
-    "uid": "fd5d707a-9275-4550-8230-2dbc6cf1dea0"
+    "uid": "de18b948-e576-491b-90ce-32dc318fe2d2"
 }

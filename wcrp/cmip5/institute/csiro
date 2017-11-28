@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "csiro", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 20, 
     "label": "CSIRO", 
     "namespace": "wcrp:cmip5:institute:csiro", 
     "raw_name": "CSIRO", 
     "status": "pending", 
-    "uid": "7a2e01b8-8ee6-411e-ac23-3dc372112996"
+    "uid": "e34152e5-668e-4c69-a0fd-fb08087457bc"
 }

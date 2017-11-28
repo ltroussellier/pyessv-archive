@@ -3,10 +3,9 @@
     "canonical_name": "ccwd", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cCwd", 
-    "idx": 23, 
     "label": "cCwd", 
     "namespace": "wcrp:cmip5:variable:ccwd", 
     "raw_name": "cCwd", 
     "status": "pending", 
-    "uid": "1c7fb169-a800-488d-a36e-de9e7601a4b0"
+    "uid": "069f1cfc-0ab1-4982-8d12-1fa8bd54e2fa"
 }

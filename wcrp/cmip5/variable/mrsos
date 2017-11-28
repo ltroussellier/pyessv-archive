@@ -3,8 +3,7 @@
     "canonical_name": "mrsos", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "mrsos", 
-    "idx": 284, 
     "namespace": "wcrp:cmip5:variable:mrsos", 
     "status": "pending", 
-    "uid": "430fd815-4332-41e6-b054-e2c0b3434511"
+    "uid": "0f9721dd-7e81-4e05-8ae4-5878d8bd5402"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "ccb", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ccb", 
-    "idx": 38, 
     "namespace": "wcrp:cmip5:variable:ccb", 
     "status": "pending", 
-    "uid": "4b120a3f-5adc-416d-a62a-66f458f39a25"
+    "uid": "04ef2365-705d-423b-ba48-070b04a37261"
 }

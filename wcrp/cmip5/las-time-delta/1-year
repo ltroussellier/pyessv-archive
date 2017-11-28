@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "1-year", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 0, 
     "label": "1 year", 
     "namespace": "wcrp:cmip5:las-time-delta:1-year", 
     "raw_name": "1 year", 
     "status": "pending", 
-    "uid": "e20635c6-cb0b-4a69-86b5-8966b1cd2562"
+    "uid": "afa76db3-6347-4f3f-b097-7ecdb8ad373a"
 }

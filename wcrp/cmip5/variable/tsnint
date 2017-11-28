@@ -3,8 +3,7 @@
     "canonical_name": "tsnint", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tsnint", 
-    "idx": 548, 
     "namespace": "wcrp:cmip5:variable:tsnint", 
     "status": "pending", 
-    "uid": "0d2955e5-7389-466c-a033-e982bbb8ec1d"
+    "uid": "d9adaea5-67ac-4573-9397-4665a0b8a8e3"
 }

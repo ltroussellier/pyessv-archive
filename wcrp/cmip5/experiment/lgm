@@ -3,8 +3,7 @@
     "canonical_name": "lgm", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Last Glacial Maximum", 
-    "idx": 77, 
     "namespace": "wcrp:cmip5:experiment:lgm", 
     "status": "pending", 
-    "uid": "6dbd693d-06be-4dfa-afe2-0d6f0ec573f6"
+    "uid": "5c91fded-5add-4d74-b8d0-c982453dd972"
 }

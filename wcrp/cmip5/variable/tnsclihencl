@@ -3,8 +3,7 @@
     "canonical_name": "tnsclihencl", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tnsclihencl", 
-    "idx": 501, 
     "namespace": "wcrp:cmip5:variable:tnsclihencl", 
     "status": "pending", 
-    "uid": "82ab1df2-97e3-49ce-8271-6edc09fc40dc"
+    "uid": "d83b34be-b41d-4619-8435-442da869563a"
 }

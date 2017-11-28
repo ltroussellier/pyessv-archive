@@ -3,8 +3,7 @@
     "canonical_name": "lev", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "lev", 
-    "idx": 26, 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:lev", 
     "status": "pending", 
-    "uid": "a3dc6ece-8bae-45a1-966f-2d1ba95c3433"
+    "uid": "8a298b3a-5e91-473b-87b8-d743be9edb0b"
 }

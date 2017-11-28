@@ -3,8 +3,7 @@
     "canonical_name": "prsnc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "prsnc", 
-    "idx": 348, 
     "namespace": "wcrp:cmip5:variable:prsnc", 
     "status": "pending", 
-    "uid": "1f994e2b-0436-4fbe-8866-4c041f2b0ead"
+    "uid": "9fd2ad1a-64ed-4e6d-8723-e990704592a3"
 }

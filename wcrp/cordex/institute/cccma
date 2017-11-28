@@ -3,10 +3,9 @@
     "canonical_name": "cccma", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "CCCma", 
-    "idx": 4, 
     "label": "CCCma", 
     "namespace": "wcrp:cordex:institute:cccma", 
     "raw_name": "CCCma", 
     "status": "pending", 
-    "uid": "2fbf6af5-427b-4b88-a659-4f90a59371ee"
+    "uid": "0ea83ba9-5c00-4c63-a8fb-5ba695d8f6b3"
 }

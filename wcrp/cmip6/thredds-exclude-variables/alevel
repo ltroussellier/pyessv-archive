@@ -3,8 +3,7 @@
     "canonical_name": "alevel", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "alevel", 
-    "idx": 3, 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:alevel", 
     "status": "pending", 
-    "uid": "facca162-3408-4560-82c9-af3909cdfc2d"
+    "uid": "d61c0e14-b6d9-41d3-93e2-0d1296260cf3"
 }

@@ -30,7 +30,6 @@
         "tier": "3"
     }, 
     "description": "The topography of the TIP is modified by setting surface elevations to 500m; to understand the combined thermal and mechanical forcing of the TIP. Same model as DECK", 
-    "idx": 103, 
     "label": "amip-TIP", 
     "namespace": "wcrp:cmip6:experiment-id:amip-tip", 
     "raw_name": "amip-TIP", 

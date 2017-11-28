@@ -3,8 +3,7 @@
     "canonical_name": "rsdcs", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rsdcs", 
-    "idx": 395, 
     "namespace": "wcrp:cmip5:variable:rsdcs", 
     "status": "pending", 
-    "uid": "9afa8c20-a51e-4547-9796-d50be600cfa9"
+    "uid": "7f711f1a-728b-41fa-801e-bf98cac08bab"
 }

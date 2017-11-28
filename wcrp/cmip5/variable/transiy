@@ -3,8 +3,7 @@
     "canonical_name": "transiy", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "transiy", 
-    "idx": 534, 
     "namespace": "wcrp:cmip5:variable:transiy", 
     "status": "pending", 
-    "uid": "8ac4d9f6-168e-4d0f-8ee4-834281d446e9"
+    "uid": "ef9ce572-d6f6-4c1c-ae8b-b01613cda0ea"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "rhsmax", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rhsmax", 
-    "idx": 371, 
     "namespace": "wcrp:cmip5:variable:rhsmax", 
     "status": "pending", 
-    "uid": "5925622f-7a26-4f81-a7d8-04e3f0ad37f7"
+    "uid": "a9bebbbe-e28a-49fc-9d50-84875015eade"
 }

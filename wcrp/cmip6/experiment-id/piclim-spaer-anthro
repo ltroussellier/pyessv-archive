@@ -29,7 +29,6 @@
         "tier": "2"
     }, 
     "description": "Prescribed anthropogenic aerosol optical properties. Anthropogenic forcings", 
-    "idx": 151, 
     "label": "piClim-spAer-anthro", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-spaer-anthro", 
     "raw_name": "piClim-spAer-anthro", 

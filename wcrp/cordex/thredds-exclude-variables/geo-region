@@ -3,10 +3,9 @@
     "canonical_name": "geo-region", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "geo_region", 
-    "idx": 17, 
     "label": "geo_region", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:geo-region", 
     "raw_name": "geo_region", 
     "status": "pending", 
-    "uid": "daaaa314-b00b-4875-808f-1b701deb6ab8"
+    "uid": "d257f1f1-44c8-4f6b-b1b0-69b6e3fd97de"
 }

@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "1-day", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 1, 
     "label": "1 day", 
     "namespace": "wcrp:cordex:las-time-delta:1-day", 
     "raw_name": "1 day", 
     "status": "pending", 
-    "uid": "2a9fbdb5-f1d7-43fc-badf-7c0449cbde67"
+    "uid": "3b4adb31-5f59-4bdd-9346-4e4ff22c5f77"
 }

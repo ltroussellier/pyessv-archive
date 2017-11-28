@@ -3,8 +3,7 @@
     "canonical_name": "concpoa", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "concpoa", 
-    "idx": 97, 
     "namespace": "wcrp:cmip5:variable:concpoa", 
     "status": "pending", 
-    "uid": "97d5af3a-8aad-4ee8-9c01-fd7a32e7f2ec"
+    "uid": "3ff0308f-8ab2-490d-8f7a-87ec9c8b9321"
 }

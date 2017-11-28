@@ -67,7 +67,6 @@
         "release_year": "2017", 
         "source_id": "CanESM5"
     }, 
-    "idx": 28, 
     "label": "CanESM5", 
     "namespace": "wcrp:cmip6:source-id:canesm5", 
     "raw_name": "CanESM5", 

@@ -30,7 +30,6 @@
         "tier": "1"
     }, 
     "description": "Extended version of CMIP5/CFMIP-2 aqua4xCO2 experiment. Aquaplanet experiment where SSTs are held at control values and the CO2 seen by the radiation scheme is quadrupled", 
-    "idx": 132, 
     "label": "aqua-4xCO2", 
     "namespace": "wcrp:cmip6:experiment-id:aqua-4xco2", 
     "raw_name": "aqua-4xCO2", 

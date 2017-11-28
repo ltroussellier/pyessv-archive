@@ -3,10 +3,9 @@
     "canonical_name": "canesm2", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "CanESM2", 
-    "idx": 8, 
     "label": "CanESM2", 
     "namespace": "wcrp:cmip5:model:canesm2", 
     "raw_name": "CanESM2", 
     "status": "pending", 
-    "uid": "6b520b86-25e7-4101-8dea-3f318e489d46"
+    "uid": "0ea0eb43-7167-4fa0-80cb-7f7dd4dcea3e"
 }

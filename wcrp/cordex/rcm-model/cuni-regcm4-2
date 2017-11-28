@@ -3,10 +3,9 @@
     "canonical_name": "cuni-regcm4-2", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "CUNI-RegCM4-2", 
-    "idx": 13, 
     "label": "CUNI-RegCM4-2", 
     "namespace": "wcrp:cordex:rcm-model:cuni-regcm4-2", 
     "raw_name": "CUNI-RegCM4-2", 
     "status": "pending", 
-    "uid": "720a308d-91a0-40cf-8d81-515909943d14"
+    "uid": "6fadbc74-0e8d-45dc-aebd-e1748d3490cf"
 }

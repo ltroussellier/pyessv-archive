@@ -3,8 +3,7 @@
     "canonical_name": "phypmisc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "phypmisc", 
-    "idx": 334, 
     "namespace": "wcrp:cmip5:variable:phypmisc", 
     "status": "pending", 
-    "uid": "3c11c39a-4c56-4c2a-a68f-1120e84fd9fb"
+    "uid": "38cc1f21-fe22-4e21-96f2-63c35a5cb914"
 }

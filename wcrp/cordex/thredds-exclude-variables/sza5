@@ -3,8 +3,7 @@
     "canonical_name": "sza5", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sza5", 
-    "idx": 63, 
     "namespace": "wcrp:cordex:thredds-exclude-variables:sza5", 
     "status": "pending", 
-    "uid": "f2b49512-dbd3-48f7-b5b2-5587d7bb8c11"
+    "uid": "db7406a1-a417-4e36-b6b3-2919fc54583f"
 }

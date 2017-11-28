@@ -2,7 +2,6 @@
     "_type": "term", 
     "canonical_name": "edayz", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 19, 
     "label": "EdayZ", 
     "namespace": "wcrp:cmip6:table-id:edayz", 
     "raw_name": "EdayZ", 

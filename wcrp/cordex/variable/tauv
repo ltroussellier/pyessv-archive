@@ -3,8 +3,7 @@
     "canonical_name": "tauv", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tauv", 
-    "idx": 141, 
     "namespace": "wcrp:cordex:variable:tauv", 
     "status": "pending", 
-    "uid": "39d733ad-19ea-4869-abcb-b6563effc244"
+    "uid": "2c154cd7-d29a-4750-83d4-0bce9765fa94"
 }

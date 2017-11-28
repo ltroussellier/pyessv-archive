@@ -3,10 +3,9 @@
     "canonical_name": "limon", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "LImon", 
-    "idx": 4, 
     "label": "LImon", 
     "namespace": "wcrp:cmip5:cmor-table:limon", 
     "raw_name": "LImon", 
     "status": "pending", 
-    "uid": "550aec65-d070-4cee-a15d-763ca4dd709b"
+    "uid": "8d2280ff-f5d7-421d-8a11-95bd2c42ffd0"
 }

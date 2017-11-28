@@ -3,10 +3,9 @@
     "canonical_name": "eur-11i", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "High-res. Europe", 
-    "idx": 15, 
     "label": "EUR-11i", 
     "namespace": "wcrp:cordex:domain:eur-11i", 
     "raw_name": "EUR-11i", 
     "status": "pending", 
-    "uid": "6dd5713d-9ace-4879-8570-065744cd56b3"
+    "uid": "d1c44426-527b-487e-9d91-ee9faacd124d"
 }

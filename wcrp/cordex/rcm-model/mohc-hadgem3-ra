@@ -3,10 +3,9 @@
     "canonical_name": "mohc-hadgem3-ra", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "MOHC-HadGEM3-RA", 
-    "idx": 29, 
     "label": "MOHC-HadGEM3-RA", 
     "namespace": "wcrp:cordex:rcm-model:mohc-hadgem3-ra", 
     "raw_name": "MOHC-HadGEM3-RA", 
     "status": "pending", 
-    "uid": "dc567201-629c-4745-8643-e1154c36d99a"
+    "uid": "72ca4397-7128-44c6-8d3b-62b66e7ab61e"
 }

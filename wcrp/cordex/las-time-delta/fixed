@@ -2,8 +2,7 @@
     "_type": "term", 
     "canonical_name": "fixed", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 2, 
     "namespace": "wcrp:cordex:las-time-delta:fixed", 
     "status": "pending", 
-    "uid": "fc0700ca-ea55-405c-834e-12924e144f2a"
+    "uid": "e607b683-2f04-4a33-bf21-a9b60c12d932"
 }

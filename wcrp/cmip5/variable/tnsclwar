@@ -3,8 +3,7 @@
     "canonical_name": "tnsclwar", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tnsclwar", 
-    "idx": 512, 
     "namespace": "wcrp:cmip5:variable:tnsclwar", 
     "status": "pending", 
-    "uid": "c140dab2-17a3-4a75-8646-4dba0d5f7f97"
+    "uid": "1b66dee4-ea5f-4d60-8220-cdddffd90451"
 }

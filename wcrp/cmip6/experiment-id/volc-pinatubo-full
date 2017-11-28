@@ -31,7 +31,6 @@
         "tier": "1"
     }, 
     "description": "1991 Pinatubo forcing as used in the CMIP6 historical simulations. Requires special diagnostics of radiative and latent heating rates. A large number of ensemble members is required to address internal atmospheric variability", 
-    "idx": 246, 
     "namespace": "wcrp:cmip6:experiment-id:volc-pinatubo-full", 
     "status": "pending", 
     "uid": "ea7339f8-2f85-44f2-b510-b0c96172f6c4"

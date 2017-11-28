@@ -32,7 +32,6 @@
         "tier": "2"
     }, 
     "description": "Future climate from ScenarioMIP SSP5-8.5 simulation that includes interactive ice sheets. Set up follows the standard SSP5-8.5 experiment", 
-    "idx": 199, 
     "namespace": "wcrp:cmip6:experiment-id:ssp585-withism", 
     "status": "pending", 
     "uid": "a9281bf3-a3ca-4cc1-affe-26f36e704229"

@@ -3,8 +3,7 @@
     "canonical_name": "tsmax", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tsmax", 
-    "idx": 143, 
     "namespace": "wcrp:cordex:variable:tsmax", 
     "status": "pending", 
-    "uid": "290ee89a-d359-43c0-9388-f125a8cffd4a"
+    "uid": "0b581d1f-be0e-4a43-ae17-5aa77969c3fd"
 }

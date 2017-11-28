@@ -3,8 +3,7 @@
     "canonical_name": "clic", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "clic", 
-    "idx": 66, 
     "namespace": "wcrp:cmip5:variable:clic", 
     "status": "pending", 
-    "uid": "5437ee5d-deda-4ea0-856e-213df451d79c"
+    "uid": "710a2404-4ec8-4023-ae5a-364b075b8807"
 }

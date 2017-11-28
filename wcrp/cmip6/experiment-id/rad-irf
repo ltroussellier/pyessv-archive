@@ -29,7 +29,6 @@
         "tier": "1"
     }, 
     "description": "Offline radiation calculations", 
-    "idx": 16, 
     "namespace": "wcrp:cmip6:experiment-id:rad-irf", 
     "status": "pending", 
     "uid": "375786aa-c331-4e04-90ab-62f7bf150cc0"

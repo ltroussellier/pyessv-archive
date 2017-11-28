@@ -3,8 +3,7 @@
     "canonical_name": "physi", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "physi", 
-    "idx": 335, 
     "namespace": "wcrp:cmip5:variable:physi", 
     "status": "pending", 
-    "uid": "a84c6cfe-504d-4236-b508-d7e6d4b87f12"
+    "uid": "ac6c4507-4782-4ba3-878d-6f24f378a9cc"
 }

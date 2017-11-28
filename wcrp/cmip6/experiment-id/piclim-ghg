@@ -30,7 +30,6 @@
         "tier": "1"
     }, 
     "description": "As in RFMIP-ERF-PI-Cntrl but with present-day greenhouse gases", 
-    "idx": 53, 
     "label": "piClim-ghg", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-ghg", 
     "raw_name": "piClim-ghg", 

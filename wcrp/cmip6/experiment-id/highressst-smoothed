@@ -29,7 +29,6 @@
         "tier": "3"
     }, 
     "description": "Forced global atmosphere-land simulations as highresSST-present, but using smoothed SST to investigate impact of SST variability", 
-    "idx": 147, 
     "label": "highresSST-smoothed", 
     "namespace": "wcrp:cmip6:experiment-id:highressst-smoothed", 
     "raw_name": "highresSST-smoothed", 

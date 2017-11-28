@@ -3,8 +3,7 @@
     "canonical_name": "tnsccwbl", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tnsccwbl", 
-    "idx": 487, 
     "namespace": "wcrp:cmip5:variable:tnsccwbl", 
     "status": "pending", 
-    "uid": "f8ecf7b3-6420-4da0-8626-aed91d31fbc7"
+    "uid": "dbce042b-1290-4279-ad82-aae52225caa3"
 }

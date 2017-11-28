@@ -3,8 +3,7 @@
     "canonical_name": "p840", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "p840", 
-    "idx": 40, 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:p840", 
     "status": "pending", 
-    "uid": "21971573-0da0-4c48-8751-91e4d6ffc252"
+    "uid": "681a30f6-af2d-4757-9ff6-0c3676add31e"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "ialb", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ialb", 
-    "idx": 242, 
     "namespace": "wcrp:cmip5:variable:ialb", 
     "status": "pending", 
-    "uid": "21287533-496a-4894-897e-301ab9004137"
+    "uid": "b6f47d64-5365-4590-8d4e-f139c6bf52b1"
 }

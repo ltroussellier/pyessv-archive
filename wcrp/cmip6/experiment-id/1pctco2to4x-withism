@@ -32,7 +32,6 @@
         "tier": "1"
     }, 
     "description": "Idealized 1%/yr CO2 increase to 4xC02 over 140yrs and kept constant at 4xCO2 for an additional 200 to 400 yrs simulation that includes interactive ice sheets", 
-    "idx": 98, 
     "label": "1pctCO2to4x-withism", 
     "namespace": "wcrp:cmip6:experiment-id:1pctco2to4x-withism", 
     "raw_name": "1pctCO2to4x-withism", 

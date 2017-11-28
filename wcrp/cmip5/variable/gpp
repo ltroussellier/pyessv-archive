@@ -3,8 +3,7 @@
     "canonical_name": "gpp", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "gpp", 
-    "idx": 203, 
     "namespace": "wcrp:cmip5:variable:gpp", 
     "status": "pending", 
-    "uid": "d6620b13-eb54-4a86-a148-b820b46cd66e"
+    "uid": "299bffae-8e58-4536-b170-4e3a83d2b4e7"
 }

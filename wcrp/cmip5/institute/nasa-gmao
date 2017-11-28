@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "nasa-gmao", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 28, 
     "label": "NASA-GMAO", 
     "namespace": "wcrp:cmip5:institute:nasa-gmao", 
     "raw_name": "NASA-GMAO", 
     "status": "pending", 
-    "uid": "6f08e681-1944-443b-8ba4-aef929db3f79"
+    "uid": "53dbc93f-c38f-4836-bc78-ee4672111536"
 }

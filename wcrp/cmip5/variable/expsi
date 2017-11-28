@@ -3,8 +3,7 @@
     "canonical_name": "expsi", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "expsi", 
-    "idx": 166, 
     "namespace": "wcrp:cmip5:variable:expsi", 
     "status": "pending", 
-    "uid": "84191843-7aa7-4431-91b2-9c3d1be79e88"
+    "uid": "b0d0a573-df63-4823-aebe-6c7801543aa1"
 }

@@ -3,10 +3,9 @@
     "canonical_name": "cccma-canesm2", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "CCCma-CanESM2", 
-    "idx": 0, 
     "label": "CCCma-CanESM2", 
     "namespace": "wcrp:cordex:driving-model:cccma-canesm2", 
     "raw_name": "CCCma-CanESM2", 
     "status": "pending", 
-    "uid": "db8cc6f2-9a6c-4abb-ba18-93d51dd1bb4d"
+    "uid": "5c827d07-4551-4132-b096-8450ae4cb294"
 }

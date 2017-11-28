@@ -3,8 +3,7 @@
     "canonical_name": "pbfe", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "pbfe", 
-    "idx": 316, 
     "namespace": "wcrp:cmip5:variable:pbfe", 
     "status": "pending", 
-    "uid": "245145b5-d866-4840-8e2a-e747ce5cf308"
+    "uid": "95456671-a6c1-4cb0-ab2e-3db60a225d24"
 }

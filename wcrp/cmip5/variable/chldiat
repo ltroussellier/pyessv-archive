@@ -3,8 +3,7 @@
     "canonical_name": "chldiat", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "chldiat", 
-    "idx": 52, 
     "namespace": "wcrp:cmip5:variable:chldiat", 
     "status": "pending", 
-    "uid": "a3964750-d15b-4223-ac0f-433a93438498"
+    "uid": "86456c30-b84b-47da-afc2-73e72fda95f0"
 }

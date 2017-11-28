@@ -3,10 +3,9 @@
     "canonical_name": "mohc-hadgem2-es", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "MOHC-HadGEM2-ES", 
-    "idx": 8, 
     "label": "MOHC-HadGEM2-ES", 
     "namespace": "wcrp:cordex:driving-model:mohc-hadgem2-es", 
     "raw_name": "MOHC-HadGEM2-ES", 
     "status": "pending", 
-    "uid": "e316f280-8b88-4527-a262-2f903d0b1633"
+    "uid": "5259da4c-933b-4696-b2f6-6fee5c175f5e"
 }

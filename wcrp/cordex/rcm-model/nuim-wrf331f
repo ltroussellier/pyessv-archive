@@ -3,10 +3,9 @@
     "canonical_name": "nuim-wrf331f", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "NUIM-WRF331F", 
-    "idx": 32, 
     "label": "NUIM-WRF331F", 
     "namespace": "wcrp:cordex:rcm-model:nuim-wrf331f", 
     "raw_name": "NUIM-WRF331F", 
     "status": "pending", 
-    "uid": "c4e8b4d6-db60-4c7a-ba43-95d65fe94766"
+    "uid": "875034c0-5355-4098-aec6-67c3bfb5a520"
 }

@@ -3,10 +3,9 @@
     "canonical_name": "ictp", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ICTP", 
-    "idx": 15, 
     "label": "ICTP", 
     "namespace": "wcrp:cordex:institute:ictp", 
     "raw_name": "ICTP", 
     "status": "pending", 
-    "uid": "654f880f-fcec-400b-8f55-db6a4d35aa5d"
+    "uid": "a1c4a50f-e14a-4cc8-96d2-511a3553cbeb"
 }

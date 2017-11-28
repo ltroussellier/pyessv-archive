@@ -30,7 +30,6 @@
         "tier": "2"
     }, 
     "description": "1850 control with doubled sea salt emissions", 
-    "idx": 136, 
     "label": "piClim-2xss", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-2xss", 
     "raw_name": "piClim-2xss", 

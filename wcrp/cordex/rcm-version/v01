@@ -3,8 +3,7 @@
     "canonical_name": "v01", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "v01", 
-    "idx": 1, 
     "namespace": "wcrp:cordex:rcm-version:v01", 
     "status": "pending", 
-    "uid": "61db85bd-082e-44d8-a77c-8ff7ae198250"
+    "uid": "f6a5762f-2b25-4ba7-91b5-0722a416ba82"
 }

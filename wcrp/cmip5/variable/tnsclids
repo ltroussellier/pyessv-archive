@@ -3,8 +3,7 @@
     "canonical_name": "tnsclids", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tnsclids", 
-    "idx": 499, 
     "namespace": "wcrp:cmip5:variable:tnsclids", 
     "status": "pending", 
-    "uid": "db7c12d3-c97c-4535-a6df-c485a2e47307"
+    "uid": "3c8ce341-4945-41b4-af07-ca96c473d959"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "hcice", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hcice", 
-    "idx": 211, 
     "namespace": "wcrp:cmip5:variable:hcice", 
     "status": "pending", 
-    "uid": "9860c70f-2d31-4f17-abd8-f995dfc80f16"
+    "uid": "a05ba7a7-e02a-4037-9b7f-0c8f92a949a0"
 }

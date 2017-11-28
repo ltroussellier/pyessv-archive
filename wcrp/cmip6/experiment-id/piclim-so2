@@ -30,7 +30,6 @@
         "tier": "3"
     }, 
     "description": "Perturbation from 1850 control using 2014 SO2 emissions", 
-    "idx": 85, 
     "label": "piClim-SO2", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-so2", 
     "raw_name": "piClim-SO2", 

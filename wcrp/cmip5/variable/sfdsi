@@ -3,8 +3,7 @@
     "canonical_name": "sfdsi", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sfdsi", 
-    "idx": 430, 
     "namespace": "wcrp:cmip5:variable:sfdsi", 
     "status": "pending", 
-    "uid": "f9c0d17d-895d-4961-94f1-ef5c7b1ec085"
+    "uid": "cac430ae-d94e-4c90-b60e-b228f5939712"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "sst", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sst", 
-    "idx": 120, 
     "namespace": "wcrp:cordex:variable:sst", 
     "status": "pending", 
-    "uid": "241d1ea1-3780-40e8-85bf-b545db070766"
+    "uid": "7f456bcf-6274-4d5b-ac84-87b88de5462c"
 }

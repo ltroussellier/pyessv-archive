@@ -3,10 +3,9 @@
     "canonical_name": "mri-esm1", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "MRI-ESM1", 
-    "idx": 59, 
     "label": "MRI-ESM1", 
     "namespace": "wcrp:cmip5:model:mri-esm1", 
     "raw_name": "MRI-ESM1", 
     "status": "pending", 
-    "uid": "cfbf8580-ca7e-4d3b-9241-278e67be96cb"
+    "uid": "aee97bb1-33d7-4d43-aeca-75f59d7c87d8"
 }

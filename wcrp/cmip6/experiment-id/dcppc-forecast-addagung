@@ -33,7 +33,6 @@
         "tier": "3"
     }, 
     "description": "C3.4 Effects of volcanoes on decadal prediction and predictability of forced and internal variability components. First full hindcast year is 2015", 
-    "idx": 225, 
     "label": "dcppC-forecast-addAgung", 
     "namespace": "wcrp:cmip6:experiment-id:dcppc-forecast-addagung", 
     "raw_name": "dcppC-forecast-addAgung", 

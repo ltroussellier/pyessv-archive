@@ -3,8 +3,7 @@
     "canonical_name": "tso", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tso", 
-    "idx": 549, 
     "namespace": "wcrp:cmip5:variable:tso", 
     "status": "pending", 
-    "uid": "eacf6367-9278-408a-a049-6c45321d59fa"
+    "uid": "c746bbd8-7800-480d-b0e8-8dad16949238"
 }

@@ -3,10 +3,9 @@
     "canonical_name": "mohc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "MOHC", 
-    "idx": 22, 
     "label": "MOHC", 
     "namespace": "wcrp:cordex:institute:mohc", 
     "raw_name": "MOHC", 
     "status": "pending", 
-    "uid": "4431a229-8ac5-45e8-9663-45af73986cbe"
+    "uid": "16ea936c-a6bc-4b1c-8b09-ca3969ac3f44"
 }

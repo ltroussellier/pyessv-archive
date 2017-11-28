@@ -3,8 +3,7 @@
     "canonical_name": "co3", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "co3", 
-    "idx": 85, 
     "namespace": "wcrp:cmip5:variable:co3", 
     "status": "pending", 
-    "uid": "ccdcca34-7c1d-4199-b8e2-6fcd3b72c84d"
+    "uid": "ec032e8b-f2d4-40e2-aa8b-e3bd50c7c33d"
 }

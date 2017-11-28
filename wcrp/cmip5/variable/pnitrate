@@ -3,8 +3,7 @@
     "canonical_name": "pnitrate", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "pnitrate", 
-    "idx": 336, 
     "namespace": "wcrp:cmip5:variable:pnitrate", 
     "status": "pending", 
-    "uid": "d0805b28-d4c5-4c80-b8e0-2a6dc9005e85"
+    "uid": "fc69b772-3f55-406b-a0ee-39012009b91d"
 }

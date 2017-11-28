@@ -3,8 +3,7 @@
     "canonical_name": "tasmax", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tasmax", 
-    "idx": 136, 
     "namespace": "wcrp:cordex:variable:tasmax", 
     "status": "pending", 
-    "uid": "42b6de3d-77d3-43d8-8989-c67540fd979b"
+    "uid": "e2205ef7-d5b7-4eb5-947f-5dd3e3bf2862"
 }

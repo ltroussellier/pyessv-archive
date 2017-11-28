@@ -3,8 +3,7 @@
     "canonical_name": "mcu", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "mcu", 
-    "idx": 273, 
     "namespace": "wcrp:cmip5:variable:mcu", 
     "status": "pending", 
-    "uid": "7bd33206-0ac1-4264-9ad3-7948634d60a3"
+    "uid": "005d3c52-de0a-4726-8783-d9b730d4b8c2"
 }

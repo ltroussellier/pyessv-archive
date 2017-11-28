@@ -3,8 +3,7 @@
     "canonical_name": "expcfe", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "expcfe", 
-    "idx": 163, 
     "namespace": "wcrp:cmip5:variable:expcfe", 
     "status": "pending", 
-    "uid": "3062ed3a-1986-4435-bfa4-6efdc9f64830"
+    "uid": "b5163c54-d53b-437b-83fa-02c64e2b869d"
 }

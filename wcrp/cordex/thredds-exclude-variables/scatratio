@@ -3,8 +3,7 @@
     "canonical_name": "scatratio", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "scatratio", 
-    "idx": 60, 
     "namespace": "wcrp:cordex:thredds-exclude-variables:scatratio", 
     "status": "pending", 
-    "uid": "ecd49c37-66ed-403e-8894-b64b8342bcbe"
+    "uid": "c0fc95b2-c4e6-4c21-a07e-0e4e49ce41a2"
 }

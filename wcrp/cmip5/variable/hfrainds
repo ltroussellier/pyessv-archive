@@ -3,8 +3,7 @@
     "canonical_name": "hfrainds", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hfrainds", 
-    "idx": 223, 
     "namespace": "wcrp:cmip5:variable:hfrainds", 
     "status": "pending", 
-    "uid": "47a290fd-72b6-4c63-8804-0589bd3ad6bf"
+    "uid": "57ff79f4-7398-4347-b415-d4013ce108c0"
 }

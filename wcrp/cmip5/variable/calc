@@ -3,8 +3,7 @@
     "canonical_name": "calc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "calc", 
-    "idx": 37, 
     "namespace": "wcrp:cmip5:variable:calc", 
     "status": "pending", 
-    "uid": "ce835213-5f58-4c80-a4fa-0b1c58af15c9"
+    "uid": "a6a43290-325f-4627-967d-9d58916f43d8"
 }

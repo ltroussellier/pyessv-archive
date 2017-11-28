@@ -56,7 +56,6 @@
         "release_year": "2017", 
         "source_id": "NorESM2-MM"
     }, 
-    "idx": 53, 
     "label": "NorESM2-MM", 
     "namespace": "wcrp:cmip6:source-id:noresm2-mm", 
     "raw_name": "NorESM2-MM", 

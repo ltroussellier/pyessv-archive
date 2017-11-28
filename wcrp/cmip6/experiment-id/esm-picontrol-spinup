@@ -31,7 +31,6 @@
         "tier": "2"
     }, 
     "description": "DECK: spin-up portion of the control (emission-driven)", 
-    "idx": 222, 
     "label": "esm-piControl-spinup", 
     "namespace": "wcrp:cmip6:experiment-id:esm-picontrol-spinup", 
     "raw_name": "esm-piControl-spinup", 

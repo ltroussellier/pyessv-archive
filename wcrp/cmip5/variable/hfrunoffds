@@ -3,8 +3,7 @@
     "canonical_name": "hfrunoffds", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hfrunoffds", 
-    "idx": 224, 
     "namespace": "wcrp:cmip5:variable:hfrunoffds", 
     "status": "pending", 
-    "uid": "91aa9e53-ccae-4a17-b7b7-c80676cb9195"
+    "uid": "805e8209-114b-4c8d-aa8b-a996b67b4c47"
 }

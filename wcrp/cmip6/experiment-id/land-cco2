@@ -30,7 +30,6 @@
         "tier": "2"
     }, 
     "description": "Same as land-hist except with CO2 held constant", 
-    "idx": 104, 
     "label": "land-cCO2", 
     "namespace": "wcrp:cmip6:experiment-id:land-cco2", 
     "raw_name": "land-cCO2", 

@@ -3,8 +3,7 @@
     "canonical_name": "past1000", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Last Millennium", 
-    "idx": 89, 
     "namespace": "wcrp:cmip5:experiment:past1000", 
     "status": "pending", 
-    "uid": "c95a2e16-978c-4960-b92b-aa5bf620a29a"
+    "uid": "58c07a32-4cdd-4dba-b113-6584afba3514"
 }

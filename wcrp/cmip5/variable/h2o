@@ -3,8 +3,7 @@
     "canonical_name": "h2o", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "h2o", 
-    "idx": 209, 
     "namespace": "wcrp:cmip5:variable:h2o", 
     "status": "pending", 
-    "uid": "f12e3ce2-8de3-4d93-8eb9-41484ce2aa97"
+    "uid": "87c6b578-9c97-4202-bcef-a719759c1a8e"
 }

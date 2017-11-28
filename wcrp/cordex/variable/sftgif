@@ -3,8 +3,7 @@
     "canonical_name": "sftgif", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sftgif", 
-    "idx": 110, 
     "namespace": "wcrp:cordex:variable:sftgif", 
     "status": "pending", 
-    "uid": "c2ed720b-f801-4f76-a562-1d13006dc719"
+    "uid": "83b5ecfc-d7eb-45fe-a3be-b716c757f945"
 }

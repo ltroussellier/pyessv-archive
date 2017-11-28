@@ -51,7 +51,6 @@
         "release_year": "2016", 
         "source_id": "CMCC-CM2-HR4"
     }, 
-    "idx": 13, 
     "label": "CMCC-CM2-HR4", 
     "namespace": "wcrp:cmip6:source-id:cmcc-cm2-hr4", 
     "raw_name": "CMCC-CM2-HR4", 

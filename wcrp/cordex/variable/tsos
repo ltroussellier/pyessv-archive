@@ -3,8 +3,7 @@
     "canonical_name": "tsos", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tsos", 
-    "idx": 145, 
     "namespace": "wcrp:cordex:variable:tsos", 
     "status": "pending", 
-    "uid": "5a0382bb-421e-4e6b-96de-43d921fa3087"
+    "uid": "b9734754-cfd3-42ef-a0e8-a3a901e1bc15"
 }

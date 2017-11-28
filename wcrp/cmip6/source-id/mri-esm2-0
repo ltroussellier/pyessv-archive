@@ -67,7 +67,6 @@
         "release_year": "2017", 
         "source_id": "MRI-ESM2-0"
     }, 
-    "idx": 7, 
     "label": "MRI-ESM2.0", 
     "namespace": "wcrp:cmip6:source-id:mri-esm2-0", 
     "raw_name": "MRI-ESM2-0", 

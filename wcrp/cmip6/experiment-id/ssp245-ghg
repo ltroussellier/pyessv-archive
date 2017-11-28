@@ -31,7 +31,6 @@
         "tier": "2"
     }, 
     "description": "Extension of well-mixed GHG-only run under SSP2-4.5. Models with interactive chemistry schemes should either turn off the chemistry or use a preindustrial climatology of stratospheric and tropospheric ozone in their radiation schemes", 
-    "idx": 0, 
     "label": "ssp245-GHG", 
     "namespace": "wcrp:cmip6:experiment-id:ssp245-ghg", 
     "raw_name": "ssp245-GHG", 

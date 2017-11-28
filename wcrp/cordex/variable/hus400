@@ -3,8 +3,7 @@
     "canonical_name": "hus400", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hus400", 
-    "idx": 70, 
     "namespace": "wcrp:cordex:variable:hus400", 
     "status": "pending", 
-    "uid": "ec32d57b-cdf4-4ae5-afc4-206cdb53a118"
+    "uid": "e9cd7c79-ce0f-41da-8a8f-6e23eb4669e3"
 }

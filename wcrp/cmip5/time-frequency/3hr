@@ -3,8 +3,7 @@
     "canonical_name": "3hr", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "3hr", 
-    "idx": 0, 
     "namespace": "wcrp:cmip5:time-frequency:3hr", 
     "status": "pending", 
-    "uid": "0fa94988-4e00-4bb7-9f5a-2ba35357ab80"
+    "uid": "b82e8b25-daf7-443c-99f6-65fff3a0aad8"
 }

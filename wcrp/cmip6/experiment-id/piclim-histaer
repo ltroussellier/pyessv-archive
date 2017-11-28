@@ -30,7 +30,6 @@
         "tier": "2"
     }, 
     "description": "Time-varying forcing by aerosols. SST and sea ice fixed at preindustrial control. Interactive vegetation", 
-    "idx": 236, 
     "label": "piClim-histaer", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-histaer", 
     "raw_name": "piClim-histaer", 

@@ -3,8 +3,7 @@
     "canonical_name": "vsi", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "vsi", 
-    "idx": 567, 
     "namespace": "wcrp:cmip5:variable:vsi", 
     "status": "pending", 
-    "uid": "d5064232-7b69-42c8-aa45-c632885fc48c"
+    "uid": "c18ab62b-b446-4a75-b967-af4185bb2612"
 }

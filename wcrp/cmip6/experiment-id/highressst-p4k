@@ -29,7 +29,6 @@
         "tier": "3"
     }, 
     "description": "Similar to CFMIP amip-p4K, add a uniform warming of 4K to highresSST-present SSTs and run the experiment parallel to highresSST-present", 
-    "idx": 200, 
     "label": "highresSST-p4K", 
     "namespace": "wcrp:cmip6:experiment-id:highressst-p4k", 
     "raw_name": "highresSST-p4K", 

@@ -30,7 +30,6 @@
         "tier": "2"
     }, 
     "description": "Time slice at year 100 of G1ext to examine radiative forcing of abrupt4xCO2 and G1", 
-    "idx": 131, 
     "label": "futureSST-4xCO2-solar", 
     "namespace": "wcrp:cmip6:experiment-id:futuresst-4xco2-solar", 
     "raw_name": "futureSST-4xCO2-solar", 

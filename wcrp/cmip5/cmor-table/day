@@ -3,8 +3,7 @@
     "canonical_name": "day", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "day", 
-    "idx": 16, 
     "namespace": "wcrp:cmip5:cmor-table:day", 
     "status": "pending", 
-    "uid": "3745a23c-e98f-42f1-9e57-a53627e57db1"
+    "uid": "bb2da5e4-0df1-496c-8a89-f456ca5e68ab"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "rlutcs", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rlutcs", 
-    "idx": 390, 
     "namespace": "wcrp:cmip5:variable:rlutcs", 
     "status": "pending", 
-    "uid": "3c8abd10-e217-45bf-a4b3-e3636b3b3015"
+    "uid": "95d56b5d-aaeb-4322-9cd6-a4f0dd0112a0"
 }

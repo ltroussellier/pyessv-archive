@@ -3,8 +3,7 @@
     "canonical_name": "rlut", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rlut", 
-    "idx": 102, 
     "namespace": "wcrp:cordex:variable:rlut", 
     "status": "pending", 
-    "uid": "3ddced45-e158-4c76-951b-82a968f498bf"
+    "uid": "52688bd6-7429-454c-8069-da1a39cd0ea3"
 }

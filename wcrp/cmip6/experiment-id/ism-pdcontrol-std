@@ -29,7 +29,6 @@
         "tier": "1"
     }, 
     "description": "Present-day control simulation for \"offline\" ice sheets", 
-    "idx": 94, 
     "label": "ism-pdControl-std", 
     "namespace": "wcrp:cmip6:experiment-id:ism-pdcontrol-std", 
     "raw_name": "ism-pdControl-std", 

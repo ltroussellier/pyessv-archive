@@ -31,7 +31,6 @@
         "tier": "2"
     }, 
     "description": "DECK: spin-up portion of the control", 
-    "idx": 141, 
     "label": "piControl-spinup", 
     "namespace": "wcrp:cmip6:experiment-id:picontrol-spinup", 
     "raw_name": "piControl-spinup", 

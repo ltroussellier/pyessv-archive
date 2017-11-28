@@ -3,8 +3,7 @@
     "canonical_name": "slw", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "slw", 
-    "idx": 114, 
     "namespace": "wcrp:cordex:variable:slw", 
     "status": "pending", 
-    "uid": "137643f9-ab39-4b67-bc5a-ddae70b0e57e"
+    "uid": "e7a60c41-9628-4a6a-8008-498bb5a8ac61"
 }

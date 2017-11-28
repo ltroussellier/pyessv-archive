@@ -3,8 +3,7 @@
     "canonical_name": "prw", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "prw", 
-    "idx": 350, 
     "namespace": "wcrp:cmip5:variable:prw", 
     "status": "pending", 
-    "uid": "ca50791f-1b45-4652-8a16-74adefd46cbb"
+    "uid": "bdf602bf-1f61-4b23-b940-54ae98eaf88a"
 }

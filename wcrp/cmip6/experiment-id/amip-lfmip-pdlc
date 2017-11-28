@@ -31,7 +31,6 @@
         "tier": "2"
     }, 
     "description": "Prescribed land conditions 1980-2014 climate; AMIP SSTs", 
-    "idx": 25, 
     "label": "amip-lfmip-pdLC", 
     "namespace": "wcrp:cmip6:experiment-id:amip-lfmip-pdlc", 
     "raw_name": "amip-lfmip-pdLC", 

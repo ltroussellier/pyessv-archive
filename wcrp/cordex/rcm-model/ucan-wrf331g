@@ -3,10 +3,9 @@
     "canonical_name": "ucan-wrf331g", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "UCAN-WRF331G", 
-    "idx": 37, 
     "label": "UCAN-WRF331G", 
     "namespace": "wcrp:cordex:rcm-model:ucan-wrf331g", 
     "raw_name": "UCAN-WRF331G", 
     "status": "pending", 
-    "uid": "f6ccaed2-c183-4ed4-93c9-301bd7a268aa"
+    "uid": "0afb17da-a5c2-444d-bf1f-d9ff42d31b35"
 }

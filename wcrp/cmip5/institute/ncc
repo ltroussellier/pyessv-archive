@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "ncc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 62, 
     "label": "NCC", 
     "namespace": "wcrp:cmip5:institute:ncc", 
     "raw_name": "NCC", 
     "status": "pending", 
-    "uid": "8e643b37-9d49-4865-a599-ba2792806826"
+    "uid": "19aa7f24-6b49-4596-845b-ec39813cacff"
 }

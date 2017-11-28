@@ -3,10 +3,9 @@
     "canonical_name": "historicalghg", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Historical with well-mixed greenhouse gases only", 
-    "idx": 74, 
     "label": "historicalGHG", 
     "namespace": "wcrp:cmip5:experiment:historicalghg", 
     "raw_name": "historicalGHG", 
     "status": "pending", 
-    "uid": "933f9a5f-18a8-417c-abc4-edf3f83543d1"
+    "uid": "534e3aa0-b241-4675-aea1-23ee6a521964"
 }

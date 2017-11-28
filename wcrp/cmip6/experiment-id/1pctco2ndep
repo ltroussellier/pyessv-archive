@@ -31,7 +31,6 @@
         "tier": "2"
     }, 
     "description": "Fully-coupled specified concentration simulation in which CO2 increases at a rate of 1% per year until quadrupling, plus an additional scenario of anthropogenic nitrogen deposition", 
-    "idx": 177, 
     "label": "1pctCO2Ndep", 
     "namespace": "wcrp:cmip6:experiment-id:1pctco2ndep", 
     "raw_name": "1pctCO2Ndep", 

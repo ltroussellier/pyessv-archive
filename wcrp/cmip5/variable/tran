@@ -3,8 +3,7 @@
     "canonical_name": "tran", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tran", 
-    "idx": 531, 
     "namespace": "wcrp:cmip5:variable:tran", 
     "status": "pending", 
-    "uid": "ac9b51b0-d108-4663-a9f6-e0903e1ac145"
+    "uid": "d4052964-b81c-4608-83f7-6798abcd5f9d"
 }

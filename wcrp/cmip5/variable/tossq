@@ -3,8 +3,7 @@
     "canonical_name": "tossq", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tossq", 
-    "idx": 530, 
     "namespace": "wcrp:cmip5:variable:tossq", 
     "status": "pending", 
-    "uid": "893a8f89-9974-47b4-8c73-7a9ec074aede"
+    "uid": "38fb4e0e-221d-4bd8-aebe-c20e230befc7"
 }

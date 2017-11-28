@@ -3,8 +3,7 @@
     "canonical_name": "cldnci", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cldnci", 
-    "idx": 61, 
     "namespace": "wcrp:cmip5:variable:cldnci", 
     "status": "pending", 
-    "uid": "178d7ed1-9ea6-4653-b8b4-cf5d4816fc32"
+    "uid": "3f985fb7-ce41-4c6a-8014-29f75d511e79"
 }

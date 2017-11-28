@@ -3,8 +3,7 @@
     "canonical_name": "intpp", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "intpp", 
-    "idx": 255, 
     "namespace": "wcrp:cmip5:variable:intpp", 
     "status": "pending", 
-    "uid": "bbd31fac-10b9-47ef-9cc8-0309a29ce197"
+    "uid": "55f5a424-d583-43ba-8f2b-27d11e6e5a0a"
 }

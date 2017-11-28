@@ -3,8 +3,7 @@
     "canonical_name": "fsitherm", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fsitherm", 
-    "idx": 201, 
     "namespace": "wcrp:cmip5:variable:fsitherm", 
     "status": "pending", 
-    "uid": "bd0fe852-8739-4036-aa0e-7323616ed437"
+    "uid": "7b163500-00c2-4a7a-ba84-5685ceaf14b6"
 }

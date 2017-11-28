@@ -3,10 +3,9 @@
     "canonical_name": "dmi", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "DMI", 
-    "idx": 11, 
     "label": "DMI", 
     "namespace": "wcrp:cordex:institute:dmi", 
     "raw_name": "DMI", 
     "status": "pending", 
-    "uid": "b2290070-ca2d-4f9e-99b8-077764bdfd6f"
+    "uid": "ae76eec7-9507-4497-944c-a5a1083cc093"
 }

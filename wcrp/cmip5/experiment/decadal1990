@@ -3,8 +3,7 @@
     "canonical_name": "decadal1990", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "10- or 30-year run initialized in year 1990", 
-    "idx": 40, 
     "namespace": "wcrp:cmip5:experiment:decadal1990", 
     "status": "pending", 
-    "uid": "d9526d2a-b54b-40c6-bf14-297891bd1f03"
+    "uid": "beb86226-9ed6-43f9-ad5c-b7ec364adc18"
 }

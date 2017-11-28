@@ -3,10 +3,9 @@
     "canonical_name": "cfoff", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cfOff", 
-    "idx": 14, 
     "label": "cfOff", 
     "namespace": "wcrp:cmip5:cmor-table:cfoff", 
     "raw_name": "cfOff", 
     "status": "pending", 
-    "uid": "e5331271-1677-4393-8184-f9d48a7e8da4"
+    "uid": "8f68286e-d856-498c-a381-c883f7cebbef"
 }

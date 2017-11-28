@@ -3,8 +3,7 @@
     "canonical_name": "intppico", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "intppico", 
-    "idx": 256, 
     "namespace": "wcrp:cmip5:variable:intppico", 
     "status": "pending", 
-    "uid": "1fdd8318-a488-4f02-8cab-c1cad347d29b"
+    "uid": "0c8dd451-c603-4c1a-9b99-136b4a64dde2"
 }

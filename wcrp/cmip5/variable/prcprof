@@ -3,8 +3,7 @@
     "canonical_name": "prcprof", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "prcprof", 
-    "idx": 344, 
     "namespace": "wcrp:cmip5:variable:prcprof", 
     "status": "pending", 
-    "uid": "817050cc-a578-418b-9334-9d3253d3d0d4"
+    "uid": "93921d7e-ef5b-4019-82de-347aa4d40a6b"
 }

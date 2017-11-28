@@ -3,8 +3,7 @@
     "canonical_name": "wfcorr", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "wfcorr", 
-    "idx": 580, 
     "namespace": "wcrp:cmip5:variable:wfcorr", 
     "status": "pending", 
-    "uid": "778b9665-1116-4eb9-a736-4415337afd74"
+    "uid": "7def26fd-be2b-45a2-822e-b93fe2f3c5c3"
 }

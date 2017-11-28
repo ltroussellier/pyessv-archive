@@ -3,7 +3,6 @@
     "canonical_name": "atmos", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Atmosphere", 
-    "idx": 5, 
     "namespace": "wcrp:cmip6:realm:atmos", 
     "status": "pending", 
     "uid": "2f9f1390-2f49-46a1-8a42-604758fa7e23"

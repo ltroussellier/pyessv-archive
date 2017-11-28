@@ -3,8 +3,7 @@
     "canonical_name": "ps", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ps", 
-    "idx": 98, 
     "namespace": "wcrp:cordex:variable:ps", 
     "status": "pending", 
-    "uid": "6bd2c35a-1b92-4d42-b13b-b18695b0fefd"
+    "uid": "f4b2cb24-bce6-459d-b6a3-4eeb92c534cc"
 }

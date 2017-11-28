@@ -50,7 +50,6 @@
         "release_year": "2016", 
         "source_id": "VRESM-1-0"
     }, 
-    "idx": 55, 
     "label": "VRESM 1.0", 
     "namespace": "wcrp:cmip6:source-id:vresm-1-0", 
     "raw_name": "VRESM-1-0", 

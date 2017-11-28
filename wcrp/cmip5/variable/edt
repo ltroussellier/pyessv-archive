@@ -3,8 +3,7 @@
     "canonical_name": "edt", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "edt", 
-    "idx": 136, 
     "namespace": "wcrp:cmip5:variable:edt", 
     "status": "pending", 
-    "uid": "5106ca3f-46d3-4f2f-bb47-37accdfa5135"
+    "uid": "fd884ac0-d8d2-4685-9a1c-5a575233c0ff"
 }

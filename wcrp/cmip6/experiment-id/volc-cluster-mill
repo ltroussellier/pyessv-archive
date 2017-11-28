@@ -31,7 +31,6 @@
         "tier": "3"
     }, 
     "description": "Parallel experiment to volc-cluster-ctrl but with initial conditions taken from last millennium simulation to account for the effects of a more realistic history of past natural forcing. All forcings except volcanic kept constant from year AD 1790 on", 
-    "idx": 134, 
     "namespace": "wcrp:cmip6:experiment-id:volc-cluster-mill", 
     "status": "pending", 
     "uid": "54442cb5-876a-4dcb-aba2-1d3a4b7741ee"

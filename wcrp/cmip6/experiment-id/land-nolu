@@ -29,7 +29,6 @@
         "tier": "1"
     }, 
     "description": "Same as land-hist except no land-use change", 
-    "idx": 239, 
     "label": "land-noLu", 
     "namespace": "wcrp:cmip6:experiment-id:land-nolu", 
     "raw_name": "land-noLu", 

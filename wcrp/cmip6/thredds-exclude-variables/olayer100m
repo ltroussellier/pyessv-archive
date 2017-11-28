@@ -3,8 +3,7 @@
     "canonical_name": "olayer100m", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "olayer100m", 
-    "idx": 33, 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:olayer100m", 
     "status": "pending", 
-    "uid": "adf9c6a1-546e-4175-87b9-ef19c65fb81c"
+    "uid": "4727c3e5-31b6-4868-ad6e-a529e74e340d"
 }

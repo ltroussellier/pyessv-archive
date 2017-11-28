@@ -3,8 +3,7 @@
     "canonical_name": "loadnh4", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "loadnh4", 
-    "idx": 261, 
     "namespace": "wcrp:cmip5:variable:loadnh4", 
     "status": "pending", 
-    "uid": "902ae969-00f2-4148-b43d-f9efb7e5e80c"
+    "uid": "cd4aa4be-9e63-47a8-81f4-1e4a7f2fd8d6"
 }

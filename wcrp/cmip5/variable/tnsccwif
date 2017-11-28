@@ -3,8 +3,7 @@
     "canonical_name": "tnsccwif", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tnsccwif", 
-    "idx": 490, 
     "namespace": "wcrp:cmip5:variable:tnsccwif", 
     "status": "pending", 
-    "uid": "107f899f-681b-4306-bee7-fe87f0ee1d53"
+    "uid": "48ebd068-faa8-417a-bdb3-a46302891809"
 }

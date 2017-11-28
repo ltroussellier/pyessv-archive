@@ -31,7 +31,6 @@
         "tier": "1"
     }, 
     "description": "CMIP6 historical (CO2 emission-driven)", 
-    "idx": 168, 
     "namespace": "wcrp:cmip6:experiment-id:esm-hist", 
     "status": "pending", 
     "uid": "099d5628-6724-4194-841b-46cc999ca4d2"

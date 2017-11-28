@@ -3,8 +3,7 @@
     "canonical_name": "a", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "a", 
-    "idx": 0, 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:a", 
     "status": "pending", 
-    "uid": "5fccdc4e-a2d2-4998-a4c9-d99679c3c86f"
+    "uid": "ccc9bccd-2a3b-4fb8-82df-290d9ada8928"
 }

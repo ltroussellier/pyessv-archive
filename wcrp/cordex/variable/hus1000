@@ -3,8 +3,7 @@
     "canonical_name": "hus1000", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hus1000", 
-    "idx": 67, 
     "namespace": "wcrp:cordex:variable:hus1000", 
     "status": "pending", 
-    "uid": "e59a93b4-3ad0-4f80-a61d-196f1b939cc6"
+    "uid": "3016efb6-db87-4755-849a-8c3c6b046032"
 }

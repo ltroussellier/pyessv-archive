@@ -31,7 +31,6 @@
         "tier": "3"
     }, 
     "description": "Historical ALL forcing run with alternates estimate of solar and volcanic forcing", 
-    "idx": 183, 
     "namespace": "wcrp:cmip6:experiment-id:hist-all-nat2", 
     "status": "pending", 
     "uid": "d58fe3c8-f10c-4e1c-b16f-06b02614da96"

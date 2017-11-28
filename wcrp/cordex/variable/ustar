@@ -3,8 +3,7 @@
     "canonical_name": "ustar", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ustar", 
-    "idx": 163, 
     "namespace": "wcrp:cordex:variable:ustar", 
     "status": "pending", 
-    "uid": "4fe77280-90bf-4142-915f-6bc1ee9d737e"
+    "uid": "f7fc3b6b-91a6-4cb1-bfa1-27f35de8a8c7"
 }

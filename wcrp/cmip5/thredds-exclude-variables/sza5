@@ -3,8 +3,7 @@
     "canonical_name": "sza5", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sza5", 
-    "idx": 53, 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:sza5", 
     "status": "pending", 
-    "uid": "884d6f21-d2b3-4371-b1c8-03d08639e7a6"
+    "uid": "6aed363b-44ca-46a6-b528-87a5df233423"
 }

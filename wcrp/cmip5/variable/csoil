@@ -3,10 +3,9 @@
     "canonical_name": "csoil", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cSoil", 
-    "idx": 31, 
     "label": "cSoil", 
     "namespace": "wcrp:cmip5:variable:csoil", 
     "raw_name": "cSoil", 
     "status": "pending", 
-    "uid": "3a56a785-5c9f-4355-8eb2-e31b230898f5"
+    "uid": "0637b8cd-3faf-4e63-bc01-39e51f2234ce"
 }

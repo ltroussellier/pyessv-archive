@@ -3,10 +3,9 @@
     "canonical_name": "mpi-csc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "MPI-CSC", 
-    "idx": 23, 
     "label": "MPI-CSC", 
     "namespace": "wcrp:cordex:institute:mpi-csc", 
     "raw_name": "MPI-CSC", 
     "status": "pending", 
-    "uid": "e5cdc78a-8cf3-43d4-818b-24db31a4cbd6"
+    "uid": "0f2ddebb-20d3-46ef-bac8-0897b89a27ea"
 }

@@ -3,10 +3,9 @@
     "canonical_name": "cfadlidarsr532", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cfadLidarsr532", 
-    "idx": 42, 
     "label": "cfadLidarsr532", 
     "namespace": "wcrp:cmip5:variable:cfadlidarsr532", 
     "raw_name": "cfadLidarsr532", 
     "status": "pending", 
-    "uid": "c9a64cda-803d-4154-8c3d-deced68e60c8"
+    "uid": "da29b884-0f8c-4f16-8f04-e69016da377d"
 }

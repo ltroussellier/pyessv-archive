@@ -3,8 +3,7 @@
     "canonical_name": "sos", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sos", 
-    "idx": 451, 
     "namespace": "wcrp:cmip5:variable:sos", 
     "status": "pending", 
-    "uid": "7ac5e5c2-3370-4024-8680-a984328f0e38"
+    "uid": "750788ac-a967-4e84-aea4-0a23d39a331e"
 }

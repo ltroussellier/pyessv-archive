@@ -3,10 +3,9 @@
     "canonical_name": "lev-bnds", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "lev_bnds", 
-    "idx": 26, 
     "label": "lev_bnds", 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:lev-bnds", 
     "raw_name": "lev_bnds", 
     "status": "pending", 
-    "uid": "065b9e98-0e45-470e-b60b-374b3f59b707"
+    "uid": "9e46f0da-fb23-432e-9185-b2dd619877df"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "cltcalipso", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cltcalipso", 
-    "idx": 75, 
     "namespace": "wcrp:cmip5:variable:cltcalipso", 
     "status": "pending", 
-    "uid": "93dfca0b-1e18-417b-b72e-0e4f8efdb6c8"
+    "uid": "7a740bae-f350-43d4-a145-706b8f90b253"
 }

@@ -3,10 +3,9 @@
     "canonical_name": "cfday", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cfDay", 
-    "idx": 12, 
     "label": "cfDay", 
     "namespace": "wcrp:cmip5:cmor-table:cfday", 
     "raw_name": "cfDay", 
     "status": "pending", 
-    "uid": "29af4391-afa0-4905-9600-a3fdaaf9ef91"
+    "uid": "2a2ec8c4-cffc-4c44-b729-e75bd65e234c"
 }

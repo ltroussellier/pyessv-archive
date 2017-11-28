@@ -31,7 +31,6 @@
         "tier": "1"
     }, 
     "description": "As volc-pinatubo-full, but with prescribed perturbation to the shortwave flux to mimic the attenuation of solar radiation by volcanic aerosols", 
-    "idx": 108, 
     "namespace": "wcrp:cmip6:experiment-id:volc-pinatubo-surf", 
     "status": "pending", 
     "uid": "79cbf8bc-8a20-40b6-93dc-a46b56ee1af0"

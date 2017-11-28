@@ -3,8 +3,7 @@
     "canonical_name": "fsfe", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fsfe", 
-    "idx": 200, 
     "namespace": "wcrp:cmip5:variable:fsfe", 
     "status": "pending", 
-    "uid": "2ebccb26-126f-4bd9-8de6-fd58409cffd2"
+    "uid": "299fc844-487e-458e-b58c-e4860b3f756a"
 }

@@ -52,7 +52,6 @@
         "release_year": "2017", 
         "source_id": "ICON-ESM-LR"
     }, 
-    "idx": 35, 
     "label": "ICON-ESM-LR", 
     "namespace": "wcrp:cmip6:source-id:icon-esm-lr", 
     "raw_name": "ICON-ESM-LR", 

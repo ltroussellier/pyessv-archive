@@ -3,8 +3,7 @@
     "canonical_name": "sic", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sic", 
-    "idx": 112, 
     "namespace": "wcrp:cordex:variable:sic", 
     "status": "pending", 
-    "uid": "dca8d3f7-8049-425e-a736-eda2af6387ff"
+    "uid": "5002e4a7-5981-4ce3-8150-aabbedbbf8c1"
 }

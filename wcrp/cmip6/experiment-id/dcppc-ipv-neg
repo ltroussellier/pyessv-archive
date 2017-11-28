@@ -31,7 +31,6 @@
         "tier": "1"
     }, 
     "description": "C1.6 Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs", 
-    "idx": 124, 
     "label": "dcppC-ipv-neg", 
     "namespace": "wcrp:cmip6:experiment-id:dcppc-ipv-neg", 
     "raw_name": "dcppC-ipv-neg", 

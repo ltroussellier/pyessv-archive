@@ -3,8 +3,7 @@
     "canonical_name": "prls", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "prls", 
-    "idx": 95, 
     "namespace": "wcrp:cordex:variable:prls", 
     "status": "pending", 
-    "uid": "52077b58-dfd6-4b21-ac6d-5b1f19ce1d83"
+    "uid": "c59dd2c8-6dd2-4a56-b87a-d4bdb1f7665f"
 }

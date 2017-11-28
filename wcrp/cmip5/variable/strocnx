@@ -3,8 +3,7 @@
     "canonical_name": "strocnx", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "strocnx", 
-    "idx": 457, 
     "namespace": "wcrp:cmip5:variable:strocnx", 
     "status": "pending", 
-    "uid": "d0c6d4e9-1d07-4527-87a7-fd1ea101c67b"
+    "uid": "23ef72a1-189b-477b-bb43-ebfef81e9f7b"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "clc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "clc", 
-    "idx": 58, 
     "namespace": "wcrp:cmip5:variable:clc", 
     "status": "pending", 
-    "uid": "74ca2d9f-c5ad-43ba-a444-e3ceba1a87db"
+    "uid": "ba8be661-7bac-46c0-b2f4-e685fc12e411"
 }

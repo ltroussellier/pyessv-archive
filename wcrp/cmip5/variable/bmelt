@@ -3,8 +3,7 @@
     "canonical_name": "bmelt", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "bmelt", 
-    "idx": 18, 
     "namespace": "wcrp:cmip5:variable:bmelt", 
     "status": "pending", 
-    "uid": "fa71d276-5702-43a5-81a0-95adbf080175"
+    "uid": "f03f44c9-5705-4ff8-a535-7838acbc704a"
 }

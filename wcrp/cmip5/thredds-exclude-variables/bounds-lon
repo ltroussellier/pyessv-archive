@@ -3,10 +3,9 @@
     "canonical_name": "bounds-lon", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "bounds_lon", 
-    "idx": 10, 
     "label": "bounds_lon", 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:bounds-lon", 
     "raw_name": "bounds_lon", 
     "status": "pending", 
-    "uid": "a5f9e3e8-2259-44bb-b3e5-c5a8831a6696"
+    "uid": "8d79af12-c252-4fd1-9ef2-0d39f55236d7"
 }

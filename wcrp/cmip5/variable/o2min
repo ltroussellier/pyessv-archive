@@ -3,8 +3,7 @@
     "canonical_name": "o2min", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "o2min", 
-    "idx": 305, 
     "namespace": "wcrp:cmip5:variable:o2min", 
     "status": "pending", 
-    "uid": "5fc68901-de33-48fb-b631-33c8d4770f42"
+    "uid": "e7b5dd64-3deb-4a92-a422-b37f6b3e9f93"
 }

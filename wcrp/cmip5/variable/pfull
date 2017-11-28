@@ -3,8 +3,7 @@
     "canonical_name": "pfull", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "pfull", 
-    "idx": 322, 
     "namespace": "wcrp:cmip5:variable:pfull", 
     "status": "pending", 
-    "uid": "55b74ebd-5441-4e03-a5a7-1debfad41924"
+    "uid": "795cca2c-ecfa-4425-ae5d-7dada9e3e233"
 }

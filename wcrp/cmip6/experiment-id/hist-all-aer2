@@ -31,7 +31,6 @@
         "tier": "3"
     }, 
     "description": "Historical ALL forcing run with alternate estimates of aerosol concentrations/emissions", 
-    "idx": 34, 
     "namespace": "wcrp:cmip6:experiment-id:hist-all-aer2", 
     "status": "pending", 
     "uid": "8361cd3e-9072-460e-b987-95e0b77b1802"

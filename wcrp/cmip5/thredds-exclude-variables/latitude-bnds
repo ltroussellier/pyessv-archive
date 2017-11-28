@@ -3,10 +3,9 @@
     "canonical_name": "latitude-bnds", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "latitude_bnds", 
-    "idx": 23, 
     "label": "latitude_bnds", 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:latitude-bnds", 
     "raw_name": "latitude_bnds", 
     "status": "pending", 
-    "uid": "d0a61156-aa4d-4a60-bbd4-848974fb8f1a"
+    "uid": "59f8132b-ce91-4cb7-a93e-38bd43fafad2"
 }

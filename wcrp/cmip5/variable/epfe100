@@ -3,8 +3,7 @@
     "canonical_name": "epfe100", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "epfe100", 
-    "idx": 150, 
     "namespace": "wcrp:cmip5:variable:epfe100", 
     "status": "pending", 
-    "uid": "cb5e51aa-2f2d-4ba2-85e3-5d56741514c8"
+    "uid": "c042b126-71cc-4fde-9218-356b477f61be"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "tauvo", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tauvo", 
-    "idx": 472, 
     "namespace": "wcrp:cmip5:variable:tauvo", 
     "status": "pending", 
-    "uid": "9d250b74-b94c-4f3a-ba62-6530e5ffc9f7"
+    "uid": "05df0b95-2c8b-4330-ae54-ff00cff4048d"
 }

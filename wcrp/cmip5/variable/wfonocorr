@@ -3,8 +3,7 @@
     "canonical_name": "wfonocorr", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "wfonocorr", 
-    "idx": 582, 
     "namespace": "wcrp:cmip5:variable:wfonocorr", 
     "status": "pending", 
-    "uid": "a4b334a0-64f5-4b63-82e6-746bd2021318"
+    "uid": "47cc8257-cc2e-45d4-a3f1-ea7e39cb2fac"
 }

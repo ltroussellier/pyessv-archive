@@ -3,8 +3,7 @@
     "canonical_name": "sblsi", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sblsi", 
-    "idx": 417, 
     "namespace": "wcrp:cmip5:variable:sblsi", 
     "status": "pending", 
-    "uid": "ad9abba0-30da-4019-bb4d-df43dbd5637e"
+    "uid": "bdd61183-90db-4506-be15-f319562cb334"
 }

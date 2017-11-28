@@ -3,10 +3,9 @@
     "canonical_name": "gfdl-cm3", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "GFDL-CM3", 
-    "idx": 30, 
     "label": "GFDL-CM3", 
     "namespace": "wcrp:cmip5:model:gfdl-cm3", 
     "raw_name": "GFDL-CM3", 
     "status": "pending", 
-    "uid": "e682d729-7605-4c3b-aa95-cc47089afea9"
+    "uid": "4da61f60-0f23-4e16-aa91-c5f9314fd1a2"
 }

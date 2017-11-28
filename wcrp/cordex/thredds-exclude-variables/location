@@ -3,8 +3,7 @@
     "canonical_name": "location", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "location", 
-    "idx": 31, 
     "namespace": "wcrp:cordex:thredds-exclude-variables:location", 
     "status": "pending", 
-    "uid": "8e9954e8-592e-4fb3-80ca-8acbe39cef01"
+    "uid": "4e7ac20b-e783-448b-a67d-9640dfdaa222"
 }

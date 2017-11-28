@@ -31,7 +31,6 @@
         "tier": "2"
     }, 
     "description": "Biogeochemically-coupled specified concentration simulation in which CO2 increases at a rate of 1% per year until quadrupling, plus an additional scenario of anthropogenic nitrogen deposition", 
-    "idx": 39, 
     "label": "1pctCO2Ndep-bgc", 
     "namespace": "wcrp:cmip6:experiment-id:1pctco2ndep-bgc", 
     "raw_name": "1pctCO2Ndep-bgc", 

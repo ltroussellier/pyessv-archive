@@ -3,10 +3,9 @@
     "canonical_name": "idl", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "IDL", 
-    "idx": 16, 
     "label": "IDL", 
     "namespace": "wcrp:cordex:institute:idl", 
     "raw_name": "IDL", 
     "status": "pending", 
-    "uid": "e9008cf9-4da5-4df0-afbd-31c5face0729"
+    "uid": "b51dd4a3-6af7-485f-9dd6-b7cf0efc59cd"
 }

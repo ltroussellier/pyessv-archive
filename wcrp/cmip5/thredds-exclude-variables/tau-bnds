@@ -3,10 +3,9 @@
     "canonical_name": "tau-bnds", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tau_bnds", 
-    "idx": 55, 
     "label": "tau_bnds", 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:tau-bnds", 
     "raw_name": "tau_bnds", 
     "status": "pending", 
-    "uid": "923c5e5f-4c72-421d-b149-ffd9950ce76d"
+    "uid": "6afdb29b-5c95-41c0-b685-c018cc6d6242"
 }

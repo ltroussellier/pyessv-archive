@@ -3,10 +3,9 @@
     "canonical_name": "smhi-rca4-sn", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "SMHI-RCA4-SN", 
-    "idx": 34, 
     "label": "SMHI-RCA4-SN", 
     "namespace": "wcrp:cordex:rcm-model:smhi-rca4-sn", 
     "raw_name": "SMHI-RCA4-SN", 
     "status": "pending", 
-    "uid": "6e60b0da-595a-49d1-89c6-784282f9729b"
+    "uid": "da9d5f78-2c34-4004-995c-01b032f2a254"
 }

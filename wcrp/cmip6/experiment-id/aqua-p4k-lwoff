@@ -30,7 +30,6 @@
         "tier": "2"
     }, 
     "description": "As aqua-p4K experiment, but with cloud-radiative effects switched off in the LW radiation code", 
-    "idx": 238, 
     "label": "aqua-p4K-lwoff", 
     "namespace": "wcrp:cmip6:experiment-id:aqua-p4k-lwoff", 
     "raw_name": "aqua-p4K-lwoff", 

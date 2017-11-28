@@ -51,7 +51,6 @@
         "release_year": "2017", 
         "source_id": "BCC-ESM1"
     }, 
-    "idx": 72, 
     "label": "BCC-ESM 1", 
     "namespace": "wcrp:cmip6:source-id:bcc-esm1", 
     "raw_name": "BCC-ESM1", 

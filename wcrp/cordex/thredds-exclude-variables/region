@@ -3,8 +3,7 @@
     "canonical_name": "region", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "region", 
-    "idx": 54, 
     "namespace": "wcrp:cordex:thredds-exclude-variables:region", 
     "status": "pending", 
-    "uid": "ee565fd3-a2ff-46f2-b28b-2e1117b5e2af"
+    "uid": "2b5711bc-7532-43c3-81c5-0db39457254c"
 }

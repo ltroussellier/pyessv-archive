@@ -50,7 +50,6 @@
         "release_year": "1989", 
         "source_id": "PCMDI-test-1-0"
     }, 
-    "idx": 47, 
     "label": "PCMDI-test 1.0", 
     "namespace": "wcrp:cmip6:source-id:pcmdi-test-1-0", 
     "raw_name": "PCMDI-test-1-0", 

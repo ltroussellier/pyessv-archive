@@ -31,7 +31,6 @@
         "tier": "2"
     }, 
     "description": "Prescribed land conditions 30yr running mean; AMIP SSTs", 
-    "idx": 43, 
     "label": "amip-lfmip-rmLC", 
     "namespace": "wcrp:cmip6:experiment-id:amip-lfmip-rmlc", 
     "raw_name": "amip-lfmip-rmLC", 

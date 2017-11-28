@@ -52,7 +52,6 @@
         "release_year": "2017", 
         "source_id": "CNRM-ESM2-1-HR"
     }, 
-    "idx": 17, 
     "label": "CNRM-ESM2-1-HR", 
     "namespace": "wcrp:cmip6:source-id:cnrm-esm2-1-hr", 
     "raw_name": "CNRM-ESM2-1-HR", 

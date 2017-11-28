@@ -3,8 +3,7 @@
     "canonical_name": "phyp", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "phyp", 
-    "idx": 332, 
     "namespace": "wcrp:cmip5:variable:phyp", 
     "status": "pending", 
-    "uid": "75d40d34-e669-4c78-a3ac-8951e494a162"
+    "uid": "a0113dea-198c-4945-8efe-b1e4fa154664"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "b", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "b", 
-    "idx": 6, 
     "namespace": "wcrp:cordex:thredds-exclude-variables:b", 
     "status": "pending", 
-    "uid": "910c1545-6cfd-42d2-b3ab-0f639a5cca38"
+    "uid": "4c52d532-fac8-4ddb-bdba-2afc2280deba"
 }

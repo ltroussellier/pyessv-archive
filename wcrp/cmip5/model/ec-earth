@@ -3,10 +3,9 @@
     "canonical_name": "ec-earth", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "EC-EARTH", 
-    "idx": 23, 
     "label": "EC-EARTH", 
     "namespace": "wcrp:cmip5:model:ec-earth", 
     "raw_name": "EC-EARTH", 
     "status": "pending", 
-    "uid": "1877ff73-1295-43fe-9761-fd40a885a414"
+    "uid": "775d375b-a405-4997-9d11-bf0193c18110"
 }

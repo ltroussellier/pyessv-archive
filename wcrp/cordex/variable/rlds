@@ -3,8 +3,7 @@
     "canonical_name": "rlds", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rlds", 
-    "idx": 100, 
     "namespace": "wcrp:cordex:variable:rlds", 
     "status": "pending", 
-    "uid": "5d9887cf-4398-4266-9560-5695edd64338"
+    "uid": "08f73aa8-8cf8-486d-bdb0-33a6f4faffcb"
 }

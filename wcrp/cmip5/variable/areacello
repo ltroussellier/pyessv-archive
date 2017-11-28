@@ -3,8 +3,7 @@
     "canonical_name": "areacello", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "areacello", 
-    "idx": 7, 
     "namespace": "wcrp:cmip5:variable:areacello", 
     "status": "pending", 
-    "uid": "656464ae-989c-403c-b9f4-d12d653e4347"
+    "uid": "bed852f4-598f-4d9e-85fe-d04911ebefb9"
 }

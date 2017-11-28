@@ -3,8 +3,7 @@
     "canonical_name": "dms", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "dms", 
-    "idx": 117, 
     "namespace": "wcrp:cmip5:variable:dms", 
     "status": "pending", 
-    "uid": "6e2e4c94-0737-4bad-a885-60a38ba9181d"
+    "uid": "9651a1e6-a493-4344-87e3-fdc902119b08"
 }

@@ -30,7 +30,6 @@
         "tier": "2"
     }, 
     "description": "Land only simulations", 
-    "idx": 112, 
     "label": "land-hist-altLu2", 
     "namespace": "wcrp:cmip6:experiment-id:land-hist-altlu2", 
     "raw_name": "land-hist-altLu2", 

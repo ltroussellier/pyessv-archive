@@ -52,7 +52,6 @@
         "release_year": "2017", 
         "source_id": "EC-Earth3-Veg-LR"
     }, 
-    "idx": 56, 
     "label": "EC-Earth3-Veg-LR", 
     "namespace": "wcrp:cmip6:source-id:ec-earth3-veg-lr", 
     "raw_name": "EC-Earth3-Veg-LR", 

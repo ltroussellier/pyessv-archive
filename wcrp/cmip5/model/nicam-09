@@ -3,10 +3,9 @@
     "canonical_name": "nicam-09", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "NICAM-09", 
-    "idx": 60, 
     "label": "NICAM-09", 
     "namespace": "wcrp:cmip5:model:nicam-09", 
     "raw_name": "NICAM-09", 
     "status": "pending", 
-    "uid": "8503c803-f515-4216-8d3d-d945e22a5e13"
+    "uid": "d42ce297-c22a-4c4a-8fab-f8d1d2b10ad4"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "albisccp", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "albisccp", 
-    "idx": 3, 
     "namespace": "wcrp:cmip5:variable:albisccp", 
     "status": "pending", 
-    "uid": "08af1249-7a23-4299-a199-12aaf6d40678"
+    "uid": "956f62c4-7842-40c8-9f9a-57b19c662fe1"
 }

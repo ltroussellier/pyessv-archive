@@ -5,7 +5,6 @@
     "data": {
         "postal_address": "Chinese Academy of Sciences, Beijing 100029, China"
     }, 
-    "idx": 0, 
     "label": "CAS", 
     "namespace": "wcrp:cmip6:institution-id:cas", 
     "raw_name": "CAS", 

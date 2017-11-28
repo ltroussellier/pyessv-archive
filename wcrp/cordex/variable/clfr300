@@ -3,8 +3,7 @@
     "canonical_name": "clfr300", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "clfr300", 
-    "idx": 5, 
     "namespace": "wcrp:cordex:variable:clfr300", 
     "status": "pending", 
-    "uid": "ece7380a-0170-4075-87ab-26a09e1aba80"
+    "uid": "ffb5f944-5e11-4e84-839a-f817fde4d1b0"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "umo", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "umo", 
-    "idx": 552, 
     "namespace": "wcrp:cmip5:variable:umo", 
     "status": "pending", 
-    "uid": "5336fa03-f567-413a-9df9-348b70fd8b92"
+    "uid": "31ce109c-c8be-4e1c-8781-9c62d53ef547"
 }

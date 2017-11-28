@@ -3,8 +3,7 @@
     "canonical_name": "drypoa", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "drypoa", 
-    "idx": 128, 
     "namespace": "wcrp:cmip5:variable:drypoa", 
     "status": "pending", 
-    "uid": "27a8c86b-ea45-4616-bdf6-70ca5ab7dcdb"
+    "uid": "5dc82bbf-a98a-4f3a-bb6c-076dc38298db"
 }

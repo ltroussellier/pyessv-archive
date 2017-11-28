@@ -3,8 +3,7 @@
     "canonical_name": "hfsnthermds", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hfsnthermds", 
-    "idx": 227, 
     "namespace": "wcrp:cmip5:variable:hfsnthermds", 
     "status": "pending", 
-    "uid": "c62781b4-cb8a-412b-8cc0-fac1c2a78e03"
+    "uid": "0419cc77-ff37-4391-ba8d-6cec211ea1ac"
 }

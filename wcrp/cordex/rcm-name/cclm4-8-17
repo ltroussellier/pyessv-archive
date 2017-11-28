@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "cclm4-8-17", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 7, 
     "label": "CCLM4-8-17", 
     "namespace": "wcrp:cordex:rcm-name:cclm4-8-17", 
     "raw_name": "CCLM4-8-17", 
     "status": "pending", 
-    "uid": "51405e2b-9993-4f4e-b316-13ca9505f6df"
+    "uid": "282e043d-9855-4540-99d5-37a6b0b4619f"
 }

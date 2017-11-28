@@ -3,10 +3,9 @@
     "canonical_name": "hms", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "HMS", 
-    "idx": 14, 
     "label": "HMS", 
     "namespace": "wcrp:cordex:institute:hms", 
     "raw_name": "HMS", 
     "status": "pending", 
-    "uid": "c8608800-2b9f-4a54-b67d-6605e4372794"
+    "uid": "b9e1dc89-9b7a-4ae0-90e9-dc840f37f30b"
 }

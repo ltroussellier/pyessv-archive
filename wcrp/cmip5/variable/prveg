@@ -3,8 +3,7 @@
     "canonical_name": "prveg", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "prveg", 
-    "idx": 349, 
     "namespace": "wcrp:cmip5:variable:prveg", 
     "status": "pending", 
-    "uid": "162eb2a7-7558-4288-ae33-288f00a9af9f"
+    "uid": "fc19351f-942b-4293-818f-0a3c2e4da098"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "aclwdnt", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "aclwdnt", 
-    "idx": 0, 
     "namespace": "wcrp:cordex:variable:aclwdnt", 
     "status": "pending", 
-    "uid": "780b624a-fd94-4695-801b-ec0e5c5f8d1f"
+    "uid": "786cf21a-4d51-4b74-8071-2671700b05c7"
 }

@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "arpege52", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 10, 
     "label": "ARPEGE52", 
     "namespace": "wcrp:cordex:rcm-name:arpege52", 
     "raw_name": "ARPEGE52", 
     "status": "pending", 
-    "uid": "3d63b0ab-87b6-41a2-acc4-e972dd7870ff"
+    "uid": "cf7dd650-1a4c-4f55-947b-053843e47e07"
 }

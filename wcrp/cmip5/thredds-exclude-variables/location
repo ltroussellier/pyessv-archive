@@ -3,8 +3,7 @@
     "canonical_name": "location", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "location", 
-    "idx": 27, 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:location", 
     "status": "pending", 
-    "uid": "085d6ed5-84dc-4608-a09f-32ac45f0c2d0"
+    "uid": "8d8e7cd5-a0ff-4a1f-9c39-daea47768e81"
 }

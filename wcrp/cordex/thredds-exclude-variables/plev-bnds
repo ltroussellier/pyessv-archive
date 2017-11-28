@@ -3,10 +3,9 @@
     "canonical_name": "plev-bnds", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "plev_bnds", 
-    "idx": 51, 
     "label": "plev_bnds", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:plev-bnds", 
     "raw_name": "plev_bnds", 
     "status": "pending", 
-    "uid": "be12665a-b659-4b7f-be4d-34fe70c09e4c"
+    "uid": "53476a73-71b6-4ee8-a922-517d7dee8e0f"
 }

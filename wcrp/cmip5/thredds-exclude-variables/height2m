@@ -3,8 +3,7 @@
     "canonical_name": "height2m", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "height2m", 
-    "idx": 19, 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:height2m", 
     "status": "pending", 
-    "uid": "de5c9c72-2ab6-4ac9-ab47-697d54ae697a"
+    "uid": "356854fd-7fcc-4e3f-ab95-db9038f63f82"
 }

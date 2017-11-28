@@ -3,10 +3,9 @@
     "canonical_name": "treefracprimever", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "treeFracPrimEver", 
-    "idx": 537, 
     "label": "treeFracPrimEver", 
     "namespace": "wcrp:cmip5:variable:treefracprimever", 
     "raw_name": "treeFracPrimEver", 
     "status": "pending", 
-    "uid": "4fd89f97-4481-435d-8d06-1f066b3f26bf"
+    "uid": "250a0741-990c-45a5-8ed7-256dbdb58917"
 }

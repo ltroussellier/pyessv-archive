@@ -3,8 +3,7 @@
     "canonical_name": "tsn", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tsn", 
-    "idx": 547, 
     "namespace": "wcrp:cmip5:variable:tsn", 
     "status": "pending", 
-    "uid": "c9eb21b6-0e4d-407b-bd07-dfc2e886d04a"
+    "uid": "975c0df3-0328-4bdb-90ac-c193e1565205"
 }

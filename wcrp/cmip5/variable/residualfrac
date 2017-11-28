@@ -3,10 +3,9 @@
     "canonical_name": "residualfrac", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "residualFrac", 
-    "idx": 367, 
     "label": "residualFrac", 
     "namespace": "wcrp:cmip5:variable:residualfrac", 
     "raw_name": "residualFrac", 
     "status": "pending", 
-    "uid": "537dd80e-2b96-4e73-9053-075b2449e6b4"
+    "uid": "53308133-b1d0-4afe-b047-b8d7e225db2b"
 }

@@ -3,10 +3,9 @@
     "canonical_name": "esmhistorical", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ESM historical", 
-    "idx": 68, 
     "label": "esmHistorical", 
     "namespace": "wcrp:cmip5:experiment:esmhistorical", 
     "raw_name": "esmHistorical", 
     "status": "pending", 
-    "uid": "5bf4afc0-27b2-4c97-b28c-8efca7232358"
+    "uid": "e50fadc1-c553-4fa5-a1c4-6dbe359a7138"
 }

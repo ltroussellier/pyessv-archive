@@ -3,8 +3,7 @@
     "canonical_name": "pso", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "pso", 
-    "idx": 354, 
     "namespace": "wcrp:cmip5:variable:pso", 
     "status": "pending", 
-    "uid": "b0829ae7-8564-4cc6-8c2d-0eeb054427af"
+    "uid": "ef55a505-8bfc-4fa8-9db3-401c72eacfaf"
 }

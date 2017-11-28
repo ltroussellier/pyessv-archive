@@ -30,7 +30,6 @@
         "tier": "2"
     }, 
     "description": "Time-varying forcing by GHGs. SST and sea ice fixed at preindustrial control. Interactive vegetation", 
-    "idx": 29, 
     "label": "piClim-histghg", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-histghg", 
     "raw_name": "piClim-histghg", 

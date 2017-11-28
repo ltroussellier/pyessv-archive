@@ -3,8 +3,7 @@
     "canonical_name": "co2mmr", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "co2mmr", 
-    "idx": 84, 
     "namespace": "wcrp:cmip5:variable:co2mmr", 
     "status": "pending", 
-    "uid": "5591270c-f521-429b-9bad-6892b19b4fc8"
+    "uid": "086c81e5-fca9-491c-a594-f48452efcc67"
 }

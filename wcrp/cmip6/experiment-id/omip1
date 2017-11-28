@@ -29,7 +29,6 @@
         "tier": "1"
     }, 
     "description": "Global ocean - sea-ice coupled experiment forced with the Coordinated Ocean - ice Reference Experiments inter-annually varying atmospheric and river data sets for years 1948-2009. Initial ocean tracer fields are based on observations. All Priority=1 OMIP diagnostics are requested for all five cycles of the 62-year forcing to quantify drift. All OMIP diagnostics (Priority=1,2,3) are requested for the 5th cycle", 
-    "idx": 212, 
     "namespace": "wcrp:cmip6:experiment-id:omip1", 
     "status": "pending", 
     "uid": "7534835e-fe1e-4376-81b2-08d9a5abe6e2"

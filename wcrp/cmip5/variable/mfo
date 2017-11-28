@@ -3,8 +3,7 @@
     "canonical_name": "mfo", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "mfo", 
-    "idx": 274, 
     "namespace": "wcrp:cmip5:variable:mfo", 
     "status": "pending", 
-    "uid": "d48b3482-3097-48cf-932f-4d051c973167"
+    "uid": "6767ed8c-e588-4f69-95d3-9b199ff171b2"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "co3satcalc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "co3satcalc", 
-    "idx": 87, 
     "namespace": "wcrp:cmip5:variable:co3satcalc", 
     "status": "pending", 
-    "uid": "305c3144-0f57-41f6-8189-f8b723fe66e2"
+    "uid": "3c1058e9-77ad-4969-9c53-5e4b5981202c"
 }

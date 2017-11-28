@@ -3,8 +3,7 @@
     "canonical_name": "sci", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sci", 
-    "idx": 418, 
     "namespace": "wcrp:cmip5:variable:sci", 
     "status": "pending", 
-    "uid": "cbbd8c2e-db1f-4cbf-9bec-89f6b54382af"
+    "uid": "89c5d9ba-a094-465b-ac11-08fd3278c082"
 }

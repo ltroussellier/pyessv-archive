@@ -3,8 +3,7 @@
     "canonical_name": "loadpoa", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "loadpoa", 
-    "idx": 264, 
     "namespace": "wcrp:cmip5:variable:loadpoa", 
     "status": "pending", 
-    "uid": "bc6a79e6-639b-4952-98fb-56faaa3cd604"
+    "uid": "644f5995-c76f-4701-b2ce-0f44665f6c1c"
 }

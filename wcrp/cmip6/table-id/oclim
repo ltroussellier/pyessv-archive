@@ -2,7 +2,6 @@
     "_type": "term", 
     "canonical_name": "oclim", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 33, 
     "label": "Oclim", 
     "namespace": "wcrp:cmip6:table-id:oclim", 
     "raw_name": "Oclim", 

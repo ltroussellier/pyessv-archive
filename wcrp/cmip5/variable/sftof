@@ -3,8 +3,7 @@
     "canonical_name": "sftof", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sftof", 
-    "idx": 434, 
     "namespace": "wcrp:cmip5:variable:sftof", 
     "status": "pending", 
-    "uid": "fc1da633-bc2b-47cb-921f-4dad64fd9164"
+    "uid": "0371ea2f-db14-4ec1-b118-41f45184c8ac"
 }

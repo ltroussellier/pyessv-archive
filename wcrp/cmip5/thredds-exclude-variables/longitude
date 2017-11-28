@@ -3,8 +3,7 @@
     "canonical_name": "longitude", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "longitude", 
-    "idx": 30, 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:longitude", 
     "status": "pending", 
-    "uid": "f0a3df54-6858-42aa-b283-70b9f0a52835"
+    "uid": "5b25b8d1-c995-4f0d-9baa-5e1cda4a89f5"
 }

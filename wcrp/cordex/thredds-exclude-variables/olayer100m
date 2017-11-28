@@ -3,8 +3,7 @@
     "canonical_name": "olayer100m", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "olayer100m", 
-    "idx": 38, 
     "namespace": "wcrp:cordex:thredds-exclude-variables:olayer100m", 
     "status": "pending", 
-    "uid": "b9e6f728-f295-495e-913a-a52909ca8a72"
+    "uid": "dbec65cd-61d3-412a-a8be-ae559fa0fd5d"
 }

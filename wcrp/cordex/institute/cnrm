@@ -3,10 +3,9 @@
     "canonical_name": "cnrm", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "CNRM", 
-    "idx": 7, 
     "label": "CNRM", 
     "namespace": "wcrp:cordex:institute:cnrm", 
     "raw_name": "CNRM", 
     "status": "pending", 
-    "uid": "bb932bf4-d094-4e48-82e3-249e1fa24aef"
+    "uid": "814047ee-cc70-4368-9d99-abd586ff77cb"
 }

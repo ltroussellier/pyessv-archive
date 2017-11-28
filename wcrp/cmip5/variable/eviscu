@@ -3,8 +3,7 @@
     "canonical_name": "eviscu", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "eviscu", 
-    "idx": 154, 
     "namespace": "wcrp:cmip5:variable:eviscu", 
     "status": "pending", 
-    "uid": "e03de3ba-bcdf-41ab-acb7-17d510676351"
+    "uid": "1f452c14-8ac1-44ab-a6e3-db5fa7eb3356"
 }

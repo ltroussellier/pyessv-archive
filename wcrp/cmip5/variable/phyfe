@@ -3,8 +3,7 @@
     "canonical_name": "phyfe", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "phyfe", 
-    "idx": 329, 
     "namespace": "wcrp:cmip5:variable:phyfe", 
     "status": "pending", 
-    "uid": "acc26e4f-60a0-4bf2-8eb3-66f2511c20a2"
+    "uid": "509aa7d1-2803-4cf6-a399-5c7ae8156c16"
 }

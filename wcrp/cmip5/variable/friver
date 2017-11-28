@@ -3,8 +3,7 @@
     "canonical_name": "friver", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "friver", 
-    "idx": 197, 
     "namespace": "wcrp:cmip5:variable:friver", 
     "status": "pending", 
-    "uid": "5b253c8a-7531-4094-9a28-cf3ca8e2fe8a"
+    "uid": "56e06a5f-6176-429b-afbc-e794bf272ff6"
 }

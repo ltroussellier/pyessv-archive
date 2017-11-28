@@ -89,7 +89,6 @@
         "tier": "1"
     }, 
     "description": "A1 (and A2.1, A3.1, and A3.2) Decadal hindcasts begun near the end of each year from 1960 to 2016, or every other year at minimum. First full hindcast year follows start year (e.g., for s1960, first full hindcast year is 1961)", 
-    "idx": 50, 
     "label": "dcppA-hindcast", 
     "namespace": "wcrp:cmip6:experiment-id:dcppa-hindcast", 
     "raw_name": "dcppA-hindcast", 

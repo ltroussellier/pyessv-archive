@@ -3,10 +3,9 @@
     "canonical_name": "omon", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Omon", 
-    "idx": 8, 
     "label": "Omon", 
     "namespace": "wcrp:cmip5:cmor-table:omon", 
     "raw_name": "Omon", 
     "status": "pending", 
-    "uid": "a486bdd5-7464-4b0f-bfbc-080a7320cd4a"
+    "uid": "3f70fb1f-173c-41d5-8cbb-e03dd66ee1cf"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "dbze", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "dbze", 
-    "idx": 12, 
     "namespace": "wcrp:cordex:thredds-exclude-variables:dbze", 
     "status": "pending", 
-    "uid": "b95b927b-9958-46f7-8f80-87c8d3b23de5"
+    "uid": "521abc09-199b-4919-9d8b-11d6245c0a3a"
 }

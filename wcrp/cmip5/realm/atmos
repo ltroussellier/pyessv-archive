@@ -3,8 +3,7 @@
     "canonical_name": "atmos", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "atmos", 
-    "idx": 0, 
     "namespace": "wcrp:cmip5:realm:atmos", 
     "status": "pending", 
-    "uid": "b584bbe9-b47a-409a-8deb-843a8e79e639"
+    "uid": "1e4d96fa-9295-4dff-8958-cd0e15e1dcad"
 }

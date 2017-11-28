@@ -3,8 +3,7 @@
     "canonical_name": "va400", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "va400", 
-    "idx": 170, 
     "namespace": "wcrp:cordex:variable:va400", 
     "status": "pending", 
-    "uid": "6d696424-40eb-4eba-a054-3a6ae4af11cb"
+    "uid": "95e45609-5663-4406-a398-93cd25b1c596"
 }

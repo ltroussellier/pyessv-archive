@@ -3,8 +3,7 @@
     "canonical_name": "rh", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rh", 
-    "idx": 368, 
     "namespace": "wcrp:cmip5:variable:rh", 
     "status": "pending", 
-    "uid": "2c045239-96e1-46a5-a451-5a681df97e78"
+    "uid": "e7dcf188-59c1-40de-b92f-e999bfc56563"
 }

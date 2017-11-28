@@ -31,7 +31,6 @@
         "tier": "2"
     }, 
     "description": "Prescribed land conditions 30yr running mean with Land-Hist-princeton", 
-    "idx": 185, 
     "label": "lfmip-rmLC-princeton", 
     "namespace": "wcrp:cmip6:experiment-id:lfmip-rmlc-princeton", 
     "raw_name": "lfmip-rmLC-princeton", 

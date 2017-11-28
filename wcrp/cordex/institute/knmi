@@ -3,10 +3,9 @@
     "canonical_name": "knmi", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "KNMI", 
-    "idx": 19, 
     "label": "KNMI", 
     "namespace": "wcrp:cordex:institute:knmi", 
     "raw_name": "KNMI", 
     "status": "pending", 
-    "uid": "c19428f0-dd15-4e13-b47b-4ee0def56cec"
+    "uid": "a72cacc4-b2a5-4c8d-94ce-a1d65f4d2484"
 }

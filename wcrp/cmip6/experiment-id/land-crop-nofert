@@ -30,7 +30,6 @@
         "tier": "2"
     }, 
     "description": "Same as land-hist but with fertilization rates and area held at 1850 levels/distribution", 
-    "idx": 235, 
     "label": "land-crop-noFert", 
     "namespace": "wcrp:cmip6:experiment-id:land-crop-nofert", 
     "raw_name": "land-crop-noFert", 

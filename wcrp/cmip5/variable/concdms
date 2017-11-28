@@ -3,8 +3,7 @@
     "canonical_name": "concdms", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "concdms", 
-    "idx": 92, 
     "namespace": "wcrp:cmip5:variable:concdms", 
     "status": "pending", 
-    "uid": "c63f5035-f2d6-4b93-9661-eb983aefe4ec"
+    "uid": "456321d0-0e48-44b7-9e9a-a98a03f920e7"
 }

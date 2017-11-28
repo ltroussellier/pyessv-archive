@@ -29,7 +29,6 @@
         "tier": "1"
     }, 
     "description": "Offline ice sheet simulation with synthetic oceanic dataset to explore the uncertainty in sea level due to ice sheet initialization", 
-    "idx": 37, 
     "namespace": "wcrp:cmip6:experiment-id:ism-bsmb-std", 
     "status": "pending", 
     "uid": "75c9e47c-95d5-4baa-9fe7-ac2d1f1d3eb8"

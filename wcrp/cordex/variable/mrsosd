@@ -3,8 +3,7 @@
     "canonical_name": "mrsosd", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "mrsosd", 
-    "idx": 89, 
     "namespace": "wcrp:cordex:variable:mrsosd", 
     "status": "pending", 
-    "uid": "e50ac2ce-948e-4517-a453-c0f4af2a1cf6"
+    "uid": "496ad6c6-4081-4851-9f64-bcd72ea345ba"
 }

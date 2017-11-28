@@ -5,7 +5,6 @@
     "data": {
         "postal_address": "Institute for Numerical Mathematics, Russian Academy of Science, Moscow 119991, Russia"
     }, 
-    "idx": 27, 
     "label": "INM", 
     "namespace": "wcrp:cmip6:institution-id:inm", 
     "raw_name": "INM", 

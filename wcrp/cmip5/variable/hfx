@@ -3,8 +3,7 @@
     "canonical_name": "hfx", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hfx", 
-    "idx": 230, 
     "namespace": "wcrp:cmip5:variable:hfx", 
     "status": "pending", 
-    "uid": "ee637de4-9caa-4d01-8dde-b23ef0e76315"
+    "uid": "3063ba73-4a6f-40a5-b252-3d1ddb38b8a9"
 }

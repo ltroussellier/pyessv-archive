@@ -31,7 +31,6 @@
         "tier": "3"
     }, 
     "description": "1850 control with doubled emissions of biogenic VOCs", 
-    "idx": 59, 
     "label": "piClim-2xVOC", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-2xvoc", 
     "raw_name": "piClim-2xVOC", 

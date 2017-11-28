@@ -3,8 +3,7 @@
     "canonical_name": "ta600", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ta600", 
-    "idx": 127, 
     "namespace": "wcrp:cordex:variable:ta600", 
     "status": "pending", 
-    "uid": "b35a7d49-25a0-4782-9eee-eddcf2380000"
+    "uid": "bb9278e7-af09-4722-8dfd-3fc0dee56383"
 }

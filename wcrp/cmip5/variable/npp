@@ -3,8 +3,7 @@
     "canonical_name": "npp", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "npp", 
-    "idx": 300, 
     "namespace": "wcrp:cmip5:variable:npp", 
     "status": "pending", 
-    "uid": "c79ae52f-031e-4373-b4a6-fdec4dae3c3e"
+    "uid": "609fbe86-13a5-49e3-87ab-97f734ef650d"
 }

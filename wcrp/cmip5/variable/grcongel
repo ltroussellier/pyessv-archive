@@ -3,10 +3,9 @@
     "canonical_name": "grcongel", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "grCongel", 
-    "idx": 204, 
     "label": "grCongel", 
     "namespace": "wcrp:cmip5:variable:grcongel", 
     "raw_name": "grCongel", 
     "status": "pending", 
-    "uid": "26d1cb63-dd89-44be-a4f7-106f43c73799"
+    "uid": "b1e254ed-89c4-4445-a8c3-1e7607f9c9a0"
 }

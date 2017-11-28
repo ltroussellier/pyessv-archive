@@ -3,10 +3,9 @@
     "canonical_name": "noresm1-m", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "NorESM1-M", 
-    "idx": 61, 
     "label": "NorESM1-M", 
     "namespace": "wcrp:cmip5:model:noresm1-m", 
     "raw_name": "NorESM1-M", 
     "status": "pending", 
-    "uid": "050b1857-e995-4492-93c7-0b3cec186ad4"
+    "uid": "fd28aee5-f195-4b22-b410-6f94bd9c4e61"
 }

@@ -3,10 +3,9 @@
     "canonical_name": "oclim", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Oclim", 
-    "idx": 7, 
     "label": "Oclim", 
     "namespace": "wcrp:cmip5:cmor-table:oclim", 
     "raw_name": "Oclim", 
     "status": "pending", 
-    "uid": "74f98d6d-58c2-401b-a59f-4a55886e93d9"
+    "uid": "a7037ff3-a375-4b7e-8fd2-29bc050a63ef"
 }

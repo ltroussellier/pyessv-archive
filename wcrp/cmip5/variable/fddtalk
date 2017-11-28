@@ -3,8 +3,7 @@
     "canonical_name": "fddtalk", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fddtalk", 
-    "idx": 183, 
     "namespace": "wcrp:cmip5:variable:fddtalk", 
     "status": "pending", 
-    "uid": "9b56fc1b-cf68-4f6f-819d-e5a8e7b166e7"
+    "uid": "59f07ecd-640d-4a73-8b22-fa06b26abb60"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "snm", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "snm", 
-    "idx": 444, 
     "namespace": "wcrp:cmip5:variable:snm", 
     "status": "pending", 
-    "uid": "e85bd3ae-6210-46fb-8d4d-2b819987cb74"
+    "uid": "11031aa8-1951-454e-ae41-6756fca88d11"
 }

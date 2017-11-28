@@ -3,8 +3,7 @@
     "canonical_name": "rhsmin", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rhsmin", 
-    "idx": 372, 
     "namespace": "wcrp:cmip5:variable:rhsmin", 
     "status": "pending", 
-    "uid": "a6bcc9b8-cc59-40a2-b0e1-249fab9e85dd"
+    "uid": "16d6b422-6136-4a37-a4c6-adf82b4093ec"
 }

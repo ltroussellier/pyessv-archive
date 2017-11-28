@@ -29,7 +29,6 @@
         "tier": "3"
     }, 
     "description": "Offline ice sheet evolution for the last few decades forced by amip", 
-    "idx": 61, 
     "namespace": "wcrp:cmip6:experiment-id:ism-amip-std", 
     "status": "pending", 
     "uid": "9f677b7c-d79f-4e8f-a362-410788e6c530"

@@ -31,7 +31,6 @@
         "tier": "3"
     }, 
     "description": "1850 control with doubled emissions of lightning NOx", 
-    "idx": 230, 
     "label": "piClim-2xNOx", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-2xnox", 
     "raw_name": "piClim-2xNOx", 

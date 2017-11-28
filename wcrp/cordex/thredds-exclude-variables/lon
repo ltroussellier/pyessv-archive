@@ -3,8 +3,7 @@
     "canonical_name": "lon", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "lon", 
-    "idx": 32, 
     "namespace": "wcrp:cordex:thredds-exclude-variables:lon", 
     "status": "pending", 
-    "uid": "a2cfd179-4899-4023-843d-fc0167197fe6"
+    "uid": "ae4e8b2e-543e-4fe9-b3ac-f9063ff3a7e8"
 }

@@ -3,7 +3,6 @@
     "canonical_name": "landice", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Land Ice", 
-    "idx": 2, 
     "label": "landIce", 
     "namespace": "wcrp:cmip6:realm:landice", 
     "raw_name": "landIce", 

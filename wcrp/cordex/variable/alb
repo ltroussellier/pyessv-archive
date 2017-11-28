@@ -3,8 +3,7 @@
     "canonical_name": "alb", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "alb", 
-    "idx": 1, 
     "namespace": "wcrp:cordex:variable:alb", 
     "status": "pending", 
-    "uid": "f92ad85e-9862-41d4-a981-c0f41939e413"
+    "uid": "1a19622f-712a-4cd8-b393-3350e6cad5f0"
 }

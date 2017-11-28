@@ -3,8 +3,7 @@
     "canonical_name": "tnsclimr", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tnsclimr", 
-    "idx": 506, 
     "namespace": "wcrp:cmip5:variable:tnsclimr", 
     "status": "pending", 
-    "uid": "45627721-a313-4f58-8448-e7cff27cd3c9"
+    "uid": "148f2608-7713-43e7-90bb-1d609df7680c"
 }

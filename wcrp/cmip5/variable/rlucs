@@ -3,8 +3,7 @@
     "canonical_name": "rlucs", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rlucs", 
-    "idx": 383, 
     "namespace": "wcrp:cmip5:variable:rlucs", 
     "status": "pending", 
-    "uid": "eee22dff-f1de-4fca-aa12-31bb75df2ee7"
+    "uid": "707d279f-aca8-4474-9cc5-df6978967b90"
 }

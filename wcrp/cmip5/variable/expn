@@ -3,8 +3,7 @@
     "canonical_name": "expn", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "expn", 
-    "idx": 164, 
     "namespace": "wcrp:cmip5:variable:expn", 
     "status": "pending", 
-    "uid": "8fd5bf2b-313e-4d9a-9d3f-1d00e67c947b"
+    "uid": "f24d42ab-a227-4287-859f-a8e8c6ac3e47"
 }

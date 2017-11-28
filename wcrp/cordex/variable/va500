@@ -3,8 +3,7 @@
     "canonical_name": "va500", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "va500", 
-    "idx": 171, 
     "namespace": "wcrp:cordex:variable:va500", 
     "status": "pending", 
-    "uid": "caa95f8e-4e84-4ef5-a8df-87a4de2934d1"
+    "uid": "ce444f07-a902-425f-868a-0c1c3958166a"
 }

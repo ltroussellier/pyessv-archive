@@ -3,8 +3,7 @@
     "canonical_name": "dtaus", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "dtaus", 
-    "idx": 134, 
     "namespace": "wcrp:cmip5:variable:dtaus", 
     "status": "pending", 
-    "uid": "bb6fe183-f245-4c17-94f3-180311ebb106"
+    "uid": "6be13dff-5903-47c3-8a1c-a6ed29af8f7c"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "zosga", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "zosga", 
-    "idx": 594, 
     "namespace": "wcrp:cmip5:variable:zosga", 
     "status": "pending", 
-    "uid": "f47b1801-9928-4a9c-8fe6-c77cf5fd399f"
+    "uid": "a3d00ff8-6698-49b0-bed9-626bb3317df0"
 }

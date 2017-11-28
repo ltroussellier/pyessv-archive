@@ -3,8 +3,7 @@
     "canonical_name": "tos", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tos", 
-    "idx": 529, 
     "namespace": "wcrp:cmip5:variable:tos", 
     "status": "pending", 
-    "uid": "eb5d5b3a-a372-453f-b99e-60a5fa670f84"
+    "uid": "5b905acc-2a9e-428f-a591-7a0d9a772dae"
 }

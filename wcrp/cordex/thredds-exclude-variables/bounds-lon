@@ -3,10 +3,9 @@
     "canonical_name": "bounds-lon", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "bounds_lon", 
-    "idx": 11, 
     "label": "bounds_lon", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:bounds-lon", 
     "raw_name": "bounds_lon", 
     "status": "pending", 
-    "uid": "3fa9793b-b950-469f-826d-d3ce347abdc4"
+    "uid": "98cf9bdc-3b81-4e23-80c6-fcc813a8d2d7"
 }

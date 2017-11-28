@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "1-month", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 6, 
     "label": "1 month", 
     "namespace": "wcrp:cmip5:las-time-delta:1-month", 
     "raw_name": "1 month", 
     "status": "pending", 
-    "uid": "76f455a6-ae60-4d41-8aef-123d57f94c6b"
+    "uid": "79d2313c-a406-482d-935b-e673f208f32b"
 }

@@ -32,7 +32,6 @@
         "tier": "3"
     }, 
     "description": "As volc-pinatubo-full, but with a slab ocean", 
-    "idx": 77, 
     "namespace": "wcrp:cmip6:experiment-id:volc-pinatubo-slab", 
     "status": "pending", 
     "uid": "c35f41cd-edeb-43a6-ba8d-85208ee3e87b"

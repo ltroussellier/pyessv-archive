@@ -3,10 +3,9 @@
     "canonical_name": "hms-aladin52", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "HMS-ALADIN52", 
-    "idx": 18, 
     "label": "HMS-ALADIN52", 
     "namespace": "wcrp:cordex:rcm-model:hms-aladin52", 
     "raw_name": "HMS-ALADIN52", 
     "status": "pending", 
-    "uid": "f93dbb35-0eab-49f1-82b5-d42240b41603"
+    "uid": "41c84730-98e1-4c12-b236-c0460d93f67e"
 }

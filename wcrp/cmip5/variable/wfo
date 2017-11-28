@@ -3,8 +3,7 @@
     "canonical_name": "wfo", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "wfo", 
-    "idx": 581, 
     "namespace": "wcrp:cmip5:variable:wfo", 
     "status": "pending", 
-    "uid": "38fc399c-bc64-429d-8e55-d5cf81622971"
+    "uid": "dca3619a-2a1b-4440-94d7-77da77b32b19"
 }

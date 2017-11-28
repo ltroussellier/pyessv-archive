@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "10-years", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 5, 
     "label": "10 years", 
     "namespace": "wcrp:cmip6:las-time-delta:10-years", 
     "raw_name": "10 years", 
     "status": "pending", 
-    "uid": "e260ff0a-98ec-42a0-9332-d0d7ca1fbab9"
+    "uid": "5d67a388-fd8b-44cb-9da9-0b294727909f"
 }

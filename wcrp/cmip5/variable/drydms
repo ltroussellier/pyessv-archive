@@ -3,8 +3,7 @@
     "canonical_name": "drydms", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "drydms", 
-    "idx": 123, 
     "namespace": "wcrp:cmip5:variable:drydms", 
     "status": "pending", 
-    "uid": "d11f2382-512c-4657-9400-e0f00ea406cd"
+    "uid": "c2c8d639-cde9-4358-a7cb-496e44e02636"
 }

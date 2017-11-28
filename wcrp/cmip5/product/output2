@@ -3,8 +3,7 @@
     "canonical_name": "output2", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "output2", 
-    "idx": 1, 
     "namespace": "wcrp:cmip5:product:output2", 
     "status": "pending", 
-    "uid": "1df9d28c-7a9d-42bc-95ab-0a8fbc83e510"
+    "uid": "f281cd26-2292-4954-8855-a3663c2b276f"
 }

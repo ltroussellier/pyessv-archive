@@ -3,8 +3,7 @@
     "canonical_name": "bacc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "bacc", 
-    "idx": 8, 
     "namespace": "wcrp:cmip5:variable:bacc", 
     "status": "pending", 
-    "uid": "8b3a256a-3e9a-4cd5-b981-e5d51f2c47db"
+    "uid": "dfa61017-a219-4ac2-8f29-5d8066f20bee"
 }

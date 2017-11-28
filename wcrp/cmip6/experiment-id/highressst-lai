@@ -29,7 +29,6 @@
         "tier": "3"
     }, 
     "description": "Forced global atmosphere-land simulations as highresSST-present, but using an common LAI dataset across models", 
-    "idx": 105, 
     "label": "highresSST-LAI", 
     "namespace": "wcrp:cmip6:experiment-id:highressst-lai", 
     "raw_name": "highresSST-LAI", 

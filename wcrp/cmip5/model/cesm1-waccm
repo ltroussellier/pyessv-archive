@@ -3,10 +3,9 @@
     "canonical_name": "cesm1-waccm", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "CESM1-WACCM", 
-    "idx": 14, 
     "label": "CESM1-WACCM", 
     "namespace": "wcrp:cmip5:model:cesm1-waccm", 
     "raw_name": "CESM1-WACCM", 
     "status": "pending", 
-    "uid": "11fb42ef-94c7-4f93-9ce7-31b8707dc1bc"
+    "uid": "0e772f4a-5a00-4913-909d-90f2c8841afe"
 }

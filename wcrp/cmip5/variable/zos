@@ -3,8 +3,7 @@
     "canonical_name": "zos", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "zos", 
-    "idx": 593, 
     "namespace": "wcrp:cmip5:variable:zos", 
     "status": "pending", 
-    "uid": "ac6fe6a7-8533-45d9-bc2f-1e81d3081c1d"
+    "uid": "ebcb31ac-797b-4f71-aecd-0650fb90b337"
 }

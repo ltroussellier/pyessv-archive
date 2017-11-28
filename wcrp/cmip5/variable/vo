@@ -3,8 +3,7 @@
     "canonical_name": "vo", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "vo", 
-    "idx": 558, 
     "namespace": "wcrp:cmip5:variable:vo", 
     "status": "pending", 
-    "uid": "9b424b74-4afa-482a-baf3-2467ddc4bf81"
+    "uid": "0aca0ce1-806e-4a27-9a1f-e599ebb81f7f"
 }

@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "nimr-kma", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 41, 
     "label": "NIMR-KMA", 
     "namespace": "wcrp:cmip5:institute:nimr-kma", 
     "raw_name": "NIMR-KMA", 
     "status": "pending", 
-    "uid": "a8e740ed-0bd0-481b-b9ff-cb8d775d0b5b"
+    "uid": "75bfbe23-bc71-4575-bee0-c74fe787e8d0"
 }

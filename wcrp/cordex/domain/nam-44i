@@ -3,10 +3,9 @@
     "canonical_name": "nam-44i", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "North America", 
-    "idx": 25, 
     "label": "NAM-44i", 
     "namespace": "wcrp:cordex:domain:nam-44i", 
     "raw_name": "NAM-44i", 
     "status": "pending", 
-    "uid": "4df72699-878a-41b3-b1da-815ffa440efc"
+    "uid": "36d20b10-ccc9-43d8-89fe-ef1bbfa4283d"
 }

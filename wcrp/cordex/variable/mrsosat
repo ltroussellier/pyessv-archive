@@ -3,8 +3,7 @@
     "canonical_name": "mrsosat", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "mrsosat", 
-    "idx": 88, 
     "namespace": "wcrp:cordex:variable:mrsosat", 
     "status": "pending", 
-    "uid": "4757b3ee-f400-4254-8296-e41c55713125"
+    "uid": "d62a367e-125f-4ff8-86f0-07c825d542c4"
 }

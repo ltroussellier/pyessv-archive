@@ -3,8 +3,7 @@
     "canonical_name": "rsdt", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rsdt", 
-    "idx": 104, 
     "namespace": "wcrp:cordex:variable:rsdt", 
     "status": "pending", 
-    "uid": "286dad0d-925f-4eed-9b5b-2768bd220dd3"
+    "uid": "806726d3-61a5-4bd6-96b2-041d618fba16"
 }

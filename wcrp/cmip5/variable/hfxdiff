@@ -3,8 +3,7 @@
     "canonical_name": "hfxdiff", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hfxdiff", 
-    "idx": 232, 
     "namespace": "wcrp:cmip5:variable:hfxdiff", 
     "status": "pending", 
-    "uid": "fdc17912-9ee9-437a-806e-e97cd77e9fc7"
+    "uid": "790a787c-9778-4bd9-ae4c-bfecff29b568"
 }

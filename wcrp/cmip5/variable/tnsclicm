@@ -3,8 +3,7 @@
     "canonical_name": "tnsclicm", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tnsclicm", 
-    "idx": 498, 
     "namespace": "wcrp:cmip5:variable:tnsclicm", 
     "status": "pending", 
-    "uid": "c2de5118-93d3-4af7-9a2d-c0a4e21f1915"
+    "uid": "b66569c7-d184-4a5d-83a8-3631c5056d4a"
 }

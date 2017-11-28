@@ -3,8 +3,7 @@
     "canonical_name": "p0", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "p0", 
-    "idx": 36, 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:p0", 
     "status": "pending", 
-    "uid": "ed22866b-b983-4ae0-8236-ee2ccdc61a1c"
+    "uid": "2b64880f-6fb4-43a4-b732-ac784c234099"
 }

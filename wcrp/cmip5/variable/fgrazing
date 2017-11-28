@@ -3,10 +3,9 @@
     "canonical_name": "fgrazing", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fGrazing", 
-    "idx": 168, 
     "label": "fGrazing", 
     "namespace": "wcrp:cmip5:variable:fgrazing", 
     "raw_name": "fGrazing", 
     "status": "pending", 
-    "uid": "eb90ac1f-b6d0-4f45-83d0-9e0313e19c27"
+    "uid": "162feda2-7630-4cce-a16b-b91338ca4049"
 }

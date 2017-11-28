@@ -3,10 +3,9 @@
     "canonical_name": "novolc1990", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Volcano-free hindcasts initiated in 1990", 
-    "idx": 85, 
     "label": "noVolc1990", 
     "namespace": "wcrp:cmip5:experiment:novolc1990", 
     "raw_name": "noVolc1990", 
     "status": "pending", 
-    "uid": "df99d1d9-55c3-4e02-9c60-9933cc53bed5"
+    "uid": "99475be5-a046-4f6b-b51a-59d72a3c7eee"
 }

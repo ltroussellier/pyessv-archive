@@ -31,7 +31,6 @@
         "tier": "2"
     }, 
     "description": "Historical (non-N2O) WMGHG concentrations and NTCF emissions, 1850 N2O concentrations", 
-    "idx": 178, 
     "label": "histSST-piN2O", 
     "namespace": "wcrp:cmip6:experiment-id:histsst-pin2o", 
     "raw_name": "histSST-piN2O", 

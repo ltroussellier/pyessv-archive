@@ -3,8 +3,7 @@
     "canonical_name": "chlpico", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "chlpico", 
-    "idx": 55, 
     "namespace": "wcrp:cmip5:variable:chlpico", 
     "status": "pending", 
-    "uid": "66b58139-6a91-4bd2-8925-bf4a1e7f0e21"
+    "uid": "cf7d358b-ae44-4be9-9a9f-16806e5d074c"
 }

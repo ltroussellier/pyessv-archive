@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "noaa-gfdl", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 34, 
     "label": "NOAA-GFDL", 
     "namespace": "wcrp:cmip5:institute:noaa-gfdl", 
     "raw_name": "NOAA-GFDL", 
     "status": "pending", 
-    "uid": "d3775eaa-eb26-4332-9333-837d9aa660a1"
+    "uid": "91aadcb0-587e-494e-8329-1fd6c30c04c9"
 }

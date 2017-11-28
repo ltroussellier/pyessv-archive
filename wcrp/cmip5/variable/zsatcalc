@@ -3,8 +3,7 @@
     "canonical_name": "zsatcalc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "zsatcalc", 
-    "idx": 599, 
     "namespace": "wcrp:cmip5:variable:zsatcalc", 
     "status": "pending", 
-    "uid": "925cf000-d2a8-494c-b26b-eb80be44270e"
+    "uid": "1fc80666-90a0-4cb8-8557-d9c268c29f3d"
 }

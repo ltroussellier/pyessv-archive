@@ -3,10 +3,9 @@
     "canonical_name": "afr-44", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Africa", 
-    "idx": 0, 
     "label": "AFR-44", 
     "namespace": "wcrp:cordex:domain:afr-44", 
     "raw_name": "AFR-44", 
     "status": "pending", 
-    "uid": "7d2cf244-e539-4668-aa78-74092dabb694"
+    "uid": "7e7a28e3-1458-4463-8805-f3a2ab94b4de"
 }

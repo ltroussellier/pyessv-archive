@@ -3,8 +3,7 @@
     "canonical_name": "po4", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "po4", 
-    "idx": 337, 
     "namespace": "wcrp:cmip5:variable:po4", 
     "status": "pending", 
-    "uid": "55edf326-985b-4f2f-8bf3-3b27c9b50af8"
+    "uid": "162a0059-07c3-4f76-b658-18ed3d965d18"
 }

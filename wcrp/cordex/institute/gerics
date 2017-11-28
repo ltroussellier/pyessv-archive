@@ -3,10 +3,9 @@
     "canonical_name": "gerics", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "GERICS", 
-    "idx": 13, 
     "label": "GERICS", 
     "namespace": "wcrp:cordex:institute:gerics", 
     "raw_name": "GERICS", 
     "status": "pending", 
-    "uid": "3bc7c49e-5a5e-431f-8d8e-e0b31fecbba5"
+    "uid": "fb3d3d69-b1a7-41ee-bf45-8e397d77c810"
 }

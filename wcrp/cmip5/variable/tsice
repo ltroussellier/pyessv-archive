@@ -3,8 +3,7 @@
     "canonical_name": "tsice", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tsice", 
-    "idx": 544, 
     "namespace": "wcrp:cmip5:variable:tsice", 
     "status": "pending", 
-    "uid": "aa7f59bf-9758-497b-b3ab-67a63711bb60"
+    "uid": "211a5f46-9633-47a1-acff-4339f30cf517"
 }

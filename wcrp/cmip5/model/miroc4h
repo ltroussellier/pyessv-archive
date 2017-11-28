@@ -3,10 +3,9 @@
     "canonical_name": "miroc4h", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "MIROC4h", 
-    "idx": 50, 
     "label": "MIROC4h", 
     "namespace": "wcrp:cmip5:model:miroc4h", 
     "raw_name": "MIROC4h", 
     "status": "pending", 
-    "uid": "6379348c-77e1-4659-86aa-3f9ec4193c54"
+    "uid": "ee7a6d49-1852-426f-9f8b-1fb6969c3cfc"
 }

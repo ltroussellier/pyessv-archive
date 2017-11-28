@@ -3,8 +3,7 @@
     "canonical_name": "vas", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "vas", 
-    "idx": 556, 
     "namespace": "wcrp:cmip5:variable:vas", 
     "status": "pending", 
-    "uid": "d762d6d5-2509-4ed6-8dc4-1f1ae57b5d05"
+    "uid": "33527b31-43ba-42c7-86e0-92dc193fea46"
 }

@@ -30,7 +30,6 @@
         "tier": "2"
     }, 
     "description": "Time-varying forcing from volcanos, solar variability, etc. SST and sea ice fixed at preindustrial control. Interactive vegetation", 
-    "idx": 62, 
     "label": "piClim-histnat", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-histnat", 
     "raw_name": "piClim-histnat", 

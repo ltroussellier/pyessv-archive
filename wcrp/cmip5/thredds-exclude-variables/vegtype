@@ -3,8 +3,7 @@
     "canonical_name": "vegtype", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "vegtype", 
-    "idx": 60, 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:vegtype", 
     "status": "pending", 
-    "uid": "baaf8c82-f9c2-4468-b31e-8415b5c46e16"
+    "uid": "9f9fc360-6fe7-4c17-b5ed-c3fa7efa7903"
 }

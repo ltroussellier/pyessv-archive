@@ -3,8 +3,7 @@
     "canonical_name": "cldnvi", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cldnvi", 
-    "idx": 63, 
     "namespace": "wcrp:cmip5:variable:cldnvi", 
     "status": "pending", 
-    "uid": "cf33116f-f257-414a-8ecd-760dfd434be6"
+    "uid": "4060b133-a27e-43d8-a486-e754681ffa44"
 }

@@ -30,7 +30,6 @@
         "tier": "2"
     }, 
     "description": "1850 control with doubled dust emissions", 
-    "idx": 224, 
     "label": "piClim-2xdust", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-2xdust", 
     "raw_name": "piClim-2xdust", 

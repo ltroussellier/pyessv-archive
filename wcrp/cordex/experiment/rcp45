@@ -3,8 +3,7 @@
     "canonical_name": "rcp45", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "RCP4.5", 
-    "idx": 3, 
     "namespace": "wcrp:cordex:experiment:rcp45", 
     "status": "pending", 
-    "uid": "8ab5fe21-6d0f-461a-8950-17b9f2f1af65"
+    "uid": "9c3e8406-701a-459a-9db1-bf111ab2d0ee"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "emibb", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "emibb", 
-    "idx": 137, 
     "namespace": "wcrp:cmip5:variable:emibb", 
     "status": "pending", 
-    "uid": "0066e623-8d2a-4929-b605-8b47c71ffbed"
+    "uid": "69c2b962-7822-433e-b92b-99881fd2e4c9"
 }

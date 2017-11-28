@@ -3,8 +3,7 @@
     "canonical_name": "tnsclwmi", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tnsclwmi", 
-    "idx": 520, 
     "namespace": "wcrp:cmip5:variable:tnsclwmi", 
     "status": "pending", 
-    "uid": "992d1567-a184-496b-a3a5-a64b3d2699cd"
+    "uid": "87144dc8-d92a-476c-b28b-61442a1c1994"
 }

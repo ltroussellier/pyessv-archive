@@ -30,7 +30,6 @@
         "tier": "2"
     }, 
     "description": "Identical to standard AMIP experiment but from 1870-present with constant pre-industrial forcing levels (anthropogenic and natural)", 
-    "idx": 221, 
     "label": "amip-piForcing", 
     "namespace": "wcrp:cmip6:experiment-id:amip-piforcing", 
     "raw_name": "amip-piForcing", 

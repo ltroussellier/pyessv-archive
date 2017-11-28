@@ -3,8 +3,7 @@
     "canonical_name": "pcalc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "pcalc", 
-    "idx": 319, 
     "namespace": "wcrp:cmip5:variable:pcalc", 
     "status": "pending", 
-    "uid": "1240fea3-354b-4370-85cd-6ea2a92a0dfd"
+    "uid": "6cef138f-ec60-47bb-b5a2-bf1430c08b3d"
 }

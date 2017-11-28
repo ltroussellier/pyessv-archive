@@ -3,8 +3,7 @@
     "canonical_name": "co2mass", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "co2mass", 
-    "idx": 83, 
     "namespace": "wcrp:cmip5:variable:co2mass", 
     "status": "pending", 
-    "uid": "b60644bf-6f3a-4fea-9d14-fd50047ae37a"
+    "uid": "c2996a58-cd7e-4671-b05f-4df425ca28ee"
 }

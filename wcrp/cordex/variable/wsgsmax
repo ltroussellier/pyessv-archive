@@ -3,8 +3,7 @@
     "canonical_name": "wsgsmax", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "wsgsmax", 
-    "idx": 181, 
     "namespace": "wcrp:cordex:variable:wsgsmax", 
     "status": "pending", 
-    "uid": "58fd7eac-ed59-4904-a601-df6997c55c9f"
+    "uid": "170d294c-80f1-4936-815b-28e8f5794b60"
 }

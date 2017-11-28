@@ -3,8 +3,7 @@
     "canonical_name": "loadoa", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "loadoa", 
-    "idx": 263, 
     "namespace": "wcrp:cmip5:variable:loadoa", 
     "status": "pending", 
-    "uid": "4fd5e0d3-0c75-40d8-858d-e2980ea659de"
+    "uid": "65eaf77e-8347-4d5e-8dc1-4fe5814ebe8c"
 }

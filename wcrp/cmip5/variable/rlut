@@ -3,8 +3,7 @@
     "canonical_name": "rlut", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rlut", 
-    "idx": 388, 
     "namespace": "wcrp:cmip5:variable:rlut", 
     "status": "pending", 
-    "uid": "b2d2b86f-ea33-4552-8dc2-04fb93569b86"
+    "uid": "3aeebe7e-ad32-4322-9d0a-4b1550976881"
 }

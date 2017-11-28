@@ -3,10 +3,9 @@
     "canonical_name": "bnu-esm", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "BNU-ESM", 
-    "idx": 5, 
     "label": "BNU-ESM", 
     "namespace": "wcrp:cmip5:model:bnu-esm", 
     "raw_name": "BNU-ESM", 
     "status": "pending", 
-    "uid": "14dc9712-d92e-4b3e-872b-7311b428fd8f"
+    "uid": "bae7a41d-4087-4a71-b454-ea69cc6923f7"
 }

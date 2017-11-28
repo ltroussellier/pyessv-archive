@@ -3,8 +3,7 @@
     "canonical_name": "pctisccp", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "pctisccp", 
-    "idx": 320, 
     "namespace": "wcrp:cmip5:variable:pctisccp", 
     "status": "pending", 
-    "uid": "077d7491-1975-4b6b-b86f-82e62be45466"
+    "uid": "ef0ccd2f-b2e0-4ddc-997f-7523b3f37c73"
 }

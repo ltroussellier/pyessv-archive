@@ -3,8 +3,7 @@
     "canonical_name": "phydiaz", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "phydiaz", 
-    "idx": 328, 
     "namespace": "wcrp:cmip5:variable:phydiaz", 
     "status": "pending", 
-    "uid": "b9706058-d5e8-46da-94be-1c0ae32571a6"
+    "uid": "4d6f4dbb-73f8-4608-9b88-c5c3e06f3331"
 }

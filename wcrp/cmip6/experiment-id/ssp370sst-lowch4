@@ -31,7 +31,6 @@
         "tier": "1"
     }, 
     "description": "Future SSP3-7.0 with reduced CH4 concentrations, prescribed SSTs", 
-    "idx": 78, 
     "label": "ssp370SST-lowCH4", 
     "namespace": "wcrp:cmip6:experiment-id:ssp370sst-lowch4", 
     "raw_name": "ssp370SST-lowCH4", 

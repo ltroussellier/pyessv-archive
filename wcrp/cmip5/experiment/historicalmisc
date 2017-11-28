@@ -3,10 +3,9 @@
     "canonical_name": "historicalmisc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Historical with other individual forcing agents or combinations of forcings", 
-    "idx": 75, 
     "label": "historicalMisc", 
     "namespace": "wcrp:cmip5:experiment:historicalmisc", 
     "raw_name": "historicalMisc", 
     "status": "pending", 
-    "uid": "dff2bb7a-148b-491d-81c5-00e5eec48b77"
+    "uid": "cc3e541c-ec0e-4f78-8f8b-81966e5ce087"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "mrfso", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "mrfso", 
-    "idx": 277, 
     "namespace": "wcrp:cmip5:variable:mrfso", 
     "status": "pending", 
-    "uid": "9d95b4d9-c629-432f-952f-bef42fca9215"
+    "uid": "ce34a70e-377b-4bba-a9e9-0a3bae892eab"
 }

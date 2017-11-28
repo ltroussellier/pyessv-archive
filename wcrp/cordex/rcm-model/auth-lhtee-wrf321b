@@ -3,10 +3,9 @@
     "canonical_name": "auth-lhtee-wrf321b", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "AUTH-LHTEE-WRF321B", 
-    "idx": 0, 
     "label": "AUTH-LHTEE-WRF321B", 
     "namespace": "wcrp:cordex:rcm-model:auth-lhtee-wrf321b", 
     "raw_name": "AUTH-LHTEE-WRF321B", 
     "status": "pending", 
-    "uid": "75edfef6-8d25-41d6-b376-11dadd0366b0"
+    "uid": "a8fe1b71-9454-42d6-b443-89eccc6277aa"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "height", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "height", 
-    "idx": 18, 
     "namespace": "wcrp:cordex:thredds-exclude-variables:height", 
     "status": "pending", 
-    "uid": "227d32dc-a81a-4a32-93b5-f0edbb3d0dd6"
+    "uid": "17792e92-1cfa-4194-8e4e-06c103a6cdd2"
 }

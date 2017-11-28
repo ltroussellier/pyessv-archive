@@ -3,10 +3,9 @@
     "canonical_name": "bounds-lat", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "bounds_lat", 
-    "idx": 10, 
     "label": "bounds_lat", 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:bounds-lat", 
     "raw_name": "bounds_lat", 
     "status": "pending", 
-    "uid": "96187d8a-fa2d-47ca-b149-ba0df43894e6"
+    "uid": "00ac4a5a-c92a-4346-9b98-13e32896565a"
 }

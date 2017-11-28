@@ -3,10 +3,9 @@
     "canonical_name": "landice", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "landIce", 
-    "idx": 3, 
     "label": "landIce", 
     "namespace": "wcrp:cmip5:realm:landice", 
     "raw_name": "landIce", 
     "status": "pending", 
-    "uid": "67ff81a6-2610-4c59-aff9-ca4260c54f72"
+    "uid": "78a90f5f-f28c-46a6-be8b-796c4020e594"
 }

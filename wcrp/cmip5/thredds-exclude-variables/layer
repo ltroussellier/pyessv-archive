@@ -3,8 +3,7 @@
     "canonical_name": "layer", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "layer", 
-    "idx": 24, 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:layer", 
     "status": "pending", 
-    "uid": "9f327099-29af-4bbd-9fff-487313b2ce6d"
+    "uid": "ee590630-e846-4172-b734-95f97ad6e675"
 }

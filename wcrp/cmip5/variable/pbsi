@@ -3,8 +3,7 @@
     "canonical_name": "pbsi", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "pbsi", 
-    "idx": 318, 
     "namespace": "wcrp:cmip5:variable:pbsi", 
     "status": "pending", 
-    "uid": "9e7b07a5-c036-4bd3-b174-230db3b75e93"
+    "uid": "e768aac1-6859-4034-a38c-33fd92ada033"
 }

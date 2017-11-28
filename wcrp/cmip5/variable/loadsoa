@@ -3,8 +3,7 @@
     "canonical_name": "loadsoa", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "loadsoa", 
-    "idx": 266, 
     "namespace": "wcrp:cmip5:variable:loadsoa", 
     "status": "pending", 
-    "uid": "7ee0ab4e-765e-4508-bcaa-828dc1e49dcd"
+    "uid": "9e121cfd-2808-4ef1-97fd-26c135251450"
 }

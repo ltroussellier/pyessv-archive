@@ -51,7 +51,6 @@
         "release_year": "2017", 
         "source_id": "EMAC-2-53-AerChem"
     }, 
-    "idx": 69, 
     "label": "EMAC-2-53-AerChem", 
     "namespace": "wcrp:cmip6:source-id:emac-2-53-aerchem", 
     "raw_name": "EMAC-2-53-AerChem", 

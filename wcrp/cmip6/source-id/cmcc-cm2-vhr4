@@ -51,7 +51,6 @@
         "release_year": "2017", 
         "source_id": "CMCC-CM2-VHR4"
     }, 
-    "idx": 9, 
     "label": "CMCC-CM2-VHR4", 
     "namespace": "wcrp:cmip6:source-id:cmcc-cm2-vhr4", 
     "raw_name": "CMCC-CM2-VHR4", 

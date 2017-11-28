@@ -29,7 +29,6 @@
         "tier": "2"
     }, 
     "description": "Coupled integrations with SSP5 forcing (nearest to CMIP5 RCP8.5 (as in highresSST-future)", 
-    "idx": 181, 
     "namespace": "wcrp:cmip6:experiment-id:highres-future", 
     "status": "pending", 
     "uid": "55b4bab7-2459-41b2-bae4-81c643eb4184"

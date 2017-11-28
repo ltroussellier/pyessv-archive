@@ -31,7 +31,6 @@
         "tier": "1"
     }, 
     "description": "Using solar irradiance reduction, return the radiative forcing from a background of the ScenarioMIP high forcing to the ScenarioMIP middle forcing", 
-    "idx": 38, 
     "label": "G6solar", 
     "namespace": "wcrp:cmip6:experiment-id:g6solar", 
     "raw_name": "G6solar", 

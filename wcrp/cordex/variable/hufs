@@ -3,8 +3,7 @@
     "canonical_name": "hufs", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hufs", 
-    "idx": 52, 
     "namespace": "wcrp:cordex:variable:hufs", 
     "status": "pending", 
-    "uid": "13f95b21-282a-4827-a822-3cd0cd84a35d"
+    "uid": "016bc543-a40f-42fe-b993-5a09416b4402"
 }

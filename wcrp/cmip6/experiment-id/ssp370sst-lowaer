@@ -30,7 +30,6 @@
         "tier": "2"
     }, 
     "description": "Future SSP3-7.0 with reduced aerosol emissions (from ssp370-lowNTCF), prescribed SSTs", 
-    "idx": 57, 
     "label": "ssp370SST-lowAer", 
     "namespace": "wcrp:cmip6:experiment-id:ssp370sst-lowaer", 
     "raw_name": "ssp370SST-lowAer", 

@@ -31,7 +31,6 @@
         "tier": "2"
     }, 
     "description": "Identical to the DECK abrupt-4xCO2, but at 2xCO2", 
-    "idx": 68, 
     "label": "abrupt-2xCO2", 
     "namespace": "wcrp:cmip6:experiment-id:abrupt-2xco2", 
     "raw_name": "abrupt-2xCO2", 

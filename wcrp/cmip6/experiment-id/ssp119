@@ -31,7 +31,6 @@
         "tier": "2"
     }, 
     "description": "Future scenario with low radiative forcing throughout reaching about 1.9 W/m2 in 2100 based on SSP1. Concentration-driven", 
-    "idx": 214, 
     "namespace": "wcrp:cmip6:experiment-id:ssp119", 
     "status": "pending", 
     "uid": "0d88e129-55e4-44ca-af50-edb8c02696aa"

@@ -30,7 +30,6 @@
         "tier": "1"
     }, 
     "description": "Historical transient with SSTs prescribed from historical", 
-    "idx": 156, 
     "label": "histSST", 
     "namespace": "wcrp:cmip6:experiment-id:histsst", 
     "raw_name": "histSST", 

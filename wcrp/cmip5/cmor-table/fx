@@ -3,8 +3,7 @@
     "canonical_name": "fx", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fx", 
-    "idx": 17, 
     "namespace": "wcrp:cmip5:cmor-table:fx", 
     "status": "pending", 
-    "uid": "1034b58c-10b0-43cf-baab-5b7f74935a58"
+    "uid": "aeba4c1e-c394-42c8-b120-26718c05d1db"
 }

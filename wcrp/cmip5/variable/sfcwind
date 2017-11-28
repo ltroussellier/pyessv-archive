@@ -3,10 +3,9 @@
     "canonical_name": "sfcwind", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sfcWind", 
-    "idx": 428, 
     "label": "sfcWind", 
     "namespace": "wcrp:cmip5:variable:sfcwind", 
     "raw_name": "sfcWind", 
     "status": "pending", 
-    "uid": "522e9fe4-ee0c-44d8-aa4d-f82045af15df"
+    "uid": "46acf1af-db16-4afb-aefb-d5f2ceb08c44"
 }

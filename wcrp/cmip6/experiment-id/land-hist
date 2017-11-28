@@ -30,7 +30,6 @@
         "tier": "1"
     }, 
     "description": "Land only simulations", 
-    "idx": 164, 
     "namespace": "wcrp:cmip6:experiment-id:land-hist", 
     "status": "pending", 
     "uid": "60658860-7795-4b4c-9f59-80d9a1daaf97"

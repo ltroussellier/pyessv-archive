@@ -3,8 +3,7 @@
     "canonical_name": "pdi", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "pdi", 
-    "idx": 321, 
     "namespace": "wcrp:cmip5:variable:pdi", 
     "status": "pending", 
-    "uid": "d2dc7cd7-fbb1-4b42-834a-b0cc27f01c38"
+    "uid": "6b06d45b-7853-4561-8211-78f722714167"
 }

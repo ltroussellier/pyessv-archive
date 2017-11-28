@@ -3,10 +3,9 @@
     "canonical_name": "fharvest", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fHarvest", 
-    "idx": 169, 
     "label": "fHarvest", 
     "namespace": "wcrp:cmip5:variable:fharvest", 
     "raw_name": "fHarvest", 
     "status": "pending", 
-    "uid": "c8ac25be-4c4f-4b6c-a2e1-c6b2698ce2c9"
+    "uid": "845ab9ae-356e-43b1-b5ae-42f83d516d05"
 }

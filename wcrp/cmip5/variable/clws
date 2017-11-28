@@ -3,8 +3,7 @@
     "canonical_name": "clws", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "clws", 
-    "idx": 80, 
     "namespace": "wcrp:cmip5:variable:clws", 
     "status": "pending", 
-    "uid": "9a3f8373-e997-472a-9da3-4993e7551bd1"
+    "uid": "c2172e17-45a5-4453-9a9e-4a2b49025a03"
 }

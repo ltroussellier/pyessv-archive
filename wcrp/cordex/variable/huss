@@ -3,8 +3,7 @@
     "canonical_name": "huss", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "huss", 
-    "idx": 80, 
     "namespace": "wcrp:cordex:variable:huss", 
     "status": "pending", 
-    "uid": "464c3bcc-28cb-4cb5-8874-4a1cf05ccc47"
+    "uid": "e43d2dda-1c61-4694-b8b9-b2cd4c75de6a"
 }

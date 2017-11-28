@@ -3,8 +3,7 @@
     "canonical_name": "wap", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "wap", 
-    "idx": 568, 
     "namespace": "wcrp:cmip5:variable:wap", 
     "status": "pending", 
-    "uid": "87f9bd4a-91f0-4e0c-81cd-29f3949ee76c"
+    "uid": "ffe05132-1103-4877-9878-be9fccf804db"
 }

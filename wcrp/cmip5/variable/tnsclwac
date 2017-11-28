@@ -3,8 +3,7 @@
     "canonical_name": "tnsclwac", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tnsclwac", 
-    "idx": 511, 
     "namespace": "wcrp:cmip5:variable:tnsclwac", 
     "status": "pending", 
-    "uid": "5235f2e0-6fb9-49d1-8b56-01d890fe0f52"
+    "uid": "11e275ee-3c55-44fa-8ccf-48f31a5c875f"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "scatratio", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "scatratio", 
-    "idx": 51, 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:scatratio", 
     "status": "pending", 
-    "uid": "49229ef7-8b02-4089-a2bf-0cc0ff622477"
+    "uid": "d81fa7ef-341a-4610-93f0-f7e02ac05e5a"
 }

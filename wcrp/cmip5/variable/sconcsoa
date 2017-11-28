@@ -3,8 +3,7 @@
     "canonical_name": "sconcsoa", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sconcsoa", 
-    "idx": 426, 
     "namespace": "wcrp:cmip5:variable:sconcsoa", 
     "status": "pending", 
-    "uid": "fe7dfca0-aec9-4f88-ab4f-a32b5425cfa9"
+    "uid": "df61e3c3-a0c3-431a-a96a-518673f0a45e"
 }

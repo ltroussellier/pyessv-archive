@@ -31,7 +31,6 @@
         "tier": "2"
     }, 
     "description": "Future SSP3-7.0 with reduced ozone precursor emissions (from ssp370-lowNTCF), prescribed SSTs", 
-    "idx": 242, 
     "label": "ssp370SST-lowO3", 
     "namespace": "wcrp:cmip6:experiment-id:ssp370sst-lowo3", 
     "raw_name": "ssp370SST-lowO3", 

@@ -3,8 +3,7 @@
     "canonical_name": "orog", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "orog", 
-    "idx": 311, 
     "namespace": "wcrp:cmip5:variable:orog", 
     "status": "pending", 
-    "uid": "dbae612b-1808-4773-bdf0-f48d23da7310"
+    "uid": "fe056002-ce98-4562-ad92-203f94dc0ed9"
 }

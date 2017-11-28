@@ -3,8 +3,7 @@
     "canonical_name": "phymisc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "phymisc", 
-    "idx": 330, 
     "namespace": "wcrp:cmip5:variable:phymisc", 
     "status": "pending", 
-    "uid": "7217e6da-a174-44c8-b308-b97b8da7513a"
+    "uid": "dd4df67e-ad90-4b18-bc76-643f38e1701d"
 }

@@ -2,7 +2,6 @@
     "_type": "term", 
     "canonical_name": "500-km", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 13, 
     "label": "500 km", 
     "namespace": "wcrp:cmip6:nominal-resolution:500-km", 
     "raw_name": "500 km", 

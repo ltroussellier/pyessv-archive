@@ -3,8 +3,7 @@
     "canonical_name": "tauvcorr", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tauvcorr", 
-    "idx": 471, 
     "namespace": "wcrp:cmip5:variable:tauvcorr", 
     "status": "pending", 
-    "uid": "24230503-06de-4e21-b7d3-96b7df9110c4"
+    "uid": "6c48576d-5408-4fe5-bf2a-3c8740bbbfd8"
 }

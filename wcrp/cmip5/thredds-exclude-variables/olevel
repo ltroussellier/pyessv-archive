@@ -3,8 +3,7 @@
     "canonical_name": "olevel", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "olevel", 
-    "idx": 33, 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:olevel", 
     "status": "pending", 
-    "uid": "845327c3-a2bb-4524-ab2f-0e05a4d2bf16"
+    "uid": "0dc20ed0-2db5-4767-8018-ee824d9ea19f"
 }

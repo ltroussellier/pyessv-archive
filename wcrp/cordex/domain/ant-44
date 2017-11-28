@@ -3,10 +3,9 @@
     "canonical_name": "ant-44", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Antarctica", 
-    "idx": 2, 
     "label": "ANT-44", 
     "namespace": "wcrp:cordex:domain:ant-44", 
     "raw_name": "ANT-44", 
     "status": "pending", 
-    "uid": "98c6e141-7cb3-4c40-8a55-67cceb7a594b"
+    "uid": "b3c7a485-1947-4aa6-afab-e4a0e0a3c023"
 }

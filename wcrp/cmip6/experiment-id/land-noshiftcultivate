@@ -30,7 +30,6 @@
         "tier": "2"
     }, 
     "description": "Same as land-hist except shifting cultivation turned off. An additional LUC transitions dataset will be provided as a data layer within LUMIP LUH2 dataset with shifting cultivation deactivated", 
-    "idx": 93, 
     "label": "land-noShiftCultivate", 
     "namespace": "wcrp:cmip6:experiment-id:land-noshiftcultivate", 
     "raw_name": "land-noShiftCultivate", 

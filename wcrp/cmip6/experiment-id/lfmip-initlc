@@ -31,7 +31,6 @@
         "tier": "2"
     }, 
     "description": "Initialized pseudo-observations land", 
-    "idx": 204, 
     "label": "lfmip-initLC", 
     "namespace": "wcrp:cmip6:experiment-id:lfmip-initlc", 
     "raw_name": "lfmip-initLC", 

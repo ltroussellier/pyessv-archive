@@ -3,8 +3,7 @@
     "canonical_name": "evu", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "evu", 
-    "idx": 159, 
     "namespace": "wcrp:cmip5:variable:evu", 
     "status": "pending", 
-    "uid": "43f8b87a-0dae-4ec3-884a-24d23e780f22"
+    "uid": "e336e56f-7a75-4b7f-9b64-1a05b39d2d3a"
 }

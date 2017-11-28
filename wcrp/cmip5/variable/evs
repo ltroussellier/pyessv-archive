@@ -3,8 +3,7 @@
     "canonical_name": "evs", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "evs", 
-    "idx": 155, 
     "namespace": "wcrp:cmip5:variable:evs", 
     "status": "pending", 
-    "uid": "27541f62-e96f-420d-85c2-5f9db47b0dab"
+    "uid": "9362f68a-30b4-426e-8cf9-b378ffea2eea"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "tasmin", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tasmin", 
-    "idx": 466, 
     "namespace": "wcrp:cmip5:variable:tasmin", 
     "status": "pending", 
-    "uid": "60d6dfea-ad62-45a4-9ad2-d182da1699cd"
+    "uid": "aa3389bd-f479-4aeb-b82a-27473de0569a"
 }

@@ -3,8 +3,7 @@
     "canonical_name": "msftbarot", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "msftbarot", 
-    "idx": 285, 
     "namespace": "wcrp:cmip5:variable:msftbarot", 
     "status": "pending", 
-    "uid": "ff5863dd-4e3f-4899-9733-f5191cf8b009"
+    "uid": "7df23c70-6008-4ad9-aa06-194849fa0833"
 }

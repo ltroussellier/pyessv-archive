@@ -51,7 +51,6 @@
         "release_year": "2017", 
         "source_id": "CMCC-ESM2-HR5"
     }, 
-    "idx": 24, 
     "label": "CMCC-ESM2-HR5", 
     "namespace": "wcrp:cmip6:source-id:cmcc-esm2-hr5", 
     "raw_name": "CMCC-ESM2-HR5", 

@@ -2,10 +2,9 @@
     "_type": "term", 
     "canonical_name": "hadrm3p", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "idx": 30, 
     "label": "HadRM3P", 
     "namespace": "wcrp:cordex:rcm-name:hadrm3p", 
     "raw_name": "HadRM3P", 
     "status": "pending", 
-    "uid": "e84275ea-87a5-4b94-812b-dd9ff8907d2b"
+    "uid": "6fd07a68-55e9-4512-b13e-a34f0f58476b"
 }
