@@ -16,7 +16,7 @@
                     "canonical_name": "cmor-table", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "ESGF publisher-config CV collection:", 
-                    "label": "cmor_table", 
+                    "label": "CMOR Table", 
                     "namespace": "wcrp:cmip5:cmor-table", 
                     "raw_name": "cmor_table", 
                     "term_regex": "^[a-z0-9\\-]*$", 
@@ -41,23 +41,25 @@
                         "omon:Omon", 
                         "oyr:Oyr"
                     ], 
-                    "uid": "ac36ee01-8902-42b7-a213-18e194d85ef4"
+                    "uid": "91d6b57b-a561-45f5-9041-70afcd982b88"
                 }, 
                 {
                     "_type": "collection", 
                     "canonical_name": "ensemble", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "ESGF publisher-config CV collection:", 
+                    "label": "Ensemble", 
                     "namespace": "wcrp:cmip5:ensemble", 
                     "term_regex": "r[0-9]i[0-9]p[0-9]", 
                     "terms": [], 
-                    "uid": "ac1656e7-c3b8-4716-8f68-03c1ee9c7e28"
+                    "uid": "3a0c1ab0-7e9c-4c2f-8402-5a4af359d933"
                 }, 
                 {
                     "_type": "collection", 
                     "canonical_name": "experiment", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "ESGF publisher-config CV collection:", 
+                    "label": "Experiment", 
                     "namespace": "wcrp:cmip5:experiment", 
                     "term_regex": "^[a-z0-9\\-]*$", 
                     "terms": [
@@ -164,13 +166,14 @@
                         "sstclimsulfate:sstClimSulfate", 
                         "volcin2010:volcIn2010"
                     ], 
-                    "uid": "cc7366b8-4e28-4ad2-895a-71eca91f71b4"
+                    "uid": "99e5b981-77c8-4a21-b890-47902962c847"
                 }, 
                 {
                     "_type": "collection", 
                     "canonical_name": "institute", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "ESGF publisher-config CV collection:", 
+                    "label": "Institute", 
                     "namespace": "wcrp:cmip5:institute", 
                     "term_regex": "^[a-z0-9\\-]*$", 
                     "terms": [
@@ -239,14 +242,14 @@
                         "nsf-doe-ncar:NSF-DOE-NCAR", 
                         "unsw:UNSW"
                     ], 
-                    "uid": "cdeb8c6a-734d-4e22-b73c-ff4195f2c4f0"
+                    "uid": "61b6239f-eb48-43bd-bd65-55e2fc952ddb"
                 }, 
                 {
                     "_type": "collection", 
                     "canonical_name": "las-time-delta", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "ESGF publisher-config CV collection:", 
-                    "label": "las_time_delta", 
+                    "label": "Las Time Delta", 
                     "namespace": "wcrp:cmip5:las-time-delta", 
                     "raw_name": "las_time_delta", 
                     "term_regex": "^[a-z0-9\\-]*$", 
@@ -260,13 +263,14 @@
                         "6-hours:6 hours", 
                         "fixed:fixed"
                     ], 
-                    "uid": "07a6fea1-ef00-4628-9bff-04b79efb14e6"
+                    "uid": "4c96a61f-4ece-47a4-b317-9345d401df7b"
                 }, 
                 {
                     "_type": "collection", 
                     "canonical_name": "model", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "ESGF publisher-config CV collection:", 
+                    "label": "Model", 
                     "namespace": "wcrp:cmip5:model", 
                     "term_regex": "^[a-z0-9\\-]*$", 
                     "terms": [
@@ -335,26 +339,28 @@
                         "noresm1-me:NorESM1-ME", 
                         "sp-ccsm4:SP-CCSM4"
                     ], 
-                    "uid": "90fea22e-0343-4070-b8b8-6a172a8b1ac5"
+                    "uid": "02679345-7c83-4272-9d28-70722a9b1630"
                 }, 
                 {
                     "_type": "collection", 
                     "canonical_name": "product", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "ESGF publisher-config CV collection:", 
+                    "label": "Product", 
                     "namespace": "wcrp:cmip5:product", 
                     "term_regex": "^[a-z0-9\\-]*$", 
                     "terms": [
                         "output1:output1", 
                         "output2:output2"
                     ], 
-                    "uid": "26a550a1-6713-430d-9050-02408ca12702"
+                    "uid": "aced7e28-7ecf-4d67-9a3d-dd8cc7930564"
                 }, 
                 {
                     "_type": "collection", 
                     "canonical_name": "realm", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "ESGF publisher-config CV collection:", 
+                    "label": "Realm", 
                     "namespace": "wcrp:cmip5:realm", 
                     "term_regex": "^[a-z0-9\\-]*$", 
                     "terms": [
@@ -367,14 +373,14 @@
                         "ocnbgchem:ocnBgchem", 
                         "seaice:seaIce"
                     ], 
-                    "uid": "cc5307ab-ee6f-46a9-932e-a1c73e96e8ee"
+                    "uid": "ae647a48-d105-421a-a798-7666a50217be"
                 }, 
                 {
                     "_type": "collection", 
                     "canonical_name": "thredds-exclude-variables", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "ESGF publisher-config CV collection:", 
-                    "label": "thredds_exclude_variables", 
+                    "label": "Thredds Exclude Variables", 
                     "namespace": "wcrp:cmip5:thredds-exclude-variables", 
                     "raw_name": "thredds_exclude_variables", 
                     "term_regex": "^[a-z0-9\\-]*$", 
@@ -441,14 +447,14 @@
                         "time2:time2", 
                         "vegtype:vegtype"
                     ], 
-                    "uid": "a1c0aab6-7487-452c-be6c-9594732037b0"
+                    "uid": "d7d66eab-195f-43f2-b9a4-4a3e5b7e9e31"
                 }, 
                 {
                     "_type": "collection", 
                     "canonical_name": "time-frequency", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "ESGF publisher-config CV collection:", 
-                    "label": "time_frequency", 
+                    "label": "Time Frequency", 
                     "namespace": "wcrp:cmip5:time-frequency", 
                     "raw_name": "time_frequency", 
                     "term_regex": "^[a-z0-9\\-]*$", 
@@ -462,13 +468,14 @@
                         "subhr:subhr", 
                         "yr:yr"
                     ], 
-                    "uid": "821c86f8-7aa6-41aa-8076-21d6a773e593"
+                    "uid": "97d0fab0-eab2-45d8-8dc3-423a2e40b8e9"
                 }, 
                 {
                     "_type": "collection", 
                     "canonical_name": "variable", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "ESGF publisher-config CV collection:", 
+                    "label": "Variable", 
                     "namespace": "wcrp:cmip5:variable", 
                     "term_regex": "^[a-z0-9\\-]*$", 
                     "terms": [
@@ -1073,17 +1080,18 @@
                         "zsatarag:zsatarag", 
                         "zsatcalc:zsatcalc"
                     ], 
-                    "uid": "4bd5676a-fb20-411d-9575-ebfbc3cde15e"
+                    "uid": "d3e8d1ae-ded5-4fb0-a467-a946fa948ea1"
                 }, 
                 {
                     "_type": "collection", 
                     "canonical_name": "version", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "ESGF publisher-config CV collection:", 
+                    "label": "Version", 
                     "namespace": "wcrp:cmip5:version", 
                     "term_regex": "^v[0-9]*$", 
                     "terms": [], 
-                    "uid": "3a2e6a30-1879-4ff5-8a4a-8f2d1e93369f"
+                    "uid": "d2b873bb-f506-4591-be41-9d01a8e1ea43"
                 }
             ], 
             "create_date": "2017-06-21 00:00:00+00:00", 
@@ -1096,7 +1104,7 @@
             "description": "ESGF publisher controlled Vocabularies (CVs) for use in CMIP5", 
             "label": "CMIP5", 
             "namespace": "wcrp:cmip5", 
-            "uid": "6783addf-9e62-41eb-aa57-f0a8eaeea37b", 
+            "uid": "ef25d140-4c65-47fc-8c66-2b91fd86d9a5", 
             "url": "https://esgf.llnl.gov"
         }, 
         {
@@ -1108,7 +1116,7 @@
                     "canonical_name": "activity-id", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "WCRP CMIP6 CV collection:", 
-                    "label": "activity_id", 
+                    "label": "Activity", 
                     "namespace": "wcrp:cmip6:activity-id", 
                     "raw_name": "activity_id", 
                     "term_regex": "^[a-z0-9\\-]*$", 
@@ -1143,6 +1151,7 @@
                     "canonical_name": "ensemble", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "WCRP CMIP6 CV collection:", 
+                    "label": "Ensemble", 
                     "namespace": "wcrp:cmip6:ensemble", 
                     "term_regex": "r[0-9]i[0-9]p[0-9]f[0-9]", 
                     "terms": [], 
@@ -1153,7 +1162,7 @@
                     "canonical_name": "experiment-id", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "WCRP CMIP6 CV collection:", 
-                    "label": "experiment_id", 
+                    "label": "Experiment ID", 
                     "namespace": "wcrp:cmip6:experiment-id", 
                     "raw_name": "experiment_id", 
                     "term_regex": "^[a-z0-9\\-]*$", 
@@ -1414,6 +1423,7 @@
                     "canonical_name": "frequency", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "WCRP CMIP6 CV collection:", 
+                    "label": "Frequency", 
                     "namespace": "wcrp:cmip6:frequency", 
                     "term_regex": "^[a-z0-9\\-]*$", 
                     "terms": [
@@ -1441,7 +1451,7 @@
                     "canonical_name": "grid-label", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "WCRP CMIP6 CV collection:", 
-                    "label": "grid_label", 
+                    "label": "Grid Label", 
                     "namespace": "wcrp:cmip6:grid-label", 
                     "raw_name": "grid_label", 
                     "term_regex": "^[a-z0-9\\-]*$", 
@@ -1499,7 +1509,7 @@
                     "canonical_name": "institution-id", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "WCRP CMIP6 CV collection:", 
-                    "label": "institution_id", 
+                    "label": "Institution ID", 
                     "namespace": "wcrp:cmip6:institution-id", 
                     "raw_name": "institution_id", 
                     "term_regex": "^[a-z0-9\\-]*$", 
@@ -1545,7 +1555,7 @@
                     "canonical_name": "las-time-delta", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "ESGF publisher-config CV collection:", 
-                    "label": "las_time_delta", 
+                    "label": "Las Time Delta", 
                     "namespace": "wcrp:cmip6:las-time-delta", 
                     "raw_name": "las_time_delta", 
                     "term_regex": "^[a-z0-9\\-]*$", 
@@ -1562,14 +1572,14 @@
                         "6-hours:6 hours", 
                         "fixed:fixed"
                     ], 
-                    "uid": "c1f5333e-e5c5-4209-881d-e7b5788c85d8"
+                    "uid": "0dddb614-a1ce-4ba8-a097-c12ba5848ede"
                 }, 
                 {
                     "_type": "collection", 
                     "canonical_name": "nominal-resolution", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "WCRP CMIP6 CV collection:", 
-                    "label": "nominal_resolution", 
+                    "label": "Nominal Resolution", 
                     "namespace": "wcrp:cmip6:nominal-resolution", 
                     "raw_name": "nominal_resolution", 
                     "term_regex": "^[a-z0-9\\-\\.]*$", 
@@ -1597,6 +1607,7 @@
                     "canonical_name": "realm", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "WCRP CMIP6 CV collection:", 
+                    "label": "Realm", 
                     "namespace": "wcrp:cmip6:realm", 
                     "term_regex": "^[a-z0-9\\-]*$", 
                     "terms": [
@@ -1616,7 +1627,7 @@
                     "canonical_name": "required-global-attributes", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "WCRP CMIP6 CV collection:", 
-                    "label": "required_global_attributes", 
+                    "label": "Required Global Attributes", 
                     "namespace": "wcrp:cmip6:required-global-attributes", 
                     "raw_name": "required_global_attributes", 
                     "term_regex": "^[a-z0-9\\-]*$", 
@@ -1659,7 +1670,7 @@
                     "canonical_name": "source-id", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "WCRP CMIP6 CV collection:", 
-                    "label": "source_id", 
+                    "label": "Source ID", 
                     "namespace": "wcrp:cmip6:source-id", 
                     "raw_name": "source_id", 
                     "term_regex": "^[a-z0-9\\-]*$", 
@@ -1748,7 +1759,7 @@
                     "canonical_name": "source-type", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "WCRP CMIP6 CV collection:", 
-                    "label": "source_type", 
+                    "label": "Source Type", 
                     "namespace": "wcrp:cmip6:source-type", 
                     "raw_name": "source_type", 
                     "term_regex": "^[a-z0-9\\-]*$", 
@@ -1771,7 +1782,7 @@
                     "canonical_name": "sub-experiment-id", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "WCRP CMIP6 CV collection:", 
-                    "label": "sub_experiment_id", 
+                    "label": "Sub Experiment ID", 
                     "namespace": "wcrp:cmip6:sub-experiment-id", 
                     "raw_name": "sub_experiment_id", 
                     "term_regex": "^[a-z0-9\\-]*$", 
@@ -1856,7 +1867,7 @@
                     "canonical_name": "table-id", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "WCRP CMIP6 CV collection:", 
-                    "label": "table_id", 
+                    "label": "Table ID", 
                     "namespace": "wcrp:cmip6:table-id", 
                     "raw_name": "table_id", 
                     "term_regex": "^[a-z0-9\\-]*$", 
@@ -1912,7 +1923,7 @@
                     "canonical_name": "thredds-exclude-variables", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "ESGF publisher-config CV collection:", 
-                    "label": "thredds_exclude_variables", 
+                    "label": "Thredds Exclude Variables", 
                     "namespace": "wcrp:cmip6:thredds-exclude-variables", 
                     "raw_name": "thredds_exclude_variables", 
                     "term_regex": "^[a-z0-9\\-]*$", 
@@ -1980,13 +1991,14 @@
                         "time2:time2", 
                         "vegtype:vegtype"
                     ], 
-                    "uid": "61aca5df-adb4-4bf9-8f17-d6df0ca3c934"
+                    "uid": "52cf420b-d006-4105-9b02-f82aff40d255"
                 }, 
                 {
                     "_type": "collection", 
                     "canonical_name": "variable", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "WCRP CMIP6 CV collection:", 
+                    "label": "Variable", 
                     "namespace": "wcrp:cmip6:variable", 
                     "term_regex": "^[A-Za-z0-9]*$", 
                     "terms": [], 
@@ -1997,6 +2009,7 @@
                     "canonical_name": "version", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "WCRP CMIP6 CV collection:", 
+                    "label": "Version", 
                     "namespace": "wcrp:cmip6:version", 
                     "term_regex": "^[0-9]*$", 
                     "terms": [], 
@@ -2026,6 +2039,7 @@
                     "canonical_name": "domain", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "ESGF publisher-config CV collection:", 
+                    "label": "Domain", 
                     "namespace": "wcrp:cordex:domain", 
                     "term_regex": "^[a-z0-9\\-]*$", 
                     "terms": [
@@ -2060,14 +2074,14 @@
                         "was-44:WAS-44", 
                         "was-44i:WAS-44i"
                     ], 
-                    "uid": "49465f7d-e0ad-46dc-9b5f-8d7e707c8a34"
+                    "uid": "32aba1c5-2e18-4e2b-8962-bbc20ddb2a1c"
                 }, 
                 {
                     "_type": "collection", 
                     "canonical_name": "driving-model", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "ESGF publisher-config CV collection:", 
-                    "label": "driving_model", 
+                    "label": "Driving Model", 
                     "namespace": "wcrp:cordex:driving-model", 
                     "raw_name": "driving_model", 
                     "term_regex": "^[a-z0-9\\-]*$", 
@@ -2087,23 +2101,25 @@
                         "noaa-gfdl-gfdl-esm2g:NOAA-GFDL-GFDL-ESM2G", 
                         "noaa-gfdl-gfdl-esm2m:NOAA-GFDL-GFDL-ESM2M"
                     ], 
-                    "uid": "83e62e44-24a7-43e3-941c-60ebda91d9ed"
+                    "uid": "09da90c0-0169-4076-967d-53f4f47a6c42"
                 }, 
                 {
                     "_type": "collection", 
                     "canonical_name": "ensemble", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "ESGF publisher-config CV collection:", 
+                    "label": "Ensemble", 
                     "namespace": "wcrp:cordex:ensemble", 
                     "term_regex": "r[0-9]*i[0-9]p[0-9]", 
                     "terms": [], 
-                    "uid": "2cd3db7a-d485-4e36-8f30-6e92a2933e71"
+                    "uid": "ab569d83-fadd-4388-8344-0b7466d22f3f"
                 }, 
                 {
                     "_type": "collection", 
                     "canonical_name": "experiment", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "ESGF publisher-config CV collection:", 
+                    "label": "Experiment", 
                     "namespace": "wcrp:cordex:experiment", 
                     "term_regex": "^[a-z0-9\\-]*$", 
                     "terms": [
@@ -2114,13 +2130,14 @@
                         "rcp60:rcp60", 
                         "rcp85:rcp85"
                     ], 
-                    "uid": "aaf3d990-23ff-4ddb-8a2b-24935979ca53"
+                    "uid": "3f4ee761-fe8f-4484-9dd9-1136dc374cb8"
                 }, 
                 {
                     "_type": "collection", 
                     "canonical_name": "institute", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "ESGF publisher-config CV collection:", 
+                    "label": "Institute", 
                     "namespace": "wcrp:cordex:institute", 
                     "term_regex": "^[a-z0-9\\-]*$", 
                     "terms": [
@@ -2157,14 +2174,14 @@
                         "ulg:ULg", 
                         "uqam:UQAM"
                     ], 
-                    "uid": "1fe9f24b-a2b9-4af5-a536-c97df4398e79"
+                    "uid": "38d15dfb-af98-471b-a917-aedbf8e89f06"
                 }, 
                 {
                     "_type": "collection", 
                     "canonical_name": "las-time-delta", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "ESGF publisher-config CV collection:", 
-                    "label": "las_time_delta", 
+                    "label": "Las Time Delta", 
                     "namespace": "wcrp:cordex:las-time-delta", 
                     "raw_name": "las_time_delta", 
                     "term_regex": "^[a-z0-9\\-]*$", 
@@ -2175,26 +2192,27 @@
                         "fixed:fixed", 
                         "seasonal-mean:seasonal mean"
                     ], 
-                    "uid": "ee98f46c-ef4e-4c7b-af6f-44943e4165a6"
+                    "uid": "bbfbeec6-9eb9-496b-974f-5b4b1e9bdad1"
                 }, 
                 {
                     "_type": "collection", 
                     "canonical_name": "product", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "ESGF publisher-config CV collection:", 
+                    "label": "Product", 
                     "namespace": "wcrp:cordex:product", 
                     "term_regex": "^[a-z0-9\\-]*$", 
                     "terms": [
                         "output:output"
                     ], 
-                    "uid": "0da0f82d-9505-46a3-9a6b-f8ceef662b62"
+                    "uid": "2c7dba52-a55a-46b2-81d8-6405e532a646"
                 }, 
                 {
                     "_type": "collection", 
                     "canonical_name": "rcm-model", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "ESGF publisher-config CV collection:", 
-                    "label": "rcm_model", 
+                    "label": "RCM Model", 
                     "namespace": "wcrp:cordex:rcm-model", 
                     "raw_name": "rcm_model", 
                     "term_regex": "^[a-z0-9\\-]*$", 
@@ -2243,14 +2261,14 @@
                         "ulg-mar36:ULg-MAR36", 
                         "uqam-crcm5:UQAM-CRCM5"
                     ], 
-                    "uid": "18b77aea-8222-4aed-826a-84af05d9b37d"
+                    "uid": "fb186e6c-9b79-485c-b374-3569ee911c84"
                 }, 
                 {
                     "_type": "collection", 
                     "canonical_name": "rcm-name", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "ESGF publisher-config CV collection:", 
-                    "label": "rcm_name", 
+                    "label": "RCM Name", 
                     "namespace": "wcrp:cordex:rcm-name", 
                     "raw_name": "rcm_name", 
                     "term_regex": "^[a-z0-9\\-]*$", 
@@ -2300,14 +2318,14 @@
                         "wrf331h:WRF331H", 
                         "wrf350i:WRF350I"
                     ], 
-                    "uid": "d8553966-ba1b-44bf-a4a7-cb18c2b3863f"
+                    "uid": "1719f035-36e5-4546-9bae-8d9651eb4ce8"
                 }, 
                 {
                     "_type": "collection", 
                     "canonical_name": "rcm-version", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "ESGF publisher-config CV collection:", 
-                    "label": "rcm_version", 
+                    "label": "RCM Version", 
                     "namespace": "wcrp:cordex:rcm-version", 
                     "raw_name": "rcm_version", 
                     "term_regex": "^[a-z0-9\\-]*$", 
@@ -2321,14 +2339,14 @@
                         "v411:v411", 
                         "v5:v5"
                     ], 
-                    "uid": "a542ff10-1d62-467d-9b23-f71e30d011f3"
+                    "uid": "398ba648-1bd6-40de-ae4b-fdf2f220172c"
                 }, 
                 {
                     "_type": "collection", 
                     "canonical_name": "thredds-exclude-variables", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "ESGF publisher-config CV collection:", 
-                    "label": "thredds_exclude_variables", 
+                    "label": "Thredds Exclude Variables", 
                     "namespace": "wcrp:cordex:thredds-exclude-variables", 
                     "raw_name": "thredds_exclude_variables", 
                     "term_regex": "^[a-z0-9\\-]*$", 
@@ -2407,14 +2425,14 @@
                         "x:x", 
                         "y:y"
                     ], 
-                    "uid": "9b50e92e-46bf-41f3-8b3e-5d480eacea88"
+                    "uid": "92d52446-6037-47fb-ba41-d4837e81359d"
                 }, 
                 {
                     "_type": "collection", 
                     "canonical_name": "time-frequency", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "ESGF publisher-config CV collection:", 
-                    "label": "time_frequency", 
+                    "label": "Time Frequency", 
                     "namespace": "wcrp:cordex:time-frequency", 
                     "raw_name": "time_frequency", 
                     "term_regex": "^[a-z0-9\\-]*$", 
@@ -2425,13 +2443,14 @@
                         "mon:mon", 
                         "sem:sem"
                     ], 
-                    "uid": "a5172b6a-0e17-447b-898a-d2423427c07c"
+                    "uid": "0ab4b407-4bab-4222-9178-0ff31274dadc"
                 }, 
                 {
                     "_type": "collection", 
                     "canonical_name": "variable", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "ESGF publisher-config CV collection:", 
+                    "label": "Variable", 
                     "namespace": "wcrp:cordex:variable", 
                     "term_regex": "^[a-z0-9\\-]*$", 
                     "terms": [
@@ -2638,17 +2657,18 @@
                         "zg975:zg975", 
                         "zmla:zmla"
                     ], 
-                    "uid": "499c8161-5c69-40ee-ae87-b5949f69a509"
+                    "uid": "5be0f9c5-7550-4814-90f9-8998950c1865"
                 }, 
                 {
                     "_type": "collection", 
                     "canonical_name": "version", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "ESGF publisher-config CV collection:", 
+                    "label": "Version", 
                     "namespace": "wcrp:cordex:version", 
                     "term_regex": "^[0-9]*$", 
                     "terms": [], 
-                    "uid": "16a5cf01-14be-4796-bdf8-43cc51802a22"
+                    "uid": "b3c4e953-bcf3-4a7d-a6f3-a273426d4a79"
                 }
             ], 
             "create_date": "2017-06-21 00:00:00+00:00", 
@@ -2662,7 +2682,7 @@
             "description": "ESGF publisher controlled Vocabularies (CVs) for use in CORDEX", 
             "label": "CORDEX", 
             "namespace": "wcrp:cordex", 
-            "uid": "c8c9d7e4-ff40-4570-9851-73abdc05c604", 
+            "uid": "205c328e-69f8-48a4-8361-57c22ea49fab", 
             "url": "https://esgf.llnl.gov"
         }, 
         {
@@ -2674,7 +2694,7 @@
                     "canonical_name": "mip-era", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "WCRP CMIP6 CV collection:", 
-                    "label": "mip_era", 
+                    "label": "Mip Era", 
                     "namespace": "wcrp:global:mip-era", 
                     "raw_name": "mip_era", 
                     "term_regex": "^[a-z0-9\\-]*$", 
