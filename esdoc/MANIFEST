@@ -22,7 +22,7 @@
                         "delete:Delete", 
                         "insert:Insert"
                     ], 
-                    "uid": "0cea184d-2652-4632-ab0b-b74a6854675c"
+                    "uid": "36c98350-4208-46ae-bf28-f97d020829b4"
                 }, 
                 {
                     "_type": "collection", 
@@ -37,7 +37,7 @@
                         "error:Error", 
                         "queued:Queued"
                     ], 
-                    "uid": "8212083c-6ebb-4481-a154-6666aaba1abd"
+                    "uid": "d51daf9b-5e19-4302-b2e1-dee00c9d6a1b"
                 }, 
                 {
                     "_type": "collection", 
@@ -52,7 +52,7 @@
                         "cmip6:CMIP6", 
                         "cordex:CORDEX"
                     ], 
-                    "uid": "4bedf6ae-04d5-47e5-97fa-b4e2b0af0799"
+                    "uid": "0433db49-6441-446c-b098-26ae76d43b74"
                 }, 
                 {
                     "_type": "collection", 
@@ -68,7 +68,7 @@
                         "low:Low", 
                         "medium:Medium"
                     ], 
-                    "uid": "ba91ddc6-a102-423f-b646-67820c4534ac"
+                    "uid": "0ab0f4ff-6e67-42b9-afa7-22e0286888db"
                 }, 
                 {
                     "_type": "collection", 
@@ -84,17 +84,17 @@
                         "resolved:Resolved", 
                         "wontfix:Wont Fix"
                     ], 
-                    "uid": "87cafd4a-9eba-42f3-91aa-25abaae3895c"
+                    "uid": "8a600686-b80a-441c-a9db-d99d45fe7fe5"
                 }
             ], 
             "create_date": "2017-06-21 00:00:00+00:00", 
             "description": "Controlled Vocabularies (CVs) for use in dataset errata", 
             "label": "Dataset Errata", 
             "namespace": "esdoc:errata", 
-            "uid": "98039e08-e9aa-4039-92d6-b0359d57ce81", 
+            "uid": "81c1b150-e35a-4f8a-98ea-e25f0ec3e039", 
             "url": "https://github.com/ES-DOC/esdoc-errata-ws"
         }
     ], 
-    "uid": "8e4f2a46-9600-4791-8967-1333ac77cc20", 
+    "uid": "12207d6b-9d3e-480f-b72d-75c67052cc8b", 
     "url": "https://es-doc.org"
 }
