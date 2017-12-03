@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "error", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "data": {
+        "color": "#a61c00"
+    }, 
+    "label": "Error", 
+    "namespace": "esdoc:errata:pid-task-status:error", 
+    "status": "pending", 
+    "uid": "416f9819-12c4-455b-a3b6-b9438b482f02"
+}

@@ -9,11 +9,11 @@
             "wcrp:cordex:rcm-model", 
             "wcrp:cordex:variable"
         ], 
+        "is_documented": false, 
         "is_pid_client": false
     }, 
-    "idx": 2, 
     "label": "CORDEX", 
     "namespace": "esdoc:errata:project:cordex", 
     "status": "pending", 
-    "uid": "73608cd1-878a-4b5b-84a3-e552fd561853"
+    "uid": "1ce50c51-0c4c-4b49-b755-ada40ef77ee5"
 }

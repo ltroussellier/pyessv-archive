@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "queued", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "data": {
+        "color": "#dd7e6b"
+    }, 
+    "label": "Queued", 
+    "namespace": "esdoc:errata:pid-task-status:queued", 
+    "status": "pending", 
+    "uid": "84fc90d5-f093-4e50-a32c-7fc3068b1aff"
+}

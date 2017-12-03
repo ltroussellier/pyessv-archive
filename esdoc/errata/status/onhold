@@ -5,9 +5,8 @@
     "data": {
         "color": "#ff9900"
     }, 
-    "idx": 1, 
     "label": "On Hold", 
     "namespace": "esdoc:errata:status:onhold", 
     "status": "pending", 
-    "uid": "9a8f48e3-9ec2-4c18-8729-146d9a8b68ea"
+    "uid": "95021d4a-3fad-413a-bd80-f1b048c2c6eb"
 }

@@ -6,9 +6,8 @@
         "color": "#a61c00", 
         "sortOrdinal": 3
     }, 
-    "idx": 3, 
     "label": "Critical", 
     "namespace": "esdoc:errata:severity:critical", 
     "status": "pending", 
-    "uid": "8a0c6d19-d72b-4313-baf2-e385307dfa0d"
+    "uid": "ac8c7184-101f-476b-951f-5a8ec2e9c69a"
 }

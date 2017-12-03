@@ -12,6 +12,35 @@
             "collections": [
                 {
                     "_type": "collection", 
+                    "canonical_name": "pid-task-action", 
+                    "create_date": "2017-06-21 00:00:00+00:00", 
+                    "description": "Errata PID task action codes", 
+                    "label": "Action", 
+                    "namespace": "esdoc:errata:pid-task-action", 
+                    "term_regex": "^[a-z0-9\\-]*$", 
+                    "terms": [
+                        "delete:Delete", 
+                        "insert:Insert"
+                    ], 
+                    "uid": "0cea184d-2652-4632-ab0b-b74a6854675c"
+                }, 
+                {
+                    "_type": "collection", 
+                    "canonical_name": "pid-task-status", 
+                    "create_date": "2017-06-21 00:00:00+00:00", 
+                    "description": "Errata PID task status codes", 
+                    "label": "Status", 
+                    "namespace": "esdoc:errata:pid-task-status", 
+                    "term_regex": "^[a-z0-9\\-]*$", 
+                    "terms": [
+                        "complete:Complete", 
+                        "error:Error", 
+                        "queued:Queued"
+                    ], 
+                    "uid": "8212083c-6ebb-4481-a154-6666aaba1abd"
+                }, 
+                {
+                    "_type": "collection", 
                     "canonical_name": "project", 
                     "create_date": "2017-06-21 00:00:00+00:00", 
                     "description": "Errata supported project codes", 
@@ -23,7 +52,7 @@
                         "cmip6:CMIP6", 
                         "cordex:CORDEX"
                     ], 
-                    "uid": "e5260b23-0cc9-463b-bdff-8694209487b3"
+                    "uid": "4bedf6ae-04d5-47e5-97fa-b4e2b0af0799"
                 }, 
                 {
                     "_type": "collection", 
@@ -39,7 +68,7 @@
                         "low:Low", 
                         "medium:Medium"
                     ], 
-                    "uid": "46c835ac-3b3e-40dc-b174-92735e240d32"
+                    "uid": "ba91ddc6-a102-423f-b646-67820c4534ac"
                 }, 
                 {
                     "_type": "collection", 
@@ -55,17 +84,17 @@
                         "resolved:Resolved", 
                         "wontfix:Wont Fix"
                     ], 
-                    "uid": "16f8808f-4a57-436b-8d17-a928f7123729"
+                    "uid": "87cafd4a-9eba-42f3-91aa-25abaae3895c"
                 }
             ], 
             "create_date": "2017-06-21 00:00:00+00:00", 
             "description": "Controlled Vocabularies (CVs) for use in dataset errata", 
             "label": "Dataset Errata", 
             "namespace": "esdoc:errata", 
-            "uid": "a94e0ce8-a6f7-4315-be87-1d79bea9feaf", 
+            "uid": "98039e08-e9aa-4039-92d6-b0359d57ce81", 
             "url": "https://github.com/ES-DOC/esdoc-errata-ws"
         }
     ], 
-    "uid": "f786746b-4734-4512-b493-2423212e6e3b", 
+    "uid": "8e4f2a46-9600-4791-8967-1333ac77cc20", 
     "url": "https://es-doc.org"
 }

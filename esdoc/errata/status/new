@@ -5,9 +5,8 @@
     "data": {
         "color": "#00ff00"
     }, 
-    "idx": 0, 
     "label": "New", 
     "namespace": "esdoc:errata:status:new", 
     "status": "pending", 
-    "uid": "b518be2d-baee-4247-adac-1ac8d72d5a80"
+    "uid": "3ff675d1-8a34-48f1-830f-3ce16b072aa4"
 }

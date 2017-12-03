@@ -9,11 +9,11 @@
             "wcrp:cmip5:model", 
             "wcrp:cmip5:variable"
         ], 
+        "is_documented": true, 
         "is_pid_client": false
     }, 
-    "idx": 0, 
     "label": "CMIP5", 
     "namespace": "esdoc:errata:project:cmip5", 
     "status": "pending", 
-    "uid": "b28f9031-3f6d-46df-8310-2f308c32123e"
+    "uid": "bf43baca-0582-44ab-b1f0-b584cd0c9340"
 }
