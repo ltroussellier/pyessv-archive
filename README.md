@@ -40,5 +40,5 @@ What are the contents of pyessv-archive ?
 Further Information on ES-DOC ?
 --------------------------------------
 
-Please refer to the [splash page](http:es-doc.org) for further information.
+Please refer [here](http:es-doc.org) for further information.
 
