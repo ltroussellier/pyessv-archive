@@ -2,7 +2,7 @@
 Archive of earth system standard vocabularies written in pyessv notation.  
 
 
-# What is ES-DOC ?
+What is ES-DOC ?
 --------------------------------------
 
 ES-DOC stands for Earth System - Documentation.  It's goal is to provide software tools and services in order to support the distribution of earth system documentation.
