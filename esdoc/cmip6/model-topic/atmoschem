@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "atmoschem", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "label": "atmosChem", 
+    "namespace": "esdoc:cmip6:model-topic:atmoschem", 
+    "raw_name": "atmosChem", 
+    "status": "pending", 
+    "uid": "35c88df3-48a1-430a-8254-413c00ffacbd"
+}
