@@ -2,8 +2,9 @@
     "_type": "term", 
     "canonical_name": "toplevel", 
     "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "Top Level", 
     "label": "Top Level", 
     "namespace": "esdoc:cmip6:model-topic:toplevel", 
     "status": "pending", 
-    "uid": "801f14fe-30e0-4596-a5c3-c494f875cc59"
+    "uid": "3742202c-8fec-4e7c-95bf-6978dfb86c89"
 }

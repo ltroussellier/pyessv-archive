@@ -2,9 +2,9 @@
     "_type": "term", 
     "canonical_name": "seaice", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "seaIce", 
+    "label": "Sea Ice", 
     "namespace": "esdoc:cmip6:model-topic:seaice", 
     "raw_name": "seaIce", 
     "status": "pending", 
-    "uid": "ef32675b-458f-460e-bb55-95e1bff34e77"
+    "uid": "1b4a6af7-144e-464b-8ed7-1831e11ffb1f"
 }

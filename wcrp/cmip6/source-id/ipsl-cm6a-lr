@@ -32,7 +32,7 @@
             }, 
             "atmos": {
                 "description": "LMDZ (NPv6, N96; 144 x 143 longitude/latitude; 79 levels; top level 40000 m)", 
-                "nominal_resolution": "200 km"
+                "nominal_resolution": "250 km"
             }, 
             "atmosChem": {
                 "description": "none", 
@@ -40,7 +40,7 @@
             }, 
             "land": {
                 "description": "ORCHIDEE (v2.0, Water/Carbon/Energy mode)", 
-                "nominal_resolution": "200 km"
+                "nominal_resolution": "250 km"
             }, 
             "landIce": {
                 "description": "none", 

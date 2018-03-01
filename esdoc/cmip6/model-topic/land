@@ -2,7 +2,8 @@
     "_type": "term", 
     "canonical_name": "land", 
     "create_date": "2017-06-21 00:00:00+00:00", 
+    "label": "Land Surface", 
     "namespace": "esdoc:cmip6:model-topic:land", 
     "status": "pending", 
-    "uid": "5acbc189-f75f-46ef-aca5-ea1750699545"
+    "uid": "50fde4e5-0184-4c20-9270-3664b0f94318"
 }

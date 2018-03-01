@@ -2,7 +2,8 @@
     "_type": "term", 
     "canonical_name": "atmos", 
     "create_date": "2017-06-21 00:00:00+00:00", 
+    "label": "Atmosphere", 
     "namespace": "esdoc:cmip6:model-topic:atmos", 
     "status": "pending", 
-    "uid": "33c0499a-eac0-4b3c-902a-35bd315cdd91"
+    "uid": "0dcefc3d-b360-4f81-90af-7ad07271b658"
 }

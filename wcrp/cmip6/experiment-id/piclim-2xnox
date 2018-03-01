@@ -7,7 +7,7 @@
             "AerChemMIP"
         ], 
         "additional_allowed_model_components": [
-            ""
+            "BGC"
         ], 
         "end_year": "", 
         "experiment": "pre-industrial climatological SSTs and forcing, but with doubled production of NOx due to lightning", 

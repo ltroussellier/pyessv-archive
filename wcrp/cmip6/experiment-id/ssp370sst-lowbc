@@ -7,7 +7,8 @@
             "AerChemMIP"
         ], 
         "additional_allowed_model_components": [
-            "CHEM"
+            "CHEM", 
+            "BGC"
         ], 
         "end_year": "2055", 
         "experiment": "SSP3-7.0, prescribed SSTs, with low black carbon emissions", 

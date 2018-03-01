@@ -41,7 +41,7 @@
             }, 
             "atmosChem": {
                 "description": "fast chemistry, aerosol only", 
-                "nominal_resolution": "500km"
+                "nominal_resolution": "500 km"
             }, 
             "land": {
                 "description": "CLASS3.6/CTEM1.2", 

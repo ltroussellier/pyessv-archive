@@ -2,7 +2,8 @@
     "_type": "term", 
     "canonical_name": "ocean", 
     "create_date": "2017-06-21 00:00:00+00:00", 
+    "label": "Ocean", 
     "namespace": "esdoc:cmip6:model-topic:ocean", 
     "status": "pending", 
-    "uid": "0003a34b-642e-4a7d-8752-e20791553621"
+    "uid": "a90c8beb-9056-40c7-9a28-db2bb038018e"
 }

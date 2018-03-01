@@ -32,11 +32,11 @@
         "model_component": {
             "aerosol": {
                 "description": "none, prescribed MACv2-SP", 
-                "nominal_resolution": "200 km"
+                "nominal_resolution": "250 km"
             }, 
             "atmos": {
                 "description": "ECHAM6.3 (spectral T63; 192 x 96 longitude/latitude; 47 levels; top level 0.01 hPa)", 
-                "nominal_resolution": "200 km"
+                "nominal_resolution": "250 km"
             }, 
             "atmosChem": {
                 "description": "none", 
@@ -44,7 +44,7 @@
             }, 
             "land": {
                 "description": "JSBACH3.20", 
-                "nominal_resolution": "200 km"
+                "nominal_resolution": "250 km"
             }, 
             "landIce": {
                 "description": "none/prescribed", 
@@ -56,11 +56,11 @@
             }, 
             "ocnBgchem": {
                 "description": "HAMOCC", 
-                "nominal_resolution": "200 km"
+                "nominal_resolution": "250 km"
             }, 
             "seaIce": {
                 "description": "unnamed (thermodynamic (Semtner zero-layer) dynamic (Hibler 79) sea ice model)", 
-                "nominal_resolution": "200 km"
+                "nominal_resolution": "250 km"
             }
         }, 
         "release_year": "2017", 

@@ -7,7 +7,8 @@
             "AerChemMIP"
         ], 
         "additional_allowed_model_components": [
-            "CHEM"
+            "CHEM", 
+            "BGC"
         ], 
         "end_year": "2014", 
         "experiment": "historical prescribed SSTs and historical forcing", 

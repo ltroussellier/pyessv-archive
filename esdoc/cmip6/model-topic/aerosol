@@ -2,7 +2,8 @@
     "_type": "term", 
     "canonical_name": "aerosol", 
     "create_date": "2017-06-21 00:00:00+00:00", 
+    "label": "Aerosol", 
     "namespace": "esdoc:cmip6:model-topic:aerosol", 
     "status": "pending", 
-    "uid": "5376c3c2-e78a-4913-9382-11141aecf51a"
+    "uid": "9c412697-c1ce-4e99-8b6b-8e8492774c5f"
 }

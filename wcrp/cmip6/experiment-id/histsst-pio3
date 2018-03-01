@@ -7,7 +7,7 @@
             "AerChemMIP"
         ], 
         "additional_allowed_model_components": [
-            ""
+            "BGC"
         ], 
         "end_year": "2014", 
         "experiment": "historical SSTs and historical forcing, but with pre-industrial ozone precursor emissions", 

@@ -41,7 +41,7 @@
                         "omon:Omon", 
                         "oyr:Oyr"
                     ], 
-                    "uid": "d100e088-55f6-484c-8836-a33fb1770c4a"
+                    "uid": "199e6dfa-cf40-4763-af90-519a3691e0a2"
                 }, 
                 {
                     "_type": "collection", 
@@ -52,7 +52,7 @@
                     "namespace": "wcrp:cmip5:ensemble", 
                     "term_regex": "r[0-9]i[0-9]p[0-9]", 
                     "terms": [], 
-                    "uid": "ffc42ea3-b5b1-4a9d-81b5-ed0906012ef8"
+                    "uid": "6ba67b1a-7a82-4038-81a4-45f8a9041565"
                 }, 
                 {
                     "_type": "collection", 
@@ -170,7 +170,7 @@
                         "sstclimsulfate:sstClimSulfate", 
                         "volcin2010:volcIn2010"
                     ], 
-                    "uid": "de5846f9-f295-4954-a859-ee693d3f629c"
+                    "uid": "f48f06cd-a981-4836-9627-0ce808ac2528"
                 }, 
                 {
                     "_type": "collection", 
@@ -182,11 +182,19 @@
                     "term_regex": "^[a-z0-9\\-]*$", 
                     "terms": [
                         "bcc:BCC", 
+                        "bcc:BCC", 
+                        "bcc:BCC", 
                         "bnu:BNU", 
                         "cccma:CCCma", 
+                        "cccma:CCCma", 
+                        "cccma:CCCma", 
+                        "cmcc:CMCC", 
+                        "cmcc:CMCC", 
                         "cmcc:CMCC", 
                         "cnrm-cerfacs:CNRM-CERFACS", 
+                        "cnrm-cerfacs:CNRM-CERFACS", 
                         "csiro:CSIRO", 
+                        "csiro-bom:CSIRO-BOM", 
                         "csiro-bom:CSIRO-BOM", 
                         "csiro-qccce:CSIRO-QCCCE", 
                         "doe-cola-cmmap-gmu:DOE-COLA-CMMAP-GMU", 
@@ -194,23 +202,51 @@
                         "ichec:ICHEC", 
                         "inm:INM", 
                         "ipsl:IPSL", 
+                        "ipsl:IPSL", 
+                        "ipsl:IPSL", 
                         "lasg-cess:LASG-CESS", 
                         "lasg-iap:LASG-IAP", 
+                        "lasg-iap:LASG-IAP", 
+                        "miroc:MIROC", 
+                        "miroc:MIROC", 
+                        "miroc:MIROC", 
+                        "miroc:MIROC", 
                         "miroc:MIROC", 
                         "mohc:MOHC", 
+                        "mohc:MOHC", 
+                        "mohc:MOHC", 
+                        "mohc:MOHC", 
+                        "mpi-m:MPI-M", 
+                        "mpi-m:MPI-M", 
                         "mpi-m:MPI-M", 
                         "mri:MRI", 
+                        "mri:MRI", 
+                        "mri:MRI", 
+                        "mri:MRI", 
+                        "nasa-giss:NASA-GISS", 
+                        "nasa-giss:NASA-GISS", 
+                        "nasa-giss:NASA-GISS", 
                         "nasa-giss:NASA-GISS", 
                         "nasa-gmao:NASA-GMAO", 
                         "ncar:NCAR", 
                         "ncc:NCC", 
+                        "ncc:NCC", 
                         "nicam:NICAM", 
                         "nimr-kma:NIMR-KMA", 
                         "noaa-gfdl:NOAA-GFDL", 
+                        "noaa-gfdl:NOAA-GFDL", 
+                        "noaa-gfdl:NOAA-GFDL", 
+                        "noaa-gfdl:NOAA-GFDL", 
+                        "noaa-gfdl:NOAA-GFDL", 
+                        "noaa-gfdl:NOAA-GFDL", 
+                        "nsf-doe-ncar:NSF-DOE-NCAR", 
+                        "nsf-doe-ncar:NSF-DOE-NCAR", 
+                        "nsf-doe-ncar:NSF-DOE-NCAR", 
+                        "nsf-doe-ncar:NSF-DOE-NCAR", 
                         "nsf-doe-ncar:NSF-DOE-NCAR", 
                         "unsw:UNSW"
                     ], 
-                    "uid": "3cc33906-5ec4-4be3-8fe8-951e8ad03939"
+                    "uid": "7d1ad5dd-2847-4265-a736-f7e5798724d4"
                 }, 
                 {
                     "_type": "collection", 
@@ -225,12 +261,13 @@
                         "1-day:1 day", 
                         "1-minute:1 minute", 
                         "1-month:1 month", 
+                        "1-month:1 month", 
                         "1-year:1 year", 
                         "3-hours:3 hours", 
                         "6-hours:6 hours", 
                         "fixed:fixed"
                     ], 
-                    "uid": "c2e340f4-30f6-49d1-80e1-9c5c9778f340"
+                    "uid": "e751eddc-06c2-4024-86bc-89e894beeb03"
                 }, 
                 {
                     "_type": "collection", 
@@ -310,7 +347,7 @@
                         "noresm1-me:NorESM1-ME", 
                         "sp-ccsm4:SP-CCSM4"
                     ], 
-                    "uid": "a732e552-8c3c-44a3-844d-6d638cf3745b"
+                    "uid": "fe635398-a19e-4176-9a2f-07c0fd852533"
                 }, 
                 {
                     "_type": "collection", 
@@ -324,7 +361,7 @@
                         "output1:output1", 
                         "output2:output2"
                     ], 
-                    "uid": "02599468-6e88-4312-8a9c-b3fea4ef6f26"
+                    "uid": "c7456cef-be5e-4555-a684-78cc1dc459f1"
                 }, 
                 {
                     "_type": "collection", 
@@ -344,7 +381,7 @@
                         "ocnbgchem:ocnBgchem", 
                         "seaice:seaIce"
                     ], 
-                    "uid": "d822983d-a75b-4170-95db-c22cbd417414"
+                    "uid": "d90ed489-fa9f-41da-99ce-00f4715fe159"
                 }, 
                 {
                     "_type": "collection", 
@@ -418,7 +455,7 @@
                         "time2:time2", 
                         "vegtype:vegtype"
                     ], 
-                    "uid": "3ee2fe31-1ac4-4232-8ecf-f78dd02cdf4f"
+                    "uid": "843fe5c8-972c-40c0-9d0c-21f176c0e189"
                 }, 
                 {
                     "_type": "collection", 
@@ -439,7 +476,7 @@
                         "subhr:subhr", 
                         "yr:yr"
                     ], 
-                    "uid": "35084e25-2bca-498f-b382-eef42c98d250"
+                    "uid": "04d802ad-c266-4b15-a3e8-793873427cdb"
                 }, 
                 {
                     "_type": "collection", 
@@ -1051,7 +1088,7 @@
                         "zsatarag:zsatarag", 
                         "zsatcalc:zsatcalc"
                     ], 
-                    "uid": "299c746f-392b-48ab-bb38-16a94e910d4b"
+                    "uid": "fc051c59-39b5-4165-98a1-7180004539ad"
                 }, 
                 {
                     "_type": "collection", 
@@ -1062,7 +1099,7 @@
                     "namespace": "wcrp:cmip5:version", 
                     "term_regex": "^v[0-9]*$", 
                     "terms": [], 
-                    "uid": "3507169a-3801-42c2-b7d0-c76ecc7a78ef"
+                    "uid": "fb0c3988-0064-40e1-89f8-7c24f90ea699"
                 }
             ], 
             "create_date": "2017-06-21 00:00:00+00:00", 
@@ -1075,7 +1112,7 @@
             "description": "ESGF publisher controlled Vocabularies (CVs) for use in CMIP5", 
             "label": "CMIP5", 
             "namespace": "wcrp:cmip5", 
-            "uid": "8bf03ae5-6a50-4eaa-885d-953427139094", 
+            "uid": "dca81fa2-1192-44ee-87cd-7153d99b430a", 
             "url": "https://esgf.llnl.gov"
         }, 
         {
@@ -1489,6 +1526,7 @@
                     "raw_name": "institution_id", 
                     "term_regex": "^[a-z0-9\\-]*$", 
                     "terms": [
+                        "aer:AER", 
                         "awi:AWI", 
                         "bcc:BCC", 
                         "bnu:BNU", 
@@ -1500,12 +1538,14 @@
                         "cnrm-cerfacs:CNRM-CERFACS", 
                         "csir-csiro:CSIR-CSIRO", 
                         "csiro-bom:CSIRO-BOM", 
+                        "dwd:DWD", 
                         "ec-earth-consortium:EC-Earth-Consortium", 
                         "fio-ronm:FIO-RONM", 
                         "hammoz-consortium:HAMMOZ-Consortium", 
                         "inm:INM", 
                         "inpe:INPE", 
                         "ipsl:IPSL", 
+                        "kiost:KIOST", 
                         "messy-consortium:MESSy-Consortium", 
                         "miroc:MIROC", 
                         "mohc:MOHC", 
@@ -1521,7 +1561,8 @@
                         "nuist:NUIST", 
                         "pcmdi:PCMDI", 
                         "snu:SNU", 
-                        "thu:THU"
+                        "thu:THU", 
+                        "uhh:UHH"
                     ], 
                     "uid": "7d4c8d3b-9d8f-4ffb-8378-50651cdd943f"
                 }, 
@@ -1537,15 +1578,22 @@
                     "terms": [
                         "1-day:1 day", 
                         "1-hour:1 hour", 
+                        "1-hour:1 hour", 
+                        "1-hour:1 hour", 
                         "1-minute:1 minute", 
                         "1-month:1 month", 
+                        "1-month:1 month", 
+                        "1-month:1 month", 
+                        "1-year:1 year", 
                         "1-year:1 year", 
                         "10-years:10 years", 
                         "3-hours:3 hours", 
+                        "3-hours:3 hours", 
+                        "6-hours:6 hours", 
                         "6-hours:6 hours", 
                         "fixed:fixed"
                     ], 
-                    "uid": "62959626-7a22-4c5b-9feb-ad5ee16378af"
+                    "uid": "0bcc33db-3303-4e02-805f-2ad17871a938"
                 }, 
                 {
                     "_type": "collection", 
@@ -1648,7 +1696,6 @@
                     "raw_name": "source_id", 
                     "term_regex": "^[a-z0-9\\-]*$", 
                     "terms": [
-                        "access-1-0:ACCESS 1.0", 
                         "awi-cm-1-0-hr:AWI-CM 1.0 HR", 
                         "awi-cm-1-0-lr:AWI-CM 1.0 LR", 
                         "awi-cm-1-0-mr:AWI-CM 1.0 MR", 
@@ -1964,7 +2011,7 @@
                         "time2:time2", 
                         "vegtype:vegtype"
                     ], 
-                    "uid": "7e2d62bb-6d57-4226-a8a1-d4e4bdd535f4"
+                    "uid": "e03daa29-9a1a-41d8-b31f-c35996419484"
                 }, 
                 {
                     "_type": "collection", 
@@ -1991,10 +2038,10 @@
             ], 
             "create_date": "2017-06-21 00:00:00+00:00", 
             "data": {
-                "dataset_id": "%(mip_era)s.%(activity)s.%(institute)s.%(source_id)s.%(experiment)s.%(ensemble)s.%(cmor_table)s.%(variable)s.%(grid_label)s", 
-                "dataset_name_format": "mip_era=%(mip_era)s, source_id=%(source_id)s, experiment=%(experiment_description)s, ensemble=%(ensemble)s, version=%(version)s", 
-                "directory_format": "%(root)s/%(mip_era)s/%(activity)s/%(institute)s/%(source_id)s/%(experiment)s/%(ensemble)s/%(cmor_table)s/%(variable)s/%(grid_label)s/%(version)s", 
-                "filename_format": "%(variable)s_%(cmor_table)s_%(source_id)s_%(experiment)s_%(ensemble)s_%(grid_label)s[_%(period_start)s-%(period_end)s].nc"
+                "dataset_id": "%(mip_era)s.%(activity_id)s.%(institution_id)s.%(source_id)s.%(experiment_id)s.%(member_id)s.%(table_id)s.%(variable_id)s.%(grid_label)s", 
+                "dataset_name_format": "mip_era=%(mip_era)s, source_id=%(source_id)s, experiment=%(experiment_description)s, member_id=%(member_id)s, variable=%(variable_id)s, version=%(version)s", 
+                "directory_format": "%(root)s/%(mip_era)s/%(activity_id)s/%(institution_id)s/%(source_id)s/%(experiment_id)s/%(member_id)s/%(table_id)s/%(variable_id)s/%(grid_label)s/%(version)s", 
+                "filename_format": "%(variable_id)s_%(table_id)s_%(source_id)s_%(experiment_id)s_%(member_id)s_%(grid_label)s[_%(period_start)s-%(period_end)s].nc"
             }, 
             "description": "Controlled Vocabularies (CVs) for use in CMIP6", 
             "label": "CMIP6", 
@@ -2047,7 +2094,7 @@
                         "was-44:WAS-44", 
                         "was-44i:WAS-44i"
                     ], 
-                    "uid": "c402e378-fc4d-4096-b92e-8f3778bc49a9"
+                    "uid": "aa7674a7-de25-482a-924a-c32beaf4faa8"
                 }, 
                 {
                     "_type": "collection", 
@@ -2074,7 +2121,7 @@
                         "noaa-gfdl-gfdl-esm2g:NOAA-GFDL-GFDL-ESM2G", 
                         "noaa-gfdl-gfdl-esm2m:NOAA-GFDL-GFDL-ESM2M"
                     ], 
-                    "uid": "76dfc44f-9f83-45a4-995a-6680bc7783be"
+                    "uid": "1cb1b19b-42f6-437f-a9a3-a78a2f65dc0e"
                 }, 
                 {
                     "_type": "collection", 
@@ -2085,7 +2132,7 @@
                     "namespace": "wcrp:cordex:ensemble", 
                     "term_regex": "r[0-9]*i[0-9]p[0-9]", 
                     "terms": [], 
-                    "uid": "7178b457-c086-4052-88ce-8ced9ecb63f0"
+                    "uid": "f2abfb2d-f383-4e56-aa5b-c6f73ca95d7f"
                 }, 
                 {
                     "_type": "collection", 
@@ -2103,7 +2150,7 @@
                         "rcp60:rcp60", 
                         "rcp85:rcp85"
                     ], 
-                    "uid": "d84fc7d6-f48f-471d-881b-44ad803df299"
+                    "uid": "0ce2a17e-4569-41a0-a5da-1130deb682e4"
                 }, 
                 {
                     "_type": "collection", 
@@ -2147,7 +2194,7 @@
                         "ulg:ULg", 
                         "uqam:UQAM"
                     ], 
-                    "uid": "91cabfd1-ec22-4f33-8196-6e0c39801817"
+                    "uid": "30048a21-3fd2-4ad8-94fc-e4cb8a90210a"
                 }, 
                 {
                     "_type": "collection", 
@@ -2165,7 +2212,7 @@
                         "fixed:fixed", 
                         "seasonal-mean:seasonal mean"
                     ], 
-                    "uid": "7bcbb4a4-7b93-446e-976c-fdbfc9fe76b6"
+                    "uid": "e08ade5c-215e-44f7-aacd-60555e153ba2"
                 }, 
                 {
                     "_type": "collection", 
@@ -2178,7 +2225,7 @@
                     "terms": [
                         "output:output"
                     ], 
-                    "uid": "52ac9980-9bb3-4871-9486-493918b14426"
+                    "uid": "90e4ba8c-bff7-45c4-ab94-e021de2026e1"
                 }, 
                 {
                     "_type": "collection", 
@@ -2234,7 +2281,7 @@
                         "ulg-mar36:ULg-MAR36", 
                         "uqam-crcm5:UQAM-CRCM5"
                     ], 
-                    "uid": "0839b06d-a84b-41f6-866b-14c88e362599"
+                    "uid": "543e04ef-803d-474b-9df3-f720443c1dab"
                 }, 
                 {
                     "_type": "collection", 
@@ -2247,6 +2294,8 @@
                     "term_regex": "^[a-z0-9\\-]*$", 
                     "terms": [
                         "aladin52:ALADIN52", 
+                        "aladin52:ALADIN52", 
+                        "aladin52:ALADIN52", 
                         "aladin53:ALADIN53", 
                         "alaro-0:ALARO-0", 
                         "arpege51:ARPEGE51", 
@@ -2256,6 +2305,7 @@
                         "crcm5:CRCM5", 
                         "hadgem3-ra:HadGEM3-RA", 
                         "hadrm3p:HadRM3P", 
+                        "hirham5:HIRHAM5", 
                         "hirham5:HIRHAM5", 
                         "mar36:MAR36", 
                         "promes:PROMES", 
@@ -2268,21 +2318,27 @@
                         "rcao-sn:RCAO-SN", 
                         "regcm4-1:RegCM4-1", 
                         "regcm4-2:RegCM4-2", 
+                        "regcm4-2:RegCM4-2", 
+                        "regcm4-3:RegCM4-3", 
                         "regcm4-3:RegCM4-3", 
                         "regcm4-4:RegCM4-4", 
+                        "remo2009:REMO2009", 
                         "remo2009:REMO2009", 
                         "rrcm:RRCM", 
                         "wrf321b:WRF321B", 
                         "wrf331:WRF331", 
                         "wrf331a:WRF331A", 
+                        "wrf331a:WRF331A", 
+                        "wrf331a:WRF331A", 
                         "wrf331c:WRF331C", 
                         "wrf331d:WRF331D", 
+                        "wrf331f:WRF331F", 
                         "wrf331f:WRF331F", 
                         "wrf331g:WRF331G", 
                         "wrf331h:WRF331H", 
                         "wrf350i:WRF350I"
                     ], 
-                    "uid": "90d21177-78dd-43a9-9c28-230679f024b6"
+                    "uid": "23b38752-a72d-447e-b39a-0b7571031526"
                 }, 
                 {
                     "_type": "collection", 
@@ -2303,7 +2359,7 @@
                         "v411:v411", 
                         "v5:v5"
                     ], 
-                    "uid": "ac648344-9306-4155-835d-47384f0cd4a9"
+                    "uid": "12ca5f0c-2a44-4bbf-9862-1f913e738046"
                 }, 
                 {
                     "_type": "collection", 
@@ -2389,7 +2445,7 @@
                         "x:x", 
                         "y:y"
                     ], 
-                    "uid": "efad05d1-a113-4e86-a10b-46021e6425e0"
+                    "uid": "726a2abb-ea04-4ea9-9f0f-6705c94acd22"
                 }, 
                 {
                     "_type": "collection", 
@@ -2407,7 +2463,7 @@
                         "mon:mon", 
                         "sem:sem"
                     ], 
-                    "uid": "ab2face4-d4ec-4269-b74b-6e6aee0db7b1"
+                    "uid": "c2491cf0-3cc6-4c83-be12-781e19d5867b"
                 }, 
                 {
                     "_type": "collection", 
@@ -2621,7 +2677,7 @@
                         "zg975:zg975", 
                         "zmla:zmla"
                     ], 
-                    "uid": "f0458a66-bcc9-4283-9c6e-5a08a1529064"
+                    "uid": "4bb67be1-39b9-457f-a2dc-948b9f33c2e5"
                 }, 
                 {
                     "_type": "collection", 
@@ -2632,7 +2688,7 @@
                     "namespace": "wcrp:cordex:version", 
                     "term_regex": "^[0-9]*$", 
                     "terms": [], 
-                    "uid": "9923954d-bfa6-426a-85b5-c52c8415d2c1"
+                    "uid": "3dd5e2b4-0c41-451e-bfa6-879f533cc751"
                 }
             ], 
             "create_date": "2017-06-21 00:00:00+00:00", 
@@ -2646,7 +2702,7 @@
             "description": "ESGF publisher controlled Vocabularies (CVs) for use in CORDEX", 
             "label": "CORDEX", 
             "namespace": "wcrp:cordex", 
-            "uid": "94672e33-cd22-4d66-8936-caf8c3c7e3ed", 
+            "uid": "3c5623a6-238e-4a7d-9eb0-fa7aa4daaa22", 
             "url": "https://esgf.llnl.gov"
         }, 
         {

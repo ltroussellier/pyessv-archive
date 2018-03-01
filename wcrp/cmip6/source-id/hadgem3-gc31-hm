@@ -4,13 +4,15 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activity_participation": [
+            "CMIP", 
             "HighResMIP"
         ], 
         "cohort": [
             "Registered"
         ], 
         "institution_id": [
-            "MOHC"
+            "MOHC", 
+            "NERC"
         ], 
         "label_extended": "HadGEM3-GC3.1-N512ORCA025", 
         "model_component": {
@@ -35,7 +37,7 @@
                 "nominal_resolution": "none"
             }, 
             "ocean": {
-                "description": "NEMO-HadGEM3-GO6.0 (ORCA025 tripolar primarily 0.25 deg; 1440 x 720 longitude/latitude; 75 levels; top grid cell 0-1 m)", 
+                "description": "NEMO-HadGEM3-GO6.0 (ORCA025 tripolar primarily 0.25 deg; 1440 x 1205 longitude/latitude; 75 levels; top grid cell 0-1 m)", 
                 "nominal_resolution": "25 km"
             }, 
             "ocnBgchem": {
@@ -43,7 +45,7 @@
                 "nominal_resolution": "none"
             }, 
             "seaIce": {
-                "description": "CICE-HadGEM3-GSI8 (ORCA025 tripolar primarily 0.25 deg; 1440 x 720 longitude/latitude)", 
+                "description": "CICE-HadGEM3-GSI8 (ORCA025 tripolar primarily 0.25 deg; 1440 x 1205 longitude/latitude)", 
                 "nominal_resolution": "25 km"
             }
         }, 

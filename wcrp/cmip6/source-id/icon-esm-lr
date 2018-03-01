@@ -18,11 +18,11 @@
         "model_component": {
             "aerosol": {
                 "description": "none, prescribed MACv2-SP", 
-                "nominal_resolution": "200 km"
+                "nominal_resolution": "250 km"
             }, 
             "atmos": {
                 "description": "ICON-AES (icosahedral/triangles; 160 km; 47 levels; top level 80 km)", 
-                "nominal_resolution": "200 km"
+                "nominal_resolution": "250 km"
             }, 
             "atmosChem": {
                 "description": "none", 
@@ -30,7 +30,7 @@
             }, 
             "land": {
                 "description": "JSBACH4.20", 
-                "nominal_resolution": "200 km"
+                "nominal_resolution": "250 km"
             }, 
             "landIce": {
                 "description": "none/prescribed", 

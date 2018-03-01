@@ -11,14 +11,14 @@
             "CHEM"
         ], 
         "end_year": "", 
-        "experiment": "as piSST but with SSTs and sea ice from abrupt4xCO2, and 4xCO2 seen by radiation and vegetation", 
+        "experiment": "as piSST but with SSTs and sea ice from abrupt-4xCO2, and 4xCO2 seen by radiation and vegetation", 
         "experiment_id": "a4SSTice-4xCO2", 
         "min_number_yrs_per_sim": "30", 
         "parent_activity_id": [
             "CMIP"
         ], 
         "parent_experiment_id": [
-            "abrupt4xCO2"
+            "abrupt-4xCO2"
         ], 
         "required_model_components": [
             "AGCM"

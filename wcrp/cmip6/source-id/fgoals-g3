@@ -20,7 +20,7 @@
             }, 
             "atmos": {
                 "description": "GAMIL2 (180 x 90 longitude/latitude; 26 levels; top level 2.19hPa)", 
-                "nominal_resolution": "200 km"
+                "nominal_resolution": "250 km"
             }, 
             "atmosChem": {
                 "description": "none", 
@@ -28,7 +28,7 @@
             }, 
             "land": {
                 "description": "CLM4.0", 
-                "nominal_resolution": "200 km"
+                "nominal_resolution": "250 km"
             }, 
             "landIce": {
                 "description": "none", 

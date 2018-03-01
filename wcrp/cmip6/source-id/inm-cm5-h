@@ -36,7 +36,7 @@
             }, 
             "ocean": {
                 "description": "INM-OM5-H (North Pole shifted to 60N, 90E. 0.167x0.125; 2160x1440 longitude/latitude; 40 levels; vertical sigma coordinate)", 
-                "nominal_resolution": "15 km"
+                "nominal_resolution": "10 km"
             }, 
             "ocnBgchem": {
                 "description": "none", 
@@ -44,7 +44,7 @@
             }, 
             "seaIce": {
                 "description": "INM-ICE1", 
-                "nominal_resolution": "15 km"
+                "nominal_resolution": "10 km"
             }
         }, 
         "release_year": "2016", 

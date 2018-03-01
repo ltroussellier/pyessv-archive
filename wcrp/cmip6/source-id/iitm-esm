@@ -17,11 +17,11 @@
         "model_component": {
             "aerosol": {
                 "description": "prescribed MAC-v2", 
-                "nominal_resolution": "200 km"
+                "nominal_resolution": "250 km"
             }, 
             "atmos": {
                 "description": "IITM-GFSv1 (T62L64, Linearly Reduced Gaussian Grid; 192 x 94 longitude/latitude; 64 levels; top level 0.2 mb)", 
-                "nominal_resolution": "200 km"
+                "nominal_resolution": "250 km"
             }, 
             "atmosChem": {
                 "description": "none", 
@@ -29,7 +29,7 @@
             }, 
             "land": {
                 "description": "NOAH LSMv2.7.1", 
-                "nominal_resolution": "200 km"
+                "nominal_resolution": "250 km"
             }, 
             "landIce": {
                 "description": "none", 

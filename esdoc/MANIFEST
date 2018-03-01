@@ -19,24 +19,24 @@
                     "namespace": "esdoc:cmip6:model-topic", 
                     "term_regex": "^[a-z0-9\\-]*$", 
                     "terms": [
-                        "aerosol:aerosol", 
-                        "atmos:atmos", 
-                        "atmoschem:atmosChem", 
-                        "land:land", 
-                        "landice:landIce", 
-                        "ocean:ocean", 
-                        "ocnbgchem:ocnBgchem", 
-                        "seaice:seaIce", 
+                        "aerosol:Aerosol", 
+                        "atmos:Atmosphere", 
+                        "atmoschem:Atmospheric Chemistry", 
+                        "land:Land Surface", 
+                        "landice:Land Ice", 
+                        "ocean:Ocean", 
+                        "ocnbgchem:Ocean Biogeochemistry", 
+                        "seaice:Sea Ice", 
                         "toplevel:Top Level"
                     ], 
-                    "uid": "3cb98f5c-8fbc-4956-9c65-40b24cfa8d46"
+                    "uid": "201525b1-a188-48b2-a107-69822bf3ff20"
                 }
             ], 
             "create_date": "2017-06-21 00:00:00+00:00", 
             "description": "ES-DOC controlled Vocabularies (CVs) for use in cmip6", 
             "label": "CMIP6", 
             "namespace": "esdoc:cmip6", 
-            "uid": "2ad97714-a53f-4371-8c34-ee8c5e9c0ccd", 
+            "uid": "40c7ef41-51a2-4f3b-bb42-72c4db0639ee", 
             "url": "https://github.com/ES-DOC"
         }, 
         {
@@ -55,7 +55,7 @@
                         "delete:Delete", 
                         "insert:Insert"
                     ], 
-                    "uid": "7ffaef31-d01f-49e0-95d8-cab11b570c4a"
+                    "uid": "313653f5-b94f-488e-a4fb-194e2c317fb8"
                 }, 
                 {
                     "_type": "collection", 
@@ -70,7 +70,7 @@
                         "error:Error", 
                         "queued:Queued"
                     ], 
-                    "uid": "44b07e4f-1060-4de5-84ad-b485350479a2"
+                    "uid": "bf3ebeb2-4895-43fe-935a-d940e9e930ec"
                 }, 
                 {
                     "_type": "collection", 
@@ -85,7 +85,7 @@
                         "cmip6:CMIP6", 
                         "cordex:CORDEX"
                     ], 
-                    "uid": "9aa9c4c9-542c-4e55-a583-c3fad7138615"
+                    "uid": "fd5b9549-c622-4572-b8ab-adf648cab4dd"
                 }, 
                 {
                     "_type": "collection", 
@@ -101,7 +101,7 @@
                         "low:Low", 
                         "medium:Medium"
                     ], 
-                    "uid": "1e1af2b3-b20e-4fc0-a3ab-3788aa0ca6ad"
+                    "uid": "8190b5b2-981d-4e50-b66e-aa03067c22d4"
                 }, 
                 {
                     "_type": "collection", 
@@ -117,17 +117,17 @@
                         "resolved:Resolved", 
                         "wontfix:Wont Fix"
                     ], 
-                    "uid": "6662f7fe-03e3-4ffb-9df7-0738e2e410a3"
+                    "uid": "db6a726f-2295-4aba-8525-5e48545adda2"
                 }
             ], 
             "create_date": "2017-06-21 00:00:00+00:00", 
             "description": "Controlled Vocabularies (CVs) for use in dataset errata", 
             "label": "Dataset Errata", 
             "namespace": "esdoc:errata", 
-            "uid": "dc06688c-3173-48fe-92bf-c49fda175647", 
+            "uid": "16c0cc17-13e1-4b1a-80b0-f0f5fa87c6d4", 
             "url": "https://github.com/ES-DOC/esdoc-errata-ws"
         }
     ], 
-    "uid": "1d343476-f4b2-4b45-9f36-9a2253b206f2", 
+    "uid": "a8172101-6f67-4fb8-abc5-b92e709baff7", 
     "url": "https://es-doc.org"
 }

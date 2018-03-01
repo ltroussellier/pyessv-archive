@@ -8,6 +8,7 @@
             "CMIP", 
             "DAMIP", 
             "FAFMIP", 
+            "HighResMIP", 
             "PMIP", 
             "RFMIP"
         ], 
@@ -40,7 +41,7 @@
                 "nominal_resolution": "none"
             }, 
             "ocean": {
-                "description": "NEMO-HadGEM3-GO6.0 (ORCA1 tripolar primarily 1 deg with meridional refinement down to 1/3 degree in the tropics; 360 x 292 longitude/latitude; 75 levels; top grid cell 0-1 m)", 
+                "description": "NEMO-HadGEM3-GO6.0 (ORCA1 tripolar primarily 1 deg with meridional refinement down to 1/3 degree in the tropics; 360 x 330 longitude/latitude; 75 levels; top grid cell 0-1 m)", 
                 "nominal_resolution": "100 km"
             }, 
             "ocnBgchem": {
@@ -48,7 +49,7 @@
                 "nominal_resolution": "none"
             }, 
             "seaIce": {
-                "description": "CICE-HadGEM3-GSI8 (ORCA1 tripolar primarily 1 deg; 360 x 180 longitude/latitude)", 
+                "description": "CICE-HadGEM3-GSI8 (ORCA1 tripolar primarily 1 deg; 360 x 330 longitude/latitude)", 
                 "nominal_resolution": "100 km"
             }
         }, 

@@ -2,9 +2,9 @@
     "_type": "term", 
     "canonical_name": "landice", 
     "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "landIce", 
+    "label": "Land Ice", 
     "namespace": "esdoc:cmip6:model-topic:landice", 
     "raw_name": "landIce", 
     "status": "pending", 
-    "uid": "cb92b8f4-da21-4c24-b8d9-01bc19f5bc4b"
+    "uid": "7e08953e-ead1-43c4-ad40-8c176217f243"
 }
