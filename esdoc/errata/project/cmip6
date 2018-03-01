@@ -7,7 +7,7 @@
             "wcrp:cmip6:institution-id", 
             "wcrp:cmip6:experiment-id", 
             "wcrp:cmip6:source-id", 
-            "wcrp:cmip6:variable"
+            "wcrp:cmip6:variable-id"
         ], 
         "is_documented": true, 
         "is_pid_client": true
@@ -15,5 +15,5 @@
     "label": "CMIP6", 
     "namespace": "esdoc:errata:project:cmip6", 
     "status": "pending", 
-    "uid": "62ecc4d1-b82b-4c66-bb9c-ff42777e4d4d"
+    "uid": "06f601ee-e0ee-4098-9c7f-d733d2a38fd5"
 }
