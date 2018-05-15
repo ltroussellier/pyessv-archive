@@ -3,6 +3,9 @@
     "canonical_name": "uhh", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
+        "homepages": [
+            "https://www.uni-hamburg.de"
+        ], 
         "postal_address": "Universitat Hamburg, Hamburg 20148, Germany"
     }, 
     "label": "UHH", 

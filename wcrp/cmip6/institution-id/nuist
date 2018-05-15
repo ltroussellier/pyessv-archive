@@ -3,6 +3,9 @@
     "canonical_name": "nuist", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
+        "homepages": [
+            "www.nuist.edu.cn"
+        ], 
         "postal_address": "Nanjing University of Information Science and Technology, Nanjing, 210044, China"
     }, 
     "label": "NUIST", 

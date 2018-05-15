@@ -3,6 +3,9 @@
     "canonical_name": "uoft", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
+        "homepages": [
+            "https://www.physics.utoronto.ca"
+        ], 
         "postal_address": "Department of Physics, University of Toronto, 60 St George Street, Toronto, ON M5S1A7, Canada"
     }, 
     "label": "UofT", 

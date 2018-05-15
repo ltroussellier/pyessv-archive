@@ -3,6 +3,9 @@
     "canonical_name": "inm", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
+        "homepages": [
+            "www.inm.ras.ru"
+        ], 
         "postal_address": "Institute for Numerical Mathematics, Russian Academy of Science, Moscow 119991, Russia"
     }, 
     "label": "INM", 

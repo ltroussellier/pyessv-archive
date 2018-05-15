@@ -3,6 +3,9 @@
     "canonical_name": "bnu", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
+        "homepages": [
+            "http://english.bnu.edu.cn"
+        ], 
         "postal_address": "Beijing Normal University, Beijing 100875, China"
     }, 
     "label": "BNU", 

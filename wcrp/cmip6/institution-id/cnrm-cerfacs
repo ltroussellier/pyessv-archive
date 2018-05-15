@@ -3,6 +3,9 @@
     "canonical_name": "cnrm-cerfacs", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
+        "homepages": [
+            "http://www.umr-cnrm.fr"
+        ], 
         "postal_address": "CNRM (Centre National de Recherches Meteorologiques, Toulouse 31057, France), CERFACS (Centre Europeen de Recherche et de Formation Avancee en Calcul Scientifique, Toulouse 31057, France)"
     }, 
     "label": "CNRM-CERFACS", 

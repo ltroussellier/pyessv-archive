@@ -3,6 +3,9 @@
     "canonical_name": "kiost", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
+        "homepages": [
+            "http://www.kiost.ac.kr"
+        ], 
         "postal_address": "Korea Institute of Ocean Science & Technology, Busan 49111, Republic of Korea"
     }, 
     "label": "KIOST", 

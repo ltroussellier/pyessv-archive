@@ -3,6 +3,9 @@
     "canonical_name": "awi", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
+        "homepages": [
+            "https://www.awi.de/en.html"
+        ], 
         "postal_address": "Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Am Handelshafen 12, 27570 Bremerhaven, Germany"
     }, 
     "label": "AWI", 

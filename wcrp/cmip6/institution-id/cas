@@ -3,6 +3,9 @@
     "canonical_name": "cas", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
+        "homepages": [
+            "http://english.iap.cas.cn"
+        ], 
         "postal_address": "Chinese Academy of Sciences, Beijing 100029, China"
     }, 
     "label": "CAS", 

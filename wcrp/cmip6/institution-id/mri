@@ -3,6 +3,9 @@
     "canonical_name": "mri", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
+        "homepages": [
+            "www.mri-jma.go.jp"
+        ], 
         "postal_address": "Meteorological Research Institute, Tsukuba, Ibaraki 305-0052, Japan"
     }, 
     "label": "MRI", 
