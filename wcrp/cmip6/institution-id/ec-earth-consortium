@@ -3,10 +3,160 @@
     "canonical_name": "ec-earth-consortium", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "homepages": [
-            "http://www.ec-earth.org"
+        "consortia": [
+            {
+                "code": "AEMET", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "BSC", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "CNR-ISAC", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "DMI", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "ENEA", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "FMI", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "Geomar", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "ICHEC", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "ICTP", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "IDL", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "IMAU", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "IPMA", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "KIT", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "KNMI", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "Lund University", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "Met Eireann", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "NLeSC", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "NTNU", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "Oxford University", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "surfSARA", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "SMHI", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "Stockholm University", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "Unite ASTR", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "University College Dublin", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "University of Bergen", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "University of Santiago de Compostela", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "Uppsala University", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "Utrecht University", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "Vrije Universiteit", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "Wageningen University", 
+                "homepage": "", 
+                "postalAddress": ""
+            }
         ], 
-        "postal_address": "AEMET, Spain; BSC, Spain; CNR-ISAC, Italy; DMI, Denmark; ENEA, Italy; FMI, Finland; Geomar, Germany; ICHEC, Ireland; ICTP, Italy; IDL, Portugal; IMAU, The Netherlands; IPMA, Portugal; KIT, Karlsruhe, Germany; KNMI, The Netherlands; Lund University, Sweden; Met Eireann, Ireland; NLeSC, The Netherlands; NTNU, Norway; Oxford University, UK; surfSARA, The Netherlands; SMHI, Sweden; Stockholm University, Sweden; Unite ASTR, Belgium; University College Dublin, Ireland; University of Bergen, Norway; University of Copenhagen, Denmark; University of Helsinki, Finland; University of Santiago de Compostela, Spain; Uppsala University, Sweden; Utrecht University, The Netherlands; Vrije Universiteit Amsterdam, the Netherlands; Wageningen University, The Netherlands. Mailing address: EC-Earth consortium, Rossby Center, Swedish Meteorological and Hydrological Institute/SMHI, SE-601 76 Norrkoping, Sweden"
+        "homepage": "http://www.ec-earth.org", 
+        "postalAddress": "EC-Earth consortium, Rossby Center, Swedish Meteorological and Hydrological Institute/SMHI, SE-601 76 Norrkoping, Sweden"
     }, 
     "label": "EC-Earth-Consortium", 
     "namespace": "wcrp:cmip6:institution-id:ec-earth-consortium", 

@@ -3,10 +3,9 @@
     "canonical_name": "nasa-giss", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "homepages": [
-            "https://www.giss.nasa.gov"
-        ], 
-        "postal_address": "Goddard Institute for Space Studies, New York, NY 10025, USA"
+        "consortia": [], 
+        "homepage": "https://www.giss.nasa.gov", 
+        "postalAddress": "Goddard Institute for Space Studies, New York, NY 10025, USA"
     }, 
     "label": "NASA-GISS", 
     "namespace": "wcrp:cmip6:institution-id:nasa-giss", 

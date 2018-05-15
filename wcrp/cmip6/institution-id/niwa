@@ -3,10 +3,9 @@
     "canonical_name": "niwa", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "homepages": [
-            "https://www.niwa.co.nz"
-        ], 
-        "postal_address": "National Institute of Water and Atmospheric Research, Hataitai, Wellington 6021, New Zealand"
+        "consortia": [], 
+        "homepage": "https://www.niwa.co.nz", 
+        "postalAddress": "National Institute of Water and Atmospheric Research, Hataitai, Wellington 6021, New Zealand"
     }, 
     "label": "NIWA", 
     "namespace": "wcrp:cmip6:institution-id:niwa", 

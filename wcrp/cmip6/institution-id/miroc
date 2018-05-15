@@ -3,13 +3,30 @@
     "canonical_name": "miroc", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "homepages": [
-            "www.jamstec.go.jp", 
-            "www.aori.u-tokyo.ac.jp", 
-            "www.nies.go.jp", 
-            "www.riken.jp"
+        "consortia": [
+            {
+                "code": "JAMSTEC", 
+                "homepage": "www.jamstec.go.jp", 
+                "postalAddress": "Japan Agency for Marine-Earth Science and Technology, Kanagawa 236-0001, Japan"
+            }, 
+            {
+                "code": "AORI", 
+                "homepage": "www.aori.u-tokyo.ac.jp", 
+                "postalAddress": "Atmosphere and Ocean Research Institute, The University of Tokyo, Chiba 277-8564, Japan"
+            }, 
+            {
+                "code": "NIES", 
+                "homepage": "www.nies.go.jp", 
+                "postalAddress": "National Institute for Environmental Studies, Ibaraki 305-8506, Japan"
+            }, 
+            {
+                "code": "R-CCS", 
+                "homepage": "www.riken.jp", 
+                "postalAddress": "RIKEN Center for Computational Science, Hyogo 650-0047, Japan"
+            }
         ], 
-        "postal_address": "JAMSTEC (Japan Agency for Marine-Earth Science and Technology, Kanagawa 236-0001, Japan), AORI (Atmosphere and Ocean Research Institute, The University of Tokyo, Chiba 277-8564, Japan), NIES (National Institute for Environmental Studies, Ibaraki 305-8506, Japan), and R-CCS (RIKEN Center for Computational Science, Hyogo 650-0047, Japan)"
+        "homepage": "", 
+        "postalAddress": ""
     }, 
     "label": "MIROC", 
     "namespace": "wcrp:cmip6:institution-id:miroc", 

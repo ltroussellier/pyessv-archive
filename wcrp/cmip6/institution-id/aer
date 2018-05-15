@@ -3,10 +3,9 @@
     "canonical_name": "aer", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "homepages": [
-            "https://www.aer.com"
-        ], 
-        "postal_address": "Research and Climate Group, Atmospheric and Environmental Research, 131 Hartwell Avenue, Lexington, MA 02421, USA"
+        "consortia": [], 
+        "homepage": "https://www.aer.com", 
+        "postalAddress": "Research and Climate Group, Atmospheric and Environmental Research, 131 Hartwell Avenue, Lexington, MA 02421, USA"
     }, 
     "label": "AER", 
     "namespace": "wcrp:cmip6:institution-id:aer", 

@@ -3,10 +3,9 @@
     "canonical_name": "mpi-m", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "homepages": [
-            "https://www.mpimet.mpg.de"
-        ], 
-        "postal_address": "Max Planck Institute for Meteorology, Hamburg 20146, Germany"
+        "consortia": [], 
+        "homepage": "https://www.mpimet.mpg.de", 
+        "postalAddress": "Max Planck Institute for Meteorology, Hamburg 20146, Germany"
     }, 
     "label": "MPI-M", 
     "namespace": "wcrp:cmip6:institution-id:mpi-m", 

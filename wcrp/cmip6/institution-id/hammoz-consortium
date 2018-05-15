@@ -3,10 +3,45 @@
     "canonical_name": "hammoz-consortium", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "homepages": [
-            "http://www.c2sm.ethz.ch/services/global-climate-modeling.html"
+        "consortia": [
+            {
+                "code": "ETH", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "MPI-M", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "Forschungszentrum Julich", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "University of Oxford", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "Finnish Meteorological Institute", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "Leibniz Institute for Tropospheric Research", 
+                "homepage": "", 
+                "postalAddress": ""
+            }, 
+            {
+                "code": "C2SM", 
+                "homepage": "", 
+                "postalAddress": ""
+            }
         ], 
-        "postal_address": "ETH Zurich, Switzerland; Max Planck Institut fur Meteorologie, Germany; Forschungszentrum Julich, Germany; University of Oxford, UK; Finnish Meteorological Institute, Finland; Leibniz Institute for Tropospheric Research, Germany; Center for Climate Systems Modeling (C2SM) at ETH Zurich, Switzerland"
+        "homepage": "http://www.c2sm.ethz.ch/services/global-climate-modeling.html", 
+        "postalAddress": ""
     }, 
     "label": "HAMMOZ-Consortium", 
     "namespace": "wcrp:cmip6:institution-id:hammoz-consortium", 
