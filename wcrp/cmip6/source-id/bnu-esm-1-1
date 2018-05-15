@@ -5,10 +5,13 @@
     "data": {
         "activity_participation": [
             "C4MIP", 
+            "CDRMIP", 
+            "CFMIP", 
             "CMIP", 
             "GMMIP", 
             "GeoMIP", 
             "OMIP", 
+            "RFMIP", 
             "ScenarioMIP"
         ], 
         "cohort": [

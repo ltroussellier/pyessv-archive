@@ -48,7 +48,7 @@
             }
         }, 
         "release_year": "2016", 
-        "source_id": "CAMS_CSM1-0"
+        "source_id": "CAMS-CSM1-0"
     }, 
     "label": "CAMS_CSM 1.0", 
     "namespace": "wcrp:cmip6:source-id:cams-csm1-0", 

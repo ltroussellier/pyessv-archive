@@ -1,10 +1,12 @@
 {
     "_type": "term", 
-    "canonical_name": "giss-e2-1h", 
+    "canonical_name": "giss-e2-1-ma-g", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activity_participation": [
-            "CMIP"
+            "CMIP", 
+            "RFMIP", 
+            "VolMIP"
         ], 
         "cohort": [
             "Registered"
@@ -12,14 +14,14 @@
         "institution_id": [
             "NASA-GISS"
         ], 
-        "label_extended": "GISS-E2.1H", 
+        "label_extended": "GISS-E2.1MA-G", 
         "model_component": {
             "aerosol": {
                 "description": "Varies with physics-version (p==1 none, p==3 OMA, p==4 TOMAS, p==5 MATRIX)", 
                 "nominal_resolution": "250 km"
             }, 
             "atmos": {
-                "description": "GISS-E2.1 (2x2.5 degree; 90 x 144 longitude/latitude; 40 levels; top level 0.1 hPa)", 
+                "description": "GISS-E2.1MA (2.5x2 degree; 144 x 90 longitude/latitude; 102 levels; top level 0.002 hPa)", 
                 "nominal_resolution": "250 km"
             }, 
             "atmosChem": {
@@ -35,7 +37,7 @@
                 "nominal_resolution": "none"
             }, 
             "ocean": {
-                "description": "HYCOM Ocean (~1 degree tripolar grid; 360 x 180 latitude/longitude; 26 levels; top grid cell 0-10 m)", 
+                "description": "GISS Ocean (1 degree; 360 x 180 longitude/latitude; 32 levels; top grid cell 0-10 m)", 
                 "nominal_resolution": "100 km"
             }, 
             "ocnBgchem": {
@@ -44,15 +46,15 @@
             }, 
             "seaIce": {
                 "description": "GISS SI", 
-                "nominal_resolution": "250 km"
+                "nominal_resolution": "100 km"
             }
         }, 
-        "release_year": "2016", 
-        "source_id": "GISS-E2-1H"
+        "release_year": "2018", 
+        "source_id": "GISS-E2-1-MA-G"
     }, 
-    "label": "GISS-E2.1H", 
-    "namespace": "wcrp:cmip6:source-id:giss-e2-1h", 
-    "raw_name": "GISS-E2-1H", 
+    "label": "GISS-E2.1MA-G", 
+    "namespace": "wcrp:cmip6:source-id:giss-e2-1-ma-g", 
+    "raw_name": "GISS-E2-1-MA-G", 
     "status": "pending", 
-    "uid": "255a6d24-084e-446d-a0c1-1b18463f93aa"
+    "uid": "0b316528-671a-4337-8801-b49980e54d0a"
 }

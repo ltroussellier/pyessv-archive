@@ -21,8 +21,8 @@
                 "nominal_resolution": "250 km"
             }, 
             "atmos": {
-                "description": "ICON-AES (icosahedral/triangles; 160 km; 47 levels; top level 80 km)", 
-                "nominal_resolution": "250 km"
+                "description": "ICON-A (icosahedral/triangles; 160 km; 47 levels; top level 80 km)", 
+                "nominal_resolution": "100 km"
             }, 
             "atmosChem": {
                 "description": "none", 
@@ -37,7 +37,7 @@
                 "nominal_resolution": "none"
             }, 
             "ocean": {
-                "description": "ICON-OES (icosahedral/triangles; 40 km; 40 levels; top grid cell 0-12 m)", 
+                "description": "ICON-O (icosahedral/triangles; 40 km; 40 levels; top grid cell 0-12 m)", 
                 "nominal_resolution": "50 km"
             }, 
             "ocnBgchem": {

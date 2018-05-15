@@ -4,7 +4,17 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activity_participation": [
-            "CMIP"
+            "CMIP", 
+            "CORDEX", 
+            "DAMIP", 
+            "DCPP", 
+            "FAFMIP", 
+            "GMMIP", 
+            "LS3MIP", 
+            "OMIP", 
+            "PMIP", 
+            "SIMIP", 
+            "ScenarioMIP"
         ], 
         "cohort": [
             "Registered"

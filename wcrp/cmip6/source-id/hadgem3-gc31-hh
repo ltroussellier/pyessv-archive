@@ -37,7 +37,7 @@
                 "nominal_resolution": "none"
             }, 
             "ocean": {
-                "description": "NEMO-HadGEM3-GO6.0 (ORCA12 tripolar primarily 1/12 deg; 4320 x 3604 longitude/latitude; 75 levels; top grid cell 0-1 m)", 
+                "description": "NEMO-HadGEM3-GO6.0 (eORCA12 tripolar primarily 1/12 deg; 4320 x 3604 longitude/latitude; 75 levels; top grid cell 0-1 m)", 
                 "nominal_resolution": "10 km"
             }, 
             "ocnBgchem": {
@@ -45,7 +45,7 @@
                 "nominal_resolution": "none"
             }, 
             "seaIce": {
-                "description": "CICE-HadGEM3-GSI8 (ORCA12 tripolar primarily 1/12 deg; 4320 x 3604 longitude/latitude)", 
+                "description": "CICE-HadGEM3-GSI8 (eORCA12 tripolar primarily 1/12 deg; 4320 x 3604 longitude/latitude)", 
                 "nominal_resolution": "10 km"
             }
         }, 

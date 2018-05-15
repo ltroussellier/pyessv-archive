@@ -5,6 +5,7 @@
     "data": {
         "activity_participation": [
             "C4MIP", 
+            "CDRMIP", 
             "CMIP", 
             "DynVarMIP", 
             "GeoMIP", 
@@ -56,7 +57,7 @@
                 "nominal_resolution": "100 km"
             }
         }, 
-        "release_year": "2017", 
+        "release_year": "2018", 
         "source_id": "MIROC-ES2L"
     }, 
     "label": "MIROC-ES2L", 

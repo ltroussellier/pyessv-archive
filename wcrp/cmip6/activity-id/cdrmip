@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "cdrmip", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "label": "CDRMIP", 
+    "namespace": "wcrp:cmip6:activity-id:cdrmip", 
+    "raw_name": "CDRMIP", 
+    "status": "pending", 
+    "uid": "5100400c-cced-4afb-8fe4-4a6330ec8534"
+}

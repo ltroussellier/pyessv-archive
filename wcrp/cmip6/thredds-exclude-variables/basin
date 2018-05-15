@@ -1,9 +1,0 @@
-{
-    "_type": "term", 
-    "canonical_name": "basin", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "basin", 
-    "namespace": "wcrp:cmip6:thredds-exclude-variables:basin", 
-    "status": "pending", 
-    "uid": "4a365523-b885-429a-8c77-4181a6cf4396"
-}

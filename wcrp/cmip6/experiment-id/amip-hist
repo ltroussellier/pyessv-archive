@@ -13,7 +13,7 @@
         "end_year": "2014", 
         "experiment": "AMIP-style simulation covering the period 1870-2014", 
         "experiment_id": "amip-hist", 
-        "min_number_yrs_per_sim": "144", 
+        "min_number_yrs_per_sim": "145", 
         "parent_activity_id": [
             "no parent"
         ], 

@@ -14,7 +14,7 @@
         "end_year": "2100", 
         "experiment": "volcanic cluster experiment under 21st century SSP2-4.5 scenario", 
         "experiment_id": "volc-cluster-21C", 
-        "min_number_yrs_per_sim": "85", 
+        "min_number_yrs_per_sim": "86", 
         "parent_activity_id": [
             "CMIP"
         ], 

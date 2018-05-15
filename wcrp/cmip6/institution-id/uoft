@@ -1,0 +1,13 @@
+{
+    "_type": "term", 
+    "canonical_name": "uoft", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "data": {
+        "postal_address": "Department of Physics, University of Toronto, 60 St George Street, Toronto, ON M5S1A7, Canada"
+    }, 
+    "label": "UofT", 
+    "namespace": "wcrp:cmip6:institution-id:uoft", 
+    "raw_name": "UofT", 
+    "status": "pending", 
+    "uid": "171440e0-5e86-4851-9a75-dafc7365f547"
+}

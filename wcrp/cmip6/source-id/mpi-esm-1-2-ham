@@ -1,6 +1,6 @@
 {
     "_type": "term", 
-    "canonical_name": "mpiesm-1-2-ham", 
+    "canonical_name": "mpi-esm-1-2-ham", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activity_participation": [
@@ -13,7 +13,7 @@
         "institution_id": [
             "HAMMOZ-Consortium"
         ], 
-        "label_extended": "MPIESM1.2-HAM", 
+        "label_extended": "MPI-ESM1.2-HAM", 
         "model_component": {
             "aerosol": {
                 "description": "HAM2.3", 
@@ -49,11 +49,11 @@
             }
         }, 
         "release_year": "2017", 
-        "source_id": "MPIESM-1-2-HAM"
+        "source_id": "MPI-ESM-1-2-HAM"
     }, 
-    "label": "MPIESM1.2-HAM", 
-    "namespace": "wcrp:cmip6:source-id:mpiesm-1-2-ham", 
-    "raw_name": "MPIESM-1-2-HAM", 
+    "label": "MPI-ESM1.2-HAM", 
+    "namespace": "wcrp:cmip6:source-id:mpi-esm-1-2-ham", 
+    "raw_name": "MPI-ESM-1-2-HAM", 
     "status": "pending", 
-    "uid": "841f078b-272a-43bb-a76b-970258d97f0f"
+    "uid": "4c0ea2c8-8722-456f-b20e-aefff5848f0e"
 }
