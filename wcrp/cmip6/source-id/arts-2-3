@@ -16,35 +16,35 @@
         "model_component": {
             "aerosol": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "atmos": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "atmosChem": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "land": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "landIce": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "ocean": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "ocnBgchem": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "seaIce": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }
         }, 
         "release_year": "2015", 

@@ -23,35 +23,35 @@
         "model_component": {
             "aerosol": {
                 "description": "MAM4", 
-                "nominal_resolution": "100 km"
+                "native_nominal_resolution": "100 km"
             }, 
             "atmos": {
                 "description": "CIESM-AM (FV/FD; 288 x 192 longitude/latitude; 30 levels; top level 2.255 hPa)", 
-                "nominal_resolution": "100 km"
+                "native_nominal_resolution": "100 km"
             }, 
             "atmosChem": {
                 "description": "trop_mam4", 
-                "nominal_resolution": "100 km"
+                "native_nominal_resolution": "100 km"
             }, 
             "land": {
                 "description": "CIESM-LM (modified CLM4.5)", 
-                "nominal_resolution": "100 km"
+                "native_nominal_resolution": "100 km"
             }, 
             "landIce": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "ocean": {
                 "description": "CIESM-OM (FD, SCCGrid Displaced Pole; 720 x 560 longitude/latitude; 46 levels; top grid cell 0-6 m)", 
-                "nominal_resolution": "50 km"
+                "native_nominal_resolution": "50 km"
             }, 
             "ocnBgchem": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "seaIce": {
                 "description": "CICE4", 
-                "nominal_resolution": "50 km"
+                "native_nominal_resolution": "50 km"
             }
         }, 
         "release_year": "2017", 

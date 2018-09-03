@@ -16,38 +16,38 @@
         "model_component": {
             "aerosol": {
                 "description": "interactive", 
-                "nominal_resolution": "100 km"
+                "native_nominal_resolution": "100 km"
             }, 
             "atmos": {
                 "description": "GFDL-AM4.0 (Cubed-sphere (c96) - 1 degree nominal horizontal resolution; 360 x 180 longitude/latitude; 33 levels; top level 1 hPa)", 
-                "nominal_resolution": "100 km"
+                "native_nominal_resolution": "100 km"
             }, 
             "atmosChem": {
                 "description": "fast chemistry, aerosol only", 
-                "nominal_resolution": "100 km"
+                "native_nominal_resolution": "100 km"
             }, 
             "land": {
                 "description": "GFDL-LM4.0", 
-                "nominal_resolution": "100 km"
+                "native_nominal_resolution": "100 km"
             }, 
             "landIce": {
                 "description": "GFDL-LM4.0", 
-                "nominal_resolution": "100 km"
+                "native_nominal_resolution": "100 km"
             }, 
             "ocean": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "ocnBgchem": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "seaIce": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }
         }, 
-        "release_year": "2017", 
+        "release_year": "2018", 
         "source_id": "GFDL-AM4"
     }, 
     "label": "GFDL-AM4", 

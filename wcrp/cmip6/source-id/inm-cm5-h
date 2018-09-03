@@ -16,35 +16,35 @@
         "model_component": {
             "aerosol": {
                 "description": "INM-AER1", 
-                "nominal_resolution": "50 km"
+                "native_nominal_resolution": "50 km"
             }, 
             "atmos": {
                 "description": "INM-AM5-H (0.67x0.5; 540 x 360 longitude/latitude; 73 levels; top level sigma = 0.0002)", 
-                "nominal_resolution": "50 km"
+                "native_nominal_resolution": "50 km"
             }, 
             "atmosChem": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "land": {
                 "description": "INM-LND1", 
-                "nominal_resolution": "50 km"
+                "native_nominal_resolution": "50 km"
             }, 
             "landIce": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "ocean": {
                 "description": "INM-OM5-H (North Pole shifted to 60N, 90E. 0.167x0.125; 2160x1440 longitude/latitude; 40 levels; vertical sigma coordinate)", 
-                "nominal_resolution": "10 km"
+                "native_nominal_resolution": "10 km"
             }, 
             "ocnBgchem": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "seaIce": {
                 "description": "INM-ICE1", 
-                "nominal_resolution": "10 km"
+                "native_nominal_resolution": "10 km"
             }
         }, 
         "release_year": "2016", 

@@ -17,35 +17,35 @@
         "model_component": {
             "aerosol": {
                 "description": "prescribed MACv2-SP", 
-                "nominal_resolution": "25 km"
+                "native_nominal_resolution": "25 km"
             }, 
             "atmos": {
                 "description": "CAM4 (1/4deg; 1152 x 768 longitude/latitude; 26 levels; top at ~2 hPa)", 
-                "nominal_resolution": "25 km"
+                "native_nominal_resolution": "25 km"
             }, 
             "atmosChem": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "land": {
                 "description": "CLM4.5 (SP mode)", 
-                "nominal_resolution": "25 km"
+                "native_nominal_resolution": "25 km"
             }, 
             "landIce": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "ocean": {
                 "description": "NEMO3.6 (ORCA0.25 1/4 deg from the Equator degrading at the poles; 1442 x 1051 longitude/latitude; 50 vertical levels; top grid cell 0-1 m)", 
-                "nominal_resolution": "25 km"
+                "native_nominal_resolution": "25 km"
             }, 
             "ocnBgchem": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "seaIce": {
                 "description": "CICE4.0", 
-                "nominal_resolution": "25 km"
+                "native_nominal_resolution": "25 km"
             }
         }, 
         "release_year": "2017", 

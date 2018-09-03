@@ -8,7 +8,8 @@
         ], 
         "additional_allowed_model_components": [
             "AER", 
-            "CHEM"
+            "CHEM", 
+            "BGC"
         ], 
         "end_year": "2100", 
         "experiment": "transient effective radiative forcing by aerosols", 

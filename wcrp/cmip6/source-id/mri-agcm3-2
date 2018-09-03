@@ -18,35 +18,35 @@
         "model_component": {
             "aerosol": {
                 "description": "Prescribed from MRI-ESM2.0", 
-                "nominal_resolution": "250 km"
+                "native_nominal_resolution": "250 km"
             }, 
             "atmos": {
                 "description": "MRI-AGCM3.2S (TL959; 1920 x 960 longitude/latitude; 64 levels; top level 0.01 hPa)", 
-                "nominal_resolution": "25 km"
+                "native_nominal_resolution": "25 km"
             }, 
             "atmosChem": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "land": {
                 "description": "SIB0109", 
-                "nominal_resolution": "25 km"
+                "native_nominal_resolution": "25 km"
             }, 
             "landIce": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "ocean": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "ocnBgchem": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "seaIce": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }
         }, 
         "release_year": "2017", 

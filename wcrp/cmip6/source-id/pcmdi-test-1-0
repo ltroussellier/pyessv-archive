@@ -16,35 +16,35 @@
         "model_component": {
             "aerosol": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "atmos": {
                 "description": "Earth1.0-gettingHotter (360 x 180 longitude/latitude; 50 levels; top level 0.1 mb)", 
-                "nominal_resolution": "1x1 degree"
+                "native_nominal_resolution": "1x1 degree"
             }, 
             "atmosChem": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "land": {
                 "description": "Earth1.0", 
-                "nominal_resolution": "1x1 degree"
+                "native_nominal_resolution": "1x1 degree"
             }, 
             "landIce": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "ocean": {
                 "description": "BlueMarble1.0-warming (360 x 180 longitude/latitude; 50 levels; top grid cell 0-10 m)", 
-                "nominal_resolution": "1x1 degree"
+                "native_nominal_resolution": "1x1 degree"
             }, 
             "ocnBgchem": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "seaIce": {
                 "description": "Declining1.0-warming (360 x 180 longitude/latitude)", 
-                "nominal_resolution": "1x1 degree"
+                "native_nominal_resolution": "1x1 degree"
             }
         }, 
         "release_year": "1989", 

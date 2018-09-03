@@ -1,0 +1,15 @@
+{
+    "_type": "term", 
+    "canonical_name": "csiro-arccss-bom", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "data": {
+        "consortia": [], 
+        "homepage": "", 
+        "postalAddress": "Commonwealth Scientific and Industrial Research Organisation, Australian Research Council Centre of Excellence for Climate System Science, and Bureau of Meteorology, Aspendale, Victoria 3195, Australia"
+    }, 
+    "label": "CSIRO-ARCCSS-BoM", 
+    "namespace": "wcrp:cmip6:institution-id:csiro-arccss-bom", 
+    "raw_name": "CSIRO-ARCCSS-BoM", 
+    "status": "pending", 
+    "uid": "310f5906-3c35-4983-a2c4-c547030c8049"
+}

@@ -28,7 +28,7 @@
         "sub_experiment_id": [
             "none"
         ], 
-        "tier": "1"
+        "tier": "2"
     }, 
     "description": "Against a background of the ScenarioMIP high forcing, reduce cirrus cloud optical depth by a constant amount", 
     "label": "G7cirrus", 

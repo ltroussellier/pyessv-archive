@@ -4,7 +4,8 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activity_participation": [
-            "CMIP"
+            "CMIP", 
+            "PMIP"
         ], 
         "cohort": [
             "Registered"
@@ -16,35 +17,35 @@
         "model_component": {
             "aerosol": {
                 "description": "INM-AER1", 
-                "nominal_resolution": "100 km"
+                "native_nominal_resolution": "100 km"
             }, 
             "atmos": {
                 "description": "INM-AM4-8 (2x1.5; 180 x 120 longitude/latitude; 21 levels; top level sigma = 0.01)", 
-                "nominal_resolution": "100 km"
+                "native_nominal_resolution": "100 km"
             }, 
             "atmosChem": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "land": {
                 "description": "INM-LND1", 
-                "nominal_resolution": "100 km"
+                "native_nominal_resolution": "100 km"
             }, 
             "landIce": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "ocean": {
                 "description": "INM-OM5 (North Pole shifted to 60N, 90E; 360 x 318 longitude/latitude; 40 levels; sigma vertical coordinate)", 
-                "nominal_resolution": "100 km"
+                "native_nominal_resolution": "100 km"
             }, 
             "ocnBgchem": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "seaIce": {
                 "description": "INM-ICE1", 
-                "nominal_resolution": "100 km"
+                "native_nominal_resolution": "100 km"
             }
         }, 
         "release_year": "2016", 

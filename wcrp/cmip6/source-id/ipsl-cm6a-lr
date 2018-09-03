@@ -29,35 +29,35 @@
         "model_component": {
             "aerosol": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "atmos": {
                 "description": "LMDZ (NPv6, N96; 144 x 143 longitude/latitude; 79 levels; top level 40000 m)", 
-                "nominal_resolution": "250 km"
+                "native_nominal_resolution": "250 km"
             }, 
             "atmosChem": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "land": {
                 "description": "ORCHIDEE (v2.0, Water/Carbon/Energy mode)", 
-                "nominal_resolution": "250 km"
+                "native_nominal_resolution": "250 km"
             }, 
             "landIce": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "ocean": {
                 "description": "NEMO-OPA (eORCA1.3, tripolar primarily 1deg; 362 x 332 longitude/latitude; 75 levels; top grid cell 0-2 m)", 
-                "nominal_resolution": "100 km"
+                "native_nominal_resolution": "100 km"
             }, 
             "ocnBgchem": {
                 "description": "NEMO-PISCES", 
-                "nominal_resolution": "100 km"
+                "native_nominal_resolution": "100 km"
             }, 
             "seaIce": {
                 "description": "NEMO-LIM3", 
-                "nominal_resolution": "100 km"
+                "native_nominal_resolution": "100 km"
             }
         }, 
         "release_year": "2017", 

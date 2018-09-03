@@ -27,35 +27,35 @@
         "model_component": {
             "aerosol": {
                 "description": "prescribed monthly fields computed by TACTIC_v2 scheme", 
-                "nominal_resolution": "250 km"
+                "native_nominal_resolution": "250 km"
             }, 
             "atmos": {
                 "description": "Arpege 6.3 (T127; Gaussian Reduced with 24572 grid points in total distributed over 128 latitude circles (with 256 grid points per latitude circle between 30degN and 30degS reducing to 20 grid points per latitude circle at 88.9degN and 88.9degS); 91 levels; top level 78.4 km)", 
-                "nominal_resolution": "250 km"
+                "native_nominal_resolution": "250 km"
             }, 
             "atmosChem": {
                 "description": "OZL_v2", 
-                "nominal_resolution": "250 km"
+                "native_nominal_resolution": "250 km"
             }, 
             "land": {
                 "description": "Surfex 8.0c", 
-                "nominal_resolution": "250 km"
+                "native_nominal_resolution": "250 km"
             }, 
             "landIce": {
                 "description": "GRISLI: Collaborating with l'Institut des Geosciences de l'Environnement in Grenoble on offline ice-sheet simulations", 
-                "nominal_resolution": "10 km"
+                "native_nominal_resolution": "10 km"
             }, 
             "ocean": {
                 "description": "Nemo 3.6 (eORCA1, tripolar primarily 1deg; 362 x 294 longitude/latitude; 75 levels; top grid cell 0-1 m)", 
-                "nominal_resolution": "100 km"
+                "native_nominal_resolution": "100 km"
             }, 
             "ocnBgchem": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "seaIce": {
                 "description": "Gelato 6.1", 
-                "nominal_resolution": "100 km"
+                "native_nominal_resolution": "100 km"
             }
         }, 
         "release_year": "2017", 

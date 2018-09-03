@@ -13,7 +13,7 @@
         "end_year": "2300", 
         "experiment": "extension of the LUMIP emissions-driven simulation following SSP5-8.5 with SSP1-2.6 land use", 
         "experiment_id": "esm-ssp585-ssp126Lu-ext", 
-        "min_number_yrs_per_sim": "201", 
+        "min_number_yrs_per_sim": "200", 
         "parent_activity_id": [
             "LUMIP"
         ], 
@@ -24,7 +24,7 @@
             "AOGCM", 
             "BGC"
         ], 
-        "start_year": "2100", 
+        "start_year": "2101", 
         "sub_experiment_id": [
             "none"
         ], 

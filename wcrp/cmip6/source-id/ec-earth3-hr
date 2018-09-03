@@ -4,7 +4,6 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activity_participation": [
-            "CMIP", 
             "DCPP", 
             "HighResMIP"
         ], 
@@ -18,35 +17,35 @@
         "model_component": {
             "aerosol": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "atmos": {
-                "description": "IFS cy36r4 (TL511; linearly reduced Gaussian grid; 1024 x 512 longitude/latitude; 91 levels; top level 0.01 hPa)", 
-                "nominal_resolution": "50 km"
+                "description": "IFS cy36r4 (TL511, linearly reduced Gaussian grid equivalent to 1024 x 512 longitude/latitude; 91 levels; top level 0.01 hPa)", 
+                "native_nominal_resolution": "50 km"
             }, 
             "atmosChem": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "land": {
                 "description": "HTESSEL (land surface scheme built in IFS)", 
-                "nominal_resolution": "50 km"
+                "native_nominal_resolution": "50 km"
             }, 
             "landIce": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "ocean": {
-                "description": "NEMO3.6 (ORCA025; tripolar primarily 0.25 degrees; 1442 x 1921 longitude/latitude; 75 levels; top grid cell 0-1 m)", 
-                "nominal_resolution": "25 km"
+                "description": "NEMO3.6 (ORCA025 tripolar primarily 0.25 degrees; 1442 x 1921 longitude/latitude; 75 levels; top grid cell 0-1 m)", 
+                "native_nominal_resolution": "25 km"
             }, 
             "ocnBgchem": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "seaIce": {
                 "description": "LIM3", 
-                "nominal_resolution": "25 km"
+                "native_nominal_resolution": "25 km"
             }
         }, 
         "release_year": "2017", 

@@ -1,0 +1,56 @@
+{
+    "_type": "term", 
+    "canonical_name": "e3sm-project", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "data": {
+        "consortia": [
+            {
+                "code": "LLNL", 
+                "homepage": "", 
+                "postalAddress": "Lawrence Livermore National Laboratory, Livermore, CA 94550, USA"
+            }, 
+            {
+                "code": "ANL", 
+                "homepage": "", 
+                "postalAddress": "Argonne National Laboratory, Argonne, IL 60439, USA"
+            }, 
+            {
+                "code": "BNL", 
+                "homepage": "", 
+                "postalAddress": "Brookhaven National Laboratory, Upton, NY 11973, USA"
+            }, 
+            {
+                "code": "LANL", 
+                "homepage": "", 
+                "postalAddress": "Los Alamos National Laboratory, Los Alamos, NM 87545, USA"
+            }, 
+            {
+                "code": "LBNL", 
+                "homepage": "", 
+                "postalAddress": "Lawrence Berkeley National Laboratory, Berkeley, CA 94720, USA"
+            }, 
+            {
+                "code": "ORNL", 
+                "homepage": "", 
+                "postalAddress": "Oak Ridge National Laboratory, Oak Ridge, TN 37831, USA"
+            }, 
+            {
+                "code": "PNNL", 
+                "homepage": "", 
+                "postalAddress": "Pacific Northwest National Laboratory, Richland, WA 99352, USA"
+            }, 
+            {
+                "code": "SNL", 
+                "homepage": "", 
+                "postalAddress": "Sandia National Laboratories, Albuquerque, NM 87185, USA"
+            }
+        ], 
+        "homepage": "https://e3sm.org", 
+        "postalAddress": "LLNL Climate Program, c/o David C. Bader, Principal Investigator, L-103, 7000 East Avenue, Livermore, CA 94550, USA"
+    }, 
+    "label": "E3SM-Project", 
+    "namespace": "wcrp:cmip6:institution-id:e3sm-project", 
+    "raw_name": "E3SM-Project", 
+    "status": "pending", 
+    "uid": "65211629-8de6-43a1-aba7-53b3ff57f0c3"
+}

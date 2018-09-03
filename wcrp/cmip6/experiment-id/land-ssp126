@@ -1,6 +1,6 @@
 {
     "_type": "term", 
-    "canonical_name": "land-future", 
+    "canonical_name": "land-ssp126", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activity_id": [
@@ -10,8 +10,8 @@
             "BGC"
         ], 
         "end_year": "2100", 
-        "experiment": "future land-only", 
-        "experiment_id": "land-future", 
+        "experiment": "future ssp1-2.6 land only", 
+        "experiment_id": "land-ssp126", 
         "min_number_yrs_per_sim": "86", 
         "parent_activity_id": [
             "no parent"
@@ -26,10 +26,10 @@
         "sub_experiment_id": [
             "none"
         ], 
-        "tier": "2"
+        "tier": "1"
     }, 
-    "description": "Land only simulations", 
-    "namespace": "wcrp:cmip6:experiment-id:land-future", 
+    "description": "land only simulation for ssp1-2.6", 
+    "namespace": "wcrp:cmip6:experiment-id:land-ssp126", 
     "status": "pending", 
-    "uid": "9d9b113a-29a5-4847-bb9e-04e078bff506"
+    "uid": "ea027b8a-f6cc-4fc4-b5dc-f5e8f1bfda1d"
 }

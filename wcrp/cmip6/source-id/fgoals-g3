@@ -26,35 +26,35 @@
         "model_component": {
             "aerosol": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "atmos": {
                 "description": "GAMIL2 (180 x 90 longitude/latitude; 26 levels; top level 2.19hPa)", 
-                "nominal_resolution": "250 km"
+                "native_nominal_resolution": "250 km"
             }, 
             "atmosChem": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "land": {
                 "description": "CLM4.0", 
-                "nominal_resolution": "250 km"
+                "native_nominal_resolution": "250 km"
             }, 
             "landIce": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "ocean": {
                 "description": "LICOM3.0 (LICOM3.0, tripolar primarily 1deg; 360 x 218 longitude/latitude; 30 levels; top grid cell 0-10 m)", 
-                "nominal_resolution": "100 km"
+                "native_nominal_resolution": "100 km"
             }, 
             "ocnBgchem": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "seaIce": {
                 "description": "CICE4.0", 
-                "nominal_resolution": "100 km"
+                "native_nominal_resolution": "100 km"
             }
         }, 
         "release_year": "2017", 

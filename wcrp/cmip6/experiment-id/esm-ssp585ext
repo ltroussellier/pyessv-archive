@@ -13,7 +13,7 @@
         "end_year": "2300", 
         "experiment": "emission-driven long-term extension of the SSP5-8.5 scenario", 
         "experiment_id": "esm-ssp585ext", 
-        "min_number_yrs_per_sim": "201", 
+        "min_number_yrs_per_sim": "200", 
         "parent_activity_id": [
             "C4MIP"
         ], 
@@ -24,7 +24,7 @@
             "AOGCM", 
             "BGC"
         ], 
-        "start_year": "2100", 
+        "start_year": "2101", 
         "sub_experiment_id": [
             "none"
         ], 

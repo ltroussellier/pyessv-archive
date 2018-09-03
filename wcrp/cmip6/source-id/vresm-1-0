@@ -20,35 +20,35 @@
         "model_component": {
             "aerosol": {
                 "description": "Rotstayn-1.0", 
-                "nominal_resolution": "50 km"
+                "native_nominal_resolution": "50 km"
             }, 
             "atmos": {
                 "description": "VCAM-1.0 (C192; 192 x 192 x 6 longitude/latitude/cubeface; 35 levels; top level 35km)", 
-                "nominal_resolution": "50 km"
+                "native_nominal_resolution": "50 km"
             }, 
             "atmosChem": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "land": {
                 "description": "CABLE v2.2.3", 
-                "nominal_resolution": "50 km"
+                "native_nominal_resolution": "50 km"
             }, 
             "landIce": {
                 "description": "none", 
-                "nominal_resolution": "none"
+                "native_nominal_resolution": "none"
             }, 
             "ocean": {
                 "description": "VCOM-1.0 (C192; 384 x 384 x 6 longitude/latitude/cubeface; 35 levels; top grid cell 0-10 m)", 
-                "nominal_resolution": "25 km"
+                "native_nominal_resolution": "25 km"
             }, 
             "ocnBgchem": {
                 "description": "PISCES v3.4socco", 
-                "nominal_resolution": "25 km"
+                "native_nominal_resolution": "25 km"
             }, 
             "seaIce": {
                 "description": "CSIR-ICE (visco-plastic)", 
-                "nominal_resolution": "25 km"
+                "native_nominal_resolution": "25 km"
             }
         }, 
         "release_year": "2016", 

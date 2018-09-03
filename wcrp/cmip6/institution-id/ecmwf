@@ -1,0 +1,15 @@
+{
+    "_type": "term", 
+    "canonical_name": "ecmwf", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "data": {
+        "consortia": [], 
+        "homepage": "https://www.ecmwf.int", 
+        "postalAddress": "European Centre for Medium-Range Weather Forecasts, Reading RG2 9AX, UK"
+    }, 
+    "label": "ECMWF", 
+    "namespace": "wcrp:cmip6:institution-id:ecmwf", 
+    "raw_name": "ECMWF", 
+    "status": "pending", 
+    "uid": "7407b0ee-69b8-4faa-ae7a-180b3316243a"
+}

@@ -1,0 +1,15 @@
+{
+    "_type": "term", 
+    "canonical_name": "utas", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "data": {
+        "consortia": [], 
+        "homepage": "http://www.imas.utas.edu.au", 
+        "postalAddress": "Institute for Marine and Antarctic Studies, University of Tasmania, Hobart, Tasmania 7001, Australia"
+    }, 
+    "label": "UTAS", 
+    "namespace": "wcrp:cmip6:institution-id:utas", 
+    "raw_name": "UTAS", 
+    "status": "pending", 
+    "uid": "b5835d34-570d-4273-b47c-013111e6bc70"
+}
