@@ -29,14 +29,14 @@
                         "seaice:Sea Ice", 
                         "toplevel:Top Level"
                     ], 
-                    "uid": "97bc8887-c046-4978-b46b-3a0afeca9821"
+                    "uid": "6af88365-80cb-4c67-a118-01cb34d5a3db"
                 }
             ], 
             "create_date": "2017-06-21 00:00:00+00:00", 
             "description": "ES-DOC controlled Vocabularies (CVs) for use in cmip6", 
             "label": "CMIP6", 
             "namespace": "esdoc:cmip6", 
-            "uid": "eba81ce7-b333-4e24-9055-ba05a7bb2d7f", 
+            "uid": "0ba4cbaa-7622-4832-bf7e-d970b39fe2e1", 
             "url": "https://github.com/ES-DOC"
         }, 
         {
@@ -55,7 +55,7 @@
                         "delete:Delete", 
                         "insert:Insert"
                     ], 
-                    "uid": "346c91f0-9882-41e6-a5e2-d394cd72ac25"
+                    "uid": "5ed4dc0d-196e-4ca9-a523-698878d4b889"
                 }, 
                 {
                     "_type": "collection", 
@@ -70,7 +70,7 @@
                         "error:Error", 
                         "queued:Queued"
                     ], 
-                    "uid": "eebcbb9f-3916-4f52-8e3b-1238cd9819d9"
+                    "uid": "f0c2a196-f0f5-4f94-b1e1-648bfda6c680"
                 }, 
                 {
                     "_type": "collection", 
@@ -85,7 +85,7 @@
                         "cmip6:CMIP6", 
                         "cordex:CORDEX"
                     ], 
-                    "uid": "d5160f92-c382-4ef1-9948-a3d2117a9edd"
+                    "uid": "e350bf24-3cb8-4ca0-996a-1b0c688a0bb0"
                 }, 
                 {
                     "_type": "collection", 
@@ -101,7 +101,7 @@
                         "low:Low", 
                         "medium:Medium"
                     ], 
-                    "uid": "7b3acb5e-08cf-43d0-9a39-816ecee790de"
+                    "uid": "9dc0c836-7ef5-42bb-816c-e2fdfd801cb9"
                 }, 
                 {
                     "_type": "collection", 
@@ -117,17 +117,17 @@
                         "resolved:Resolved", 
                         "wontfix:Wont Fix"
                     ], 
-                    "uid": "6bc7d1cd-0246-4098-868e-0aa2c28aa5ee"
+                    "uid": "ed9cd885-78ad-4847-8d3f-b03adaa5a6e7"
                 }
             ], 
             "create_date": "2017-06-21 00:00:00+00:00", 
             "description": "Controlled Vocabularies (CVs) for use in dataset errata", 
             "label": "Dataset Errata", 
             "namespace": "esdoc:errata", 
-            "uid": "8badc797-93d7-4625-afc0-a98bf71d6686", 
+            "uid": "49887467-49ce-4fbb-8b46-53a454374a08", 
             "url": "https://github.com/ES-DOC/esdoc-errata-ws"
         }
     ], 
-    "uid": "6ca6aa7b-e791-49e3-85c1-399cf33e16ee", 
+    "uid": "1f89c1da-a865-4bd6-b182-80b22a34a23f", 
     "url": "https://es-doc.org"
 }

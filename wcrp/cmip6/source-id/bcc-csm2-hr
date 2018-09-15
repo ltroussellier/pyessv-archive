@@ -20,7 +20,7 @@
                 "native_nominal_resolution": "none"
             }, 
             "atmos": {
-                "description": "BCC_AGCM3_LR (T266; 800 x 400 longitude/latitude; 56 levels; top level 0.1 hPa)", 
+                "description": "BCC_AGCM3_HR (T266; 800 x 400 longitude/latitude; 56 levels; top level 0.1 hPa)", 
                 "native_nominal_resolution": "50 km"
             }, 
             "atmosChem": {
@@ -36,7 +36,7 @@
                 "native_nominal_resolution": "none"
             }, 
             "ocean": {
-                "description": "MOM4 (1/3 deg 30S-30N, 1/3-1 deg 30-60 N/S, and 1 deg in high latitudes; 360 x 232 longitude/latitude; 40 levels; top grid cell 0-10 m)", 
+                "description": "MOM4 (1/3 deg 10S-10N, 1/3-1 deg 10-30 N/S, and 1 deg in high latitudes; 360 x 232 longitude/latitude; 40 levels; top grid cell 0-10 m)", 
                 "native_nominal_resolution": "50 km"
             }, 
             "ocnBgchem": {
