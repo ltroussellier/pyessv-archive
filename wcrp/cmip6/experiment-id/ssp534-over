@@ -30,7 +30,7 @@
         ], 
         "tier": "2"
     }, 
-    "description": "21st century overshoot scenario relative to SSP5_34. Branches from SS5_85 at 2040 with emissions reduced to zero by 2070 and negative thereafter. This simulation should optionally be extended to year 2300", 
+    "description": "21st century overshoot scenario relative to SSP5_34. Branches from SSP5_85 at 2040 with emissions reduced to zero by 2070 and negative thereafter. This simulation should optionally be extended to year 2300", 
     "namespace": "wcrp:cmip6:experiment-id:ssp534-over", 
     "status": "pending", 
     "uid": "ff0043e3-7f52-47c1-b3bc-af26fe6b4585"

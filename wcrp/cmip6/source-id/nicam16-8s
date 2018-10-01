@@ -22,7 +22,7 @@
             }, 
             "atmos": {
                 "description": "NICAM.16 (28km icosahedral grid; 655,362 grid cells (=10*4^8+2); 38 levels; top level 40 km)", 
-                "native_nominal_resolution": "25 km"
+                "native_nominal_resolution": "50 km"
             }, 
             "atmosChem": {
                 "description": "none", 

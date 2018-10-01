@@ -13,18 +13,18 @@
         "end_year": "2100 or 2300", 
         "experiment": "emission-driven SSP5-3.4-OS scenario", 
         "experiment_id": "esm-ssp534-over", 
-        "min_number_yrs_per_sim": "86", 
+        "min_number_yrs_per_sim": "61", 
         "parent_activity_id": [
-            "CMIP"
+            "C4MIP"
         ], 
         "parent_experiment_id": [
-            "esm-hist"
+            "esm-ssp585"
         ], 
         "required_model_components": [
             "AOGCM", 
             "BGC"
         ], 
-        "start_year": "2015", 
+        "start_year": "2040", 
         "sub_experiment_id": [
             "none"
         ], 
