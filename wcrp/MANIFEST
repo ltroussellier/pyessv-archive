@@ -41,7 +41,7 @@
                         "omon:Omon", 
                         "oyr:Oyr"
                     ], 
-                    "uid": "5926c451-7072-4341-a504-e1d9ad60231e"
+                    "uid": "e56da3af-9ecc-4fb1-bbaa-0ff477b299f0"
                 }, 
                 {
                     "_type": "collection", 
@@ -52,7 +52,7 @@
                     "namespace": "wcrp:cmip5:ensemble", 
                     "term_regex": "r[0-9]i[0-9]p[0-9]", 
                     "terms": [], 
-                    "uid": "c07dfdbd-fe62-476c-b809-c8497372fedb"
+                    "uid": "0e695a3b-c1cc-49e1-9455-53087e5fa00f"
                 }, 
                 {
                     "_type": "collection", 
@@ -170,7 +170,7 @@
                         "sstclimsulfate:sstClimSulfate", 
                         "volcin2010:volcIn2010"
                     ], 
-                    "uid": "4d772b10-335b-4dd0-afcc-17e3a4ec282d"
+                    "uid": "fc1718d5-5ce7-4a31-a02f-5502c527826f"
                 }, 
                 {
                     "_type": "collection", 
@@ -246,7 +246,7 @@
                         "nsf-doe-ncar:NSF-DOE-NCAR", 
                         "unsw:UNSW"
                     ], 
-                    "uid": "7cc167b8-460c-450b-b4d1-ddc7ea3ad0b6"
+                    "uid": "bd204f0c-79f4-4fe7-9dba-c32a7854ba33"
                 }, 
                 {
                     "_type": "collection", 
@@ -267,7 +267,7 @@
                         "6-hours:6 hours", 
                         "fixed:fixed"
                     ], 
-                    "uid": "cd8969e1-c896-4d81-b23e-dc37566fe73c"
+                    "uid": "b11c27b0-57eb-4271-819a-53a9a87dfc92"
                 }, 
                 {
                     "_type": "collection", 
@@ -348,7 +348,7 @@
                         "noresm1-me:NorESM1-ME", 
                         "sp-ccsm4:SP-CCSM4"
                     ], 
-                    "uid": "9c5df2cb-8ec8-423b-93f0-952a6f32c853"
+                    "uid": "d7ded94d-eb44-4b86-bb09-8565c945cca5"
                 }, 
                 {
                     "_type": "collection", 
@@ -362,7 +362,7 @@
                         "output1:output1", 
                         "output2:output2"
                     ], 
-                    "uid": "418b12f0-e417-4ad4-8c88-9c37bf558043"
+                    "uid": "402bdb8a-ab6c-4f8d-8e63-7088df65b630"
                 }, 
                 {
                     "_type": "collection", 
@@ -382,7 +382,7 @@
                         "ocnbgchem:ocnBgchem", 
                         "seaice:seaIce"
                     ], 
-                    "uid": "39a69bfc-8853-48f5-9d73-161431900325"
+                    "uid": "0056a86d-c23c-4a6c-87b6-a3556e039af4"
                 }, 
                 {
                     "_type": "collection", 
@@ -456,7 +456,7 @@
                         "time2:time2", 
                         "vegtype:vegtype"
                     ], 
-                    "uid": "de3abdab-6b06-45bb-aa2b-edb14c336275"
+                    "uid": "54c6bdc3-8e1f-42fa-a741-90dc814038ae"
                 }, 
                 {
                     "_type": "collection", 
@@ -477,7 +477,7 @@
                         "subhr:subhr", 
                         "yr:yr"
                     ], 
-                    "uid": "2f610de1-7dad-4f79-9bbd-199cfd978263"
+                    "uid": "3133bd58-1fb3-46f6-9a96-e08b6e011913"
                 }, 
                 {
                     "_type": "collection", 
@@ -1089,7 +1089,7 @@
                         "zsatarag:zsatarag", 
                         "zsatcalc:zsatcalc"
                     ], 
-                    "uid": "d104e9c6-6f0e-4b3f-b0bb-d4ff91b5edea"
+                    "uid": "6e1635cb-acc1-4f3c-a62c-1fb7ba8259e5"
                 }, 
                 {
                     "_type": "collection", 
@@ -1100,7 +1100,7 @@
                     "namespace": "wcrp:cmip5:version", 
                     "term_regex": "^v[0-9]*$", 
                     "terms": [], 
-                    "uid": "24ee25ed-1011-4d21-b0d2-7ffb446ec4dc"
+                    "uid": "1994894a-e47a-485d-9690-90681132af94"
                 }
             ], 
             "create_date": "2017-06-21 00:00:00+00:00", 
@@ -1113,7 +1113,7 @@
             "description": "ESGF publisher controlled Vocabularies (CVs) for use in CMIP5", 
             "label": "CMIP5", 
             "namespace": "wcrp:cmip5", 
-            "uid": "0ee6d42a-4b4b-40a0-af09-8c7cab1d2f41", 
+            "uid": "0f2ebdf9-086e-40b6-aaf6-e8ff6cf5a710", 
             "url": "https://esgf.llnl.gov"
         }, 
         {
@@ -1631,7 +1631,7 @@
                         "6-hours:6 hours", 
                         "fixed:fixed"
                     ], 
-                    "uid": "db00cff7-04a6-478b-a7cf-f29a220cf257"
+                    "uid": "70fb259e-d8eb-453c-b567-e02e2ddcc982"
                 }, 
                 {
                     "_type": "collection", 
@@ -2086,7 +2086,7 @@
                         "time2:time2", 
                         "vegtype:vegtype"
                     ], 
-                    "uid": "65ecc817-2f2b-46f4-bd8b-57a18c6d71ed"
+                    "uid": "58818f5b-78d0-429f-89eb-b25595f7cca6"
                 }, 
                 {
                     "_type": "collection", 
@@ -2170,7 +2170,7 @@
                         "was-44:WAS-44", 
                         "was-44i:WAS-44i"
                     ], 
-                    "uid": "4a23dd70-13c3-4175-90c8-e1861a319fdd"
+                    "uid": "8fc157b4-776b-4ab9-9087-53cb02edd568"
                 }, 
                 {
                     "_type": "collection", 
@@ -2197,7 +2197,7 @@
                         "noaa-gfdl-gfdl-esm2g:NOAA-GFDL-GFDL-ESM2G", 
                         "noaa-gfdl-gfdl-esm2m:NOAA-GFDL-GFDL-ESM2M"
                     ], 
-                    "uid": "46d659ca-f3b4-45c2-9406-ef4157c6e468"
+                    "uid": "9accd79f-c3f0-4329-85f1-c7a7f04cdb9f"
                 }, 
                 {
                     "_type": "collection", 
@@ -2208,7 +2208,7 @@
                     "namespace": "wcrp:cordex:ensemble", 
                     "term_regex": "r[0-9]*i[0-9]p[0-9]", 
                     "terms": [], 
-                    "uid": "201ff722-61d1-43f0-8acb-a48053de1c06"
+                    "uid": "d94326a4-1eb2-421d-b9bc-a5ecc1a1c088"
                 }, 
                 {
                     "_type": "collection", 
@@ -2226,7 +2226,7 @@
                         "rcp60:rcp60", 
                         "rcp85:rcp85"
                     ], 
-                    "uid": "5b00cfd4-ede2-4ea0-93fe-5af903be564c"
+                    "uid": "6eab6d91-e5c6-40c2-9be1-967c12ce726f"
                 }, 
                 {
                     "_type": "collection", 
@@ -2270,7 +2270,7 @@
                         "ulg:ULg", 
                         "uqam:UQAM"
                     ], 
-                    "uid": "ef595b0d-3e28-46e8-8d65-9b8ca005e1db"
+                    "uid": "26dd94ef-f7f3-4187-b4e8-27a3f76bbaef"
                 }, 
                 {
                     "_type": "collection", 
@@ -2288,7 +2288,7 @@
                         "fixed:fixed", 
                         "seasonal-mean:seasonal mean"
                     ], 
-                    "uid": "7ef6cb2d-65c0-4273-a7ec-30602ed56741"
+                    "uid": "1157075e-18d5-475f-a110-f2098e748b76"
                 }, 
                 {
                     "_type": "collection", 
@@ -2301,7 +2301,7 @@
                     "terms": [
                         "output:output"
                     ], 
-                    "uid": "86e6cb67-1f64-43fd-a7cc-2129f9aac469"
+                    "uid": "2788f824-5fbd-4b8b-b9c3-fff8f7e0a8ea"
                 }, 
                 {
                     "_type": "collection", 
@@ -2357,7 +2357,7 @@
                         "ulg-mar36:ULg-MAR36", 
                         "uqam-crcm5:UQAM-CRCM5"
                     ], 
-                    "uid": "bc6107e4-aa5c-4c31-b60a-e657dcf64bd5"
+                    "uid": "d94567a5-cbfa-4d33-895c-bf64420c6928"
                 }, 
                 {
                     "_type": "collection", 
@@ -2414,7 +2414,7 @@
                         "wrf331h:WRF331H", 
                         "wrf350i:WRF350I"
                     ], 
-                    "uid": "9e9cf620-bd23-4703-b3fb-a9cd16d12524"
+                    "uid": "cb373041-59ab-439d-906d-c480c166207a"
                 }, 
                 {
                     "_type": "collection", 
@@ -2435,7 +2435,7 @@
                         "v411:v411", 
                         "v5:v5"
                     ], 
-                    "uid": "0eb1d5bf-3013-4831-a6b5-5a446499d8da"
+                    "uid": "91d3358f-0363-4c4f-85b8-3a73e0a7b51b"
                 }, 
                 {
                     "_type": "collection", 
@@ -2521,7 +2521,7 @@
                         "x:x", 
                         "y:y"
                     ], 
-                    "uid": "625d0722-4072-499f-a51a-92c40e06dc15"
+                    "uid": "032d546f-3dde-4e51-acea-867dabaf8b81"
                 }, 
                 {
                     "_type": "collection", 
@@ -2539,7 +2539,7 @@
                         "mon:mon", 
                         "sem:sem"
                     ], 
-                    "uid": "66b29595-6c97-4d4d-9c37-785899d4ba0f"
+                    "uid": "699907e4-0065-4599-9447-1d40beea79f3"
                 }, 
                 {
                     "_type": "collection", 
@@ -2753,7 +2753,7 @@
                         "zg975:zg975", 
                         "zmla:zmla"
                     ], 
-                    "uid": "013fac64-1291-499a-aaaa-10482b85878b"
+                    "uid": "c1e2aad6-6797-4c87-b483-4afdafd891fd"
                 }, 
                 {
                     "_type": "collection", 
@@ -2764,7 +2764,7 @@
                     "namespace": "wcrp:cordex:version", 
                     "term_regex": "^[0-9]*$", 
                     "terms": [], 
-                    "uid": "296b0155-3f63-4f17-b1c0-f2044542785e"
+                    "uid": "9581f4da-cc03-4bf8-a080-9a69b935a28c"
                 }
             ], 
             "create_date": "2017-06-21 00:00:00+00:00", 
@@ -2778,7 +2778,7 @@
             "description": "ESGF publisher controlled Vocabularies (CVs) for use in CORDEX", 
             "label": "CORDEX", 
             "namespace": "wcrp:cordex", 
-            "uid": "0898cbe4-5e2d-4b51-8823-d6fa6ac995f8", 
+            "uid": "aceaefcf-d52c-4c91-ad15-709cc05e08d0", 
             "url": "https://esgf.llnl.gov"
         }, 
         {
