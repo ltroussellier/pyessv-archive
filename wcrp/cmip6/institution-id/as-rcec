@@ -1,0 +1,15 @@
+{
+    "_type": "term", 
+    "canonical_name": "as-rcec", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "data": {
+        "consortia": [], 
+        "homepage": "http://www.rcec.sinica.edu.tw", 
+        "postalAddress": "Research Center for Environmental Changes, Nankang, Taipei 11529, Taiwan"
+    }, 
+    "label": "AS-RCEC", 
+    "namespace": "wcrp:cmip6:institution-id:as-rcec", 
+    "raw_name": "AS-RCEC", 
+    "status": "pending", 
+    "uid": "77ed1d3e-750b-46c0-9850-174db1b301cd"
+}
