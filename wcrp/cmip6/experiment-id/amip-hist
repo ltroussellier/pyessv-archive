@@ -8,7 +8,8 @@
         ], 
         "additional_allowed_model_components": [
             "AER", 
-            "CHEM"
+            "CHEM", 
+            "BGC"
         ], 
         "end_year": "2014", 
         "experiment": "AMIP-style simulation covering the period 1870-2014", 

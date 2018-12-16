@@ -8,7 +8,8 @@
         ], 
         "additional_allowed_model_components": [
             "AER", 
-            "CHEM"
+            "CHEM", 
+            "BGC"
         ], 
         "end_year": "2014", 
         "experiment": "same as \"amip\" run, but surface elevations of the East African Highlands in Africa, Sierra Madre in N. America and Andes in S. America reduced to 500m", 
