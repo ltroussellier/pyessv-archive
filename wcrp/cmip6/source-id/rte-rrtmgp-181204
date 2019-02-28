@@ -1,6 +1,6 @@
 {
     "_type": "term", 
-    "canonical_name": "lblrtm", 
+    "canonical_name": "rte-rrtmgp-181204", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activity_participation": [
@@ -10,9 +10,9 @@
             "Registered"
         ], 
         "institution_id": [
-            "AER"
+            "RTE-RRTMGP-Consortium"
         ], 
-        "label_extended": "Line-By-Line Radiative Transfer Model v12.8, aer_v_3.6, MT_CKD_3.2", 
+        "label_extended": "Radiative Transfer for Energetics using RRTM for GCM applications - Parallel (2018-12-04 full-resolution)", 
         "model_component": {
             "aerosol": {
                 "description": "none", 
@@ -47,12 +47,12 @@
                 "native_nominal_resolution": "none"
             }
         }, 
-        "release_year": "2017", 
-        "source_id": "LBLRTM"
+        "release_year": "2019", 
+        "source_id": "RTE-RRTMGP-181204"
     }, 
-    "label": "LBLRTM", 
-    "namespace": "wcrp:cmip6:source-id:lblrtm", 
-    "raw_name": "LBLRTM", 
+    "label": "RTE+RRTMGP (2018-12-04 full-resolution)", 
+    "namespace": "wcrp:cmip6:source-id:rte-rrtmgp-181204", 
+    "raw_name": "RTE-RRTMGP-181204", 
     "status": "pending", 
-    "uid": "040469de-a788-4ece-a38d-9d5de04a9fc1"
+    "uid": "eb4954a2-54a7-4421-9b55-73ad936ba013"
 }
