@@ -4,9 +4,11 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activity_participation": [
-            "C4MIP", 
+            "CDRMIP", 
             "CMIP", 
-            "LUMIP"
+            "C4MIP", 
+            "LUMIP", 
+            "OMIP"
         ], 
         "cohort": [
             "Registered"
@@ -49,7 +51,7 @@
                 "native_nominal_resolution": "100 km"
             }
         }, 
-        "release_year": "2018", 
+        "release_year": "2019", 
         "source_id": "EC-Earth3-CC"
     }, 
     "label": "EC-Earth3-CC", 

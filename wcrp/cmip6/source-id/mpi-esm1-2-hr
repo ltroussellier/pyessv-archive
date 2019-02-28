@@ -50,7 +50,7 @@
                 "native_nominal_resolution": "50 km"
             }, 
             "ocnBgchem": {
-                "description": "HAMOCC", 
+                "description": "HAMOCC6", 
                 "native_nominal_resolution": "50 km"
             }, 
             "seaIce": {

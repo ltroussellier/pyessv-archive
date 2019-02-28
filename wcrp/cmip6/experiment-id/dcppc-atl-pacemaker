@@ -24,9 +24,10 @@
         "required_model_components": [
             "AOGCM"
         ], 
-        "start_year": "1910 or 1950", 
+        "start_year": "1910, 1920 or 1950", 
         "sub_experiment_id": [
             "s1910", 
+            "s1920", 
             "s1950"
         ], 
         "tier": "3"

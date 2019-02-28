@@ -30,7 +30,7 @@
         ], 
         "tier": "3"
     }, 
-    "description": "PA6.2: investigate decadal and longer timescale response to Antarctic sea ice", 
+    "description": "PA6.3: investigate decadal and longer timescale response to Antarctic sea ice", 
     "label": "pa-futAntSIC-ext", 
     "namespace": "wcrp:cmip6:experiment-id:pa-futantsic-ext", 
     "raw_name": "pa-futAntSIC-ext", 

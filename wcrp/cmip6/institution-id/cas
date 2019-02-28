@@ -4,8 +4,10 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
         "consortia": [], 
-        "homepage": "http://iap.cas.cn", 
-        "postalAddress": "Chinese Academy of Sciences, Beijing 100029, China"
+        "coordinates": "116.3849523,39.9779661", 
+        "homepage": "http://english.iap.cas.cn/", 
+        "name": "Chinese Academy of Sciences - Institute of Atmospheric Physics", 
+        "postalAddress": "Chaoyang Qu, Beichen, Beijing 100029, China"
     }, 
     "label": "CAS", 
     "namespace": "wcrp:cmip6:institution-id:cas", 

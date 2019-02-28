@@ -4,8 +4,10 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
         "consortia": [], 
-        "homepage": "www.inm.ras.ru", 
-        "postalAddress": "Institute for Numerical Mathematics, Russian Academy of Science, Moscow 119991, Russia"
+        "coordinates": "37.5529374,55.69222", 
+        "homepage": "http://www.inm.ras.ru", 
+        "name": "Institute for Numerical Mathematics", 
+        "postalAddress": "Russian Academy of Science, Moscow 119991, Russia"
     }, 
     "label": "INM", 
     "namespace": "wcrp:cmip6:institution-id:inm", 

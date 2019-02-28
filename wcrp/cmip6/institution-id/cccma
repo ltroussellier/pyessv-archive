@@ -4,8 +4,10 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
         "consortia": [], 
-        "homepage": "https://www.canada.ca/en/environment-climate-change/services/climate-change/centre-modelling-analysis.html", 
-        "postalAddress": "Canadian Centre for Climate Modelling and Analysis, Victoria, BC V8P 5C2, Canada"
+        "coordinates": "-123.3123302,48.4635561", 
+        "homepage": "https://www.canada.ca/en/environment-climate-change/services/climate-change/science-research-data/modeling-projections-analysis/centre-modelling-analysis.html", 
+        "name": "Canadian Centre for Climate Modelling and Analysis", 
+        "postalAddress": "University of Victoria, BC V8P 5C2, Canada"
     }, 
     "label": "CCCma", 
     "namespace": "wcrp:cmip6:institution-id:cccma", 

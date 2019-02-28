@@ -9,6 +9,7 @@
             "DCPP", 
             "DynVarMIP", 
             "LS3MIP", 
+            "PAMIP", 
             "RFMIP", 
             "SIMIP", 
             "ScenarioMIP", 
@@ -56,7 +57,7 @@
                 "native_nominal_resolution": "100 km"
             }
         }, 
-        "release_year": "2018", 
+        "release_year": "2019", 
         "source_id": "EC-Earth3"
     }, 
     "label": "EC-Earth3", 

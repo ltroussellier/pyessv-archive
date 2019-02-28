@@ -6,16 +6,22 @@
         "consortia": [
             {
                 "code": "CSIR", 
+                "coordinates": "28.2746663,-25.7543385", 
                 "homepage": "https://www.csir.co.za", 
-                "postalAddress": "Council for Scientific and Industrial Research - Natural Resources and the Environment, Pretoria, 0001, South Africa"
+                "name": "Council for Scientific and Industrial Research - Natural Resources and the Environment", 
+                "postalAddress": "Pretoria, 0001, South Africa"
             }, 
             {
                 "code": "CSIRO", 
+                "coordinates": "145.0435415,-38.0028413", 
                 "homepage": "https://www.csiro.au/", 
-                "postalAddress": "GPO Box 1700, Canberra ACT 2601, Australia"
+                "name": "Commonwealth Scientific and Industrial Research Organisation", 
+                "postalAddress": "Aspendale, Victoria 3195, Australia"
             }
         ], 
+        "coordinates": "", 
         "homepage": "", 
+        "name": "", 
         "postalAddress": ""
     }, 
     "label": "CSIR-CSIRO", 

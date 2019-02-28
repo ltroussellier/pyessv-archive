@@ -6,41 +6,57 @@
         "consortia": [
             {
                 "code": "ETH", 
-                "homepage": "", 
-                "postalAddress": ""
+                "coordinates": "8.5466699,47.3763147", 
+                "homepage": "https://www.ethz.ch/", 
+                "name": "Swiss Federal Institute of Technology in Zurich", 
+                "postalAddress": "CH-8092 Z\u00fcrich, Switzerland"
             }, 
             {
                 "code": "MPI-M", 
-                "homepage": "", 
-                "postalAddress": ""
+                "coordinates": "9.9745966,53.5679292", 
+                "homepage": "https://www.mpimet.mpg.de", 
+                "name": "Max-Planck-Institute for Meteorology", 
+                "postalAddress": "Bundesstra\u00dfe 53, 20146 Hamburg, Germany"
             }, 
             {
-                "code": "Forschungszentrum Julich", 
-                "homepage": "", 
-                "postalAddress": ""
+                "code": "Julich Research Centre", 
+                "coordinates": "6.3961949,50.9017598", 
+                "homepage": "http://www.fz-juelich.de/", 
+                "name": "Julich Research Centre", 
+                "postalAddress": "52428 Julich, Germany"
             }, 
             {
                 "code": "University of Oxford", 
-                "homepage": "", 
-                "postalAddress": ""
+                "coordinates": "-1.2617582,51.7596653", 
+                "homepage": "https://www.physics.ox.ac.uk/", 
+                "name": "University of Oxford - Department of Physics", 
+                "postalAddress": "Parks Road, Oxford OX1 3PU, UK"
             }, 
             {
-                "code": "Finnish Meteorological Institute", 
-                "homepage": "", 
-                "postalAddress": ""
+                "code": "FMI", 
+                "coordinates": "24.958809,60.2037321", 
+                "homepage": "https://en.ilmatieteenlaitos.fi/", 
+                "name": "Finnish Meteorological Institute", 
+                "postalAddress": "FI-00101 Helsinki, Finland"
             }, 
             {
-                "code": "Leibniz Institute for Tropospheric Research", 
-                "homepage": "", 
-                "postalAddress": ""
+                "code": "TROPOS", 
+                "coordinates": "12.4324039,51.3524953", 
+                "homepage": "https://www.tropos.de/", 
+                "name": "Leibniz Institute for Tropospheric Research", 
+                "postalAddress": "04318 Leipzig, Germany"
             }, 
             {
                 "code": "C2SM", 
-                "homepage": "", 
-                "postalAddress": ""
+                "coordinates": "8.5461963,47.3792266", 
+                "homepage": "http://www.c2sm.ethz.ch/", 
+                "name": "Centre for Climate Systems Modeling", 
+                "postalAddress": "8092 Z\u00fcrich, Switzerland"
             }
         ], 
+        "coordinates": "", 
         "homepage": "http://www.c2sm.ethz.ch/services/global-climate-modeling.html", 
+        "name": "", 
         "postalAddress": ""
     }, 
     "label": "HAMMOZ-Consortium", 

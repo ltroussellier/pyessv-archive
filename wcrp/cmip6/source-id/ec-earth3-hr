@@ -4,6 +4,7 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activity_participation": [
+            "CMIP", 
             "DCPP", 
             "HighResMIP"
         ], 
@@ -48,7 +49,7 @@
                 "native_nominal_resolution": "25 km"
             }
         }, 
-        "release_year": "2017", 
+        "release_year": "2019", 
         "source_id": "EC-Earth3-HR"
     }, 
     "label": "EC-Earth3-HR", 

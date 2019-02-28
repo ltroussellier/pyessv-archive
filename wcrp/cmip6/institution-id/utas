@@ -4,8 +4,10 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
         "consortia": [], 
+        "coordinates": "147.3357869,-42.8861436", 
         "homepage": "http://www.imas.utas.edu.au", 
-        "postalAddress": "Institute for Marine and Antarctic Studies, University of Tasmania, Hobart, Tasmania 7001, Australia"
+        "name": "University of Tasmania - Institute for Marine and Antarctic Studies", 
+        "postalAddress": "Hobart, Tasmania 7001, Australia"
     }, 
     "label": "UTAS", 
     "namespace": "wcrp:cmip6:institution-id:utas", 

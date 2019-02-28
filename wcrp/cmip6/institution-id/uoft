@@ -4,8 +4,10 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
         "consortia": [], 
+        "coordinates": "-79.3980754,43.6606903", 
         "homepage": "https://www.physics.utoronto.ca", 
-        "postalAddress": "Department of Physics, University of Toronto, 60 St George Street, Toronto, ON M5S1A7, Canada"
+        "name": "University of Toronto - Department of Physics", 
+        "postalAddress": "60 St George Street, Toronto, ON M5S1A7, Canada"
     }, 
     "label": "UofT", 
     "namespace": "wcrp:cmip6:institution-id:uoft", 

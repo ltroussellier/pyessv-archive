@@ -4,8 +4,10 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
         "consortia": [], 
-        "homepage": "www.mri-jma.go.jp", 
-        "postalAddress": "Meteorological Research Institute, Tsukuba, Ibaraki 305-0052, Japan"
+        "coordinates": "140.1254479,36.0550149", 
+        "homepage": "http://www.mri-jma.go.jp", 
+        "name": "Meteorological Research Institute", 
+        "postalAddress": "Tsukuba, Ibaraki 305-0052, Japan"
     }, 
     "label": "MRI", 
     "namespace": "wcrp:cmip6:institution-id:mri", 

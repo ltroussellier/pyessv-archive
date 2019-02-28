@@ -4,8 +4,10 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
         "consortia": [], 
+        "coordinates": "-1.7858819,51.5674569", 
         "homepage": "https://nerc.ukri.org", 
-        "postalAddress": "Natural Environment Research Council, STFC-RAL, Harwell, Oxford, OX11 0QX, UK"
+        "name": "Natural Environment Research Council", 
+        "postalAddress": "Polaris House, North Star Avenue, Swindon, UK"
     }, 
     "label": "NERC", 
     "namespace": "wcrp:cmip6:institution-id:nerc", 

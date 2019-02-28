@@ -6,16 +6,22 @@
         "consortia": [
             {
                 "code": "CNRM", 
+                "coordinates": "1.374023,43.5757603", 
                 "homepage": "http://www.umr-cnrm.fr", 
-                "postalAddress": "Centre National de Recherches Meteorologiques, Toulouse 31057, France"
+                "name": "National Centre for Meteorological Research", 
+                "postalAddress": "31057 Toulouse, France"
             }, 
             {
                 "code": "CERFACS", 
+                "coordinates": "1.3721216,43.5761239", 
                 "homepage": "http://www.cerfacs.fr", 
-                "postalAddress": "Centre Europeen de Recherche et de Formation Avancee en Calcul Scientifique, Toulouse 31057, France"
+                "name": "European Centre of Research and Teaching in Advanced Scientific Computing", 
+                "postalAddress": "31100 Toulouse, France"
             }
         ], 
+        "coordinates": "", 
         "homepage": "", 
+        "name": "", 
         "postalAddress": ""
     }, 
     "label": "CNRM-CERFACS", 

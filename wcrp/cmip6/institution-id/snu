@@ -4,8 +4,10 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
         "consortia": [], 
+        "coordinates": "126.9519443,37.460339", 
         "homepage": "http://www.useoul.edu", 
-        "postalAddress": "Seoul National University, Seoul 08826, Republic of Korea"
+        "name": "Seoul National University", 
+        "postalAddress": "Seoul 08826, South Korea"
     }, 
     "label": "SNU", 
     "namespace": "wcrp:cmip6:institution-id:snu", 
