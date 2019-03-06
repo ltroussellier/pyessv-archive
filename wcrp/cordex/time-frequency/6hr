@@ -1,0 +1,9 @@
+{
+    "_type": "term", 
+    "canonical_name": "6hr", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "6hr", 
+    "namespace": "wcrp:cordex:time-frequency:6hr", 
+    "status": "pending", 
+    "uid": "e505ef5d-553a-4efc-b295-347d7913619d"
+}

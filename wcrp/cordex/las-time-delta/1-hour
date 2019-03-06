@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "1-hour", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "label": "1 hour", 
+    "namespace": "wcrp:cordex:las-time-delta:1-hour", 
+    "raw_name": "1 hour", 
+    "status": "pending", 
+    "uid": "5d01470f-4df6-4272-98a3-b3223f1875be"
+}
