@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "hcooh-percentage-borf", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
+    "description": "HCOOH-percentage-BORF", 
+    "label": "HCOOH-percentage-BORF", 
+    "namespace": "wcrp:input4mips:variable-id:hcooh-percentage-borf", 
+    "raw_name": "HCOOH-percentage-BORF", 
+    "status": "pending"
+}
