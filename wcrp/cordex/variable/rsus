@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rsus", 
     "namespace": "wcrp:cordex:variable:rsus", 
-    "status": "pending", 
-    "uid": "f1fc17fd-69cf-4dad-8014-4e5b8de6f683"
+    "status": "pending"
 }

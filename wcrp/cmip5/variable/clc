@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "clc", 
     "namespace": "wcrp:cmip5:variable:clc", 
-    "status": "pending", 
-    "uid": "dca82966-81f3-4694-9203-71ecd8841fab"
+    "status": "pending"
 }

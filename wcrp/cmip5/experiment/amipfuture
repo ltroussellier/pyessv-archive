@@ -6,6 +6,5 @@
     "label": "amipFuture", 
     "namespace": "wcrp:cmip5:experiment:amipfuture", 
     "raw_name": "amipFuture", 
-    "status": "pending", 
-    "uid": "5e9b2d15-a2fd-4e9f-ad48-fe27ae601786"
+    "status": "pending"
 }

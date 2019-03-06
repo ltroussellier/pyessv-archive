@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "wetoa", 
     "namespace": "wcrp:cmip5:variable:wetoa", 
-    "status": "pending", 
-    "uid": "29d5105e-0fd8-4daf-bb1b-8164ab96c4aa"
+    "status": "pending"
 }

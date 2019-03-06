@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "scatratio", 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:scatratio", 
-    "status": "pending", 
-    "uid": "e3087439-710c-4f6f-b05a-48e5000baabc"
+    "status": "pending"
 }

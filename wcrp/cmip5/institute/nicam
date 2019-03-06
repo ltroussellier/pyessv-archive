@@ -5,6 +5,5 @@
     "label": "NICAM", 
     "namespace": "wcrp:cmip5:institute:nicam", 
     "raw_name": "NICAM", 
-    "status": "pending", 
-    "uid": "171f1a3d-e5be-4a27-b6d1-edd26c966792"
+    "status": "pending"
 }

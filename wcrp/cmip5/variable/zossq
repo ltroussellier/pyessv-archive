@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "zossq", 
     "namespace": "wcrp:cmip5:variable:zossq", 
-    "status": "pending", 
-    "uid": "a21e6d90-de69-4171-8453-08c6500b8ef1"
+    "status": "pending"
 }

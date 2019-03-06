@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "wetpoa", 
     "namespace": "wcrp:cmip5:variable:wetpoa", 
-    "status": "pending", 
-    "uid": "c38a6c05-b7df-44e9-b3ae-09f3eeac81bc"
+    "status": "pending"
 }

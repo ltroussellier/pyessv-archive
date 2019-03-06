@@ -6,6 +6,5 @@
     "label": "CCCma-CanRCM4", 
     "namespace": "wcrp:cordex:rcm-model:cccma-canrcm4", 
     "raw_name": "CCCma-CanRCM4", 
-    "status": "pending", 
-    "uid": "22fd5466-8fb3-456e-b69a-9ba68bab3fe1"
+    "status": "pending"
 }

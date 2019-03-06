@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "clcalipso", 
     "namespace": "wcrp:cmip5:variable:clcalipso", 
-    "status": "pending", 
-    "uid": "0f8226b1-eb53-416f-a25d-23a44a13b0f6"
+    "status": "pending"
 }

@@ -6,6 +6,5 @@
     "label": "GFDL-CM3", 
     "namespace": "wcrp:cmip5:model:gfdl-cm3", 
     "raw_name": "GFDL-CM3", 
-    "status": "pending", 
-    "uid": "d0139d17-854f-4557-8d49-b4d591db0abc"
+    "status": "pending"
 }

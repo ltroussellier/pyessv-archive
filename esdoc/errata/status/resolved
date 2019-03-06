@@ -7,6 +7,5 @@
     }, 
     "label": "Resolved", 
     "namespace": "esdoc:errata:status:resolved", 
-    "status": "pending", 
-    "uid": "ba31ec66-eebc-45f6-bdec-2b4297b27b3a"
+    "status": "pending"
 }

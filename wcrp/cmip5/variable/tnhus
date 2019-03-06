@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tnhus", 
     "namespace": "wcrp:cmip5:variable:tnhus", 
-    "status": "pending", 
-    "uid": "315f9a02-b745-488f-a8ca-49f9e27ea311"
+    "status": "pending"
 }

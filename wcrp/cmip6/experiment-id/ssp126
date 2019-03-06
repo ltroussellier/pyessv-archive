@@ -32,6 +32,5 @@
     }, 
     "description": "Future scenario with low radiative forcing by the end of century. Following approximately RCP2.6 global forcing pathway but with new forcing based on SSP1. Concentration-driven. As a tier 2 option, this simulation should be extended to year 2300", 
     "namespace": "wcrp:cmip6:experiment-id:ssp126", 
-    "status": "pending", 
-    "uid": "88108c9c-addb-4d49-8253-5248c5e3de71"
+    "status": "pending"
 }

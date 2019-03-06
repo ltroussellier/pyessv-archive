@@ -34,6 +34,5 @@
     "label": "histSST-piNTCF", 
     "namespace": "wcrp:cmip6:experiment-id:histsst-pintcf", 
     "raw_name": "histSST-piNTCF", 
-    "status": "pending", 
-    "uid": "dae0036c-8e05-4ff1-b553-fb83f8920a8f"
+    "status": "pending"
 }

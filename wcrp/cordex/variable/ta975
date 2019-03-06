@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ta975", 
     "namespace": "wcrp:cordex:variable:ta975", 
-    "status": "pending", 
-    "uid": "6e2314da-1f8d-451c-9ce8-a035721a0657"
+    "status": "pending"
 }

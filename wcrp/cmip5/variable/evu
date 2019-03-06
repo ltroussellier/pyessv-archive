@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "evu", 
     "namespace": "wcrp:cmip5:variable:evu", 
-    "status": "pending", 
-    "uid": "cb923cfb-c5d9-4ad5-ad8b-d125eb499524"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "wsgsmax", 
     "namespace": "wcrp:cordex:variable:wsgsmax", 
-    "status": "pending", 
-    "uid": "2c107e88-228e-433b-8f79-f481ef9f4d32"
+    "status": "pending"
 }

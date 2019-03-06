@@ -33,6 +33,5 @@
     "label": "piClim-4xCO2", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-4xco2", 
     "raw_name": "piClim-4xCO2", 
-    "status": "pending", 
-    "uid": "726b8a35-996e-421a-b085-6ab2edf22c75"
+    "status": "pending"
 }

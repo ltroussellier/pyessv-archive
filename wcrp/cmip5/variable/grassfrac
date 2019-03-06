@@ -6,6 +6,5 @@
     "label": "grassFrac", 
     "namespace": "wcrp:cmip5:variable:grassfrac", 
     "raw_name": "grassFrac", 
-    "status": "pending", 
-    "uid": "a556ffbe-5e28-48b9-a5c1-fc9919d68816"
+    "status": "pending"
 }

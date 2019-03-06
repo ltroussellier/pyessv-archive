@@ -30,6 +30,5 @@
     }, 
     "description": "land only simulation for ssp4-3.4", 
     "namespace": "wcrp:cmip6:experiment-id:land-ssp434", 
-    "status": "pending", 
-    "uid": "04651814-4d9d-4efa-bb8f-0d925c43bdab"
+    "status": "pending"
 }

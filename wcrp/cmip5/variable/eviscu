@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "eviscu", 
     "namespace": "wcrp:cmip5:variable:eviscu", 
-    "status": "pending", 
-    "uid": "8bb83f56-60a0-4b0a-ab7d-ab729aafb751"
+    "status": "pending"
 }

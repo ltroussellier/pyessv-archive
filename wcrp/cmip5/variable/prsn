@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "prsn", 
     "namespace": "wcrp:cmip5:variable:prsn", 
-    "status": "pending", 
-    "uid": "2a25ea3a-746e-4020-8d1f-edb6f942ea5d"
+    "status": "pending"
 }

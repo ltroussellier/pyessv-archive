@@ -6,6 +6,5 @@
     "label": "latitude_bnds", 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:latitude-bnds", 
     "raw_name": "latitude_bnds", 
-    "status": "pending", 
-    "uid": "d9fc7dce-6080-461c-9470-b20b5552615c"
+    "status": "pending"
 }

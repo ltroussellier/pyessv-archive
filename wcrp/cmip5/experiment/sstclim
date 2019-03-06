@@ -6,6 +6,5 @@
     "label": "sstClim", 
     "namespace": "wcrp:cmip5:experiment:sstclim", 
     "raw_name": "sstClim", 
-    "status": "pending", 
-    "uid": "5a25647a-6aad-4d5c-b6d2-166db2c0812d"
+    "status": "pending"
 }

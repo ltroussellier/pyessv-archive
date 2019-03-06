@@ -33,6 +33,5 @@
     "label": "land-crop-noFert", 
     "namespace": "wcrp:cmip6:experiment-id:land-crop-nofert", 
     "raw_name": "land-crop-noFert", 
-    "status": "pending", 
-    "uid": "a81bd527-a259-4d7b-ae31-f9450340048f"
+    "status": "pending"
 }

@@ -6,6 +6,5 @@
     "label": "aqua4K", 
     "namespace": "wcrp:cmip5:experiment:aqua4k", 
     "raw_name": "aqua4K", 
-    "status": "pending", 
-    "uid": "dc61a9ec-1a14-419f-9472-f8e682d7bdb0"
+    "status": "pending"
 }

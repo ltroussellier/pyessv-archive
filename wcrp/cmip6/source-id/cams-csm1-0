@@ -53,6 +53,5 @@
     "label": "CAMS_CSM 1.0", 
     "namespace": "wcrp:cmip6:source-id:cams-csm1-0", 
     "raw_name": "CAMS-CSM1-0", 
-    "status": "pending", 
-    "uid": "81a74969-d99a-4976-9112-d6db46677018"
+    "status": "pending"
 }

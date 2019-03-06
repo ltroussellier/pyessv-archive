@@ -6,6 +6,5 @@
     "label": "nppRoot", 
     "namespace": "wcrp:cmip5:variable:npproot", 
     "raw_name": "nppRoot", 
-    "status": "pending", 
-    "uid": "d8536755-5376-4149-b797-4a119c329828"
+    "status": "pending"
 }

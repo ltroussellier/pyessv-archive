@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "loaddust", 
     "namespace": "wcrp:cmip5:variable:loaddust", 
-    "status": "pending", 
-    "uid": "d20fc565-a511-4a44-93e7-96e4d0d36369"
+    "status": "pending"
 }

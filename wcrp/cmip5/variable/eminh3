@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "eminh3", 
     "namespace": "wcrp:cmip5:variable:eminh3", 
-    "status": "pending", 
-    "uid": "61cff15b-b6f0-4fc5-a689-a340fd52bbed"
+    "status": "pending"
 }

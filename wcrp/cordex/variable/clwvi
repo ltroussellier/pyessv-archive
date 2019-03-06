@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "clwvi", 
     "namespace": "wcrp:cordex:variable:clwvi", 
-    "status": "pending", 
-    "uid": "b2edd2e6-4cb2-4204-a1db-e9b96cb34702"
+    "status": "pending"
 }

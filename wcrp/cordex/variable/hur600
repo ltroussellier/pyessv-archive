@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hur600", 
     "namespace": "wcrp:cordex:variable:hur600", 
-    "status": "pending", 
-    "uid": "b5386dad-138b-4873-a827-67ac2311d641"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tnsccwbl", 
     "namespace": "wcrp:cmip5:variable:tnsccwbl", 
-    "status": "pending", 
-    "uid": "99b29072-8969-435d-8207-0fcdaf68b63f"
+    "status": "pending"
 }

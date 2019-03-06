@@ -53,6 +53,5 @@
     "label": "EC-Earth3P-VHR", 
     "namespace": "wcrp:cmip6:source-id:ec-earth3p-vhr", 
     "raw_name": "EC-Earth3P-VHR", 
-    "status": "pending", 
-    "uid": "41e58f07-aed4-423f-a209-4ab9d048fd2b"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "label": "Land Surface", 
     "namespace": "esdoc:cmip6:model-topic:land", 
-    "status": "pending", 
-    "uid": "c429be6d-a5a2-40cd-bb12-40355359bf15"
+    "status": "pending"
 }

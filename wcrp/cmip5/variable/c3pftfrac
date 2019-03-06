@@ -6,6 +6,5 @@
     "label": "c3PftFrac", 
     "namespace": "wcrp:cmip5:variable:c3pftfrac", 
     "raw_name": "c3PftFrac", 
-    "status": "pending", 
-    "uid": "cb89052b-5317-4ca5-b8dd-25c3f0cca69d"
+    "status": "pending"
 }

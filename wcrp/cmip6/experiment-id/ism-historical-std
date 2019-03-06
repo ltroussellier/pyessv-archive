@@ -30,6 +30,5 @@
     }, 
     "description": "Historical simulation using \"offline\" ice sheet models. Forcing for ice sheet model is the standard dataset based on CMIP6 AOGCM historical", 
     "namespace": "wcrp:cmip6:experiment-id:ism-historical-std", 
-    "status": "pending", 
-    "uid": "ab79be57-a519-4449-8df9-023cb4aac229"
+    "status": "pending"
 }

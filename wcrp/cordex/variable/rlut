@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rlut", 
     "namespace": "wcrp:cordex:variable:rlut", 
-    "status": "pending", 
-    "uid": "1741e50f-bc50-48b3-9741-8b8a8af6a67c"
+    "status": "pending"
 }

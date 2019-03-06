@@ -5,6 +5,5 @@
     "label": "Odec", 
     "namespace": "wcrp:cmip6:table-id:odec", 
     "raw_name": "Odec", 
-    "status": "pending", 
-    "uid": "34879c87-183d-49b8-aaa7-cad4f10745f2"
+    "status": "pending"
 }

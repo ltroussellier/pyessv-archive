@@ -6,6 +6,5 @@
     "label": "CNRM-CERFACS-CNRM-CM5", 
     "namespace": "wcrp:cordex:driving-model:cnrm-cerfacs-cnrm-cm5", 
     "raw_name": "CNRM-CERFACS-CNRM-CM5", 
-    "status": "pending", 
-    "uid": "43ca619c-985d-4f76-81eb-013c184005e6"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "longitude", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:longitude", 
-    "status": "pending", 
-    "uid": "160a72cc-6b5f-475d-bf46-2d303346b44e"
+    "status": "pending"
 }

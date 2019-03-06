@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rtmt", 
     "namespace": "wcrp:cmip5:variable:rtmt", 
-    "status": "pending", 
-    "uid": "d589686b-89f8-451a-804b-6cbee4741768"
+    "status": "pending"
 }

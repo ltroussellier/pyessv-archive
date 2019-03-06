@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "clws", 
     "namespace": "wcrp:cmip5:variable:clws", 
-    "status": "pending", 
-    "uid": "0a2a525c-f61a-4575-bd37-dffe17c048d6"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "parag", 
     "namespace": "wcrp:cmip5:variable:parag", 
-    "status": "pending", 
-    "uid": "a96f1b64-5792-4654-b90f-c25bc45a8891"
+    "status": "pending"
 }

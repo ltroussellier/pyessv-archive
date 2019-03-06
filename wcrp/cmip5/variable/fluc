@@ -6,6 +6,5 @@
     "label": "fLuc", 
     "namespace": "wcrp:cmip5:variable:fluc", 
     "raw_name": "fLuc", 
-    "status": "pending", 
-    "uid": "9f0c309e-765b-4d23-90bf-4b7ff7ba92de"
+    "status": "pending"
 }

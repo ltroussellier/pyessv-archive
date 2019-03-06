@@ -55,6 +55,5 @@
     "label": "NICAM16-8S", 
     "namespace": "wcrp:cmip6:source-id:nicam16-8s", 
     "raw_name": "NICAM16-8S", 
-    "status": "pending", 
-    "uid": "58169692-86b8-4601-984e-0189281868cf"
+    "status": "pending"
 }

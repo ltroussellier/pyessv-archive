@@ -6,6 +6,5 @@
     "label": "CUNI", 
     "namespace": "wcrp:cordex:institute:cuni", 
     "raw_name": "CUNI", 
-    "status": "pending", 
-    "uid": "f0b88ae1-1a3c-4065-b265-1f312108b3b3"
+    "status": "pending"
 }

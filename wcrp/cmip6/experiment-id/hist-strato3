@@ -33,6 +33,5 @@
     "label": "hist-stratO3", 
     "namespace": "wcrp:cmip6:experiment-id:hist-strato3", 
     "raw_name": "hist-stratO3", 
-    "status": "pending", 
-    "uid": "dbcbc24a-50c3-4885-b306-0e131bbaac98"
+    "status": "pending"
 }

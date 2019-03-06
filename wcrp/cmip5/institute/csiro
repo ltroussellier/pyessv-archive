@@ -5,6 +5,5 @@
     "label": "CSIRO", 
     "namespace": "wcrp:cmip5:institute:csiro", 
     "raw_name": "CSIRO", 
-    "status": "pending", 
-    "uid": "6c87d234-3068-40e3-8457-9c5fc12743b8"
+    "status": "pending"
 }

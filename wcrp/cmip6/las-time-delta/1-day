@@ -5,6 +5,5 @@
     "label": "1 day", 
     "namespace": "wcrp:cmip6:las-time-delta:1-day", 
     "raw_name": "1 day", 
-    "status": "pending", 
-    "uid": "da326825-3265-4f81-8457-73f8b66d19ac"
+    "status": "pending"
 }

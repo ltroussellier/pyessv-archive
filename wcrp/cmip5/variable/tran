@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tran", 
     "namespace": "wcrp:cmip5:variable:tran", 
-    "status": "pending", 
-    "uid": "43c86976-0196-4e3b-a32a-5ef575431a54"
+    "status": "pending"
 }

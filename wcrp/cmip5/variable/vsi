@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "vsi", 
     "namespace": "wcrp:cmip5:variable:vsi", 
-    "status": "pending", 
-    "uid": "8a96b14e-ac49-488c-bcc0-5981fb7d16cd"
+    "status": "pending"
 }

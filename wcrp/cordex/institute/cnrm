@@ -6,6 +6,5 @@
     "label": "CNRM", 
     "namespace": "wcrp:cordex:institute:cnrm", 
     "raw_name": "CNRM", 
-    "status": "pending", 
-    "uid": "7b2ddc81-3e2b-4a87-9c6c-d57f7a2e1801"
+    "status": "pending"
 }

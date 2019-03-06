@@ -6,6 +6,5 @@
     "label": "volcIn2010", 
     "namespace": "wcrp:cmip5:experiment:volcin2010", 
     "raw_name": "volcIn2010", 
-    "status": "pending", 
-    "uid": "20c0008d-b42f-4f1f-8063-ef7290bbc8b4"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "thetao", 
     "namespace": "wcrp:cmip5:variable:thetao", 
-    "status": "pending", 
-    "uid": "7f10015c-804c-48d6-a487-b15b3a4d3548"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "frc", 
     "namespace": "wcrp:cmip5:variable:frc", 
-    "status": "pending", 
-    "uid": "6a4fb90f-72b2-4476-ae75-3a41c4862460"
+    "status": "pending"
 }

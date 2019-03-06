@@ -34,6 +34,5 @@
     "label": "esm-piControl", 
     "namespace": "wcrp:cmip6:experiment-id:esm-picontrol", 
     "raw_name": "esm-piControl", 
-    "status": "pending", 
-    "uid": "a77aa66a-37f2-4745-bb76-889c6987e95c"
+    "status": "pending"
 }

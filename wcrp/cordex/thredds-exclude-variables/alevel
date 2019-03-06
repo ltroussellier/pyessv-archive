@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "alevel", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:alevel", 
-    "status": "pending", 
-    "uid": "6f9382c6-3418-4577-8679-d96ff7adb762"
+    "status": "pending"
 }

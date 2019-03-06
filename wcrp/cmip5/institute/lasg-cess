@@ -5,6 +5,5 @@
     "label": "LASG-CESS", 
     "namespace": "wcrp:cmip5:institute:lasg-cess", 
     "raw_name": "LASG-CESS", 
-    "status": "pending", 
-    "uid": "4c75b1e7-9fa4-4321-b9ae-a0ba3c1e7ab3"
+    "status": "pending"
 }

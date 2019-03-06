@@ -6,6 +6,5 @@
     "label": "shrubFrac", 
     "namespace": "wcrp:cmip5:variable:shrubfrac", 
     "raw_name": "shrubFrac", 
-    "status": "pending", 
-    "uid": "f99d8348-e6a6-4960-a81f-23d99541e7aa"
+    "status": "pending"
 }

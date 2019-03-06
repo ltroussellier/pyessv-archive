@@ -6,6 +6,5 @@
     "label": "lon_bnds", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:lon-bnds", 
     "raw_name": "lon_bnds", 
-    "status": "pending", 
-    "uid": "bfc9a69e-3719-42f1-86a4-dfce91ad2206"
+    "status": "pending"
 }

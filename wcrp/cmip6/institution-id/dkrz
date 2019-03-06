@@ -12,6 +12,5 @@
     "label": "DKRZ", 
     "namespace": "wcrp:cmip6:institution-id:dkrz", 
     "raw_name": "DKRZ", 
-    "status": "pending", 
-    "uid": "a1e17bc8-525d-4b3f-9365-2a57f10b12b5"
+    "status": "pending"
 }

@@ -5,6 +5,5 @@
     "label": "PAMIP", 
     "namespace": "wcrp:cmip6:activity-id:pamip", 
     "raw_name": "PAMIP", 
-    "status": "pending", 
-    "uid": "ca1a10ec-a967-4af5-b81b-31424a6af2a4"
+    "status": "pending"
 }

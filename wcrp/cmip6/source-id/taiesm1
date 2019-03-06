@@ -59,6 +59,5 @@
     "label": "TaiESM 1.0", 
     "namespace": "wcrp:cmip6:source-id:taiesm1", 
     "raw_name": "TaiESM1", 
-    "status": "pending", 
-    "uid": "52ce3f29-e21c-4c21-8895-ab40d558b554"
+    "status": "pending"
 }

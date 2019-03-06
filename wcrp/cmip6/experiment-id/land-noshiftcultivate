@@ -33,6 +33,5 @@
     "label": "land-noShiftCultivate", 
     "namespace": "wcrp:cmip6:experiment-id:land-noshiftcultivate", 
     "raw_name": "land-noShiftCultivate", 
-    "status": "pending", 
-    "uid": "e8aa0706-7b28-4a0e-85bc-1e37f83076c8"
+    "status": "pending"
 }

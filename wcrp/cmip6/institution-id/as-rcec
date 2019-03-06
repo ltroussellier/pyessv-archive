@@ -12,6 +12,5 @@
     "label": "AS-RCEC", 
     "namespace": "wcrp:cmip6:institution-id:as-rcec", 
     "raw_name": "AS-RCEC", 
-    "status": "pending", 
-    "uid": "25a2d14e-5567-44d8-a09e-c767d321a5ed"
+    "status": "pending"
 }

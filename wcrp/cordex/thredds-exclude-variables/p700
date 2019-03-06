@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "p700", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:p700", 
-    "status": "pending", 
-    "uid": "40a724e6-5496-4fdf-8026-7298867f8cde"
+    "status": "pending"
 }

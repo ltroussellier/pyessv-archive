@@ -132,6 +132,5 @@
     "label": "MESSy-Consortium", 
     "namespace": "wcrp:cmip6:institution-id:messy-consortium", 
     "raw_name": "MESSy-Consortium", 
-    "status": "pending", 
-    "uid": "3868b12f-6349-4c77-86a4-e6826ade9379"
+    "status": "pending"
 }

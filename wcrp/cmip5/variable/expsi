@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "expsi", 
     "namespace": "wcrp:cmip5:variable:expsi", 
-    "status": "pending", 
-    "uid": "7337329b-d09a-4975-8f5b-6603b5512d63"
+    "status": "pending"
 }

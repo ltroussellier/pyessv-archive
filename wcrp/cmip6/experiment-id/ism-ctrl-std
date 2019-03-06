@@ -30,6 +30,5 @@
     }, 
     "description": "Offline ice sheet control run for the initMIP experiment that explores the uncertainty in sea level due to ice sheet initialization", 
     "namespace": "wcrp:cmip6:experiment-id:ism-ctrl-std", 
-    "status": "pending", 
-    "uid": "64b490a5-02b6-4980-ab33-c557622b46f3"
+    "status": "pending"
 }

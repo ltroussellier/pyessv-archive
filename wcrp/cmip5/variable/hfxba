@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hfxba", 
     "namespace": "wcrp:cmip5:variable:hfxba", 
-    "status": "pending", 
-    "uid": "6eec5f31-5bff-45e9-b88d-d55d2d30f73c"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fx", 
     "namespace": "wcrp:cordex:time-frequency:fx", 
-    "status": "pending", 
-    "uid": "247de2f7-0708-47ff-bf1c-1c8acdddbf6c"
+    "status": "pending"
 }

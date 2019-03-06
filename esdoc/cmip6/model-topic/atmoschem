@@ -5,6 +5,5 @@
     "label": "Atmospheric Chemistry", 
     "namespace": "esdoc:cmip6:model-topic:atmoschem", 
     "raw_name": "atmosChem", 
-    "status": "pending", 
-    "uid": "d7040b63-4864-4a3b-8f97-28c37f39c563"
+    "status": "pending"
 }

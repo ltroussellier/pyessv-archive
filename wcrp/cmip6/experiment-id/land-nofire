@@ -33,6 +33,5 @@
     "label": "land-noFire", 
     "namespace": "wcrp:cmip6:experiment-id:land-nofire", 
     "raw_name": "land-noFire", 
-    "status": "pending", 
-    "uid": "fd754cda-bff3-4c10-873c-9070402e3baa"
+    "status": "pending"
 }

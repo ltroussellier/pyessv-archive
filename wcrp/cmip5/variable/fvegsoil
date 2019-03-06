@@ -6,6 +6,5 @@
     "label": "fVegSoil", 
     "namespace": "wcrp:cmip5:variable:fvegsoil", 
     "raw_name": "fVegSoil", 
-    "status": "pending", 
-    "uid": "a4da22c9-39dc-411a-962c-6538fe280dce"
+    "status": "pending"
 }

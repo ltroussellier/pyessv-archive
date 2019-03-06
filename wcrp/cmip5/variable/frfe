@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "frfe", 
     "namespace": "wcrp:cmip5:variable:frfe", 
-    "status": "pending", 
-    "uid": "925e2421-b32f-4e15-8250-5e4984f8be16"
+    "status": "pending"
 }

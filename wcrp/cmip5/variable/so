@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "so", 
     "namespace": "wcrp:cmip5:variable:so", 
-    "status": "pending", 
-    "uid": "c0c26fb9-6a6a-4183-89a2-cc00adfbcb0f"
+    "status": "pending"
 }

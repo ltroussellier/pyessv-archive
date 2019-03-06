@@ -6,6 +6,5 @@
     "label": "esmFixClim2", 
     "namespace": "wcrp:cmip5:experiment:esmfixclim2", 
     "raw_name": "esmFixClim2", 
-    "status": "pending", 
-    "uid": "99105a7f-2533-4153-909e-69e33ffe1cfc"
+    "status": "pending"
 }

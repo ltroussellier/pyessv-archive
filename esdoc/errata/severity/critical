@@ -8,6 +8,5 @@
     }, 
     "label": "Critical", 
     "namespace": "esdoc:errata:severity:critical", 
-    "status": "pending", 
-    "uid": "d2772015-9e13-48b5-afb7-2c63b0578092"
+    "status": "pending"
 }

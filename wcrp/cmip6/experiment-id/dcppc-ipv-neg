@@ -34,6 +34,5 @@
     "label": "dcppC-ipv-neg", 
     "namespace": "wcrp:cmip6:experiment-id:dcppc-ipv-neg", 
     "raw_name": "dcppC-ipv-neg", 
-    "status": "pending", 
-    "uid": "d689685f-c4cc-42c0-b93c-0b5eb1e44258"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "drysoa", 
     "namespace": "wcrp:cmip5:variable:drysoa", 
-    "status": "pending", 
-    "uid": "090f4988-374f-4e60-9c00-7773d039a151"
+    "status": "pending"
 }

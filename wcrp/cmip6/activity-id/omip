@@ -5,6 +5,5 @@
     "label": "OMIP", 
     "namespace": "wcrp:cmip6:activity-id:omip", 
     "raw_name": "OMIP", 
-    "status": "pending", 
-    "uid": "d70d83f9-9d13-420e-9618-d778a815f2e9"
+    "status": "pending"
 }

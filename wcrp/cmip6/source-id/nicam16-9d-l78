@@ -54,6 +54,5 @@
     "label": "NICAM16-9D-L78", 
     "namespace": "wcrp:cmip6:source-id:nicam16-9d-l78", 
     "raw_name": "NICAM16-9D-L78", 
-    "status": "pending", 
-    "uid": "ae583036-855d-471e-bbba-f22cac8879bc"
+    "status": "pending"
 }

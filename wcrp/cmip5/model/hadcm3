@@ -6,6 +6,5 @@
     "label": "HadCM3", 
     "namespace": "wcrp:cmip5:model:hadcm3", 
     "raw_name": "HadCM3", 
-    "status": "pending", 
-    "uid": "0535d038-497e-47b1-ad32-589d0888104e"
+    "status": "pending"
 }

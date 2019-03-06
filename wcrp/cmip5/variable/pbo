@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "pbo", 
     "namespace": "wcrp:cmip5:variable:pbo", 
-    "status": "pending", 
-    "uid": "757aab62-9c2d-48ea-9a8b-200229f0d585"
+    "status": "pending"
 }

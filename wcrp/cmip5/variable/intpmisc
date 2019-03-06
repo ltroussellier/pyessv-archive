@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "intpmisc", 
     "namespace": "wcrp:cmip5:variable:intpmisc", 
-    "status": "pending", 
-    "uid": "92561937-36cd-4e9a-b32e-a69612a4b5ca"
+    "status": "pending"
 }

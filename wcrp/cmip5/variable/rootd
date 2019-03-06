@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rootd", 
     "namespace": "wcrp:cmip5:variable:rootd", 
-    "status": "pending", 
-    "uid": "2385ce7c-62bd-40b7-8c49-e8174717565c"
+    "status": "pending"
 }

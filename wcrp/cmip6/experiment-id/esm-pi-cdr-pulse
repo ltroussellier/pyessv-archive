@@ -32,6 +32,5 @@
     }, 
     "description": "100 Gt C instantly removed (negative pulse) from a pre-industrial atmosphere (part of the CDR-pi-pulse experiment)", 
     "namespace": "wcrp:cmip6:experiment-id:esm-pi-cdr-pulse", 
-    "status": "pending", 
-    "uid": "39bcbc61-f716-4697-938f-ad38070c25dc"
+    "status": "pending"
 }

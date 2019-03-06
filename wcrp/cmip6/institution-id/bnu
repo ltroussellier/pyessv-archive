@@ -12,6 +12,5 @@
     "label": "BNU", 
     "namespace": "wcrp:cmip6:institution-id:bnu", 
     "raw_name": "BNU", 
-    "status": "pending", 
-    "uid": "a16ec0a9-3131-48ab-8f3c-e3670cd12c3c"
+    "status": "pending"
 }

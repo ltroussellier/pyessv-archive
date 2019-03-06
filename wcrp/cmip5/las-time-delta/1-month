@@ -5,6 +5,5 @@
     "label": "1 month", 
     "namespace": "wcrp:cmip5:las-time-delta:1-month", 
     "raw_name": "1 month", 
-    "status": "pending", 
-    "uid": "59f88adf-638a-4bec-8730-a20a9a2084ac"
+    "status": "pending"
 }

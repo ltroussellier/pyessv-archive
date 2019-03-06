@@ -6,6 +6,5 @@
     "label": "ICHEC-EC-EARTH", 
     "namespace": "wcrp:cordex:driving-model:ichec-ec-earth", 
     "raw_name": "ICHEC-EC-EARTH", 
-    "status": "pending", 
-    "uid": "f5992911-15b1-48b8-86d7-616375af41ce"
+    "status": "pending"
 }

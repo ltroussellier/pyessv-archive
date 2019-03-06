@@ -34,6 +34,5 @@
     "label": "esm-yr2010CO2-noemit", 
     "namespace": "wcrp:cmip6:experiment-id:esm-yr2010co2-noemit", 
     "raw_name": "esm-yr2010CO2-noemit", 
-    "status": "pending", 
-    "uid": "a8df217b-4674-4a0b-bf2c-fbccce78c5e1"
+    "status": "pending"
 }

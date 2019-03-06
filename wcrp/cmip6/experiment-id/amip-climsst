@@ -34,6 +34,5 @@
     "label": "amip-climSST", 
     "namespace": "wcrp:cmip6:experiment-id:amip-climsst", 
     "raw_name": "amip-climSST", 
-    "status": "pending", 
-    "uid": "1190aa58-43c9-41c0-b7be-29dcfd52020c"
+    "status": "pending"
 }

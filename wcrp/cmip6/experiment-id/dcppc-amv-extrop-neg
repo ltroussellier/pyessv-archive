@@ -34,6 +34,5 @@
     "label": "dcppC-amv-ExTrop-neg", 
     "namespace": "wcrp:cmip6:experiment-id:dcppc-amv-extrop-neg", 
     "raw_name": "dcppC-amv-ExTrop-neg", 
-    "status": "pending", 
-    "uid": "aa16953d-ad12-42a9-8424-620f8e4b74c7"
+    "status": "pending"
 }

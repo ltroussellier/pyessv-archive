@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "albs", 
     "namespace": "wcrp:cmip5:variable:albs", 
-    "status": "pending", 
-    "uid": "abf7e4a3-8861-4a5a-b5d5-0f316bd83bbb"
+    "status": "pending"
 }

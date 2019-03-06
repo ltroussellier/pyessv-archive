@@ -6,6 +6,5 @@
     "label": "prAdjust", 
     "namespace": "wcrp:cmip5:variable:pradjust", 
     "raw_name": "prAdjust", 
-    "status": "pending", 
-    "uid": "7938b9f6-514c-4265-9f86-db421a6ba39a"
+    "status": "pending"
 }

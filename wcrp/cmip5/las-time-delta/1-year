@@ -5,6 +5,5 @@
     "label": "1 year", 
     "namespace": "wcrp:cmip5:las-time-delta:1-year", 
     "raw_name": "1 year", 
-    "status": "pending", 
-    "uid": "85dd7685-0d40-4ab2-a4da-5beaa398405d"
+    "status": "pending"
 }

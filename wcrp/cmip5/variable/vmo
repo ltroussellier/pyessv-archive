@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "vmo", 
     "namespace": "wcrp:cmip5:variable:vmo", 
-    "status": "pending", 
-    "uid": "ca8dbe15-350b-4c82-a95f-1e7df6e53309"
+    "status": "pending"
 }

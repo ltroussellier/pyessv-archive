@@ -33,6 +33,5 @@
     "label": "G6SST2-solar", 
     "namespace": "wcrp:cmip6:experiment-id:g6sst2-solar", 
     "raw_name": "G6SST2-solar", 
-    "status": "pending", 
-    "uid": "3e855605-4c24-4d92-a43a-f220d4653a23"
+    "status": "pending"
 }

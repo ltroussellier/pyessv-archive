@@ -34,6 +34,5 @@
     "label": "abrupt-2xCO2", 
     "namespace": "wcrp:cmip6:experiment-id:abrupt-2xco2", 
     "raw_name": "abrupt-2xCO2", 
-    "status": "pending", 
-    "uid": "a1c774d6-a07f-4fca-882b-a2384c11e944"
+    "status": "pending"
 }

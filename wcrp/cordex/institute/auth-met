@@ -6,6 +6,5 @@
     "label": "AUTH-Met", 
     "namespace": "wcrp:cordex:institute:auth-met", 
     "raw_name": "AUTH-Met", 
-    "status": "pending", 
-    "uid": "7ded3b37-db99-47c2-9ca2-8ce07e773b90"
+    "status": "pending"
 }

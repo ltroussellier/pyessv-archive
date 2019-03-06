@@ -6,6 +6,5 @@
     "label": "cfadLidarsr532", 
     "namespace": "wcrp:cmip5:variable:cfadlidarsr532", 
     "raw_name": "cfadLidarsr532", 
-    "status": "pending", 
-    "uid": "c101443b-c793-460d-807c-d60ade4813e2"
+    "status": "pending"
 }

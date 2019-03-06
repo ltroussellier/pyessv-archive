@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hfy", 
     "namespace": "wcrp:cmip5:variable:hfy", 
-    "status": "pending", 
-    "uid": "8170ad90-5a3f-4a0c-add4-02731e7e40da"
+    "status": "pending"
 }

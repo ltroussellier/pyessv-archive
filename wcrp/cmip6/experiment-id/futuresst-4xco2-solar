@@ -33,6 +33,5 @@
     "label": "futureSST-4xCO2-solar", 
     "namespace": "wcrp:cmip6:experiment-id:futuresst-4xco2-solar", 
     "raw_name": "futureSST-4xCO2-solar", 
-    "status": "pending", 
-    "uid": "b6b2fdaa-449e-4159-86b9-0f5e4c00d641"
+    "status": "pending"
 }

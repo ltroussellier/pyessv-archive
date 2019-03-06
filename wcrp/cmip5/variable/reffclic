@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "reffclic", 
     "namespace": "wcrp:cmip5:variable:reffclic", 
-    "status": "pending", 
-    "uid": "00550473-68b8-4b1f-a4cb-adc4dd7616b3"
+    "status": "pending"
 }

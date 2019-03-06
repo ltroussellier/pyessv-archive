@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "snomelt", 
     "namespace": "wcrp:cmip5:variable:snomelt", 
-    "status": "pending", 
-    "uid": "76f01184-da7b-475c-9c2b-d277e90bb79c"
+    "status": "pending"
 }

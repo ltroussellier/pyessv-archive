@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ficeberg", 
     "namespace": "wcrp:cmip5:variable:ficeberg", 
-    "status": "pending", 
-    "uid": "2e9be9f1-af5e-48b1-b912-9e2e3cdf3216"
+    "status": "pending"
 }

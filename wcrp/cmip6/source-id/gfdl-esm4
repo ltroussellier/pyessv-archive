@@ -60,6 +60,5 @@
     "label": "GFDL-ESM4", 
     "namespace": "wcrp:cmip6:source-id:gfdl-esm4", 
     "raw_name": "GFDL-ESM4", 
-    "status": "pending", 
-    "uid": "ce1d2201-f7e5-47b7-b9ab-83883df6133f"
+    "status": "pending"
 }

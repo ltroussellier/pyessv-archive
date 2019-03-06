@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "darag", 
     "namespace": "wcrp:cmip5:variable:darag", 
-    "status": "pending", 
-    "uid": "bcb1b068-67c0-4f11-8841-6e99ba87ff0c"
+    "status": "pending"
 }

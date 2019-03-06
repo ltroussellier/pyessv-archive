@@ -56,6 +56,5 @@
     "label": "KIOST-ESM", 
     "namespace": "wcrp:cmip6:source-id:kiost-esm", 
     "raw_name": "KIOST-ESM", 
-    "status": "pending", 
-    "uid": "519ebae5-604b-4353-b43e-b7267bbcf596"
+    "status": "pending"
 }

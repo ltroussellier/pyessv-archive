@@ -34,6 +34,5 @@
     "label": "esm-yr2010CO2-control", 
     "namespace": "wcrp:cmip6:experiment-id:esm-yr2010co2-control", 
     "raw_name": "esm-yr2010CO2-control", 
-    "status": "pending", 
-    "uid": "dc344106-d8e0-478a-86e9-07e360f66e95"
+    "status": "pending"
 }

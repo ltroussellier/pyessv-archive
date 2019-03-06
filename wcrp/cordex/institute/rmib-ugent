@@ -6,6 +6,5 @@
     "label": "RMIB-UGent", 
     "namespace": "wcrp:cordex:institute:rmib-ugent", 
     "raw_name": "RMIB-UGent", 
-    "status": "pending", 
-    "uid": "c82620bb-63fa-4255-9cff-95e69483244d"
+    "status": "pending"
 }

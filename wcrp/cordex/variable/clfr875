@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "clfr875", 
     "namespace": "wcrp:cordex:variable:clfr875", 
-    "status": "pending", 
-    "uid": "1ca32928-e25a-46ac-92a5-29f0fe5fbc11"
+    "status": "pending"
 }

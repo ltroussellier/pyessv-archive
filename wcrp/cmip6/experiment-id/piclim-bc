@@ -34,6 +34,5 @@
     "label": "piClim-BC", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-bc", 
     "raw_name": "piClim-BC", 
-    "status": "pending", 
-    "uid": "86768788-12a1-4ed1-a610-f95b080eb236"
+    "status": "pending"
 }

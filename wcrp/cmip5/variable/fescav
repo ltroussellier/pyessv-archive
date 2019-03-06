@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fescav", 
     "namespace": "wcrp:cmip5:variable:fescav", 
-    "status": "pending", 
-    "uid": "c328b23a-7d37-422f-958b-4a48793593f5"
+    "status": "pending"
 }

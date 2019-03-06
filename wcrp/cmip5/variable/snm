@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "snm", 
     "namespace": "wcrp:cmip5:variable:snm", 
-    "status": "pending", 
-    "uid": "5aef7c1d-9dce-4b89-ab40-54c6612189cb"
+    "status": "pending"
 }

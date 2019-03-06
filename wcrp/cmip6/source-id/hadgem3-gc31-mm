@@ -58,6 +58,5 @@
     "label": "HadGEM3-GC31-MM", 
     "namespace": "wcrp:cmip6:source-id:hadgem3-gc31-mm", 
     "raw_name": "HadGEM3-GC31-MM", 
-    "status": "pending", 
-    "uid": "283d9657-f586-4212-9eff-e3a881071b0f"
+    "status": "pending"
 }

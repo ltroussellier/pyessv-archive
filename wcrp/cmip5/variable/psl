@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "psl", 
     "namespace": "wcrp:cmip5:variable:psl", 
-    "status": "pending", 
-    "uid": "1b033fb9-b00e-41cd-8e91-d7a7118012d8"
+    "status": "pending"
 }

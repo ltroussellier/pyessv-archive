@@ -6,6 +6,5 @@
     "label": "bounds_lat", 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:bounds-lat", 
     "raw_name": "bounds_lat", 
-    "status": "pending", 
-    "uid": "04ffd161-317e-4be0-9751-a6fdafa5b180"
+    "status": "pending"
 }

@@ -5,6 +5,5 @@
     "label": "RCA4-SN", 
     "namespace": "wcrp:cordex:rcm-name:rca4-sn", 
     "raw_name": "RCA4-SN", 
-    "status": "pending", 
-    "uid": "5faabe8b-a436-4a6b-aaf4-3e38d517fa91"
+    "status": "pending"
 }

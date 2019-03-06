@@ -62,6 +62,5 @@
     "label": "HAMMOZ-Consortium", 
     "namespace": "wcrp:cmip6:institution-id:hammoz-consortium", 
     "raw_name": "HAMMOZ-Consortium", 
-    "status": "pending", 
-    "uid": "85cd8944-c340-4c15-b5c1-76a1a251bfa6"
+    "status": "pending"
 }

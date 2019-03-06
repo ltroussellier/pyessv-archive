@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "areacella", 
     "namespace": "wcrp:cordex:variable:areacella", 
-    "status": "pending", 
-    "uid": "74535d95-f91b-495d-b819-26d909dfdf4d"
+    "status": "pending"
 }

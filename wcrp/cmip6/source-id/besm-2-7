@@ -56,6 +56,5 @@
     "label": "BESM 2.7", 
     "namespace": "wcrp:cmip6:source-id:besm-2-7", 
     "raw_name": "BESM-2-7", 
-    "status": "pending", 
-    "uid": "93e7b18f-92cc-415d-be36-b794da3e598a"
+    "status": "pending"
 }

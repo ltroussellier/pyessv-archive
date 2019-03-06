@@ -34,6 +34,5 @@
     "label": "CSIRO-ARCCSS-BoM", 
     "namespace": "wcrp:cmip6:institution-id:csiro-arccss-bom", 
     "raw_name": "CSIRO-ARCCSS-BoM", 
-    "status": "pending", 
-    "uid": "310f5906-3c35-4983-a2c4-c547030c8049"
+    "status": "pending"
 }

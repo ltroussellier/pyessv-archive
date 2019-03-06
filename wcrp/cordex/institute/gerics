@@ -6,6 +6,5 @@
     "label": "GERICS", 
     "namespace": "wcrp:cordex:institute:gerics", 
     "raw_name": "GERICS", 
-    "status": "pending", 
-    "uid": "f6fe5b3e-11b5-4068-9cfb-7626c772cf5d"
+    "status": "pending"
 }

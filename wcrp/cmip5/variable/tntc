@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tntc", 
     "namespace": "wcrp:cmip5:variable:tntc", 
-    "status": "pending", 
-    "uid": "69259cb8-248a-4e0e-ad5b-c122c2fd1321"
+    "status": "pending"
 }

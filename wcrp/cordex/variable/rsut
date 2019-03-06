@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rsut", 
     "namespace": "wcrp:cordex:variable:rsut", 
-    "status": "pending", 
-    "uid": "6a9ee665-63c5-4751-b493-affe0c8b0465"
+    "status": "pending"
 }

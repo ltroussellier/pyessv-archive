@@ -6,6 +6,5 @@
     "label": "lat_bnds", 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:lat-bnds", 
     "raw_name": "lat_bnds", 
-    "status": "pending", 
-    "uid": "9546df0c-028d-450b-a8f6-fd8ca35965ee"
+    "status": "pending"
 }

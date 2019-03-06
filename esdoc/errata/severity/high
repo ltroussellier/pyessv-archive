@@ -8,6 +8,5 @@
     }, 
     "label": "High", 
     "namespace": "esdoc:errata:severity:high", 
-    "status": "pending", 
-    "uid": "d802bd1d-8968-4c4e-b0d7-343e778dcdc6"
+    "status": "pending"
 }

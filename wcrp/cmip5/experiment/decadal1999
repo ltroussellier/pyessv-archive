@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "10- or 30-year run initialized in year 1999", 
     "namespace": "wcrp:cmip5:experiment:decadal1999", 
-    "status": "pending", 
-    "uid": "d5bcd4c0-f4b1-4949-b49c-1b10cc606514"
+    "status": "pending"
 }

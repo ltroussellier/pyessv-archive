@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "height", 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:height", 
-    "status": "pending", 
-    "uid": "cd65b9f2-2730-4915-a33a-e4f6cc775191"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "alevhalf", 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:alevhalf", 
-    "status": "pending", 
-    "uid": "1364579a-affd-4223-92c9-ec3d2a16b158"
+    "status": "pending"
 }

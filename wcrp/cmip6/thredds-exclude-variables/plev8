@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "plev8", 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:plev8", 
-    "status": "pending", 
-    "uid": "30ef93e2-f3a2-43f7-aeca-367416253ac5"
+    "status": "pending"
 }

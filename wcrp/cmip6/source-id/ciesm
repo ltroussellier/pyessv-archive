@@ -60,6 +60,5 @@
     "label": "CIESM", 
     "namespace": "wcrp:cmip6:source-id:ciesm", 
     "raw_name": "CIESM", 
-    "status": "pending", 
-    "uid": "da3308b7-a756-454c-81c4-c01f4baf21c5"
+    "status": "pending"
 }

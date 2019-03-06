@@ -6,6 +6,5 @@
     "label": "CLMcom", 
     "namespace": "wcrp:cordex:institute:clmcom", 
     "raw_name": "CLMcom", 
-    "status": "pending", 
-    "uid": "9ca7c17a-d26e-40c3-9e7d-3c6f9af1fba7"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "reffclwc", 
     "namespace": "wcrp:cmip5:variable:reffclwc", 
-    "status": "pending", 
-    "uid": "3a973723-47b7-493a-943f-a2fe92592919"
+    "status": "pending"
 }

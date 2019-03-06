@@ -12,6 +12,5 @@
     "label": "AWI", 
     "namespace": "wcrp:cmip6:institution-id:awi", 
     "raw_name": "AWI", 
-    "status": "pending", 
-    "uid": "4d27d382-48ac-436e-99b2-4cb6aa861158"
+    "status": "pending"
 }

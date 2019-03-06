@@ -30,6 +30,5 @@
     }, 
     "description": "Offline ice sheet simulation with synthetic atmospheric dataset to explore the uncertainty in sea level due to ice sheet initialization", 
     "namespace": "wcrp:cmip6:experiment-id:ism-asmb-std", 
-    "status": "pending", 
-    "uid": "f7f6c68c-8b3f-4ace-9aa7-343983a83bc9"
+    "status": "pending"
 }

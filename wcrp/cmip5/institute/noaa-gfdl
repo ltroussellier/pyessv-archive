@@ -5,6 +5,5 @@
     "label": "NOAA-GFDL", 
     "namespace": "wcrp:cmip5:institute:noaa-gfdl", 
     "raw_name": "NOAA-GFDL", 
-    "status": "pending", 
-    "uid": "5bdd9473-5367-412f-a30c-92f2ac5c67b6"
+    "status": "pending"
 }

@@ -53,6 +53,5 @@
     "label": "E3SM 1.0", 
     "namespace": "wcrp:cmip6:source-id:e3sm-1-0", 
     "raw_name": "E3SM-1-0", 
-    "status": "pending", 
-    "uid": "f32830bb-069c-4e4d-92d0-c72d3a8a536c"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "vsfevap", 
     "namespace": "wcrp:cmip5:variable:vsfevap", 
-    "status": "pending", 
-    "uid": "38dcb005-941a-42e1-a1f8-6b071f2ffe89"
+    "status": "pending"
 }

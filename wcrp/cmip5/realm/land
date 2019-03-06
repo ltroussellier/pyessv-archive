@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "land", 
     "namespace": "wcrp:cmip5:realm:land", 
-    "status": "pending", 
-    "uid": "6f9942f9-1d77-4ed4-90c7-62d316d0c719"
+    "status": "pending"
 }

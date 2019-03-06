@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "intpdiaz", 
     "namespace": "wcrp:cmip5:variable:intpdiaz", 
-    "status": "pending", 
-    "uid": "f6d6ecf5-f652-40ae-834a-ebea0a99f8ab"
+    "status": "pending"
 }

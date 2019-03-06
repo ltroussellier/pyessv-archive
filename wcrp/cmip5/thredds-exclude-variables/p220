@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "p220", 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:p220", 
-    "status": "pending", 
-    "uid": "fa736d87-07f7-40d5-8149-6ae6cd5c252c"
+    "status": "pending"
 }

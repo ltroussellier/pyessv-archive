@@ -6,6 +6,5 @@
     "label": "tau_bnds", 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:tau-bnds", 
     "raw_name": "tau_bnds", 
-    "status": "pending", 
-    "uid": "f7c2d441-0fd4-4160-b69a-d2417f3417e7"
+    "status": "pending"
 }

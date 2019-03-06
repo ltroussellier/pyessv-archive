@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "oline", 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:oline", 
-    "status": "pending", 
-    "uid": "fb7b517e-aec9-4d4a-8aa8-60e3342549cd"
+    "status": "pending"
 }

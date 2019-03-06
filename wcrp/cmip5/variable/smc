@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "smc", 
     "namespace": "wcrp:cmip5:variable:smc", 
-    "status": "pending", 
-    "uid": "ca9b9232-f091-46fb-9a86-0be007905556"
+    "status": "pending"
 }

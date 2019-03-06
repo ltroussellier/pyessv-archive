@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "dms", 
     "namespace": "wcrp:cmip5:variable:dms", 
-    "status": "pending", 
-    "uid": "d5b08343-28b1-4db5-9a04-26b096ff6362"
+    "status": "pending"
 }

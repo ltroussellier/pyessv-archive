@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "mcu", 
     "namespace": "wcrp:cmip5:variable:mcu", 
-    "status": "pending", 
-    "uid": "6f8d41b2-bd29-4cea-8eb3-7e2c86a6efe7"
+    "status": "pending"
 }

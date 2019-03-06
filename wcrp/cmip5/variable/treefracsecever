@@ -6,6 +6,5 @@
     "label": "treeFracSecEver", 
     "namespace": "wcrp:cmip5:variable:treefracsecever", 
     "raw_name": "treeFracSecEver", 
-    "status": "pending", 
-    "uid": "1d437f81-e08d-4ac4-9186-4eef56aec29b"
+    "status": "pending"
 }

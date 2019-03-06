@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "drypoa", 
     "namespace": "wcrp:cmip5:variable:drypoa", 
-    "status": "pending", 
-    "uid": "3711449c-2ee2-49d0-90cb-cb939ec5e2cd"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rsds", 
     "namespace": "wcrp:cordex:variable:rsds", 
-    "status": "pending", 
-    "uid": "886a380c-3556-48bd-9af2-dc770e0ad625"
+    "status": "pending"
 }

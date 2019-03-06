@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "oline", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:oline", 
-    "status": "pending", 
-    "uid": "6dda0732-23a3-45ce-b1f1-3449b18c8cee"
+    "status": "pending"
 }

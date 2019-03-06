@@ -6,6 +6,5 @@
     "label": "fGrazing", 
     "namespace": "wcrp:cmip5:variable:fgrazing", 
     "raw_name": "fGrazing", 
-    "status": "pending", 
-    "uid": "225a2097-f271-408e-96a8-f7784c565395"
+    "status": "pending"
 }

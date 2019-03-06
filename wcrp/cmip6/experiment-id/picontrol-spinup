@@ -34,6 +34,5 @@
     "label": "piControl-spinup", 
     "namespace": "wcrp:cmip6:experiment-id:picontrol-spinup", 
     "raw_name": "piControl-spinup", 
-    "status": "pending", 
-    "uid": "7ab71553-860b-4125-8393-a271f48c03f6"
+    "status": "pending"
 }

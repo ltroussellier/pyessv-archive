@@ -6,6 +6,5 @@
     "label": "SP-CCSM4", 
     "namespace": "wcrp:cmip5:model:sp-ccsm4", 
     "raw_name": "SP-CCSM4", 
-    "status": "pending", 
-    "uid": "8e56794c-4860-4301-85b8-16f8a384732a"
+    "status": "pending"
 }

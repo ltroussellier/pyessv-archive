@@ -12,6 +12,5 @@
     "label": "UTAS", 
     "namespace": "wcrp:cmip6:institution-id:utas", 
     "raw_name": "UTAS", 
-    "status": "pending", 
-    "uid": "b5835d34-570d-4273-b47c-013111e6bc70"
+    "status": "pending"
 }

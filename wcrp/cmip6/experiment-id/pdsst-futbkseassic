@@ -34,6 +34,5 @@
     "label": "pdSST-futBKSeasSIC", 
     "namespace": "wcrp:cmip6:experiment-id:pdsst-futbkseassic", 
     "raw_name": "pdSST-futBKSeasSIC", 
-    "status": "pending", 
-    "uid": "aef4378e-07fd-4920-ac26-2140b0dccda8"
+    "status": "pending"
 }

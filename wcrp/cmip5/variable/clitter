@@ -6,6 +6,5 @@
     "label": "cLitter", 
     "namespace": "wcrp:cmip5:variable:clitter", 
     "raw_name": "cLitter", 
-    "status": "pending", 
-    "uid": "f53d8ea1-23c8-4cc8-8c0c-98139106392c"
+    "status": "pending"
 }

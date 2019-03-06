@@ -61,6 +61,5 @@
     "label": "BNU-ESM 1.1", 
     "namespace": "wcrp:cmip6:source-id:bnu-esm-1-1", 
     "raw_name": "BNU-ESM-1-1", 
-    "status": "pending", 
-    "uid": "4406d038-724b-49f2-8e7b-32e8876b801a"
+    "status": "pending"
 }

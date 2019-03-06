@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "aerosol", 
     "namespace": "wcrp:cmip5:realm:aerosol", 
-    "status": "pending", 
-    "uid": "d7439033-0d17-4866-a27d-d386eeeee931"
+    "status": "pending"
 }

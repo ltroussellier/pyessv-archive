@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "lwsnl", 
     "namespace": "wcrp:cmip5:variable:lwsnl", 
-    "status": "pending", 
-    "uid": "7834e9d4-13eb-4275-8130-3525aef09a2e"
+    "status": "pending"
 }

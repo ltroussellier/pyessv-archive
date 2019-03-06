@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "detoc", 
     "namespace": "wcrp:cmip5:variable:detoc", 
-    "status": "pending", 
-    "uid": "970868fc-b9b6-4bf3-8c22-87123504e6ef"
+    "status": "pending"
 }

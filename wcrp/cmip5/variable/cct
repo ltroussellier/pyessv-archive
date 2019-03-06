@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cct", 
     "namespace": "wcrp:cmip5:variable:cct", 
-    "status": "pending", 
-    "uid": "291eda07-8c1d-4f2d-8838-2e51569425b0"
+    "status": "pending"
 }

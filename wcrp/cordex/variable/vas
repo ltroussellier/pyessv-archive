@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "vas", 
     "namespace": "wcrp:cordex:variable:vas", 
-    "status": "pending", 
-    "uid": "64c23e0c-0432-4dc1-9219-9b6fc6f5e671"
+    "status": "pending"
 }

@@ -53,6 +53,5 @@
     "label": "ARTS 2.3", 
     "namespace": "wcrp:cmip6:source-id:arts-2-3", 
     "raw_name": "ARTS-2-3", 
-    "status": "pending", 
-    "uid": "d1094341-9a98-4318-b1d1-fd1f369fd3c7"
+    "status": "pending"
 }

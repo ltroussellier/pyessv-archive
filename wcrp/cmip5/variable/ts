@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ts", 
     "namespace": "wcrp:cmip5:variable:ts", 
-    "status": "pending", 
-    "uid": "2f736e5c-0c79-4182-b692-71d8834d2a41"
+    "status": "pending"
 }

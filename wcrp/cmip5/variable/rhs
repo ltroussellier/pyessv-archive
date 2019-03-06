@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rhs", 
     "namespace": "wcrp:cmip5:variable:rhs", 
-    "status": "pending", 
-    "uid": "1f6a4687-474a-431a-83bd-453e6327e6a9"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "mcd", 
     "namespace": "wcrp:cmip5:variable:mcd", 
-    "status": "pending", 
-    "uid": "13c29e6b-d00a-4777-b3bb-e277676f39f7"
+    "status": "pending"
 }

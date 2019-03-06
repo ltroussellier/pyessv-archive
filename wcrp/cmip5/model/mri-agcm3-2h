@@ -6,6 +6,5 @@
     "label": "MRI-AGCM3-2H", 
     "namespace": "wcrp:cmip5:model:mri-agcm3-2h", 
     "raw_name": "MRI-AGCM3-2H", 
-    "status": "pending", 
-    "uid": "704b917d-6d18-48c9-ac51-39fa9632c530"
+    "status": "pending"
 }

@@ -63,6 +63,5 @@
     "label": "MIROC-ES2L", 
     "namespace": "wcrp:cmip6:source-id:miroc-es2l", 
     "raw_name": "MIROC-ES2L", 
-    "status": "pending", 
-    "uid": "0ee3a84d-d885-46b1-bc8d-6c02f990b025"
+    "status": "pending"
 }

@@ -6,6 +6,5 @@
     "label": "treeFracSecDec", 
     "namespace": "wcrp:cmip5:variable:treefracsecdec", 
     "raw_name": "treeFracSecDec", 
-    "status": "pending", 
-    "uid": "715326d5-89bf-4700-be65-25db138e2179"
+    "status": "pending"
 }

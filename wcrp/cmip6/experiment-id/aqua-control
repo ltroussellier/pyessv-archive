@@ -31,6 +31,5 @@
     }, 
     "description": "Extended version of CMIP5/CFMIP-2 aquaControl experiment. Aquaplanet (no land) experiment with no seasonal cycle forced with specified zonally symmetric SSTs", 
     "namespace": "wcrp:cmip6:experiment-id:aqua-control", 
-    "status": "pending", 
-    "uid": "51a30414-f354-4617-a86a-404b6430bdb0"
+    "status": "pending"
 }

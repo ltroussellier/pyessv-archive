@@ -12,6 +12,5 @@
     "label": "MPI-M", 
     "namespace": "wcrp:cmip6:institution-id:mpi-m", 
     "raw_name": "MPI-M", 
-    "status": "pending", 
-    "uid": "69d80ccd-99bb-4fb4-b894-beb3c046f4e1"
+    "status": "pending"
 }

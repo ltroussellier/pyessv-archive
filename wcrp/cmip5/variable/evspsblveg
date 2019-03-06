@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "evspsblveg", 
     "namespace": "wcrp:cmip5:variable:evspsblveg", 
-    "status": "pending", 
-    "uid": "e6cd3dc1-682d-4170-9f2f-17bcc3e3ffea"
+    "status": "pending"
 }

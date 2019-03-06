@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "longitude", 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:longitude", 
-    "status": "pending", 
-    "uid": "a89f3996-3a2d-4477-bfdd-8f0d28e57856"
+    "status": "pending"
 }

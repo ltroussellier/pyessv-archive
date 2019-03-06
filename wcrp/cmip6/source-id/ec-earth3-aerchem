@@ -55,6 +55,5 @@
     "label": "EC-Earth3-AerChem", 
     "namespace": "wcrp:cmip6:source-id:ec-earth3-aerchem", 
     "raw_name": "EC-Earth3-AerChem", 
-    "status": "pending", 
-    "uid": "d4fe8519-af25-43c4-9186-f5229a25db23"
+    "status": "pending"
 }

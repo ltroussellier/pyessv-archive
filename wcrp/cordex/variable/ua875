@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ua875", 
     "namespace": "wcrp:cordex:variable:ua875", 
-    "status": "pending", 
-    "uid": "0441837b-846e-4a39-a304-d34fbc263c80"
+    "status": "pending"
 }

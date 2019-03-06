@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sconcpoa", 
     "namespace": "wcrp:cmip5:variable:sconcpoa", 
-    "status": "pending", 
-    "uid": "a54ae734-57cf-4ffb-8070-06643c56e62b"
+    "status": "pending"
 }

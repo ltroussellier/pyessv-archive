@@ -5,6 +5,5 @@
     "description": "Top Level", 
     "label": "Top Level", 
     "namespace": "esdoc:cmip6:model-topic:toplevel", 
-    "status": "pending", 
-    "uid": "bc93e641-581e-443d-891f-0b0f0d401f98"
+    "status": "pending"
 }

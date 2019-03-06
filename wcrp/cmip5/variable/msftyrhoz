@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "msftyrhoz", 
     "namespace": "wcrp:cmip5:variable:msftyrhoz", 
-    "status": "pending", 
-    "uid": "4949e53b-3859-4374-bb10-2d35eb172a17"
+    "status": "pending"
 }

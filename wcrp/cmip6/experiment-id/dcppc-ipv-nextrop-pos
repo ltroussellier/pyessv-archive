@@ -34,6 +34,5 @@
     "label": "dcppC-ipv-NexTrop-pos", 
     "namespace": "wcrp:cmip6:experiment-id:dcppc-ipv-nextrop-pos", 
     "raw_name": "dcppC-ipv-NexTrop-pos", 
-    "status": "pending", 
-    "uid": "9d8b1519-30c1-481e-bdc1-16189346afcd"
+    "status": "pending"
 }

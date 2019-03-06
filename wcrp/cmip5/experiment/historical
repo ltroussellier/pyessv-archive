@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Historical", 
     "namespace": "wcrp:cmip5:experiment:historical", 
-    "status": "pending", 
-    "uid": "33d09425-fa95-4694-bb8a-083862dce991"
+    "status": "pending"
 }

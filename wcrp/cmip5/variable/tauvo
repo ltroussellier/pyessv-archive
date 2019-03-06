@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tauvo", 
     "namespace": "wcrp:cmip5:variable:tauvo", 
-    "status": "pending", 
-    "uid": "1d871b70-bd63-4e9e-aa77-06aa61f94a1c"
+    "status": "pending"
 }

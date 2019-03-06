@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "depth", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:depth", 
-    "status": "pending", 
-    "uid": "9e038073-dda2-4c92-b8d2-8353ef345f07"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "p560", 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:p560", 
-    "status": "pending", 
-    "uid": "ec22ef6d-b951-4f8d-be17-949ebcaa0444"
+    "status": "pending"
 }

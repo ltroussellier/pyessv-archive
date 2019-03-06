@@ -6,6 +6,5 @@
     "label": "cSoil", 
     "namespace": "wcrp:cmip5:variable:csoil", 
     "raw_name": "cSoil", 
-    "status": "pending", 
-    "uid": "69aa403a-8422-4c89-8ca5-45129c374a31"
+    "status": "pending"
 }

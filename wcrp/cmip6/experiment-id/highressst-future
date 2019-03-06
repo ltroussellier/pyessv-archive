@@ -32,6 +32,5 @@
     "label": "highresSST-future", 
     "namespace": "wcrp:cmip6:experiment-id:highressst-future", 
     "raw_name": "highresSST-future", 
-    "status": "pending", 
-    "uid": "c66a178f-ac9a-4a84-b5e9-ca996de437f4"
+    "status": "pending"
 }

@@ -53,6 +53,5 @@
     "label": "MCM-UA-1-0", 
     "namespace": "wcrp:cmip6:source-id:mcm-ua-1-0", 
     "raw_name": "MCM-UA-1-0", 
-    "status": "pending", 
-    "uid": "a01a7819-f21f-41fc-b70b-2e9bfdc8d0c6"
+    "status": "pending"
 }

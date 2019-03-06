@@ -33,6 +33,5 @@
     "label": "aqua-p4K-lwoff", 
     "namespace": "wcrp:cmip6:experiment-id:aqua-p4k-lwoff", 
     "raw_name": "aqua-p4K-lwoff", 
-    "status": "pending", 
-    "uid": "6493d108-c014-459f-b34a-2bd5c87890fd"
+    "status": "pending"
 }

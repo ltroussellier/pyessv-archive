@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "calc", 
     "namespace": "wcrp:cmip5:variable:calc", 
-    "status": "pending", 
-    "uid": "6ad79fb3-56ee-41db-98bf-3767ef94b479"
+    "status": "pending"
 }

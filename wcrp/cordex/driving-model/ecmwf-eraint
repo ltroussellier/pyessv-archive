@@ -6,6 +6,5 @@
     "label": "ECMWF-ERAINT", 
     "namespace": "wcrp:cordex:driving-model:ecmwf-eraint", 
     "raw_name": "ECMWF-ERAINT", 
-    "status": "pending", 
-    "uid": "f4deb76e-6c4c-4ccc-8038-52342ca116bd"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sim", 
     "namespace": "wcrp:cmip5:variable:sim", 
-    "status": "pending", 
-    "uid": "d640e072-b253-4e01-93db-ffd769910197"
+    "status": "pending"
 }

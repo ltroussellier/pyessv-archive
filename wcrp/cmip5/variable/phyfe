@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "phyfe", 
     "namespace": "wcrp:cmip5:variable:phyfe", 
-    "status": "pending", 
-    "uid": "d0143c34-4b50-425b-ad8e-27a0c8005a24"
+    "status": "pending"
 }

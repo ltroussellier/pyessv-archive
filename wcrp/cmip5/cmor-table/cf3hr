@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cf3hr", 
     "namespace": "wcrp:cmip5:cmor-table:cf3hr", 
-    "status": "pending", 
-    "uid": "e8a2bc7e-ea3a-4feb-80da-c5effef79c68"
+    "status": "pending"
 }

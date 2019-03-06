@@ -32,6 +32,5 @@
     "label": "highresSST-present", 
     "namespace": "wcrp:cmip6:experiment-id:highressst-present", 
     "raw_name": "highresSST-present", 
-    "status": "pending", 
-    "uid": "02c710ac-052c-4817-b186-a9c507683c69"
+    "status": "pending"
 }

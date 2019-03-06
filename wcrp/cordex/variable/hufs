@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hufs", 
     "namespace": "wcrp:cordex:variable:hufs", 
-    "status": "pending", 
-    "uid": "14c0f44b-81ac-40c4-874e-91b9edfc1c91"
+    "status": "pending"
 }

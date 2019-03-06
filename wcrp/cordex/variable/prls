@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "prls", 
     "namespace": "wcrp:cordex:variable:prls", 
-    "status": "pending", 
-    "uid": "bd71a384-5753-429d-ab31-3d79de1f255b"
+    "status": "pending"
 }

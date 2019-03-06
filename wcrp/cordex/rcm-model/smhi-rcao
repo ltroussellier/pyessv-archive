@@ -6,6 +6,5 @@
     "label": "SMHI-RCAO", 
     "namespace": "wcrp:cordex:rcm-model:smhi-rcao", 
     "raw_name": "SMHI-RCAO", 
-    "status": "pending", 
-    "uid": "bb4152a2-1ae7-42ef-905b-26ffcf88b041"
+    "status": "pending"
 }

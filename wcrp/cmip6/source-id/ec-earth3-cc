@@ -57,6 +57,5 @@
     "label": "EC-Earth3-CC", 
     "namespace": "wcrp:cmip6:source-id:ec-earth3-cc", 
     "raw_name": "EC-Earth3-CC", 
-    "status": "pending", 
-    "uid": "e5ae0748-7177-4184-b6b3-4c78d619ab87"
+    "status": "pending"
 }

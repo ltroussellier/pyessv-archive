@@ -34,6 +34,5 @@
     "label": "ssp126-ssp370Lu", 
     "namespace": "wcrp:cmip6:experiment-id:ssp126-ssp370lu", 
     "raw_name": "ssp126-ssp370Lu", 
-    "status": "pending", 
-    "uid": "96ccac23-eae7-4a48-9520-c6e2df46b2cf"
+    "status": "pending"
 }

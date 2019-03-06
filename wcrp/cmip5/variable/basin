@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "basin", 
     "namespace": "wcrp:cmip5:variable:basin", 
-    "status": "pending", 
-    "uid": "75223fb9-dfb9-4306-80f0-9c9f8ea1a072"
+    "status": "pending"
 }

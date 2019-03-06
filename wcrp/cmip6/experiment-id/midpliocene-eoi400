@@ -34,6 +34,5 @@
     "label": "midPliocene-eoi400", 
     "namespace": "wcrp:cmip6:experiment-id:midpliocene-eoi400", 
     "raw_name": "midPliocene-eoi400", 
-    "status": "pending", 
-    "uid": "b4ca6c8d-bc38-4c5c-9f4e-de7440d78f97"
+    "status": "pending"
 }

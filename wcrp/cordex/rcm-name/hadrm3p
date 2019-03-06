@@ -5,6 +5,5 @@
     "label": "HadRM3P", 
     "namespace": "wcrp:cordex:rcm-name:hadrm3p", 
     "raw_name": "HadRM3P", 
-    "status": "pending", 
-    "uid": "ee2b789d-9b63-4684-868c-331413db4292"
+    "status": "pending"
 }

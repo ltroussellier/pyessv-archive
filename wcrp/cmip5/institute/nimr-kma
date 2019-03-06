@@ -5,6 +5,5 @@
     "label": "NIMR-KMA", 
     "namespace": "wcrp:cmip5:institute:nimr-kma", 
     "raw_name": "NIMR-KMA", 
-    "status": "pending", 
-    "uid": "b350232d-aa8b-46d3-8b7e-55008d7ae76e"
+    "status": "pending"
 }

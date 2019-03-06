@@ -6,6 +6,5 @@
     "label": "piControl", 
     "namespace": "wcrp:cmip5:experiment:picontrol", 
     "raw_name": "piControl", 
-    "status": "pending", 
-    "uid": "36c9386e-844c-4c1b-8363-0353a694cd73"
+    "status": "pending"
 }

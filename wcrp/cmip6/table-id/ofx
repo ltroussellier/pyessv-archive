@@ -5,6 +5,5 @@
     "label": "Ofx", 
     "namespace": "wcrp:cmip6:table-id:ofx", 
     "raw_name": "Ofx", 
-    "status": "pending", 
-    "uid": "ec7f516f-0b11-4c6f-9b8b-7f0a8995f056"
+    "status": "pending"
 }

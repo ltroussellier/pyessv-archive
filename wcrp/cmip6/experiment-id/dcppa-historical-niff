@@ -90,6 +90,5 @@
     "label": "dcppA-historical-niff", 
     "namespace": "wcrp:cmip6:experiment-id:dcppa-historical-niff", 
     "raw_name": "dcppA-historical-niff", 
-    "status": "pending", 
-    "uid": "630fc2ae-2a8d-4031-ad82-d4d3fbecc32c"
+    "status": "pending"
 }

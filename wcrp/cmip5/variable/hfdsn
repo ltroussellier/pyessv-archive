@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hfdsn", 
     "namespace": "wcrp:cmip5:variable:hfdsn", 
-    "status": "pending", 
-    "uid": "c4e721bd-45ff-4a2f-a575-07ed63ef80a3"
+    "status": "pending"
 }

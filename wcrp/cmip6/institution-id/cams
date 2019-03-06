@@ -12,6 +12,5 @@
     "label": "CAMS", 
     "namespace": "wcrp:cmip6:institution-id:cams", 
     "raw_name": "CAMS", 
-    "status": "pending", 
-    "uid": "dc00eefb-cc98-4d98-8424-f5613d3eb8e1"
+    "status": "pending"
 }

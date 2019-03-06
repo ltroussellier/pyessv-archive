@@ -53,6 +53,5 @@
     "label": "IPSL-CM6A-ATM-HR", 
     "namespace": "wcrp:cmip6:source-id:ipsl-cm6a-atm-hr", 
     "raw_name": "IPSL-CM6A-ATM-HR", 
-    "status": "pending", 
-    "uid": "5f9474db-cf3e-4c50-b2cf-3aeb9e2dd886"
+    "status": "pending"
 }

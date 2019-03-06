@@ -8,6 +8,5 @@
     }, 
     "label": "Medium", 
     "namespace": "esdoc:errata:severity:medium", 
-    "status": "pending", 
-    "uid": "3efe0c01-2876-4543-863e-09603b2a58fe"
+    "status": "pending"
 }

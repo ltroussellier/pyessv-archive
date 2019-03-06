@@ -33,6 +33,5 @@
     "label": "G6SST2-sulfur", 
     "namespace": "wcrp:cmip6:experiment-id:g6sst2-sulfur", 
     "raw_name": "G6SST2-sulfur", 
-    "status": "pending", 
-    "uid": "d8bff6af-cfc1-4370-babc-8229fcc51a8d"
+    "status": "pending"
 }

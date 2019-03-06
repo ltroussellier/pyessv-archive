@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hfxdiff", 
     "namespace": "wcrp:cmip5:variable:hfxdiff", 
-    "status": "pending", 
-    "uid": "064f8c97-9f81-48a1-bf8f-4e039b7c4c38"
+    "status": "pending"
 }

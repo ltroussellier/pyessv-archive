@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hfsifrazil", 
     "namespace": "wcrp:cmip5:variable:hfsifrazil", 
-    "status": "pending", 
-    "uid": "48560b8a-05e2-4b9a-8260-1fe76e9c0319"
+    "status": "pending"
 }

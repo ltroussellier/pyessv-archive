@@ -34,6 +34,5 @@
     "label": "piClim-2xdust", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-2xdust", 
     "raw_name": "piClim-2xdust", 
-    "status": "pending", 
-    "uid": "91a7b345-1cb7-418d-acf9-6829e70334b1"
+    "status": "pending"
 }

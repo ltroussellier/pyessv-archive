@@ -6,6 +6,5 @@
     "label": "esmFdbk2", 
     "namespace": "wcrp:cmip5:experiment:esmfdbk2", 
     "raw_name": "esmFdbk2", 
-    "status": "pending", 
-    "uid": "254e91ff-bda5-40e2-8367-3f1890ed9742"
+    "status": "pending"
 }

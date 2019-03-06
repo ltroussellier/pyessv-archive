@@ -6,6 +6,5 @@
     "label": "SEA-22i", 
     "namespace": "wcrp:cordex:domain:sea-22i", 
     "raw_name": "SEA-22i", 
-    "status": "pending", 
-    "uid": "38b33c04-57cb-4e00-b0bf-aa1fae7e78a1"
+    "status": "pending"
 }

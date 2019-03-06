@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hflssi", 
     "namespace": "wcrp:cmip5:variable:hflssi", 
-    "status": "pending", 
-    "uid": "280fd953-1c81-49e5-9ce0-a79468642db9"
+    "status": "pending"
 }

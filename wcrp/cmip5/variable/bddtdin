@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "bddtdin", 
     "namespace": "wcrp:cmip5:variable:bddtdin", 
-    "status": "pending", 
-    "uid": "308cbedd-da79-4fcb-94a4-4c1236b98baf"
+    "status": "pending"
 }

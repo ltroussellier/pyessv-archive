@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "divice", 
     "namespace": "wcrp:cmip5:variable:divice", 
-    "status": "pending", 
-    "uid": "511b5a9c-7df7-45ba-b2fd-349494cbe982"
+    "status": "pending"
 }

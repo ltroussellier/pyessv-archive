@@ -6,6 +6,5 @@
     "label": "AUTH-LHTEE", 
     "namespace": "wcrp:cordex:institute:auth-lhtee", 
     "raw_name": "AUTH-LHTEE", 
-    "status": "pending", 
-    "uid": "e1a6d881-5955-48fc-a2d0-26f1a21f1c30"
+    "status": "pending"
 }

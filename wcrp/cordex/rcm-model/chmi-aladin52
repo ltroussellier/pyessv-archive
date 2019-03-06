@@ -6,6 +6,5 @@
     "label": "CHMI-ALADIN52", 
     "namespace": "wcrp:cordex:rcm-model:chmi-aladin52", 
     "raw_name": "CHMI-ALADIN52", 
-    "status": "pending", 
-    "uid": "7a956ac7-587f-4800-a219-3c37ae401bbc"
+    "status": "pending"
 }

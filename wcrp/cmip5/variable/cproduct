@@ -6,6 +6,5 @@
     "label": "cProduct", 
     "namespace": "wcrp:cmip5:variable:cproduct", 
     "raw_name": "cProduct", 
-    "status": "pending", 
-    "uid": "0b0c3a81-39d8-4d37-bf0f-aaffeafa08d9"
+    "status": "pending"
 }

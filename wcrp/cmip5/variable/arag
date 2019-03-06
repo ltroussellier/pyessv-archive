@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "arag", 
     "namespace": "wcrp:cmip5:variable:arag", 
-    "status": "pending", 
-    "uid": "21bc7d3e-cc8f-4ea1-8d44-19c2db385086"
+    "status": "pending"
 }

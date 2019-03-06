@@ -12,6 +12,5 @@
     "label": "NERC", 
     "namespace": "wcrp:cmip6:institution-id:nerc", 
     "raw_name": "NERC", 
-    "status": "pending", 
-    "uid": "4f0eb6db-297b-4025-aa17-1a946c9bfea5"
+    "status": "pending"
 }

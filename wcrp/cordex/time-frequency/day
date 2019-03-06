@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "day", 
     "namespace": "wcrp:cordex:time-frequency:day", 
-    "status": "pending", 
-    "uid": "14836c21-ad9b-47e4-b3bb-6bfc7fc4c9c3"
+    "status": "pending"
 }

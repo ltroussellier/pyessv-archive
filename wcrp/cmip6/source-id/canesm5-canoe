@@ -57,6 +57,5 @@
     "label": "CanESM5-CanOE", 
     "namespace": "wcrp:cmip6:source-id:canesm5-canoe", 
     "raw_name": "CanESM5-CanOE", 
-    "status": "pending", 
-    "uid": "f899ebbc-66a8-4d59-b7be-de463a8bc852"
+    "status": "pending"
 }

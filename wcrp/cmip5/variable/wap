@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "wap", 
     "namespace": "wcrp:cmip5:variable:wap", 
-    "status": "pending", 
-    "uid": "2ee28ec3-a53f-44cd-b1a5-7a1d0175831d"
+    "status": "pending"
 }

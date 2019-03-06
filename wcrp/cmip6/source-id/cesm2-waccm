@@ -56,6 +56,5 @@
     "label": "CESM2-WACCM", 
     "namespace": "wcrp:cmip6:source-id:cesm2-waccm", 
     "raw_name": "CESM2-WACCM", 
-    "status": "pending", 
-    "uid": "99a2fda0-71dd-413f-a76e-b53df7305c0b"
+    "status": "pending"
 }

@@ -30,6 +30,5 @@
     }, 
     "description": "Historical simulation using \"offline\" ice sheet models. Forcing for ice sheet model is from its own AOGCM", 
     "namespace": "wcrp:cmip6:experiment-id:ism-historical-self", 
-    "status": "pending", 
-    "uid": "199dbdaf-5e84-4ac4-ac3d-6771ec7eb0d4"
+    "status": "pending"
 }

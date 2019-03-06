@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hfrainds", 
     "namespace": "wcrp:cmip5:variable:hfrainds", 
-    "status": "pending", 
-    "uid": "f5491615-4c88-442e-b1eb-8017bcde81bc"
+    "status": "pending"
 }

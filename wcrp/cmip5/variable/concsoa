@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "concsoa", 
     "namespace": "wcrp:cmip5:variable:concsoa", 
-    "status": "pending", 
-    "uid": "b13a65e2-725f-4cb1-ad19-5b35c9aea25f"
+    "status": "pending"
 }

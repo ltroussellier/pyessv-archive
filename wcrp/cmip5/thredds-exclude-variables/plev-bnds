@@ -6,6 +6,5 @@
     "label": "plev_bnds", 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:plev-bnds", 
     "raw_name": "plev_bnds", 
-    "status": "pending", 
-    "uid": "1558addb-ae13-40f4-9dbd-613922e75138"
+    "status": "pending"
 }

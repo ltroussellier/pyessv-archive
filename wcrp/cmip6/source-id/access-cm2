@@ -57,6 +57,5 @@
     "label": "ACCESS-CM2", 
     "namespace": "wcrp:cmip6:source-id:access-cm2", 
     "raw_name": "ACCESS-CM2", 
-    "status": "pending", 
-    "uid": "d0cd8374-3706-4e3e-acdf-3b47d50f5333"
+    "status": "pending"
 }

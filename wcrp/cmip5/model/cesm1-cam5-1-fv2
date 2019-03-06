@@ -6,6 +6,5 @@
     "label": "CESM1-CAM5-1-FV2", 
     "namespace": "wcrp:cmip5:model:cesm1-cam5-1-fv2", 
     "raw_name": "CESM1-CAM5-1-FV2", 
-    "status": "pending", 
-    "uid": "f97637bf-a99c-4baa-9249-a61e79704aae"
+    "status": "pending"
 }

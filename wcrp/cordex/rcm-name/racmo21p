@@ -5,6 +5,5 @@
     "label": "RACMO21P", 
     "namespace": "wcrp:cordex:rcm-name:racmo21p", 
     "raw_name": "RACMO21P", 
-    "status": "pending", 
-    "uid": "032bf369-591b-4e3e-822c-c1e76fd28aab"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "zhalf", 
     "namespace": "wcrp:cmip5:variable:zhalf", 
-    "status": "pending", 
-    "uid": "a1072851-facb-4205-a7a1-e569f5631efa"
+    "status": "pending"
 }

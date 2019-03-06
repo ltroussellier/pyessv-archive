@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tas", 
     "namespace": "wcrp:cordex:variable:tas", 
-    "status": "pending", 
-    "uid": "09c30b4e-205c-41d0-b2ba-649ee4d4f0e4"
+    "status": "pending"
 }

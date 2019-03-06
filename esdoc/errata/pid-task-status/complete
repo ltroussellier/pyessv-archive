@@ -7,6 +7,5 @@
     }, 
     "label": "Complete", 
     "namespace": "esdoc:errata:pid-task-status:complete", 
-    "status": "pending", 
-    "uid": "a5c9b45e-0ada-4a30-90b5-5c867e5afe69"
+    "status": "pending"
 }

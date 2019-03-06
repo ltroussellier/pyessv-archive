@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "initialized near end of year 2000", 
     "namespace": "wcrp:cmip6:sub-experiment-id:s2000", 
-    "status": "pending", 
-    "uid": "feb754a1-63b4-46fb-aee5-846e99689de1"
+    "status": "pending"
 }

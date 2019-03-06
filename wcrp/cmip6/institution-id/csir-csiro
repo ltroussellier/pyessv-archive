@@ -27,6 +27,5 @@
     "label": "CSIR-CSIRO", 
     "namespace": "wcrp:cmip6:institution-id:csir-csiro", 
     "raw_name": "CSIR-CSIRO", 
-    "status": "pending", 
-    "uid": "b29e8bab-77f9-4efa-9b40-396d331989f8"
+    "status": "pending"
 }

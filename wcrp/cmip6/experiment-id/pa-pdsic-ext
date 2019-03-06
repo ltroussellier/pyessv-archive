@@ -34,6 +34,5 @@
     "label": "pa-pdSIC-ext", 
     "namespace": "wcrp:cmip6:experiment-id:pa-pdsic-ext", 
     "raw_name": "pa-pdSIC-ext", 
-    "status": "pending", 
-    "uid": "8f18f771-cbc6-4201-95f5-c2c3b2761ed3"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ageice", 
     "namespace": "wcrp:cmip5:variable:ageice", 
-    "status": "pending", 
-    "uid": "7f481c85-71e9-4d6c-97c6-ebcfed166bc5"
+    "status": "pending"
 }

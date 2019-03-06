@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sst", 
     "namespace": "wcrp:cordex:variable:sst", 
-    "status": "pending", 
-    "uid": "87283190-173e-46f8-8194-8a283d7433b5"
+    "status": "pending"
 }

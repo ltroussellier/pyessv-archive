@@ -34,6 +34,5 @@
     "label": "hist-resIPO", 
     "namespace": "wcrp:cmip6:experiment-id:hist-resipo", 
     "raw_name": "hist-resIPO", 
-    "status": "pending", 
-    "uid": "51a6b2ad-ba02-4326-a8fa-93232e931581"
+    "status": "pending"
 }

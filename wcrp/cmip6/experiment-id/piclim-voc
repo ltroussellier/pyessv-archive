@@ -34,6 +34,5 @@
     "label": "piClim-VOC", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-voc", 
     "raw_name": "piClim-VOC", 
-    "status": "pending", 
-    "uid": "71817f8b-cda2-4931-8b37-42baac3da7fc"
+    "status": "pending"
 }

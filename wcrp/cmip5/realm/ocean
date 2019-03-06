@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ocean", 
     "namespace": "wcrp:cmip5:realm:ocean", 
-    "status": "pending", 
-    "uid": "fa7d0c88-ad90-4493-bc5a-11563c35f903"
+    "status": "pending"
 }

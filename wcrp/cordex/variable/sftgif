@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sftgif", 
     "namespace": "wcrp:cordex:variable:sftgif", 
-    "status": "pending", 
-    "uid": "5f62ed82-9c23-4959-84a4-1a62ebc47a43"
+    "status": "pending"
 }

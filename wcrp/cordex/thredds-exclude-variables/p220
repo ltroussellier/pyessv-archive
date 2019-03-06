@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "p220", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:p220", 
-    "status": "pending", 
-    "uid": "ee3b08aa-ac6e-46a4-b9b6-852a283f8c8c"
+    "status": "pending"
 }

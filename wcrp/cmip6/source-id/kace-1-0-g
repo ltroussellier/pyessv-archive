@@ -54,6 +54,5 @@
     "label": "KACE1.0-G", 
     "namespace": "wcrp:cmip6:source-id:kace-1-0-g", 
     "raw_name": "KACE-1-0-G", 
-    "status": "pending", 
-    "uid": "6a491781-7f39-4a20-ac69-4b2165e38a6f"
+    "status": "pending"
 }

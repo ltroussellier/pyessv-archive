@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "dissic", 
     "namespace": "wcrp:cmip5:variable:dissic", 
-    "status": "pending", 
-    "uid": "cea32ad3-d847-4a3c-b582-06cd01e7279f"
+    "status": "pending"
 }

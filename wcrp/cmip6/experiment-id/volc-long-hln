@@ -34,6 +34,5 @@
     "label": "volc-long-hlN", 
     "namespace": "wcrp:cmip6:experiment-id:volc-long-hln", 
     "raw_name": "volc-long-hlN", 
-    "status": "pending", 
-    "uid": "5928b1c4-893c-445a-bfd9-5835e2ab19fa"
+    "status": "pending"
 }

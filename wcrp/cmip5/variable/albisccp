@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "albisccp", 
     "namespace": "wcrp:cmip5:variable:albisccp", 
-    "status": "pending", 
-    "uid": "41f3b69d-758b-4fe7-91e7-fcb4358d175d"
+    "status": "pending"
 }

@@ -36,6 +36,5 @@
     "label": "dcppC-forecast-addAgung", 
     "namespace": "wcrp:cmip6:experiment-id:dcppc-forecast-addagung", 
     "raw_name": "dcppC-forecast-addAgung", 
-    "status": "pending", 
-    "uid": "94cc5152-2adf-417a-ac25-cd7f795a9ccc"
+    "status": "pending"
 }

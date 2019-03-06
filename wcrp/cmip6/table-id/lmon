@@ -5,6 +5,5 @@
     "label": "Lmon", 
     "namespace": "wcrp:cmip6:table-id:lmon", 
     "raw_name": "Lmon", 
-    "status": "pending", 
-    "uid": "1f59211f-1846-4519-8c22-d176f09e8f56"
+    "status": "pending"
 }

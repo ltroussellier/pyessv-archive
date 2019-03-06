@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "emidust", 
     "namespace": "wcrp:cmip5:variable:emidust", 
-    "status": "pending", 
-    "uid": "f284005b-f5d8-4227-b5ee-3fbeac48a27d"
+    "status": "pending"
 }

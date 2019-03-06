@@ -12,6 +12,5 @@
     "label": "THU", 
     "namespace": "wcrp:cmip6:institution-id:thu", 
     "raw_name": "THU", 
-    "status": "pending", 
-    "uid": "f57a6107-ce45-4b3f-8007-f4a19b19d86c"
+    "status": "pending"
 }

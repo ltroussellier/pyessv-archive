@@ -5,6 +5,5 @@
     "label": "DOE-COLA-CMMAP-GMU", 
     "namespace": "wcrp:cmip5:institute:doe-cola-cmmap-gmu", 
     "raw_name": "DOE-COLA-CMMAP-GMU", 
-    "status": "pending", 
-    "uid": "ab2a9958-dd76-43f3-b598-7d9ee716d379"
+    "status": "pending"
 }

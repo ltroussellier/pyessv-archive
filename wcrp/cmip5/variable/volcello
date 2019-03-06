@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "volcello", 
     "namespace": "wcrp:cmip5:variable:volcello", 
-    "status": "pending", 
-    "uid": "3986bee5-b0ba-434f-96de-9334d8f70e0a"
+    "status": "pending"
 }

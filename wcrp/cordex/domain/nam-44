@@ -6,6 +6,5 @@
     "label": "NAM-44", 
     "namespace": "wcrp:cordex:domain:nam-44", 
     "raw_name": "NAM-44", 
-    "status": "pending", 
-    "uid": "00b03278-b3fa-446d-a636-ccf3d171d5b1"
+    "status": "pending"
 }

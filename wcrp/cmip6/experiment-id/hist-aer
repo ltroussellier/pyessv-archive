@@ -32,6 +32,5 @@
     }, 
     "description": "Historical anthropogenic-Aerosols-only run", 
     "namespace": "wcrp:cmip6:experiment-id:hist-aer", 
-    "status": "pending", 
-    "uid": "cf37f8ff-ddbd-427b-b867-46ac969e945c"
+    "status": "pending"
 }

@@ -6,6 +6,5 @@
     "label": "landCoverFrac", 
     "namespace": "wcrp:cmip5:variable:landcoverfrac", 
     "raw_name": "landCoverFrac", 
-    "status": "pending", 
-    "uid": "4cd50a1c-6931-4556-80a0-66b65dc66520"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "b", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:b", 
-    "status": "pending", 
-    "uid": "c303ff26-7028-4c45-b498-4a2337c571eb"
+    "status": "pending"
 }

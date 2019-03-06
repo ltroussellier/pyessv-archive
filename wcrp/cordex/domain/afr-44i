@@ -6,6 +6,5 @@
     "label": "AFR-44i", 
     "namespace": "wcrp:cordex:domain:afr-44i", 
     "raw_name": "AFR-44i", 
-    "status": "pending", 
-    "uid": "d6088f06-8321-4b68-9c8f-dc2c55120366"
+    "status": "pending"
 }

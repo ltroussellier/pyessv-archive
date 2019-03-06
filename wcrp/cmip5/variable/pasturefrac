@@ -6,6 +6,5 @@
     "label": "pastureFrac", 
     "namespace": "wcrp:cmip5:variable:pasturefrac", 
     "raw_name": "pastureFrac", 
-    "status": "pending", 
-    "uid": "ff85de34-866b-4707-b07a-5664f8267146"
+    "status": "pending"
 }

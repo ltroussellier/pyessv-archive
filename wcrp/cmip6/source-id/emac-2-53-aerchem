@@ -54,6 +54,5 @@
     "label": "EMAC-2-53-AerChem", 
     "namespace": "wcrp:cmip6:source-id:emac-2-53-aerchem", 
     "raw_name": "EMAC-2-53-AerChem", 
-    "status": "pending", 
-    "uid": "6727afcd-c63b-4915-8319-0839f90c3eea"
+    "status": "pending"
 }

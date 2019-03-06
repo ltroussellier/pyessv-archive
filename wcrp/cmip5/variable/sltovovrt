@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sltovovrt", 
     "namespace": "wcrp:cmip5:variable:sltovovrt", 
-    "status": "pending", 
-    "uid": "7809a7fb-9ec6-4fe3-aa0d-997bdfd2f461"
+    "status": "pending"
 }

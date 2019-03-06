@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "zossga", 
     "namespace": "wcrp:cmip5:variable:zossga", 
-    "status": "pending", 
-    "uid": "e63b3c78-fc07-4387-9609-7c8dde91666b"
+    "status": "pending"
 }

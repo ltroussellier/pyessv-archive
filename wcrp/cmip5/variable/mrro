@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "mrro", 
     "namespace": "wcrp:cmip5:variable:mrro", 
-    "status": "pending", 
-    "uid": "4ec4f641-ba2c-434b-91b9-92ab4b183338"
+    "status": "pending"
 }

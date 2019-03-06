@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "dmc", 
     "namespace": "wcrp:cmip5:variable:dmc", 
-    "status": "pending", 
-    "uid": "59a8fee5-3bd6-4f1f-a80c-5347caedc1df"
+    "status": "pending"
 }

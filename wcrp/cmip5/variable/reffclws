@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "reffclws", 
     "namespace": "wcrp:cmip5:variable:reffclws", 
-    "status": "pending", 
-    "uid": "a61c5c41-b3b3-4104-8cc6-12def458d4cd"
+    "status": "pending"
 }

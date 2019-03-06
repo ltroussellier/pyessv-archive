@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tas", 
     "namespace": "wcrp:cmip5:variable:tas", 
-    "status": "pending", 
-    "uid": "cd975ad0-7d07-4e26-9a86-852e3da62cd8"
+    "status": "pending"
 }

@@ -33,6 +33,5 @@
     "label": "piSST-pxK", 
     "namespace": "wcrp:cmip6:experiment-id:pisst-pxk", 
     "raw_name": "piSST-pxK", 
-    "status": "pending", 
-    "uid": "9a9742be-5306-4612-9cbb-e4ffca20fac8"
+    "status": "pending"
 }

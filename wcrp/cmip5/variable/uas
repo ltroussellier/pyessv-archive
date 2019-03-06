@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "uas", 
     "namespace": "wcrp:cmip5:variable:uas", 
-    "status": "pending", 
-    "uid": "634d379e-90df-4498-bde6-207c9aa0d791"
+    "status": "pending"
 }

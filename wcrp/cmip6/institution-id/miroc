@@ -41,6 +41,5 @@
     "label": "MIROC", 
     "namespace": "wcrp:cmip6:institution-id:miroc", 
     "raw_name": "MIROC", 
-    "status": "pending", 
-    "uid": "9f1b93ad-30db-4685-aa12-073205464ea1"
+    "status": "pending"
 }

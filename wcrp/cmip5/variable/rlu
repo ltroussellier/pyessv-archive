@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rlu", 
     "namespace": "wcrp:cmip5:variable:rlu", 
-    "status": "pending", 
-    "uid": "aeb70832-39b8-4004-bc08-bd462b52351f"
+    "status": "pending"
 }

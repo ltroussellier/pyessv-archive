@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "msftmyzba", 
     "namespace": "wcrp:cmip5:variable:msftmyzba", 
-    "status": "pending", 
-    "uid": "0fc58bc9-be16-41d7-b651-55f9b31fd00b"
+    "status": "pending"
 }

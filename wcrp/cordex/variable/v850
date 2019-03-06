@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "v850", 
     "namespace": "wcrp:cordex:variable:v850", 
-    "status": "pending", 
-    "uid": "02b4b55e-7d78-4dca-b91f-73e7ea7a8b46"
+    "status": "pending"
 }

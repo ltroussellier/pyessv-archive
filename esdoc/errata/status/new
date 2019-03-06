@@ -7,6 +7,5 @@
     }, 
     "label": "New", 
     "namespace": "esdoc:errata:status:new", 
-    "status": "pending", 
-    "uid": "546ca664-c721-476b-b8b6-7f8df394de62"
+    "status": "pending"
 }

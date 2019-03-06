@@ -6,6 +6,5 @@
     "label": "CSIRO-Mk3-6-0", 
     "namespace": "wcrp:cmip5:model:csiro-mk3-6-0", 
     "raw_name": "CSIRO-Mk3-6-0", 
-    "status": "pending", 
-    "uid": "7ecc667e-a2ef-4558-ada7-099987bd4d7e"
+    "status": "pending"
 }

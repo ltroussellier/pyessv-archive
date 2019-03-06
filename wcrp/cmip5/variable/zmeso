@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "zmeso", 
     "namespace": "wcrp:cmip5:variable:zmeso", 
-    "status": "pending", 
-    "uid": "043709f1-67a3-4421-b536-26d0a4fac53d"
+    "status": "pending"
 }

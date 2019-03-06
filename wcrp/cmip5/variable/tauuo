@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tauuo", 
     "namespace": "wcrp:cmip5:variable:tauuo", 
-    "status": "pending", 
-    "uid": "87d9cf1a-0af8-482d-8550-8e4a2a51a6c1"
+    "status": "pending"
 }

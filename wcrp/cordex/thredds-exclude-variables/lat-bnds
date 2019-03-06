@@ -6,6 +6,5 @@
     "label": "lat_bnds", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:lat-bnds", 
     "raw_name": "lat_bnds", 
-    "status": "pending", 
-    "uid": "09627b6e-9c2b-4c0c-b144-0e064e8990a9"
+    "status": "pending"
 }

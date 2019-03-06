@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cli", 
     "namespace": "wcrp:cmip5:variable:cli", 
-    "status": "pending", 
-    "uid": "bf129185-9bdf-4991-9bbb-71dacb053f9c"
+    "status": "pending"
 }

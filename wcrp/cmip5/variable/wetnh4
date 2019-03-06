@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "wetnh4", 
     "namespace": "wcrp:cmip5:variable:wetnh4", 
-    "status": "pending", 
-    "uid": "3cd6ee18-3514-4400-968b-56c4b24f5053"
+    "status": "pending"
 }

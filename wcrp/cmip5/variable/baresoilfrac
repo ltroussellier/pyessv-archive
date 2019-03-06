@@ -6,6 +6,5 @@
     "label": "baresoilFrac", 
     "namespace": "wcrp:cmip5:variable:baresoilfrac", 
     "raw_name": "baresoilFrac", 
-    "status": "pending", 
-    "uid": "3e2ce09e-2732-490d-8e49-740278d988df"
+    "status": "pending"
 }

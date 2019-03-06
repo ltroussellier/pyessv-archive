@@ -6,6 +6,5 @@
     "label": "MIUB-WRF331A", 
     "namespace": "wcrp:cordex:rcm-model:miub-wrf331a", 
     "raw_name": "MIUB-WRF331A", 
-    "status": "pending", 
-    "uid": "b8439742-a76a-428d-aa81-7e93752ada59"
+    "status": "pending"
 }

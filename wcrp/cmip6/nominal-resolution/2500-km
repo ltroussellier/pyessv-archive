@@ -5,6 +5,5 @@
     "label": "2500 km", 
     "namespace": "wcrp:cmip6:nominal-resolution:2500-km", 
     "raw_name": "2500 km", 
-    "status": "pending", 
-    "uid": "93a6888c-d841-412e-b6a6-704a81f58438"
+    "status": "pending"
 }

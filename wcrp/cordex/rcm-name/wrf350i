@@ -5,6 +5,5 @@
     "label": "WRF350I", 
     "namespace": "wcrp:cordex:rcm-name:wrf350i", 
     "raw_name": "WRF350I", 
-    "status": "pending", 
-    "uid": "411a88ee-c983-4c87-a903-cf277fd9ebcb"
+    "status": "pending"
 }

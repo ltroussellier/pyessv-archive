@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "intpcalcite", 
     "namespace": "wcrp:cmip5:variable:intpcalcite", 
-    "status": "pending", 
-    "uid": "83241006-4465-44c1-93e2-0c35a318e07c"
+    "status": "pending"
 }

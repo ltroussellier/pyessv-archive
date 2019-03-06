@@ -6,6 +6,5 @@
     "label": "ENEA", 
     "namespace": "wcrp:cordex:institute:enea", 
     "raw_name": "ENEA", 
-    "status": "pending", 
-    "uid": "4ad68540-b88a-4c98-970e-8a03a180b40d"
+    "status": "pending"
 }

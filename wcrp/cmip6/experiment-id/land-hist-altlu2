@@ -33,6 +33,5 @@
     "label": "land-hist-altLu2", 
     "namespace": "wcrp:cmip6:experiment-id:land-hist-altlu2", 
     "raw_name": "land-hist-altLu2", 
-    "status": "pending", 
-    "uid": "f4eea7d8-2b84-4283-93f2-61e9ad086efd"
+    "status": "pending"
 }

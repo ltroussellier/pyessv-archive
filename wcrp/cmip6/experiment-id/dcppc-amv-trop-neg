@@ -34,6 +34,5 @@
     "label": "dcppC-amv-Trop-neg", 
     "namespace": "wcrp:cmip6:experiment-id:dcppc-amv-trop-neg", 
     "raw_name": "dcppC-amv-Trop-neg", 
-    "status": "pending", 
-    "uid": "afed22df-e5b5-4c70-b8ef-e861f07aeec3"
+    "status": "pending"
 }

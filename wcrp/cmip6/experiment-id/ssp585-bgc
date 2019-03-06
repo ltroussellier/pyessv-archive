@@ -32,6 +32,5 @@
     }, 
     "description": "Concentration-driven future scenario simulation, biogeochemically-coupled. This simulation should optionally be extended to year 2300", 
     "namespace": "wcrp:cmip6:experiment-id:ssp585-bgc", 
-    "status": "pending", 
-    "uid": "d1e61352-5177-4cb5-b0e8-13707fa1cde2"
+    "status": "pending"
 }

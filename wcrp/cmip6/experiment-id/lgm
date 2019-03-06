@@ -32,6 +32,5 @@
     }, 
     "description": "main forcings: ice-sheet; trace gases, astronomical parameters, dust (forcing, or feedback if dust cycle represented in model)", 
     "namespace": "wcrp:cmip6:experiment-id:lgm", 
-    "status": "pending", 
-    "uid": "0751c88d-b8e7-40a7-81fd-b30d1328995f"
+    "status": "pending"
 }

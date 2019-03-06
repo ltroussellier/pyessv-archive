@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Last Millennium", 
     "namespace": "wcrp:cmip5:experiment:past1000", 
-    "status": "pending", 
-    "uid": "909ff2be-b882-43a0-b21f-1028c7668ffc"
+    "status": "pending"
 }

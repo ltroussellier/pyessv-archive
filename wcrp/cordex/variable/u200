@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "u200", 
     "namespace": "wcrp:cordex:variable:u200", 
-    "status": "pending", 
-    "uid": "18133ab1-2528-4242-90db-0c83e016348a"
+    "status": "pending"
 }

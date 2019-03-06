@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "atmos", 
     "namespace": "wcrp:cmip5:realm:atmos", 
-    "status": "pending", 
-    "uid": "41d68bbe-fca0-410a-adf3-2f1f4856a5a8"
+    "status": "pending"
 }

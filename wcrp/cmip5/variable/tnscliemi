@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tnscliemi", 
     "namespace": "wcrp:cmip5:variable:tnscliemi", 
-    "status": "pending", 
-    "uid": "7713ac3e-6340-4d22-888b-a79e5a02b2e2"
+    "status": "pending"
 }

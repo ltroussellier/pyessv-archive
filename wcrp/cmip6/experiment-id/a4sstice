@@ -33,6 +33,5 @@
     "label": "a4SSTice", 
     "namespace": "wcrp:cmip6:experiment-id:a4sstice", 
     "raw_name": "a4SSTice", 
-    "status": "pending", 
-    "uid": "00f562b9-ee91-48bb-97ba-c28a7a732c92"
+    "status": "pending"
 }

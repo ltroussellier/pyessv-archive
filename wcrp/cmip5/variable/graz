@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "graz", 
     "namespace": "wcrp:cmip5:variable:graz", 
-    "status": "pending", 
-    "uid": "f8adcff3-cc65-40b7-8f85-4f87df2bb7f4"
+    "status": "pending"
 }

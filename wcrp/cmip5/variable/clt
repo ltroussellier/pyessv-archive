@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "clt", 
     "namespace": "wcrp:cmip5:variable:clt", 
-    "status": "pending", 
-    "uid": "b19fc986-ddbd-478b-8d1a-4913bb5cfa12"
+    "status": "pending"
 }

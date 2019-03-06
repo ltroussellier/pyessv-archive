@@ -6,6 +6,5 @@
     "label": "tasAdjust", 
     "namespace": "wcrp:cmip5:variable:tasadjust", 
     "raw_name": "tasAdjust", 
-    "status": "pending", 
-    "uid": "dd958aee-a549-471b-bcda-42adb1c09263"
+    "status": "pending"
 }

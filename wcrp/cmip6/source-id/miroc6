@@ -68,6 +68,5 @@
     "label": "MIROC6", 
     "namespace": "wcrp:cmip6:source-id:miroc6", 
     "raw_name": "MIROC6", 
-    "status": "pending", 
-    "uid": "7e1fcb4c-8f9e-4070-bfb4-d916fb3f9b6c"
+    "status": "pending"
 }

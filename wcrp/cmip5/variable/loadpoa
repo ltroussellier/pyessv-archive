@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "loadpoa", 
     "namespace": "wcrp:cmip5:variable:loadpoa", 
-    "status": "pending", 
-    "uid": "763b2c40-e341-4ecd-a172-eaba97d8176e"
+    "status": "pending"
 }

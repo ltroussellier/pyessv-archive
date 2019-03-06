@@ -5,6 +5,5 @@
     "label": "PROMES", 
     "namespace": "wcrp:cordex:rcm-name:promes", 
     "raw_name": "PROMES", 
-    "status": "pending", 
-    "uid": "03de6f52-9577-43ae-a1a0-da403f6070bb"
+    "status": "pending"
 }

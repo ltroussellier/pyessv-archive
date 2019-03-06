@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sic", 
     "namespace": "wcrp:cordex:variable:sic", 
-    "status": "pending", 
-    "uid": "360325ac-e2d1-42f1-8453-34441bf507f7"
+    "status": "pending"
 }

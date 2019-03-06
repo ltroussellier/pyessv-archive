@@ -34,6 +34,5 @@
     "label": "amip-climSIC", 
     "namespace": "wcrp:cmip6:experiment-id:amip-climsic", 
     "raw_name": "amip-climSIC", 
-    "status": "pending", 
-    "uid": "c76dc15c-a493-41a9-8444-2b07d018fb59"
+    "status": "pending"
 }

@@ -63,6 +63,5 @@
     "label": "FGOALS-g3", 
     "namespace": "wcrp:cmip6:source-id:fgoals-g3", 
     "raw_name": "FGOALS-g3", 
-    "status": "pending", 
-    "uid": "09e12a7c-1c62-462d-a2ef-dc39caf4af72"
+    "status": "pending"
 }

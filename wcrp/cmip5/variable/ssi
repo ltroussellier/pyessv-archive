@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ssi", 
     "namespace": "wcrp:cmip5:variable:ssi", 
-    "status": "pending", 
-    "uid": "be1785cd-6ff2-4e2e-a672-5f5cce82261e"
+    "status": "pending"
 }

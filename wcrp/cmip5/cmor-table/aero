@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "aero", 
     "namespace": "wcrp:cmip5:cmor-table:aero", 
-    "status": "pending", 
-    "uid": "a83793fe-fc9e-4a53-8677-5b28aacb1d42"
+    "status": "pending"
 }

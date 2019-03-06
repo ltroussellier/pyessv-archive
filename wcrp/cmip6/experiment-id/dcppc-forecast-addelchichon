@@ -36,6 +36,5 @@
     "label": "dcppC-forecast-addElChichon", 
     "namespace": "wcrp:cmip6:experiment-id:dcppc-forecast-addelchichon", 
     "raw_name": "dcppC-forecast-addElChichon", 
-    "status": "pending", 
-    "uid": "6e8cba74-10f5-4d5e-b424-da737f8e5f9c"
+    "status": "pending"
 }

@@ -6,6 +6,5 @@
     "label": "bounds_lon", 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:bounds-lon", 
     "raw_name": "bounds_lon", 
-    "status": "pending", 
-    "uid": "4c4be639-98ba-46ca-b568-4f4405ab1d07"
+    "status": "pending"
 }

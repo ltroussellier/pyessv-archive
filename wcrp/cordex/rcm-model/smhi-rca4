@@ -6,6 +6,5 @@
     "label": "SMHI-RCA4", 
     "namespace": "wcrp:cordex:rcm-model:smhi-rca4", 
     "raw_name": "SMHI-RCA4", 
-    "status": "pending", 
-    "uid": "faa185b5-3ad8-46bd-87d1-298e2ed3fe84"
+    "status": "pending"
 }

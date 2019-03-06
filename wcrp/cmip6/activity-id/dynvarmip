@@ -5,6 +5,5 @@
     "label": "DynVarMIP", 
     "namespace": "wcrp:cmip6:activity-id:dynvarmip", 
     "raw_name": "DynVarMIP", 
-    "status": "pending", 
-    "uid": "af3b0db8-2d56-49c7-b273-eb6518a3abb9"
+    "status": "pending"
 }

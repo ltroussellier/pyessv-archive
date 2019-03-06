@@ -14,6 +14,5 @@
     }, 
     "label": "CMIP6", 
     "namespace": "esdoc:errata:project:cmip6", 
-    "status": "pending", 
-    "uid": "949daa51-739a-444f-a878-6f2f43b4f1cc"
+    "status": "pending"
 }

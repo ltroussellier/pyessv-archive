@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rsdsdiff", 
     "namespace": "wcrp:cmip5:variable:rsdsdiff", 
-    "status": "pending", 
-    "uid": "1dc30ad7-5e4e-4f3c-a08b-93459e1dd3d4"
+    "status": "pending"
 }

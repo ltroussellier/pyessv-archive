@@ -62,6 +62,5 @@
     "label": "BCC-CSM 2 MR", 
     "namespace": "wcrp:cmip6:source-id:bcc-csm2-mr", 
     "raw_name": "BCC-CSM2-MR", 
-    "status": "pending", 
-    "uid": "864f3bfd-f092-4411-9450-c41a92c5993e"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "prw", 
     "namespace": "wcrp:cmip5:variable:prw", 
-    "status": "pending", 
-    "uid": "2301636b-159c-41af-aa6f-e9750af6d102"
+    "status": "pending"
 }

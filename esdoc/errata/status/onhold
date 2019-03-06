@@ -7,6 +7,5 @@
     }, 
     "label": "On Hold", 
     "namespace": "esdoc:errata:status:onhold", 
-    "status": "pending", 
-    "uid": "2fcf1067-cdf8-4238-a0aa-fd27b5ecb2aa"
+    "status": "pending"
 }

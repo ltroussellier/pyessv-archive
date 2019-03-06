@@ -35,6 +35,5 @@
     "label": "piClim-aer", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-aer", 
     "raw_name": "piClim-aer", 
-    "status": "pending", 
-    "uid": "30394667-194d-4976-acdc-9176126cd3b4"
+    "status": "pending"
 }

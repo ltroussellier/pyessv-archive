@@ -6,6 +6,5 @@
     "label": "fVegLitter", 
     "namespace": "wcrp:cmip5:variable:fveglitter", 
     "raw_name": "fVegLitter", 
-    "status": "pending", 
-    "uid": "0095fcdf-03d9-494b-b4d5-1b08a0a3d153"
+    "status": "pending"
 }

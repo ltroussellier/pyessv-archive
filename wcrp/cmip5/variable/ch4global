@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ch4global", 
     "namespace": "wcrp:cmip5:variable:ch4global", 
-    "status": "pending", 
-    "uid": "157b61c7-ae35-423c-ae5a-d09f78d76cd0"
+    "status": "pending"
 }

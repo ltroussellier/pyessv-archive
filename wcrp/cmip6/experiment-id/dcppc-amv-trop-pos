@@ -34,6 +34,5 @@
     "label": "dcppC-amv-Trop-pos", 
     "namespace": "wcrp:cmip6:experiment-id:dcppc-amv-trop-pos", 
     "raw_name": "dcppC-amv-Trop-pos", 
-    "status": "pending", 
-    "uid": "79e0228e-99da-4fd1-a7d8-290e87073076"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sbl", 
     "namespace": "wcrp:cmip5:variable:sbl", 
-    "status": "pending", 
-    "uid": "95fcc979-93c4-4052-9d2d-026aa9d8abc7"
+    "status": "pending"
 }

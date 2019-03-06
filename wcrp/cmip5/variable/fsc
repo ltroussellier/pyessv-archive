@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fsc", 
     "namespace": "wcrp:cmip5:variable:fsc", 
-    "status": "pending", 
-    "uid": "8f26cbdd-8c1e-4a98-8206-b09491d12536"
+    "status": "pending"
 }

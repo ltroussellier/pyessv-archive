@@ -53,6 +53,5 @@
     "label": "MPI-ESM1.2-XR", 
     "namespace": "wcrp:cmip6:source-id:mpi-esm1-2-xr", 
     "raw_name": "MPI-ESM1-2-XR", 
-    "status": "pending", 
-    "uid": "778b1941-adfc-4ce5-a0bb-9b24165b72f9"
+    "status": "pending"
 }

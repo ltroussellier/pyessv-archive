@@ -6,6 +6,5 @@
     "label": "depth_bnds", 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:depth-bnds", 
     "raw_name": "depth_bnds", 
-    "status": "pending", 
-    "uid": "5c45da90-3903-4542-9e62-5663eb94f19a"
+    "status": "pending"
 }

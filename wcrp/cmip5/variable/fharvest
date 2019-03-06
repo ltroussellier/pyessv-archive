@@ -6,6 +6,5 @@
     "label": "fHarvest", 
     "namespace": "wcrp:cmip5:variable:fharvest", 
     "raw_name": "fHarvest", 
-    "status": "pending", 
-    "uid": "84f9915f-15a3-40ee-bb82-cf10ca9c0ed4"
+    "status": "pending"
 }

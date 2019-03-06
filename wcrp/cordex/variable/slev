@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "slev", 
     "namespace": "wcrp:cordex:variable:slev", 
-    "status": "pending", 
-    "uid": "3df85069-0107-4cc3-8ec5-ef5c7d66791d"
+    "status": "pending"
 }

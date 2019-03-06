@@ -32,6 +32,5 @@
     "label": "highresSST-smoothed", 
     "namespace": "wcrp:cmip6:experiment-id:highressst-smoothed", 
     "raw_name": "highresSST-smoothed", 
-    "status": "pending", 
-    "uid": "08a94747-ba45-4eb1-8729-5b3af0644765"
+    "status": "pending"
 }

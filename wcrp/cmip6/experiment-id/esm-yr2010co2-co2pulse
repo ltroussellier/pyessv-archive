@@ -34,6 +34,5 @@
     "label": "esm-yr2010CO2-CO2pulse", 
     "namespace": "wcrp:cmip6:experiment-id:esm-yr2010co2-co2pulse", 
     "raw_name": "esm-yr2010CO2-CO2pulse", 
-    "status": "pending", 
-    "uid": "47902b1a-5c30-417f-9d6c-82dfbc0eecc7"
+    "status": "pending"
 }

@@ -5,6 +5,5 @@
     "label": "3 hours", 
     "namespace": "wcrp:cmip6:las-time-delta:3-hours", 
     "raw_name": "3 hours", 
-    "status": "pending", 
-    "uid": "3bacd44b-7d0a-43e0-a5d3-15087a04cd79"
+    "status": "pending"
 }

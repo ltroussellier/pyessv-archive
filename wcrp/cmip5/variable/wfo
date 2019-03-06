@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "wfo", 
     "namespace": "wcrp:cmip5:variable:wfo", 
-    "status": "pending", 
-    "uid": "fffa09e5-b199-4bb6-bf36-011e9e6014de"
+    "status": "pending"
 }

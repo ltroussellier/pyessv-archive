@@ -36,6 +36,5 @@
     "label": "dcppC-hindcast-noElChichon", 
     "namespace": "wcrp:cmip6:experiment-id:dcppc-hindcast-noelchichon", 
     "raw_name": "dcppC-hindcast-noElChichon", 
-    "status": "pending", 
-    "uid": "c226e0b2-c9be-45cd-bb9e-0da0be16f504"
+    "status": "pending"
 }

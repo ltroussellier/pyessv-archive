@@ -6,6 +6,5 @@
     "label": "treeFracPrimDec", 
     "namespace": "wcrp:cmip5:variable:treefracprimdec", 
     "raw_name": "treeFracPrimDec", 
-    "status": "pending", 
-    "uid": "1dad3289-a780-40ec-ba25-d1dfa96f7379"
+    "status": "pending"
 }

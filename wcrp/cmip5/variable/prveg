@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "prveg", 
     "namespace": "wcrp:cmip5:variable:prveg", 
-    "status": "pending", 
-    "uid": "808cbc98-2de0-4c1d-97b2-53d093e8f118"
+    "status": "pending"
 }

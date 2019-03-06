@@ -32,6 +32,5 @@
     }, 
     "description": "Conceptually similar to abrupt 4xCO2 DECK experiment, except that the solar constant rather than CO2 is abruptly increased by 4%", 
     "namespace": "wcrp:cmip6:experiment-id:abrupt-solp4p", 
-    "status": "pending", 
-    "uid": "7966ff8e-5959-4783-9237-caf71b6c0aaf"
+    "status": "pending"
 }

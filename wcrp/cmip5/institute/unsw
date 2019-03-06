@@ -5,6 +5,5 @@
     "label": "UNSW", 
     "namespace": "wcrp:cmip5:institute:unsw", 
     "raw_name": "UNSW", 
-    "status": "pending", 
-    "uid": "b5b600d1-211b-4cbe-aefb-fe14d4a323c0"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "chlcalc", 
     "namespace": "wcrp:cmip5:variable:chlcalc", 
-    "status": "pending", 
-    "uid": "996d8cb4-118c-4b9e-bc0b-571074396d5d"
+    "status": "pending"
 }

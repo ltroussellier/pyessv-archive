@@ -5,6 +5,5 @@
     "label": "CRCM5", 
     "namespace": "wcrp:cordex:rcm-name:crcm5", 
     "raw_name": "CRCM5", 
-    "status": "pending", 
-    "uid": "2b9b0a07-f1f0-41e4-8ca0-c6fb5ab3f9f4"
+    "status": "pending"
 }

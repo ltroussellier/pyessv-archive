@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "chlmisc", 
     "namespace": "wcrp:cmip5:variable:chlmisc", 
-    "status": "pending", 
-    "uid": "de187dec-2f9b-4e55-9b81-4f4fd3258411"
+    "status": "pending"
 }

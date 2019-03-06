@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "nbp", 
     "namespace": "wcrp:cmip5:variable:nbp", 
-    "status": "pending", 
-    "uid": "4182496a-3184-40ec-8161-bfe3443bab4e"
+    "status": "pending"
 }

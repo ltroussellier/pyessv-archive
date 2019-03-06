@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "olevel", 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:olevel", 
-    "status": "pending", 
-    "uid": "956a74ce-eb02-47b6-8cd8-863ac34dc1de"
+    "status": "pending"
 }

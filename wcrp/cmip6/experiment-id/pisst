@@ -33,6 +33,5 @@
     "label": "piSST", 
     "namespace": "wcrp:cmip6:experiment-id:pisst", 
     "raw_name": "piSST", 
-    "status": "pending", 
-    "uid": "5b01978d-d38e-4d70-83b6-1c94490fadc4"
+    "status": "pending"
 }

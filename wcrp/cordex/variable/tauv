@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tauv", 
     "namespace": "wcrp:cordex:variable:tauv", 
-    "status": "pending", 
-    "uid": "7664f13c-7271-4d24-9897-5631966d8fe4"
+    "status": "pending"
 }

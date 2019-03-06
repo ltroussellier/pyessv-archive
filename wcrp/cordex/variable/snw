@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "snw", 
     "namespace": "wcrp:cordex:variable:snw", 
-    "status": "pending", 
-    "uid": "274e98d6-8ec3-4687-b75f-fa8647fa0521"
+    "status": "pending"
 }

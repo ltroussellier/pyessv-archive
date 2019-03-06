@@ -6,6 +6,5 @@
     "label": "a_bnds", 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:a-bnds", 
     "raw_name": "a_bnds", 
-    "status": "pending", 
-    "uid": "aa3ab2ea-01bb-42a3-a9f0-798fb7ae461f"
+    "status": "pending"
 }

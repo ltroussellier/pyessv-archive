@@ -5,6 +5,5 @@
     "label": "IfxGre", 
     "namespace": "wcrp:cmip6:table-id:ifxgre", 
     "raw_name": "IfxGre", 
-    "status": "pending", 
-    "uid": "15ac2db3-bbe4-43e9-86d3-dab812959e73"
+    "status": "pending"
 }

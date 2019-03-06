@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tasmin", 
     "namespace": "wcrp:cordex:variable:tasmin", 
-    "status": "pending", 
-    "uid": "d09f27ef-7f60-4895-89d2-412932d3e63e"
+    "status": "pending"
 }

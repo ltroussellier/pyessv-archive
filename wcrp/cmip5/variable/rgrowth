@@ -6,6 +6,5 @@
     "label": "rGrowth", 
     "namespace": "wcrp:cmip5:variable:rgrowth", 
     "raw_name": "rGrowth", 
-    "status": "pending", 
-    "uid": "bd2a26ee-ecbd-4d66-ab1d-17967933ae40"
+    "status": "pending"
 }

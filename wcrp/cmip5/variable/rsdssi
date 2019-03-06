@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rsdssi", 
     "namespace": "wcrp:cmip5:variable:rsdssi", 
-    "status": "pending", 
-    "uid": "d6902946-c46e-4633-8305-83e10ef863db"
+    "status": "pending"
 }

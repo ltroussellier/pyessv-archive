@@ -6,6 +6,5 @@
     "label": "burntArea", 
     "namespace": "wcrp:cmip5:variable:burntarea", 
     "raw_name": "burntArea", 
-    "status": "pending", 
-    "uid": "41f3e704-1aed-4fc0-a06f-4633d955e2e0"
+    "status": "pending"
 }

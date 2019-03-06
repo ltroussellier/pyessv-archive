@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "spco2", 
     "namespace": "wcrp:cmip5:variable:spco2", 
-    "status": "pending", 
-    "uid": "f1ccd294-c2dc-4db9-9baf-d0103ee215c0"
+    "status": "pending"
 }

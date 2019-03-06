@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hurs", 
     "namespace": "wcrp:cmip5:variable:hurs", 
-    "status": "pending", 
-    "uid": "0fe7c887-28dd-4d59-948c-eb71843f2c8e"
+    "status": "pending"
 }

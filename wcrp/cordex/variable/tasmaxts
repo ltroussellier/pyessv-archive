@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tasmaxts", 
     "namespace": "wcrp:cordex:variable:tasmaxts", 
-    "status": "pending", 
-    "uid": "628dbca8-fd0c-4a2f-b066-d531b8dfb926"
+    "status": "pending"
 }

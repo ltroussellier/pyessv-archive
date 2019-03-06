@@ -5,6 +5,5 @@
     "label": "ICHEC", 
     "namespace": "wcrp:cmip5:institute:ichec", 
     "raw_name": "ICHEC", 
-    "status": "pending", 
-    "uid": "917c2a3d-01f1-4ad8-90b0-f930c3aff0e6"
+    "status": "pending"
 }

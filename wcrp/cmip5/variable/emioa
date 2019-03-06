@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "emioa", 
     "namespace": "wcrp:cmip5:variable:emioa", 
-    "status": "pending", 
-    "uid": "610042a8-800c-4314-9ec1-1cfb204d901d"
+    "status": "pending"
 }

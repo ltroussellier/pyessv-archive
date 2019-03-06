@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "phalf", 
     "namespace": "wcrp:cmip5:variable:phalf", 
-    "status": "pending", 
-    "uid": "5c0c2eea-c130-462d-854e-5e40deca62d9"
+    "status": "pending"
 }

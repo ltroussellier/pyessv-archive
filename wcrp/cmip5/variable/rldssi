@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rldssi", 
     "namespace": "wcrp:cmip5:variable:rldssi", 
-    "status": "pending", 
-    "uid": "7ce63f45-0fdb-49c5-93cc-28bcb1d11990"
+    "status": "pending"
 }

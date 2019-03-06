@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sund", 
     "namespace": "wcrp:cordex:variable:sund", 
-    "status": "pending", 
-    "uid": "d59a9104-7d98-459d-9ee3-7cb16f24d5cd"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "plev8", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:plev8", 
-    "status": "pending", 
-    "uid": "5189011c-aef9-42ec-972a-42652a1a2666"
+    "status": "pending"
 }

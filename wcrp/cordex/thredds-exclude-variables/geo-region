@@ -6,6 +6,5 @@
     "label": "geo_region", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:geo-region", 
     "raw_name": "geo_region", 
-    "status": "pending", 
-    "uid": "78c1ddbb-6000-41c1-bad7-c9d92d844589"
+    "status": "pending"
 }

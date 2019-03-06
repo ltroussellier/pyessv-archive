@@ -5,6 +5,5 @@
     "label": "BNU", 
     "namespace": "wcrp:cmip5:institute:bnu", 
     "raw_name": "BNU", 
-    "status": "pending", 
-    "uid": "f2f3d84e-dada-4f6c-aa13-e678c9770cc1"
+    "status": "pending"
 }

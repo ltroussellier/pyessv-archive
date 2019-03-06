@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tsn", 
     "namespace": "wcrp:cmip5:variable:tsn", 
-    "status": "pending", 
-    "uid": "3c7c807e-67ea-448f-bdeb-b5b5b31d415f"
+    "status": "pending"
 }

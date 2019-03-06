@@ -32,6 +32,5 @@
     "label": "hist-spAer-all", 
     "namespace": "wcrp:cmip6:experiment-id:hist-spaer-all", 
     "raw_name": "hist-spAer-all", 
-    "status": "pending", 
-    "uid": "1e2fad23-879c-42ab-95bb-076ea32a386c"
+    "status": "pending"
 }

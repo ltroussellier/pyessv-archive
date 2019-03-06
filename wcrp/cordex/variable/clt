@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "clt", 
     "namespace": "wcrp:cordex:variable:clt", 
-    "status": "pending", 
-    "uid": "2c9a3384-9701-45f3-9b31-9a1ba52412e2"
+    "status": "pending"
 }

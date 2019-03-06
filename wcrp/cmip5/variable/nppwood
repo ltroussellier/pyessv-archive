@@ -6,6 +6,5 @@
     "label": "nppWood", 
     "namespace": "wcrp:cmip5:variable:nppwood", 
     "raw_name": "nppWood", 
-    "status": "pending", 
-    "uid": "336541dd-e06b-469d-acb3-f414c936f003"
+    "status": "pending"
 }

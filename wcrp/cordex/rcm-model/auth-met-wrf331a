@@ -6,6 +6,5 @@
     "label": "AUTH-Met-WRF331A", 
     "namespace": "wcrp:cordex:rcm-model:auth-met-wrf331a", 
     "raw_name": "AUTH-Met-WRF331A", 
-    "status": "pending", 
-    "uid": "650ed625-c31d-4c50-86e8-cf31631ef8db"
+    "status": "pending"
 }

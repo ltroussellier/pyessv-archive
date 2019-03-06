@@ -6,6 +6,5 @@
     "label": "ENEA-RegCM4-3", 
     "namespace": "wcrp:cordex:rcm-model:enea-regcm4-3", 
     "raw_name": "ENEA-RegCM4-3", 
-    "status": "pending", 
-    "uid": "2524a6ab-0f42-4f0a-9a30-40b4cbf18765"
+    "status": "pending"
 }

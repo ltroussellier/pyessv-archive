@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "pop", 
     "namespace": "wcrp:cmip5:variable:pop", 
-    "status": "pending", 
-    "uid": "e285d965-baf7-4a79-a3c0-a53b28ff5080"
+    "status": "pending"
 }

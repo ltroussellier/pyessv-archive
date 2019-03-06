@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "mrsofc", 
     "namespace": "wcrp:cordex:variable:mrsofc", 
-    "status": "pending", 
-    "uid": "04647ab6-f3a2-44dd-8a04-73214f66ecf8"
+    "status": "pending"
 }

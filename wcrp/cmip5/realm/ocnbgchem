@@ -6,6 +6,5 @@
     "label": "ocnBgchem", 
     "namespace": "wcrp:cmip5:realm:ocnbgchem", 
     "raw_name": "ocnBgchem", 
-    "status": "pending", 
-    "uid": "7708dc9d-dd23-4f63-a3e8-a1513222f836"
+    "status": "pending"
 }

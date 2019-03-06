@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "phypmisc", 
     "namespace": "wcrp:cmip5:variable:phypmisc", 
-    "status": "pending", 
-    "uid": "d33b913b-47ed-4951-9913-4f0011c1979c"
+    "status": "pending"
 }

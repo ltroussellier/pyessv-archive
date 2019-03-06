@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rhsmax", 
     "namespace": "wcrp:cmip5:variable:rhsmax", 
-    "status": "pending", 
-    "uid": "a05e12fe-77ea-4f5e-bea9-a939ad3ead1f"
+    "status": "pending"
 }

@@ -54,6 +54,5 @@
     "label": "BCC-ESM 1", 
     "namespace": "wcrp:cmip6:source-id:bcc-esm1", 
     "raw_name": "BCC-ESM1", 
-    "status": "pending", 
-    "uid": "5a53b047-62eb-4889-b7f5-5baace594228"
+    "status": "pending"
 }

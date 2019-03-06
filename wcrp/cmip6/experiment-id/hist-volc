@@ -32,6 +32,5 @@
     }, 
     "description": "Historical volcanic-only run", 
     "namespace": "wcrp:cmip6:experiment-id:hist-volc", 
-    "status": "pending", 
-    "uid": "6b5c04d7-a9ee-4373-9d89-fdd478cb136c"
+    "status": "pending"
 }

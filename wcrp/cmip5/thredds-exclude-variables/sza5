@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sza5", 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:sza5", 
-    "status": "pending", 
-    "uid": "76fc3cd4-a4f8-4791-9d47-77aaa07bded0"
+    "status": "pending"
 }

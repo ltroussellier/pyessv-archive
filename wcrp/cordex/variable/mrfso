@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "mrfso", 
     "namespace": "wcrp:cordex:variable:mrfso", 
-    "status": "pending", 
-    "uid": "58ee5f50-5b8c-4845-a66f-623c8df1f4b1"
+    "status": "pending"
 }

@@ -54,6 +54,5 @@
     "label": "NorESM2-LMEC", 
     "namespace": "wcrp:cmip6:source-id:noresm2-lmec", 
     "raw_name": "NorESM2-LMEC", 
-    "status": "pending", 
-    "uid": "0a9ae671-de7b-4266-bb11-d6b7a5718c4b"
+    "status": "pending"
 }

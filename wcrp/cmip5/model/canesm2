@@ -6,6 +6,5 @@
     "label": "CanESM2", 
     "namespace": "wcrp:cmip5:model:canesm2", 
     "raw_name": "CanESM2", 
-    "status": "pending", 
-    "uid": "fc260c9a-adca-46a3-bf36-8a1e112ad83c"
+    "status": "pending"
 }

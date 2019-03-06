@@ -6,6 +6,5 @@
     "label": "WAS-44", 
     "namespace": "wcrp:cordex:domain:was-44", 
     "raw_name": "WAS-44", 
-    "status": "pending", 
-    "uid": "4d6684f5-15f0-4aaa-bd73-716c25ce6012"
+    "status": "pending"
 }

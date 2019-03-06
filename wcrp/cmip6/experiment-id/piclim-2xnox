@@ -34,6 +34,5 @@
     "label": "piClim-2xNOx", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-2xnox", 
     "raw_name": "piClim-2xNOx", 
-    "status": "pending", 
-    "uid": "669ee8e4-fea3-405f-acf6-6cdccfc3481c"
+    "status": "pending"
 }

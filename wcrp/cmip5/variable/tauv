@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tauv", 
     "namespace": "wcrp:cmip5:variable:tauv", 
-    "status": "pending", 
-    "uid": "4dcc52de-b646-4e9e-8acc-17a79b2bf30d"
+    "status": "pending"
 }

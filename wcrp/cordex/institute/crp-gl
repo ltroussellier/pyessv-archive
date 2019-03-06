@@ -6,6 +6,5 @@
     "label": "CRP-GL", 
     "namespace": "wcrp:cordex:institute:crp-gl", 
     "raw_name": "CRP-GL", 
-    "status": "pending", 
-    "uid": "263b3aa8-a2f0-4d2a-9d68-8fb0399ea37d"
+    "status": "pending"
 }

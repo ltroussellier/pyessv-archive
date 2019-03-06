@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "streng", 
     "namespace": "wcrp:cmip5:variable:streng", 
-    "status": "pending", 
-    "uid": "8f9e507d-ac9c-4271-9919-774f5c6a89e2"
+    "status": "pending"
 }

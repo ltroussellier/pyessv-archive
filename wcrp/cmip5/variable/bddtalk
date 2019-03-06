@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "bddtalk", 
     "namespace": "wcrp:cmip5:variable:bddtalk", 
-    "status": "pending", 
-    "uid": "3d56347a-5d7a-4be4-9154-ac289cd0c782"
+    "status": "pending"
 }

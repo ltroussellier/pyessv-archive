@@ -5,6 +5,5 @@
     "label": "CFMIP", 
     "namespace": "wcrp:cmip6:activity-id:cfmip", 
     "raw_name": "CFMIP", 
-    "status": "pending", 
-    "uid": "c33faf4d-eb7b-4073-86f3-e7a0ae2f3009"
+    "status": "pending"
 }

@@ -3,6 +3,5 @@
     "canonical_name": "gna", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "namespace": "wcrp:cmip6:grid-label:gna", 
-    "status": "pending", 
-    "uid": "44e6f1e2-11aa-4a23-bc64-5860a3678865"
+    "status": "pending"
 }

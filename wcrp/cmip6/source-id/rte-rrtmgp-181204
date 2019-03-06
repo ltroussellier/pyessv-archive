@@ -53,6 +53,5 @@
     "label": "RTE+RRTMGP (2018-12-04 full-resolution)", 
     "namespace": "wcrp:cmip6:source-id:rte-rrtmgp-181204", 
     "raw_name": "RTE-RRTMGP-181204", 
-    "status": "pending", 
-    "uid": "eb4954a2-54a7-4421-9b55-73ad936ba013"
+    "status": "pending"
 }

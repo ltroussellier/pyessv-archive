@@ -6,6 +6,5 @@
     "label": "MPI-ESM-MR", 
     "namespace": "wcrp:cmip5:model:mpi-esm-mr", 
     "raw_name": "MPI-ESM-MR", 
-    "status": "pending", 
-    "uid": "0f720528-5892-41ac-ad37-14bbbb900897"
+    "status": "pending"
 }

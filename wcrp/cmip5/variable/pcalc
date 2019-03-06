@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "pcalc", 
     "namespace": "wcrp:cmip5:variable:pcalc", 
-    "status": "pending", 
-    "uid": "3e0010b7-6660-410c-a3bc-992b481c2cb4"
+    "status": "pending"
 }

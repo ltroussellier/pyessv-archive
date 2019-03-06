@@ -6,6 +6,5 @@
     "label": "GFDL-ESM2G", 
     "namespace": "wcrp:cmip5:model:gfdl-esm2g", 
     "raw_name": "GFDL-ESM2G", 
-    "status": "pending", 
-    "uid": "3bae76d8-d268-4dfa-817f-b11102eb6587"
+    "status": "pending"
 }

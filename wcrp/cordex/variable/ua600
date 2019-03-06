@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ua600", 
     "namespace": "wcrp:cordex:variable:ua600", 
-    "status": "pending", 
-    "uid": "ac02f02f-3bb2-41ac-95c0-57aabadc38e7"
+    "status": "pending"
 }

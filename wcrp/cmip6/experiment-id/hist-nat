@@ -32,6 +32,5 @@
     }, 
     "description": "Historical natural-only run", 
     "namespace": "wcrp:cmip6:experiment-id:hist-nat", 
-    "status": "pending", 
-    "uid": "ad50ef7f-e531-4e78-9d44-09af07a9499a"
+    "status": "pending"
 }

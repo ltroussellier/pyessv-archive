@@ -5,6 +5,5 @@
     "label": "E1hr", 
     "namespace": "wcrp:cmip6:table-id:e1hr", 
     "raw_name": "E1hr", 
-    "status": "pending", 
-    "uid": "b1a609f5-44a2-4444-9e5f-ab830083c939"
+    "status": "pending"
 }

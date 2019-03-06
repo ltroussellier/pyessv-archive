@@ -5,6 +5,5 @@
     "label": "CanRCM4", 
     "namespace": "wcrp:cordex:rcm-name:canrcm4", 
     "raw_name": "CanRCM4", 
-    "status": "pending", 
-    "uid": "32c364de-7b6f-4aec-a1bc-24917ae990ec"
+    "status": "pending"
 }

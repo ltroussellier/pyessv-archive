@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fddtdip", 
     "namespace": "wcrp:cmip5:variable:fddtdip", 
-    "status": "pending", 
-    "uid": "5b542811-d73b-4c08-98fc-a9be52cd07b4"
+    "status": "pending"
 }

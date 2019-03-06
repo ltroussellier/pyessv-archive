@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "p500", 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:p500", 
-    "status": "pending", 
-    "uid": "dc9cdf49-99b2-4199-a38f-0cba92d00f42"
+    "status": "pending"
 }

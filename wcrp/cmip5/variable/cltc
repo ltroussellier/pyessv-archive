@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cltc", 
     "namespace": "wcrp:cmip5:variable:cltc", 
-    "status": "pending", 
-    "uid": "95742d2d-589d-4392-ae30-881dad031fed"
+    "status": "pending"
 }

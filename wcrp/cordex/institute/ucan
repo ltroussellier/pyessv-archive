@@ -6,6 +6,5 @@
     "label": "UCAN", 
     "namespace": "wcrp:cordex:institute:ucan", 
     "raw_name": "UCAN", 
-    "status": "pending", 
-    "uid": "678f32aa-976d-4c4c-8c4d-836a2e7ceff4"
+    "status": "pending"
 }

@@ -34,6 +34,5 @@
     "label": "pdSST-futArcSIC", 
     "namespace": "wcrp:cmip6:experiment-id:pdsst-futarcsic", 
     "raw_name": "pdSST-futArcSIC", 
-    "status": "pending", 
-    "uid": "df3ac85e-b101-4267-9284-1770de75b2d8"
+    "status": "pending"
 }

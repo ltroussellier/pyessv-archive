@@ -6,6 +6,5 @@
     "label": "MPI-M-MPI-ESM-MR", 
     "namespace": "wcrp:cordex:driving-model:mpi-m-mpi-esm-mr", 
     "raw_name": "MPI-M-MPI-ESM-MR", 
-    "status": "pending", 
-    "uid": "fcb1c680-1a73-47fc-bc2e-130c61dc777e"
+    "status": "pending"
 }

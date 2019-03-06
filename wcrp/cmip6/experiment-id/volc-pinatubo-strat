@@ -32,6 +32,5 @@
     }, 
     "description": "As volc-pinatubo-full, but with prescribed perturbation to the total (LW+SW) radiative heating rates", 
     "namespace": "wcrp:cmip6:experiment-id:volc-pinatubo-strat", 
-    "status": "pending", 
-    "uid": "d24d04bd-4726-4210-a0f0-ff0b0bcde108"
+    "status": "pending"
 }

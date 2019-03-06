@@ -34,6 +34,5 @@
     "label": "esm-ssp585-ssp126Lu-ext", 
     "namespace": "wcrp:cmip6:experiment-id:esm-ssp585-ssp126lu-ext", 
     "raw_name": "esm-ssp585-ssp126Lu-ext", 
-    "status": "pending", 
-    "uid": "0dfba930-3918-47fe-9c35-3684ac1b80df"
+    "status": "pending"
 }

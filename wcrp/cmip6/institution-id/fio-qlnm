@@ -27,6 +27,5 @@
     "label": "FIO-QLNM", 
     "namespace": "wcrp:cmip6:institution-id:fio-qlnm", 
     "raw_name": "FIO-QLNM", 
-    "status": "pending", 
-    "uid": "3a7f4f83-b051-4f57-8ff0-a5ec5f925ea6"
+    "status": "pending"
 }

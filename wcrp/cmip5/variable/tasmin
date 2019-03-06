@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tasmin", 
     "namespace": "wcrp:cmip5:variable:tasmin", 
-    "status": "pending", 
-    "uid": "58bcc779-4986-4b5c-91ad-6ee5989119dd"
+    "status": "pending"
 }

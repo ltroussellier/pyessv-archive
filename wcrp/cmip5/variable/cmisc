@@ -6,6 +6,5 @@
     "label": "cMisc", 
     "namespace": "wcrp:cmip5:variable:cmisc", 
     "raw_name": "cMisc", 
-    "status": "pending", 
-    "uid": "7a2be101-28ec-47c4-95ec-6115372ecb43"
+    "status": "pending"
 }

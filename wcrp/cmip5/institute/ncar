@@ -5,6 +5,5 @@
     "label": "NCAR", 
     "namespace": "wcrp:cmip5:institute:ncar", 
     "raw_name": "NCAR", 
-    "status": "pending", 
-    "uid": "836aa217-cc80-4bcb-8647-b9fc3c53e337"
+    "status": "pending"
 }

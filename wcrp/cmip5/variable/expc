@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "expc", 
     "namespace": "wcrp:cmip5:variable:expc", 
-    "status": "pending", 
-    "uid": "c14cae2d-e46b-4ec7-a5fa-0828879d10b8"
+    "status": "pending"
 }

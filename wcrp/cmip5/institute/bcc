@@ -5,6 +5,5 @@
     "label": "BCC", 
     "namespace": "wcrp:cmip5:institute:bcc", 
     "raw_name": "BCC", 
-    "status": "pending", 
-    "uid": "9e64dae9-e349-4e33-9c1d-caf58c79dc22"
+    "status": "pending"
 }

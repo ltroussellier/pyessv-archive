@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "snm", 
     "namespace": "wcrp:cordex:variable:snm", 
-    "status": "pending", 
-    "uid": "00c8364c-a90d-4b87-b573-c040150613f4"
+    "status": "pending"
 }

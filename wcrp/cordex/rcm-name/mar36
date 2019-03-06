@@ -5,6 +5,5 @@
     "label": "MAR36", 
     "namespace": "wcrp:cordex:rcm-name:mar36", 
     "raw_name": "MAR36", 
-    "status": "pending", 
-    "uid": "d2a11600-6dfe-40aa-8265-3d49067833d4"
+    "status": "pending"
 }

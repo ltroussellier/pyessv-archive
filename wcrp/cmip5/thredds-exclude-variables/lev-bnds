@@ -6,6 +6,5 @@
     "label": "lev_bnds", 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:lev-bnds", 
     "raw_name": "lev_bnds", 
-    "status": "pending", 
-    "uid": "c613c356-c57b-4b89-a8ca-5ea42c2bdbe0"
+    "status": "pending"
 }

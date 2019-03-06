@@ -34,6 +34,5 @@
     "label": "piClim-histaer", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-histaer", 
     "raw_name": "piClim-histaer", 
-    "status": "pending", 
-    "uid": "35f46162-a66a-4cd9-a6e4-7a8449c67c86"
+    "status": "pending"
 }

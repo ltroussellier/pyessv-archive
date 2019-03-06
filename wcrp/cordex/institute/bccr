@@ -6,6 +6,5 @@
     "label": "BCCR", 
     "namespace": "wcrp:cordex:institute:bccr", 
     "raw_name": "BCCR", 
-    "status": "pending", 
-    "uid": "ddd563bd-ba12-4022-812c-743e295703f5"
+    "status": "pending"
 }

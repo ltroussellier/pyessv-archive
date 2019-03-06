@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "psl", 
     "namespace": "wcrp:cordex:variable:psl", 
-    "status": "pending", 
-    "uid": "7a559cec-9c33-43ad-ad4a-12434069b243"
+    "status": "pending"
 }

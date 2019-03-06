@@ -3,6 +3,5 @@
     "canonical_name": "fixed", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "namespace": "wcrp:cmip5:las-time-delta:fixed", 
-    "status": "pending", 
-    "uid": "8c7913a0-10c7-4db7-b65d-3ffe7a0efefc"
+    "status": "pending"
 }

@@ -54,6 +54,5 @@
     "label": "EMAC-2-53-Vol", 
     "namespace": "wcrp:cmip6:source-id:emac-2-53-vol", 
     "raw_name": "EMAC-2-53-Vol", 
-    "status": "pending", 
-    "uid": "39cc2e06-b8af-497c-9f9d-2804aef72332"
+    "status": "pending"
 }

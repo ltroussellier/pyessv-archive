@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tauu", 
     "namespace": "wcrp:cordex:variable:tauu", 
-    "status": "pending", 
-    "uid": "a4505a7b-67a2-4902-9bdf-7c3c8f89bc64"
+    "status": "pending"
 }

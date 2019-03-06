@@ -6,6 +6,5 @@
     "label": "monClim", 
     "namespace": "wcrp:cmip5:time-frequency:monclim", 
     "raw_name": "monClim", 
-    "status": "pending", 
-    "uid": "27523852-a7d7-4e6c-b850-4d874ef4797d"
+    "status": "pending"
 }

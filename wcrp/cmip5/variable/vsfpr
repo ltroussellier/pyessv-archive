@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "vsfpr", 
     "namespace": "wcrp:cmip5:variable:vsfpr", 
-    "status": "pending", 
-    "uid": "5b0c4760-95a2-44ab-9e04-aef5b049ea7c"
+    "status": "pending"
 }

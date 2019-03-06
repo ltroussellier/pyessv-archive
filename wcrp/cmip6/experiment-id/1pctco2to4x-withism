@@ -35,6 +35,5 @@
     "label": "1pctCO2to4x-withism", 
     "namespace": "wcrp:cmip6:experiment-id:1pctco2to4x-withism", 
     "raw_name": "1pctCO2to4x-withism", 
-    "status": "pending", 
-    "uid": "27da833d-7d74-476e-8ab7-4bae83ee37d8"
+    "status": "pending"
 }

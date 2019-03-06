@@ -6,6 +6,5 @@
     "label": "sstClimSulfate", 
     "namespace": "wcrp:cmip5:experiment:sstclimsulfate", 
     "raw_name": "sstClimSulfate", 
-    "status": "pending", 
-    "uid": "1c1a8d0c-bd63-48bf-abf4-c11e752c21d0"
+    "status": "pending"
 }

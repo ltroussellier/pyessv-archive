@@ -5,6 +5,5 @@
     "label": "ImonAnt", 
     "namespace": "wcrp:cmip6:table-id:imonant", 
     "raw_name": "ImonAnt", 
-    "status": "pending", 
-    "uid": "c232d72a-c8ce-4b70-83bf-b6708dfc17cf"
+    "status": "pending"
 }

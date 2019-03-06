@@ -5,6 +5,5 @@
     "label": "DCPP", 
     "namespace": "wcrp:cmip6:activity-id:dcpp", 
     "raw_name": "DCPP", 
-    "status": "pending", 
-    "uid": "31af2c24-2b48-44ff-860f-de5dc411563a"
+    "status": "pending"
 }

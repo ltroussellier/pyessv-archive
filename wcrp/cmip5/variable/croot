@@ -6,6 +6,5 @@
     "label": "cRoot", 
     "namespace": "wcrp:cmip5:variable:croot", 
     "raw_name": "cRoot", 
-    "status": "pending", 
-    "uid": "2f3bbfe6-8b70-4a94-b3c0-80bf0e876c14"
+    "status": "pending"
 }

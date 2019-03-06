@@ -6,6 +6,5 @@
     "label": "cropFrac", 
     "namespace": "wcrp:cmip5:variable:cropfrac", 
     "raw_name": "cropFrac", 
-    "status": "pending", 
-    "uid": "4a32419e-9ca9-4487-a445-ea1620147bc2"
+    "status": "pending"
 }

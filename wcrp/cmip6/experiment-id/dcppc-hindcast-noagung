@@ -36,6 +36,5 @@
     "label": "dcppC-hindcast-noAgung", 
     "namespace": "wcrp:cmip6:experiment-id:dcppc-hindcast-noagung", 
     "raw_name": "dcppC-hindcast-noAgung", 
-    "status": "pending", 
-    "uid": "199788fb-7692-42c0-a9fa-5bf6034b9b87"
+    "status": "pending"
 }

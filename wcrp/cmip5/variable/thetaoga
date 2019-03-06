@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "thetaoga", 
     "namespace": "wcrp:cmip5:variable:thetaoga", 
-    "status": "pending", 
-    "uid": "446ea8dc-f4ac-4b6c-ab25-7124d5bd079f"
+    "status": "pending"
 }

@@ -34,6 +34,5 @@
     "label": "piClim-NH3", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-nh3", 
     "raw_name": "piClim-NH3", 
-    "status": "pending", 
-    "uid": "604cc765-a30d-4cfb-9edd-43ca78fe79ba"
+    "status": "pending"
 }

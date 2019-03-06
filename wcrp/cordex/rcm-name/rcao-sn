@@ -5,6 +5,5 @@
     "label": "RCAO-SN", 
     "namespace": "wcrp:cordex:rcm-name:rcao-sn", 
     "raw_name": "RCAO-SN", 
-    "status": "pending", 
-    "uid": "e544d362-1acb-4ad1-a88e-e98a5ba899f6"
+    "status": "pending"
 }

@@ -6,6 +6,5 @@
     "label": "CRP-GL-WRF331A", 
     "namespace": "wcrp:cordex:rcm-model:crp-gl-wrf331a", 
     "raw_name": "CRP-GL-WRF331A", 
-    "status": "pending", 
-    "uid": "afa682a9-8328-495d-ae5d-37d30d0a5107"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "2090 time-slice", 
     "namespace": "wcrp:cmip5:experiment:sst2090", 
-    "status": "pending", 
-    "uid": "cb6022cd-00e5-477e-9d2c-1ef0eadffec4"
+    "status": "pending"
 }

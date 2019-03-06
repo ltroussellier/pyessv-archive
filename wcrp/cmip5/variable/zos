@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "zos", 
     "namespace": "wcrp:cmip5:variable:zos", 
-    "status": "pending", 
-    "uid": "f69a6643-4040-434a-bdf5-8dd81c64031b"
+    "status": "pending"
 }

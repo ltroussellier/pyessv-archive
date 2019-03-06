@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "wmosq", 
     "namespace": "wcrp:cmip5:variable:wmosq", 
-    "status": "pending", 
-    "uid": "8df4c475-c8da-4386-89af-52175c3c2643"
+    "status": "pending"
 }

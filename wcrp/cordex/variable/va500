@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "va500", 
     "namespace": "wcrp:cordex:variable:va500", 
-    "status": "pending", 
-    "uid": "c4303b27-78ee-44b9-a105-0564679a2e3a"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "difvmo", 
     "namespace": "wcrp:cmip5:variable:difvmo", 
-    "status": "pending", 
-    "uid": "69479b9a-d70e-4c1c-a400-c9ec0027e489"
+    "status": "pending"
 }

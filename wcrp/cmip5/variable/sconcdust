@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sconcdust", 
     "namespace": "wcrp:cmip5:variable:sconcdust", 
-    "status": "pending", 
-    "uid": "1560e5b3-8160-4c32-8ad6-e5860cf3caed"
+    "status": "pending"
 }

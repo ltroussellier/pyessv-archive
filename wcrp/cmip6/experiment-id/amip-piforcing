@@ -33,6 +33,5 @@
     "label": "amip-piForcing", 
     "namespace": "wcrp:cmip6:experiment-id:amip-piforcing", 
     "raw_name": "amip-piForcing", 
-    "status": "pending", 
-    "uid": "f3d45b42-14a7-4057-a673-29f5f07fc808"
+    "status": "pending"
 }

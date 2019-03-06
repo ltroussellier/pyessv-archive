@@ -12,6 +12,5 @@
     "label": "NCAR", 
     "namespace": "wcrp:cmip6:institution-id:ncar", 
     "raw_name": "NCAR", 
-    "status": "pending", 
-    "uid": "06f65e39-f718-48aa-b1ea-f3db55022e25"
+    "status": "pending"
 }

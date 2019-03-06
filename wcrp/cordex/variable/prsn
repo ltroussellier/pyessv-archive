@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "prsn", 
     "namespace": "wcrp:cordex:variable:prsn", 
-    "status": "pending", 
-    "uid": "2f998c98-3e8c-4a3b-ad8d-72a39137babb"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "zostoga", 
     "namespace": "wcrp:cmip5:variable:zostoga", 
-    "status": "pending", 
-    "uid": "c68900a8-781c-401b-95b1-e21cfaddb3bb"
+    "status": "pending"
 }

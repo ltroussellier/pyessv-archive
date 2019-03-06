@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "clisccp", 
     "namespace": "wcrp:cmip5:variable:clisccp", 
-    "status": "pending", 
-    "uid": "42a25597-dad5-4fda-85eb-e3828e2f4a16"
+    "status": "pending"
 }

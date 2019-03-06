@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "vegtype", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:vegtype", 
-    "status": "pending", 
-    "uid": "a441f1b5-5438-47a3-9c30-b90ae41a00d8"
+    "status": "pending"
 }

@@ -36,6 +36,5 @@
     "label": "dcppC-hindcast-noPinatubo", 
     "namespace": "wcrp:cmip6:experiment-id:dcppc-hindcast-nopinatubo", 
     "raw_name": "dcppC-hindcast-noPinatubo", 
-    "status": "pending", 
-    "uid": "3040a41b-d8cc-427b-b1c7-90c2237dd7b2"
+    "status": "pending"
 }

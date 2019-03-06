@@ -6,6 +6,5 @@
     "label": "IPSL", 
     "namespace": "wcrp:cordex:institute:ipsl", 
     "raw_name": "IPSL", 
-    "status": "pending", 
-    "uid": "dd8522b1-829a-4f6e-9532-24481995d78b"
+    "status": "pending"
 }

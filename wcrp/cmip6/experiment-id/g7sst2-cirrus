@@ -33,6 +33,5 @@
     "label": "G7SST2-cirrus", 
     "namespace": "wcrp:cmip6:experiment-id:g7sst2-cirrus", 
     "raw_name": "G7SST2-cirrus", 
-    "status": "pending", 
-    "uid": "eb9219cd-cca1-4a79-a127-20f627206fec"
+    "status": "pending"
 }

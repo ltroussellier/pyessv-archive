@@ -5,6 +5,5 @@
     "label": "Eday", 
     "namespace": "wcrp:cmip6:table-id:eday", 
     "raw_name": "Eday", 
-    "status": "pending", 
-    "uid": "bc164055-a26d-417e-a696-dec84acb1c79"
+    "status": "pending"
 }

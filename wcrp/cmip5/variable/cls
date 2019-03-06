@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cls", 
     "namespace": "wcrp:cmip5:variable:cls", 
-    "status": "pending", 
-    "uid": "3f78fb86-2816-4d87-806f-5c414a0d5d66"
+    "status": "pending"
 }

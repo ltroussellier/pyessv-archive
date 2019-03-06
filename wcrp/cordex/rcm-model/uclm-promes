@@ -6,6 +6,5 @@
     "label": "UCLM-PROMES", 
     "namespace": "wcrp:cordex:rcm-model:uclm-promes", 
     "raw_name": "UCLM-PROMES", 
-    "status": "pending", 
-    "uid": "a13b5f67-2157-43b8-843a-64f4595a00a0"
+    "status": "pending"
 }

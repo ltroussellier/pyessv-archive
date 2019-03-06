@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "uas", 
     "namespace": "wcrp:cordex:variable:uas", 
-    "status": "pending", 
-    "uid": "f5714d40-5fe8-4b3e-be8a-67b44beb2f17"
+    "status": "pending"
 }

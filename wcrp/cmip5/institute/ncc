@@ -5,6 +5,5 @@
     "label": "NCC", 
     "namespace": "wcrp:cmip5:institute:ncc", 
     "raw_name": "NCC", 
-    "status": "pending", 
-    "uid": "67a6d1e3-b741-4af3-af04-836edd3295fd"
+    "status": "pending"
 }

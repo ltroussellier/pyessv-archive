@@ -54,6 +54,5 @@
     "label": "IITM-ESM", 
     "namespace": "wcrp:cmip6:source-id:iitm-esm", 
     "raw_name": "IITM-ESM", 
-    "status": "pending", 
-    "uid": "377b17d5-d4c2-45f4-894e-a750d4c98663"
+    "status": "pending"
 }

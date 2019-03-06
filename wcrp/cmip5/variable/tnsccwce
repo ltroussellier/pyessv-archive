@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tnsccwce", 
     "namespace": "wcrp:cmip5:variable:tnsccwce", 
-    "status": "pending", 
-    "uid": "e2361c7e-cd3b-43d5-9aa8-ed98a8af2580"
+    "status": "pending"
 }

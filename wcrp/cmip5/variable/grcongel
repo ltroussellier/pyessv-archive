@@ -6,6 +6,5 @@
     "label": "grCongel", 
     "namespace": "wcrp:cmip5:variable:grcongel", 
     "raw_name": "grCongel", 
-    "status": "pending", 
-    "uid": "ff137be0-69a2-42c1-b568-7b0b554a68b6"
+    "status": "pending"
 }

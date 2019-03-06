@@ -6,6 +6,5 @@
     "label": "aquaControl", 
     "namespace": "wcrp:cmip5:experiment:aquacontrol", 
     "raw_name": "aquaControl", 
-    "status": "pending", 
-    "uid": "5c8a5e0e-7048-43ee-9970-207afcf2b66e"
+    "status": "pending"
 }

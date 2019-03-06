@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fgco2", 
     "namespace": "wcrp:cmip5:variable:fgco2", 
-    "status": "pending", 
-    "uid": "fd514aba-044f-4d10-8933-67cfe81e56c1"
+    "status": "pending"
 }

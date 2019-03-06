@@ -5,6 +5,5 @@
     "label": "CHEM", 
     "namespace": "wcrp:cmip6:source-type:chem", 
     "raw_name": "CHEM", 
-    "status": "pending", 
-    "uid": "9e6f29b2-9982-4a23-8e6b-890301d57e72"
+    "status": "pending"
 }

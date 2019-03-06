@@ -56,6 +56,5 @@
     "label": "CNRM-CM6-1-HR", 
     "namespace": "wcrp:cmip6:source-id:cnrm-cm6-1-hr", 
     "raw_name": "CNRM-CM6-1-HR", 
-    "status": "pending", 
-    "uid": "85df811c-9f2c-4750-bcef-bffd9beeccbe"
+    "status": "pending"
 }

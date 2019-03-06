@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "height2m", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:height2m", 
-    "status": "pending", 
-    "uid": "500b2455-5bc6-4775-926c-ad5572cb5b4d"
+    "status": "pending"
 }

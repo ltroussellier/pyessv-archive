@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rsdt", 
     "namespace": "wcrp:cmip5:variable:rsdt", 
-    "status": "pending", 
-    "uid": "9c34b156-cf77-44f0-91fc-ac6207817966"
+    "status": "pending"
 }

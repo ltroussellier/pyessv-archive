@@ -34,6 +34,5 @@
     "label": "piClim-N2O", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-n2o", 
     "raw_name": "piClim-N2O", 
-    "status": "pending", 
-    "uid": "623edd9d-fd77-4f3c-9dde-88b427e5b365"
+    "status": "pending"
 }

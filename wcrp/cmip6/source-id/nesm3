@@ -60,6 +60,5 @@
     "label": "NESM v3", 
     "namespace": "wcrp:cmip6:source-id:nesm3", 
     "raw_name": "NESM3", 
-    "status": "pending", 
-    "uid": "acce120f-21f8-4e59-8466-96f179e7f817"
+    "status": "pending"
 }

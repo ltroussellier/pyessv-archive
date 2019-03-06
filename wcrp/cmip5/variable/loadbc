@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "loadbc", 
     "namespace": "wcrp:cmip5:variable:loadbc", 
-    "status": "pending", 
-    "uid": "4802e8a1-3634-4d4e-90cb-6eaeb0974b36"
+    "status": "pending"
 }

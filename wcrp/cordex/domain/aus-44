@@ -6,6 +6,5 @@
     "label": "AUS-44", 
     "namespace": "wcrp:cordex:domain:aus-44", 
     "raw_name": "AUS-44", 
-    "status": "pending", 
-    "uid": "ea443b4d-31be-44fb-8dcf-fc4d6f110d6e"
+    "status": "pending"
 }

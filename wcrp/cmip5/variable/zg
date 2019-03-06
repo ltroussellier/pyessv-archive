@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "zg", 
     "namespace": "wcrp:cmip5:variable:zg", 
-    "status": "pending", 
-    "uid": "e12c6224-4fa0-49a0-9eb2-edb92c27e17d"
+    "status": "pending"
 }

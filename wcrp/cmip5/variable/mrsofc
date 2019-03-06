@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "mrsofc", 
     "namespace": "wcrp:cmip5:variable:mrsofc", 
-    "status": "pending", 
-    "uid": "a05c5a7a-0342-4a90-a32b-d10762dabb3b"
+    "status": "pending"
 }

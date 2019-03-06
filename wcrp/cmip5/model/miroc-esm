@@ -6,6 +6,5 @@
     "label": "MIROC-ESM", 
     "namespace": "wcrp:cmip5:model:miroc-esm", 
     "raw_name": "MIROC-ESM", 
-    "status": "pending", 
-    "uid": "5e8f24cc-5a52-407e-96d8-1d88c9de4462"
+    "status": "pending"
 }

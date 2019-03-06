@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "clm", 
     "namespace": "wcrp:cordex:variable:clm", 
-    "status": "pending", 
-    "uid": "1c1bd4e3-a14e-4bfe-80c7-12f04aa0d00f"
+    "status": "pending"
 }

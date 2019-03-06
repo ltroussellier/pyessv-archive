@@ -54,6 +54,5 @@
     "label": "UofT-CCSM4", 
     "namespace": "wcrp:cmip6:source-id:uoft-ccsm4", 
     "raw_name": "UofT-CCSM4", 
-    "status": "pending", 
-    "uid": "cd036607-337e-4844-beb4-88514c81145b"
+    "status": "pending"
 }

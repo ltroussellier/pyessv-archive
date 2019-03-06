@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rld4co2", 
     "namespace": "wcrp:cmip5:variable:rld4co2", 
-    "status": "pending", 
-    "uid": "3d8968bc-feee-46cb-824d-153b73ceddd8"
+    "status": "pending"
 }

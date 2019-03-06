@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "soga", 
     "namespace": "wcrp:cmip5:variable:soga", 
-    "status": "pending", 
-    "uid": "e86dae78-e7a7-4706-a3bf-20ef6173f47e"
+    "status": "pending"
 }

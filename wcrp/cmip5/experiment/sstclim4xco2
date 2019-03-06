@@ -6,6 +6,5 @@
     "label": "sstClim4xCO2", 
     "namespace": "wcrp:cmip5:experiment:sstclim4xco2", 
     "raw_name": "sstClim4xCO2", 
-    "status": "pending", 
-    "uid": "58072683-c483-419a-90b3-cb0d34c22146"
+    "status": "pending"
 }

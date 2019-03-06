@@ -5,6 +5,5 @@
     "label": "CORDEX", 
     "namespace": "wcrp:cmip6:activity-id:cordex", 
     "raw_name": "CORDEX", 
-    "status": "pending", 
-    "uid": "39c44fc4-a4a3-46b3-a8f3-3f11a8a6ac71"
+    "status": "pending"
 }

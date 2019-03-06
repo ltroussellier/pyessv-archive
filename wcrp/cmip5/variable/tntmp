@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tntmp", 
     "namespace": "wcrp:cmip5:variable:tntmp", 
-    "status": "pending", 
-    "uid": "448b1d23-3169-4ab9-8d11-346c58c008f9"
+    "status": "pending"
 }

@@ -32,6 +32,5 @@
     "label": "highresSST-LAI", 
     "namespace": "wcrp:cmip6:experiment-id:highressst-lai", 
     "raw_name": "highresSST-LAI", 
-    "status": "pending", 
-    "uid": "425913f4-baf5-4f24-8d0e-a9522926d4ba"
+    "status": "pending"
 }

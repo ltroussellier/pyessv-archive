@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "pdi", 
     "namespace": "wcrp:cmip5:variable:pdi", 
-    "status": "pending", 
-    "uid": "275cecd3-58ad-40f1-a352-4bb61f403bc1"
+    "status": "pending"
 }

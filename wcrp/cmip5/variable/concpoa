@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "concpoa", 
     "namespace": "wcrp:cmip5:variable:concpoa", 
-    "status": "pending", 
-    "uid": "fececafc-fe16-4d9b-ad4a-83c5c7ca1a60"
+    "status": "pending"
 }

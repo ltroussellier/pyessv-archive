@@ -6,6 +6,5 @@
     "label": "historicalExt", 
     "namespace": "wcrp:cmip5:experiment:historicalext", 
     "raw_name": "historicalExt", 
-    "status": "pending", 
-    "uid": "ab89a029-3611-4e2d-b762-9620ff655aeb"
+    "status": "pending"
 }

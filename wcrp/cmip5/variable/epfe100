@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "epfe100", 
     "namespace": "wcrp:cmip5:variable:epfe100", 
-    "status": "pending", 
-    "uid": "5869abc1-f77c-490c-bf16-fb3566f07c97"
+    "status": "pending"
 }

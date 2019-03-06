@@ -6,6 +6,5 @@
     "label": "UHOH-WRF331H", 
     "namespace": "wcrp:cordex:rcm-model:uhoh-wrf331h", 
     "raw_name": "UHOH-WRF331H", 
-    "status": "pending", 
-    "uid": "e29df17a-0463-4f01-acb9-20a3098b9e12"
+    "status": "pending"
 }

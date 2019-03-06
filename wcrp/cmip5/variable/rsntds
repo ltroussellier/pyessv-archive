@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rsntds", 
     "namespace": "wcrp:cmip5:variable:rsntds", 
-    "status": "pending", 
-    "uid": "c7ea2d53-d652-4576-b714-df7f22eb418d"
+    "status": "pending"
 }

@@ -5,6 +5,5 @@
     "label": "Land Ice", 
     "namespace": "esdoc:cmip6:model-topic:landice", 
     "raw_name": "landIce", 
-    "status": "pending", 
-    "uid": "436dd303-7709-43bb-a975-ec8426f10021"
+    "status": "pending"
 }

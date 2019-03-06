@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "dbze", 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:dbze", 
-    "status": "pending", 
-    "uid": "fe62ff95-920a-4756-b381-02d1523ee116"
+    "status": "pending"
 }

@@ -6,6 +6,5 @@
     "label": "LImon", 
     "namespace": "wcrp:cmip5:cmor-table:limon", 
     "raw_name": "LImon", 
-    "status": "pending", 
-    "uid": "96e8403e-530b-4da5-9c4c-8ced0cf14370"
+    "status": "pending"
 }

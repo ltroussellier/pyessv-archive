@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "zfull", 
     "namespace": "wcrp:cmip5:variable:zfull", 
-    "status": "pending", 
-    "uid": "729fa23b-394d-4180-95e6-2c0e8e490caa"
+    "status": "pending"
 }

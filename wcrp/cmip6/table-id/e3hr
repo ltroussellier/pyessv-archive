@@ -5,6 +5,5 @@
     "label": "E3hr", 
     "namespace": "wcrp:cmip6:table-id:e3hr", 
     "raw_name": "E3hr", 
-    "status": "pending", 
-    "uid": "4e3fc662-5daf-4b78-90fe-465391015ac7"
+    "status": "pending"
 }

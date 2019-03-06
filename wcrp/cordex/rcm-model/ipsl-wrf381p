@@ -6,6 +6,5 @@
     "label": "IPSL-WRF381P", 
     "namespace": "wcrp:cordex:rcm-model:ipsl-wrf381p", 
     "raw_name": "IPSL-WRF381P", 
-    "status": "pending", 
-    "uid": "fefb8b92-2304-4123-9506-722715c25ac1"
+    "status": "pending"
 }

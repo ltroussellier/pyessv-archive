@@ -6,6 +6,5 @@
     "label": "ARC-44i", 
     "namespace": "wcrp:cordex:domain:arc-44i", 
     "raw_name": "ARC-44i", 
-    "status": "pending", 
-    "uid": "903377dc-e022-4bb6-ac5d-3e27fa9372b0"
+    "status": "pending"
 }

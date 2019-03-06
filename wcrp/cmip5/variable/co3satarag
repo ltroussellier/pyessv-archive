@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "co3satarag", 
     "namespace": "wcrp:cmip5:variable:co3satarag", 
-    "status": "pending", 
-    "uid": "037f0717-9819-41ba-bdd5-d4f607ccd28e"
+    "status": "pending"
 }

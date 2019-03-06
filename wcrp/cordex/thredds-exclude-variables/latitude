@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "latitude", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:latitude", 
-    "status": "pending", 
-    "uid": "2af6dec7-5ce0-4c32-8af2-a54513fd1125"
+    "status": "pending"
 }

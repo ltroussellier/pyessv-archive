@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "dbze", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:dbze", 
-    "status": "pending", 
-    "uid": "d1d2720c-ddab-4e87-b272-e91f43feea18"
+    "status": "pending"
 }

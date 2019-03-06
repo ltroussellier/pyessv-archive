@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "abs550aer", 
     "namespace": "wcrp:cmip5:variable:abs550aer", 
-    "status": "pending", 
-    "uid": "50cd3c80-4a6c-4212-a259-adc494dfc098"
+    "status": "pending"
 }

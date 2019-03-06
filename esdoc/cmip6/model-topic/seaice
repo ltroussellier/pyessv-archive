@@ -5,6 +5,5 @@
     "label": "Sea Ice", 
     "namespace": "esdoc:cmip6:model-topic:seaice", 
     "raw_name": "seaIce", 
-    "status": "pending", 
-    "uid": "52af5076-937a-49b1-99ab-c5cb62e47d4e"
+    "status": "pending"
 }

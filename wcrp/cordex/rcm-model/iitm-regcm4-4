@@ -6,6 +6,5 @@
     "label": "IITM-RegCM4-4", 
     "namespace": "wcrp:cordex:rcm-model:iitm-regcm4-4", 
     "raw_name": "IITM-RegCM4-4", 
-    "status": "pending", 
-    "uid": "a93eb359-585e-49a1-8189-f1caff4eec0d"
+    "status": "pending"
 }

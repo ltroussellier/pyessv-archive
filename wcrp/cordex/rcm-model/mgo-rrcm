@@ -6,6 +6,5 @@
     "label": "MGO-RRCM", 
     "namespace": "wcrp:cordex:rcm-model:mgo-rrcm", 
     "raw_name": "MGO-RRCM", 
-    "status": "pending", 
-    "uid": "44990d67-4efc-4993-b2d9-8c5696179a6b"
+    "status": "pending"
 }

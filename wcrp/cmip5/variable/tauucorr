@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tauucorr", 
     "namespace": "wcrp:cmip5:variable:tauucorr", 
-    "status": "pending", 
-    "uid": "fa609768-1320-4c9d-baf8-e1340e9b4ef0"
+    "status": "pending"
 }

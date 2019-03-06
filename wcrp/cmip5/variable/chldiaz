@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "chldiaz", 
     "namespace": "wcrp:cmip5:variable:chldiaz", 
-    "status": "pending", 
-    "uid": "b35ef80c-f35d-48ac-9063-02a351608015"
+    "status": "pending"
 }

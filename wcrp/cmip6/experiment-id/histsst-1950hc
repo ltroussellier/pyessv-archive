@@ -34,6 +34,5 @@
     "label": "histSST-1950HC", 
     "namespace": "wcrp:cmip6:experiment-id:histsst-1950hc", 
     "raw_name": "histSST-1950HC", 
-    "status": "pending", 
-    "uid": "61bff7b2-186b-4c37-875c-4f6d5627086a"
+    "status": "pending"
 }

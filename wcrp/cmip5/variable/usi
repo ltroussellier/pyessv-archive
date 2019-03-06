@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "usi", 
     "namespace": "wcrp:cmip5:variable:usi", 
-    "status": "pending", 
-    "uid": "f9db1d34-fe27-4999-909f-d967c73db57b"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "intpnitrate", 
     "namespace": "wcrp:cmip5:variable:intpnitrate", 
-    "status": "pending", 
-    "uid": "0591137b-e72c-457a-8663-258d57ea70d3"
+    "status": "pending"
 }

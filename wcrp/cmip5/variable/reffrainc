@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "reffrainc", 
     "namespace": "wcrp:cmip5:variable:reffrainc", 
-    "status": "pending", 
-    "uid": "1d23e96b-8cab-497e-b680-08ab0688ff57"
+    "status": "pending"
 }

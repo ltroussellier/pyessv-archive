@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "edt", 
     "namespace": "wcrp:cmip5:variable:edt", 
-    "status": "pending", 
-    "uid": "664c053a-f8dd-4c66-ae2c-524bef419083"
+    "status": "pending"
 }

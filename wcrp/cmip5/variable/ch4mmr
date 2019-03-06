@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ch4mmr", 
     "namespace": "wcrp:cmip5:variable:ch4mmr", 
-    "status": "pending", 
-    "uid": "239f8bba-8625-4b12-bf21-b8d926630929"
+    "status": "pending"
 }

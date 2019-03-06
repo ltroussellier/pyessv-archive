@@ -5,6 +5,5 @@
     "label": "1hrPt", 
     "namespace": "wcrp:cmip6:frequency:1hrpt", 
     "raw_name": "1hrPt", 
-    "status": "pending", 
-    "uid": "f3e5335f-b1b0-4af3-b0f3-8bdb886beb18"
+    "status": "pending"
 }

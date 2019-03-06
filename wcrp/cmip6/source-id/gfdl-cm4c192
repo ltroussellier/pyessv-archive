@@ -53,6 +53,5 @@
     "label": "GFDL-CM4C192", 
     "namespace": "wcrp:cmip6:source-id:gfdl-cm4c192", 
     "raw_name": "GFDL-CM4C192", 
-    "status": "pending", 
-    "uid": "b40e7b5e-6861-48bd-a7f5-506cdeb56ed4"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hfsithermds", 
     "namespace": "wcrp:cmip5:variable:hfsithermds", 
-    "status": "pending", 
-    "uid": "a254eb00-69a1-426c-ba8d-1d588b3b3ce9"
+    "status": "pending"
 }

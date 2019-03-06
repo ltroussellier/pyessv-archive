@@ -41,6 +41,5 @@
     "label": "dcppC-atl-spg", 
     "namespace": "wcrp:cmip6:experiment-id:dcppc-atl-spg", 
     "raw_name": "dcppC-atl-spg", 
-    "status": "pending", 
-    "uid": "4a3253ea-6747-4bec-8285-332ddaddcbe5"
+    "status": "pending"
 }

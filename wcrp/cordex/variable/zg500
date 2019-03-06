@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "zg500", 
     "namespace": "wcrp:cordex:variable:zg500", 
-    "status": "pending", 
-    "uid": "f23b1118-016b-4f97-b1d0-8e6ba32c0c28"
+    "status": "pending"
 }

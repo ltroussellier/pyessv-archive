@@ -48,6 +48,5 @@
     "label": "dcppB-forecast", 
     "namespace": "wcrp:cmip6:experiment-id:dcppb-forecast", 
     "raw_name": "dcppB-forecast", 
-    "status": "pending", 
-    "uid": "328f87cc-5991-4606-8a8c-04e91ff68bf3"
+    "status": "pending"
 }

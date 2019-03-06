@@ -6,6 +6,5 @@
     "label": "parasolRefl", 
     "namespace": "wcrp:cmip5:variable:parasolrefl", 
     "raw_name": "parasolRefl", 
-    "status": "pending", 
-    "uid": "ee4fd950-3d25-4b5d-8a2c-f607a2e1912c"
+    "status": "pending"
 }

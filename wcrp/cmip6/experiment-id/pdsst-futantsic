@@ -34,6 +34,5 @@
     "label": "pdSST-futAntSIC", 
     "namespace": "wcrp:cmip6:experiment-id:pdsst-futantsic", 
     "raw_name": "pdSST-futAntSIC", 
-    "status": "pending", 
-    "uid": "dc106553-71b1-42d9-b6a7-581b802e8ff9"
+    "status": "pending"
 }

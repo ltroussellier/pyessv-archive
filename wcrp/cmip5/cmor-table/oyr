@@ -6,6 +6,5 @@
     "label": "Oyr", 
     "namespace": "wcrp:cmip5:cmor-table:oyr", 
     "raw_name": "Oyr", 
-    "status": "pending", 
-    "uid": "72904d79-f973-47dc-aa7a-695b2e8b686a"
+    "status": "pending"
 }

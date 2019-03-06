@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "mrlsl", 
     "namespace": "wcrp:cmip5:variable:mrlsl", 
-    "status": "pending", 
-    "uid": "29bd9685-70e0-4696-a954-70498f8c915c"
+    "status": "pending"
 }

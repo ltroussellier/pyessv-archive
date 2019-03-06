@@ -66,6 +66,5 @@
     "label": "IPSL-CM6A-LR", 
     "namespace": "wcrp:cmip6:source-id:ipsl-cm6a-lr", 
     "raw_name": "IPSL-CM6A-LR", 
-    "status": "pending", 
-    "uid": "af6d66ef-97c8-41d6-accf-0b0600fa0538"
+    "status": "pending"
 }

@@ -12,6 +12,5 @@
     "label": "UA", 
     "namespace": "wcrp:cmip6:institution-id:ua", 
     "raw_name": "UA", 
-    "status": "pending", 
-    "uid": "7da825db-db0d-4236-8d55-7c0fa35ccaa9"
+    "status": "pending"
 }

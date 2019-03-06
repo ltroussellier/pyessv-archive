@@ -6,6 +6,5 @@
     "label": "KNMI-RACMO22E", 
     "namespace": "wcrp:cordex:rcm-model:knmi-racmo22e", 
     "raw_name": "KNMI-RACMO22E", 
-    "status": "pending", 
-    "uid": "c29ea56e-fefa-42c4-805b-837a5cdf6979"
+    "status": "pending"
 }

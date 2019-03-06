@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "deptho", 
     "namespace": "wcrp:cmip5:variable:deptho", 
-    "status": "pending", 
-    "uid": "e23ec3f3-4b5b-459d-8fd6-c61a8e6e62c9"
+    "status": "pending"
 }

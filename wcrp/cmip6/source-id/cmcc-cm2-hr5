@@ -54,6 +54,5 @@
     "label": "CMCC-CM2-HR5", 
     "namespace": "wcrp:cmip6:source-id:cmcc-cm2-hr5", 
     "raw_name": "CMCC-CM2-HR5", 
-    "status": "pending", 
-    "uid": "b5a96c44-3a68-43f7-a03b-1eded630aad5"
+    "status": "pending"
 }

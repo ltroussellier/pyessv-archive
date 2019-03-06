@@ -6,6 +6,5 @@
     "label": "time_bnds", 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:time-bnds", 
     "raw_name": "time_bnds", 
-    "status": "pending", 
-    "uid": "032656e7-dc9d-4930-bace-2221d1e910df"
+    "status": "pending"
 }

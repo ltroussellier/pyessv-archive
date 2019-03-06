@@ -35,6 +35,5 @@
     "label": "piControl-withism", 
     "namespace": "wcrp:cmip6:experiment-id:picontrol-withism", 
     "raw_name": "piControl-withism", 
-    "status": "pending", 
-    "uid": "2472d4b8-8b9d-46a2-bf4f-aca700f4031d"
+    "status": "pending"
 }

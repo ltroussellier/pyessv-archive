@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tsmax", 
     "namespace": "wcrp:cordex:variable:tsmax", 
-    "status": "pending", 
-    "uid": "8469f886-e26c-4f72-936b-a9127c6eb39b"
+    "status": "pending"
 }

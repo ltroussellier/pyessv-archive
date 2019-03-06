@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "zg750", 
     "namespace": "wcrp:cordex:variable:zg750", 
-    "status": "pending", 
-    "uid": "ef03b266-14e9-4a7e-aa5a-6287b0cde3b2"
+    "status": "pending"
 }

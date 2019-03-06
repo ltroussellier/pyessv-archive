@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "label": "Aerosol", 
     "namespace": "esdoc:cmip6:model-topic:aerosol", 
-    "status": "pending", 
-    "uid": "a4473b3e-bb2f-4c5e-a12b-906b4a4b73df"
+    "status": "pending"
 }

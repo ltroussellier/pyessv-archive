@@ -6,6 +6,5 @@
     "label": "ICTP", 
     "namespace": "wcrp:cordex:institute:ictp", 
     "raw_name": "ICTP", 
-    "status": "pending", 
-    "uid": "87a3efaa-cb3b-46d4-a452-70efa654cf6f"
+    "status": "pending"
 }

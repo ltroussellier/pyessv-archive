@@ -6,6 +6,5 @@
     "label": "atmosChem", 
     "namespace": "wcrp:cmip6:realm:atmoschem", 
     "raw_name": "atmosChem", 
-    "status": "pending", 
-    "uid": "4c810c68-8824-4da7-a605-9dcba2f9465e"
+    "status": "pending"
 }

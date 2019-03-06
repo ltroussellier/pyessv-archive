@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ta700", 
     "namespace": "wcrp:cmip5:variable:ta700", 
-    "status": "pending", 
-    "uid": "16babc29-7062-4c68-9b8d-186f34153e41"
+    "status": "pending"
 }

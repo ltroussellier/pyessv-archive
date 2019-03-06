@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "phyp", 
     "namespace": "wcrp:cmip5:variable:phyp", 
-    "status": "pending", 
-    "uid": "f8bb7bd5-1046-4789-bc28-f607ddf20039"
+    "status": "pending"
 }

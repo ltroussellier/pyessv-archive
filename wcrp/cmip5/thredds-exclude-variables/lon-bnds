@@ -6,6 +6,5 @@
     "label": "lon_bnds", 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:lon-bnds", 
     "raw_name": "lon_bnds", 
-    "status": "pending", 
-    "uid": "50e5d275-8613-48e9-8e44-0501002edbb0"
+    "status": "pending"
 }

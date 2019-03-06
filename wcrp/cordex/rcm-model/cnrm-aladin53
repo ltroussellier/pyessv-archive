@@ -6,6 +6,5 @@
     "label": "CNRM-ALADIN53", 
     "namespace": "wcrp:cordex:rcm-model:cnrm-aladin53", 
     "raw_name": "CNRM-ALADIN53", 
-    "status": "pending", 
-    "uid": "bf29bb95-c9ec-4b08-b795-5465c2b998ae"
+    "status": "pending"
 }

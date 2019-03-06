@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "toffset", 
     "namespace": "wcrp:cmip5:variable:toffset", 
-    "status": "pending", 
-    "uid": "7a3701d6-d457-44e5-b7b1-4fe6e1fabaa4"
+    "status": "pending"
 }

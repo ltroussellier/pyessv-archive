@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fbddtdin", 
     "namespace": "wcrp:cmip5:variable:fbddtdin", 
-    "status": "pending", 
-    "uid": "1e3bd33c-5fdb-4b9a-842e-fb78ba2ce3a9"
+    "status": "pending"
 }

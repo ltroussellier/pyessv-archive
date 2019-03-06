@@ -6,6 +6,5 @@
     "label": "cfOff", 
     "namespace": "wcrp:cmip5:cmor-table:cfoff", 
     "raw_name": "cfOff", 
-    "status": "pending", 
-    "uid": "ae8a95bc-9a33-459e-baba-0355074e583e"
+    "status": "pending"
 }

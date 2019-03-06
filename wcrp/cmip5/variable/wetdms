@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "wetdms", 
     "namespace": "wcrp:cmip5:variable:wetdms", 
-    "status": "pending", 
-    "uid": "389f1f02-7cac-4862-ab6b-21f72a6f7607"
+    "status": "pending"
 }

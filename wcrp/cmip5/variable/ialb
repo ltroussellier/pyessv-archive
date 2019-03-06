@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ialb", 
     "namespace": "wcrp:cmip5:variable:ialb", 
-    "status": "pending", 
-    "uid": "7c6157dc-b922-4122-bce1-c4fe7980b853"
+    "status": "pending"
 }

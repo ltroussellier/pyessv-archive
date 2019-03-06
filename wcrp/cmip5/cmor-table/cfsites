@@ -6,6 +6,5 @@
     "label": "cfSites", 
     "namespace": "wcrp:cmip5:cmor-table:cfsites", 
     "raw_name": "cfSites", 
-    "status": "pending", 
-    "uid": "5f9dc49a-a91f-49d9-af0b-7baead5c9e4f"
+    "status": "pending"
 }

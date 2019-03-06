@@ -6,6 +6,5 @@
     "label": "NorESM1-M", 
     "namespace": "wcrp:cmip5:model:noresm1-m", 
     "raw_name": "NorESM1-M", 
-    "status": "pending", 
-    "uid": "bc33cbfb-b061-47a0-90ed-07975b7c0015"
+    "status": "pending"
 }

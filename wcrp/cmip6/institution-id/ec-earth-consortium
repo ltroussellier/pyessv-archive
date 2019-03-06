@@ -223,6 +223,5 @@
     "label": "EC-Earth-Consortium", 
     "namespace": "wcrp:cmip6:institution-id:ec-earth-consortium", 
     "raw_name": "EC-Earth-Consortium", 
-    "status": "pending", 
-    "uid": "ddad54a2-37ae-4634-9d8f-90346644ac02"
+    "status": "pending"
 }

@@ -5,6 +5,5 @@
     "label": "Efx", 
     "namespace": "wcrp:cmip6:table-id:efx", 
     "raw_name": "Efx", 
-    "status": "pending", 
-    "uid": "c4523d3f-0268-4b00-b567-5b86474fdb8b"
+    "status": "pending"
 }

@@ -5,6 +5,5 @@
     "label": "1 minute", 
     "namespace": "wcrp:cmip6:las-time-delta:1-minute", 
     "raw_name": "1 minute", 
-    "status": "pending", 
-    "uid": "d59c95d5-330b-4e3e-88f3-696ba8d4f06b"
+    "status": "pending"
 }

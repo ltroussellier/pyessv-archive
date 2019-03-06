@@ -32,6 +32,5 @@
     }, 
     "description": "DECK: AMIP", 
     "namespace": "wcrp:cmip6:experiment-id:amip", 
-    "status": "pending", 
-    "uid": "455bcede-0735-4ebd-9415-6c982ed3274e"
+    "status": "pending"
 }

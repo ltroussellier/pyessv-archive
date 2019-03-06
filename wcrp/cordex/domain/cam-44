@@ -6,6 +6,5 @@
     "label": "CAM-44", 
     "namespace": "wcrp:cordex:domain:cam-44", 
     "raw_name": "CAM-44", 
-    "status": "pending", 
-    "uid": "c3c18e29-97d8-4884-8cbb-202ce8e61cf8"
+    "status": "pending"
 }

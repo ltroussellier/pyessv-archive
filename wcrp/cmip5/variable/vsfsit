@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "vsfsit", 
     "namespace": "wcrp:cmip5:variable:vsfsit", 
-    "status": "pending", 
-    "uid": "762a044e-0901-4bfd-bd6b-865c84d5b92f"
+    "status": "pending"
 }

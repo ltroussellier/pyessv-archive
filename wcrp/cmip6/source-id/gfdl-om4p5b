@@ -53,6 +53,5 @@
     "label": "GFDL-OM4p5B", 
     "namespace": "wcrp:cmip6:source-id:gfdl-om4p5b", 
     "raw_name": "GFDL-OM4p5B", 
-    "status": "pending", 
-    "uid": "c3e78195-5e49-428a-80cc-98c32f7b80ac"
+    "status": "pending"
 }

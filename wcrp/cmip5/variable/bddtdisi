@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "bddtdisi", 
     "namespace": "wcrp:cmip5:variable:bddtdisi", 
-    "status": "pending", 
-    "uid": "d49b7b1c-f632-4c7e-b871-14075dd241dc"
+    "status": "pending"
 }

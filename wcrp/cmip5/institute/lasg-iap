@@ -5,6 +5,5 @@
     "label": "LASG-IAP", 
     "namespace": "wcrp:cmip5:institute:lasg-iap", 
     "raw_name": "LASG-IAP", 
-    "status": "pending", 
-    "uid": "cad88c3a-62eb-4e84-93d0-fde2883d516d"
+    "status": "pending"
 }

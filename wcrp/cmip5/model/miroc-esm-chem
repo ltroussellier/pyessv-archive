@@ -6,6 +6,5 @@
     "label": "MIROC-ESM-CHEM", 
     "namespace": "wcrp:cmip5:model:miroc-esm-chem", 
     "raw_name": "MIROC-ESM-CHEM", 
-    "status": "pending", 
-    "uid": "a70f2e63-f6bb-4e06-a21b-9c0567a58a03"
+    "status": "pending"
 }

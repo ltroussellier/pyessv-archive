@@ -33,6 +33,5 @@
     "label": "land-crop-noIrrig", 
     "namespace": "wcrp:cmip6:experiment-id:land-crop-noirrig", 
     "raw_name": "land-crop-noIrrig", 
-    "status": "pending", 
-    "uid": "36e70340-2c14-4c8d-a993-fc5e5f07bb95"
+    "status": "pending"
 }

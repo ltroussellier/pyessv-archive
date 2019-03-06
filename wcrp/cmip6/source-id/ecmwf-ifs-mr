@@ -53,6 +53,5 @@
     "label": "ECMWF-IFS-MR", 
     "namespace": "wcrp:cmip6:source-id:ecmwf-ifs-mr", 
     "raw_name": "ECMWF-IFS-MR", 
-    "status": "pending", 
-    "uid": "61f15480-355d-4fb2-af73-4eda45451700"
+    "status": "pending"
 }

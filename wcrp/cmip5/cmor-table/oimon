@@ -6,6 +6,5 @@
     "label": "OImon", 
     "namespace": "wcrp:cmip5:cmor-table:oimon", 
     "raw_name": "OImon", 
-    "status": "pending", 
-    "uid": "80e9e543-1672-4077-a652-bdc3e11d139a"
+    "status": "pending"
 }

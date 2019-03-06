@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "huss", 
     "namespace": "wcrp:cordex:variable:huss", 
-    "status": "pending", 
-    "uid": "fe085ed6-5b23-49b6-8510-a37d366c08ce"
+    "status": "pending"
 }

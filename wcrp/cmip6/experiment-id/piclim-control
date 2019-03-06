@@ -35,6 +35,5 @@
     "label": "piClim-control", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-control", 
     "raw_name": "piClim-control", 
-    "status": "pending", 
-    "uid": "c9277e70-d8a6-4f6a-817e-f311c6183d34"
+    "status": "pending"
 }

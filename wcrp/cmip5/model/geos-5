@@ -6,6 +6,5 @@
     "label": "GEOS-5", 
     "namespace": "wcrp:cmip5:model:geos-5", 
     "raw_name": "GEOS-5", 
-    "status": "pending", 
-    "uid": "f1500e6b-2114-40b6-aaec-c9e14d6ff4cc"
+    "status": "pending"
 }

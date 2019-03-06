@@ -33,6 +33,5 @@
     "label": "land-noWoodHarv", 
     "namespace": "wcrp:cmip6:experiment-id:land-nowoodharv", 
     "raw_name": "land-noWoodHarv", 
-    "status": "pending", 
-    "uid": "b1a119f5-52ae-4c55-9248-e6a692e5b9eb"
+    "status": "pending"
 }

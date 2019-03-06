@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hus300", 
     "namespace": "wcrp:cordex:variable:hus300", 
-    "status": "pending", 
-    "uid": "fac74917-cb91-4dd3-b339-8fc5992a2297"
+    "status": "pending"
 }

@@ -55,6 +55,5 @@
     "label": "CNRM-ESM2-1-HR", 
     "namespace": "wcrp:cmip6:source-id:cnrm-esm2-1-hr", 
     "raw_name": "CNRM-ESM2-1-HR", 
-    "status": "pending", 
-    "uid": "2386d7c2-7f56-41f3-8379-21dc81ed5b18"
+    "status": "pending"
 }

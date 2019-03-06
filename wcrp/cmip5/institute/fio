@@ -5,6 +5,5 @@
     "label": "FIO", 
     "namespace": "wcrp:cmip5:institute:fio", 
     "raw_name": "FIO", 
-    "status": "pending", 
-    "uid": "3cbab274-02b3-46ad-ade0-de50f2ec3478"
+    "status": "pending"
 }

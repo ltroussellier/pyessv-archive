@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ec550aer", 
     "namespace": "wcrp:cmip5:variable:ec550aer", 
-    "status": "pending", 
-    "uid": "7792d917-2184-4847-859b-bde1269f6c41"
+    "status": "pending"
 }

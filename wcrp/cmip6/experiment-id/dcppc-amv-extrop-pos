@@ -34,6 +34,5 @@
     "label": "dcppC-amv-ExTrop-pos", 
     "namespace": "wcrp:cmip6:experiment-id:dcppc-amv-extrop-pos", 
     "raw_name": "dcppC-amv-ExTrop-pos", 
-    "status": "pending", 
-    "uid": "3aa80868-acae-46ed-8a86-d10edc4554b6"
+    "status": "pending"
 }

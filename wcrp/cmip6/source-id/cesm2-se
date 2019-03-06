@@ -54,6 +54,5 @@
     "label": "CESM2-SE", 
     "namespace": "wcrp:cmip6:source-id:cesm2-se", 
     "raw_name": "CESM2-SE", 
-    "status": "pending", 
-    "uid": "6d0203bc-fc12-4f23-a445-d931ded3d587"
+    "status": "pending"
 }

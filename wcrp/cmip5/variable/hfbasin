@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hfbasin", 
     "namespace": "wcrp:cmip5:variable:hfbasin", 
-    "status": "pending", 
-    "uid": "91ddea68-1aa0-4a3e-b6d1-7103e679baa1"
+    "status": "pending"
 }

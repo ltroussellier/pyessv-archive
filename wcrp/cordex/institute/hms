@@ -6,6 +6,5 @@
     "label": "HMS", 
     "namespace": "wcrp:cordex:institute:hms", 
     "raw_name": "HMS", 
-    "status": "pending", 
-    "uid": "a65ba171-bb94-42db-a575-b84622ee5409"
+    "status": "pending"
 }

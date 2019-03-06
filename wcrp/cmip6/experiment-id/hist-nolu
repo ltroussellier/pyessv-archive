@@ -34,6 +34,5 @@
     "label": "hist-noLu", 
     "namespace": "wcrp:cmip6:experiment-id:hist-nolu", 
     "raw_name": "hist-noLu", 
-    "status": "pending", 
-    "uid": "7f995deb-6f66-491e-8997-df87609317de"
+    "status": "pending"
 }

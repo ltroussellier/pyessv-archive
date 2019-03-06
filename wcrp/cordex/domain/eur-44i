@@ -6,6 +6,5 @@
     "label": "EUR-44i", 
     "namespace": "wcrp:cordex:domain:eur-44i", 
     "raw_name": "EUR-44i", 
-    "status": "pending", 
-    "uid": "25781db2-202d-4cec-9e0a-1ddae364df0e"
+    "status": "pending"
 }

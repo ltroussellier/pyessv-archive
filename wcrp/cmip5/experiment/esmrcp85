@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ESM RCP8.5", 
     "namespace": "wcrp:cmip5:experiment:esmrcp85", 
-    "status": "pending", 
-    "uid": "a12222c8-812f-4d51-b6ef-5e2e524c9ba2"
+    "status": "pending"
 }

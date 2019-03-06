@@ -12,6 +12,5 @@
     "label": "NIMS-KMA", 
     "namespace": "wcrp:cmip6:institution-id:nims-kma", 
     "raw_name": "NIMS-KMA", 
-    "status": "pending", 
-    "uid": "11fe8797-e37b-4400-a847-747d2c106756"
+    "status": "pending"
 }

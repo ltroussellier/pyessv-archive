@@ -6,6 +6,5 @@
     "label": "longitude_bnds", 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:longitude-bnds", 
     "raw_name": "longitude_bnds", 
-    "status": "pending", 
-    "uid": "e0138ca6-b2aa-49ad-91be-0370cf2a81f6"
+    "status": "pending"
 }

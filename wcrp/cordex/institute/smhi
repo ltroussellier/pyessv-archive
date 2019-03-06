@@ -6,6 +6,5 @@
     "label": "SMHI", 
     "namespace": "wcrp:cordex:institute:smhi", 
     "raw_name": "SMHI", 
-    "status": "pending", 
-    "uid": "840f8f20-7a6a-4b10-90d6-eec298d90999"
+    "status": "pending"
 }

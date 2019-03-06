@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cltlidarradar", 
     "namespace": "wcrp:cmip5:variable:cltlidarradar", 
-    "status": "pending", 
-    "uid": "b832e5bc-1f9c-4547-bc83-6a8327eb9299"
+    "status": "pending"
 }

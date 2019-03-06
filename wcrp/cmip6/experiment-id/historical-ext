@@ -32,6 +32,5 @@
     }, 
     "description": "Extension beyond 2014 of the CMIP6 historical", 
     "namespace": "wcrp:cmip6:experiment-id:historical-ext", 
-    "status": "pending", 
-    "uid": "893931cb-0176-43e2-83d9-e7e6e02a18da"
+    "status": "pending"
 }

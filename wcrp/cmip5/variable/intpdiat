@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "intpdiat", 
     "namespace": "wcrp:cmip5:variable:intpdiat", 
-    "status": "pending", 
-    "uid": "f7aa8b89-5ddc-4e09-90f1-36a497dd99a7"
+    "status": "pending"
 }

@@ -33,6 +33,5 @@
     "label": "amip-a4SST-4xCO2", 
     "namespace": "wcrp:cmip6:experiment-id:amip-a4sst-4xco2", 
     "raw_name": "amip-a4SST-4xCO2", 
-    "status": "pending", 
-    "uid": "57789f54-e602-4abd-b54b-fe8c497f5120"
+    "status": "pending"
 }

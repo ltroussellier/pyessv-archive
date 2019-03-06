@@ -33,6 +33,5 @@
     "label": "aqua-4xCO2", 
     "namespace": "wcrp:cmip6:experiment-id:aqua-4xco2", 
     "raw_name": "aqua-4xCO2", 
-    "status": "pending", 
-    "uid": "5341b263-7fa1-43da-b01b-6cddd2b1cb2b"
+    "status": "pending"
 }

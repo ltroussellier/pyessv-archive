@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rsdscs", 
     "namespace": "wcrp:cmip5:variable:rsdscs", 
-    "status": "pending", 
-    "uid": "fd58e10e-1060-4c13-959a-32dfdb11fd7e"
+    "status": "pending"
 }

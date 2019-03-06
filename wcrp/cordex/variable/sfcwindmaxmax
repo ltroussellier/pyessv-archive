@@ -6,6 +6,5 @@
     "label": "sfcWindmaxmax", 
     "namespace": "wcrp:cordex:variable:sfcwindmaxmax", 
     "raw_name": "sfcWindmaxmax", 
-    "status": "pending", 
-    "uid": "d5d61e68-6ddf-45fc-b495-7df5b1db854c"
+    "status": "pending"
 }

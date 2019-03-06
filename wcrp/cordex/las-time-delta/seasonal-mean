@@ -5,6 +5,5 @@
     "label": "seasonal mean", 
     "namespace": "wcrp:cordex:las-time-delta:seasonal-mean", 
     "raw_name": "seasonal mean", 
-    "status": "pending", 
-    "uid": "296974f1-61fe-4f49-ba2e-831d5ef485e6"
+    "status": "pending"
 }

@@ -69,6 +69,5 @@
     "label": "E3SM-Project", 
     "namespace": "wcrp:cmip6:institution-id:e3sm-project", 
     "raw_name": "E3SM-Project", 
-    "status": "pending", 
-    "uid": "65211629-8de6-43a1-aba7-53b3ff57f0c3"
+    "status": "pending"
 }

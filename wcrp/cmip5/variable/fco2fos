@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fco2fos", 
     "namespace": "wcrp:cmip5:variable:fco2fos", 
-    "status": "pending", 
-    "uid": "23243da3-0b5b-4ac9-934b-6a9205675fb4"
+    "status": "pending"
 }

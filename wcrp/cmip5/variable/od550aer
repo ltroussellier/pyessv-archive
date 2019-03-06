@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "od550aer", 
     "namespace": "wcrp:cmip5:variable:od550aer", 
-    "status": "pending", 
-    "uid": "70d72fe6-eba6-4193-ab84-ec1ae212c75a"
+    "status": "pending"
 }

@@ -5,6 +5,5 @@
     "label": "1 km", 
     "namespace": "wcrp:cmip6:nominal-resolution:1-km", 
     "raw_name": "1 km", 
-    "status": "pending", 
-    "uid": "8cd5ef45-7161-4915-bc17-2d18dad24279"
+    "status": "pending"
 }

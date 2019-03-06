@@ -6,6 +6,5 @@
     "label": "lon_bounds", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:lon-bounds", 
     "raw_name": "lon_bounds", 
-    "status": "pending", 
-    "uid": "640cc251-b384-4696-803b-6f6179a2e767"
+    "status": "pending"
 }

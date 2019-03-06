@@ -12,6 +12,5 @@
     "label": "NIWA", 
     "namespace": "wcrp:cmip6:institution-id:niwa", 
     "raw_name": "NIWA", 
-    "status": "pending", 
-    "uid": "49b01958-e518-4d16-9424-c6a935f28b5b"
+    "status": "pending"
 }

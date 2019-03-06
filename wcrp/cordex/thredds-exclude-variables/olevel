@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "olevel", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:olevel", 
-    "status": "pending", 
-    "uid": "9e76810a-aa34-4286-91d6-f7842e73103b"
+    "status": "pending"
 }

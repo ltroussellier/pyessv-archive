@@ -6,6 +6,5 @@
     "label": "UQAM-CRCM5", 
     "namespace": "wcrp:cordex:rcm-model:uqam-crcm5", 
     "raw_name": "UQAM-CRCM5", 
-    "status": "pending", 
-    "uid": "f5c56bbc-9a77-4b29-848c-491ef1424a71"
+    "status": "pending"
 }

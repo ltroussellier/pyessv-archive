@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hfls", 
     "namespace": "wcrp:cordex:variable:hfls", 
-    "status": "pending", 
-    "uid": "371d63f7-b224-4e68-a15e-c0750d922c84"
+    "status": "pending"
 }

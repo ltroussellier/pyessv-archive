@@ -6,6 +6,5 @@
     "label": "IPSL-IPSL-CM5A-MR", 
     "namespace": "wcrp:cordex:driving-model:ipsl-ipsl-cm5a-mr", 
     "raw_name": "IPSL-IPSL-CM5A-MR", 
-    "status": "pending", 
-    "uid": "235c5eb1-a8cf-485c-9a97-f7fcfb7d2a38"
+    "status": "pending"
 }

@@ -5,6 +5,5 @@
     "label": "NASA-GMAO", 
     "namespace": "wcrp:cmip5:institute:nasa-gmao", 
     "raw_name": "NASA-GMAO", 
-    "status": "pending", 
-    "uid": "ca1da397-2162-40e0-9eb1-6fed221d7b8e"
+    "status": "pending"
 }

@@ -34,6 +34,5 @@
     "label": "1pctCO2Ndep-bgc", 
     "namespace": "wcrp:cmip6:experiment-id:1pctco2ndep-bgc", 
     "raw_name": "1pctCO2Ndep-bgc", 
-    "status": "pending", 
-    "uid": "6a2b2ac3-0fb6-402c-baaa-827c58d16fad"
+    "status": "pending"
 }

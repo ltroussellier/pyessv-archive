@@ -33,6 +33,5 @@
     "label": "land-cCO2", 
     "namespace": "wcrp:cmip6:experiment-id:land-cco2", 
     "raw_name": "land-cCO2", 
-    "status": "pending", 
-    "uid": "c99b7db8-6f91-4787-aa7c-9e34a9fe63a0"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tasmax", 
     "namespace": "wcrp:cmip5:variable:tasmax", 
-    "status": "pending", 
-    "uid": "17b0a681-75cd-4818-9f17-7bf011fc9e1a"
+    "status": "pending"
 }

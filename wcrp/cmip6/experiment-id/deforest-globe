@@ -32,6 +32,5 @@
     }, 
     "description": "Idealized deforestation experiment, 20 million km2 forest removed linearly over a period of 50 years, with an additional 30 years with no specified change in forest cover; all other forcings held constant", 
     "namespace": "wcrp:cmip6:experiment-id:deforest-globe", 
-    "status": "pending", 
-    "uid": "7c7413d6-9156-435b-a428-9612942f53d7"
+    "status": "pending"
 }

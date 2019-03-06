@@ -6,6 +6,5 @@
     "label": "lat_vertices", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:lat-vertices", 
     "raw_name": "lat_vertices", 
-    "status": "pending", 
-    "uid": "a8cb5c96-0511-414c-9d53-176001824bd4"
+    "status": "pending"
 }

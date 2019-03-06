@@ -5,6 +5,5 @@
     "label": "IPSL", 
     "namespace": "wcrp:cmip5:institute:ipsl", 
     "raw_name": "IPSL", 
-    "status": "pending", 
-    "uid": "ff7999c0-6758-4051-97f6-6807aea62a7b"
+    "status": "pending"
 }

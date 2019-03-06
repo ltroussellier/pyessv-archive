@@ -5,6 +5,5 @@
     "label": "CSIRO-QCCCE", 
     "namespace": "wcrp:cmip5:institute:csiro-qccce", 
     "raw_name": "CSIRO-QCCCE", 
-    "status": "pending", 
-    "uid": "48400237-4a87-4a00-830e-c02f6ee9e2c6"
+    "status": "pending"
 }

@@ -54,6 +54,5 @@
     "label": "BCC-CSM 2 HR", 
     "namespace": "wcrp:cmip6:source-id:bcc-csm2-hr", 
     "raw_name": "BCC-CSM2-HR", 
-    "status": "pending", 
-    "uid": "4df3124a-5a7c-4f58-8b29-785f5c7e3ca5"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "intppico", 
     "namespace": "wcrp:cmip5:variable:intppico", 
-    "status": "pending", 
-    "uid": "a9e3172a-7411-4f98-9035-db264ad514e3"
+    "status": "pending"
 }

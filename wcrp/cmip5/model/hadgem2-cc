@@ -6,6 +6,5 @@
     "label": "HadGEM2-CC", 
     "namespace": "wcrp:cmip5:model:hadgem2-cc", 
     "raw_name": "HadGEM2-CC", 
-    "status": "pending", 
-    "uid": "e485bc0a-c947-412a-a7f8-4644b6d75f1c"
+    "status": "pending"
 }

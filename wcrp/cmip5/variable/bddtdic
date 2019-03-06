@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "bddtdic", 
     "namespace": "wcrp:cmip5:variable:bddtdic", 
-    "status": "pending", 
-    "uid": "d45f0550-c649-408d-a00c-0abfac96953a"
+    "status": "pending"
 }

@@ -5,6 +5,5 @@
     "label": "DAMIP", 
     "namespace": "wcrp:cmip6:activity-id:damip", 
     "raw_name": "DAMIP", 
-    "status": "pending", 
-    "uid": "e112b303-ba02-4e69-9867-b68d643f4abb"
+    "status": "pending"
 }

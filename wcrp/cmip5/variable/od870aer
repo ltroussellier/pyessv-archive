@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "od870aer", 
     "namespace": "wcrp:cmip5:variable:od870aer", 
-    "status": "pending", 
-    "uid": "17360dac-4e18-400c-b638-5d35504a24d8"
+    "status": "pending"
 }

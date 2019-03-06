@@ -6,6 +6,5 @@
     "label": "IPSL-INERIS-WRF331F", 
     "namespace": "wcrp:cordex:rcm-model:ipsl-ineris-wrf331f", 
     "raw_name": "IPSL-INERIS-WRF331F", 
-    "status": "pending", 
-    "uid": "b1282ad8-94ae-4cbd-996b-3d55ca3f390f"
+    "status": "pending"
 }

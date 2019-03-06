@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "evspsblpot", 
     "namespace": "wcrp:cordex:variable:evspsblpot", 
-    "status": "pending", 
-    "uid": "68d50be6-6e55-430b-892b-ad470210a16e"
+    "status": "pending"
 }

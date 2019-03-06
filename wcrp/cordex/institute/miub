@@ -6,6 +6,5 @@
     "label": "MIUB", 
     "namespace": "wcrp:cordex:institute:miub", 
     "raw_name": "MIUB", 
-    "status": "pending", 
-    "uid": "8db80635-5b4b-4b24-ade4-b17cc0bdb6e7"
+    "status": "pending"
 }

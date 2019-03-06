@@ -34,6 +34,5 @@
     "label": "ssp245-GHG", 
     "namespace": "wcrp:cmip6:experiment-id:ssp245-ghg", 
     "raw_name": "ssp245-GHG", 
-    "status": "pending", 
-    "uid": "f9256316-4164-4df2-bda5-6c04a9ee4125"
+    "status": "pending"
 }

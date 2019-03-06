@@ -6,6 +6,5 @@
     "label": "UCAN-WRF350I", 
     "namespace": "wcrp:cordex:rcm-model:ucan-wrf350i", 
     "raw_name": "UCAN-WRF350I", 
-    "status": "pending", 
-    "uid": "0dcc69ae-789a-4d5f-b674-1a5cc778b0f9"
+    "status": "pending"
 }

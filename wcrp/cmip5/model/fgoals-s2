@@ -6,6 +6,5 @@
     "label": "FGOALS-s2", 
     "namespace": "wcrp:cmip5:model:fgoals-s2", 
     "raw_name": "FGOALS-s2", 
-    "status": "pending", 
-    "uid": "59c19dc8-dedb-4715-ae45-f8a6adec212f"
+    "status": "pending"
 }

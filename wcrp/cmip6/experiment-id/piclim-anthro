@@ -33,6 +33,5 @@
     "label": "piClim-anthro", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-anthro", 
     "raw_name": "piClim-anthro", 
-    "status": "pending", 
-    "uid": "afe7823d-9486-4cc4-ae84-d40df2c89dac"
+    "status": "pending"
 }

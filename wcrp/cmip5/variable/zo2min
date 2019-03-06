@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "zo2min", 
     "namespace": "wcrp:cmip5:variable:zo2min", 
-    "status": "pending", 
-    "uid": "6a46e506-70cf-420f-924b-be10ca734ef1"
+    "status": "pending"
 }

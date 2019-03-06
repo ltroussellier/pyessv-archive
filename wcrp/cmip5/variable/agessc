@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "agessc", 
     "namespace": "wcrp:cmip5:variable:agessc", 
-    "status": "pending", 
-    "uid": "0fc48f6c-99a1-4f58-8f32-4d4b4a0ba70e"
+    "status": "pending"
 }

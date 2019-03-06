@@ -5,6 +5,5 @@
     "label": "MOHC", 
     "namespace": "wcrp:cmip5:institute:mohc", 
     "raw_name": "MOHC", 
-    "status": "pending", 
-    "uid": "3f3a7194-c053-4da7-904f-55b8409c6dc9"
+    "status": "pending"
 }

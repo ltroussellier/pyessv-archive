@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "alev1", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:alev1", 
-    "status": "pending", 
-    "uid": "a821acd2-7b0e-4d76-914f-5046d61e4d05"
+    "status": "pending"
 }

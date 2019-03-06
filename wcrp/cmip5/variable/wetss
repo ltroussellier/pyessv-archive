@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "wetss", 
     "namespace": "wcrp:cmip5:variable:wetss", 
-    "status": "pending", 
-    "uid": "cdfdee0f-6c9b-4e4d-afdd-5687b3807337"
+    "status": "pending"
 }

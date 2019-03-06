@@ -32,6 +32,5 @@
     }, 
     "description": "CMIP6 historical", 
     "namespace": "wcrp:cmip6:experiment-id:historical", 
-    "status": "pending", 
-    "uid": "43566674-fd4a-4fe4-b197-5c93bede45d9"
+    "status": "pending"
 }

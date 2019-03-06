@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "epc100", 
     "namespace": "wcrp:cmip5:variable:epc100", 
-    "status": "pending", 
-    "uid": "92d28eef-b74f-4886-a96a-8e53b624f560"
+    "status": "pending"
 }

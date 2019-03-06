@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "exparag", 
     "namespace": "wcrp:cmip5:variable:exparag", 
-    "status": "pending", 
-    "uid": "2c3f892f-975d-4928-9ebe-f574dda9d513"
+    "status": "pending"
 }

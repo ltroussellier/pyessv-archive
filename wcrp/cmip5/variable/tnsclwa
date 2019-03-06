@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tnsclwa", 
     "namespace": "wcrp:cmip5:variable:tnsclwa", 
-    "status": "pending", 
-    "uid": "ffb68913-075a-4e34-bb36-494d63c8d47e"
+    "status": "pending"
 }

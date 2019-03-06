@@ -34,6 +34,5 @@
     "label": "pdSST-pdSICSIT", 
     "namespace": "wcrp:cmip6:experiment-id:pdsst-pdsicsit", 
     "raw_name": "pdSST-pdSICSIT", 
-    "status": "pending", 
-    "uid": "b97dc226-c94a-4418-8a95-1d3503e6471a"
+    "status": "pending"
 }

@@ -55,6 +55,5 @@
     "label": "ICON-ESM-LR", 
     "namespace": "wcrp:cmip6:source-id:icon-esm-lr", 
     "raw_name": "ICON-ESM-LR", 
-    "status": "pending", 
-    "uid": "25cdcd0b-1a61-4450-8b10-ac9486823847"
+    "status": "pending"
 }

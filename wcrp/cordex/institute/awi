@@ -6,6 +6,5 @@
     "label": "AWI", 
     "namespace": "wcrp:cordex:institute:awi", 
     "raw_name": "AWI", 
-    "status": "pending", 
-    "uid": "6988c021-75d3-4870-81b6-df2851d7a854"
+    "status": "pending"
 }

@@ -6,6 +6,5 @@
     "label": "CMCC-CMS", 
     "namespace": "wcrp:cmip5:model:cmcc-cms", 
     "raw_name": "CMCC-CMS", 
-    "status": "pending", 
-    "uid": "c07b6489-78c1-474b-a6e1-6009a964988b"
+    "status": "pending"
 }

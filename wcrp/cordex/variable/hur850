@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hur850", 
     "namespace": "wcrp:cordex:variable:hur850", 
-    "status": "pending", 
-    "uid": "fd09eefd-e3d1-47a9-913e-aebeb5033841"
+    "status": "pending"
 }

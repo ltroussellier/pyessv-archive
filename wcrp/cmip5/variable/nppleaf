@@ -6,6 +6,5 @@
     "label": "nppLeaf", 
     "namespace": "wcrp:cmip5:variable:nppleaf", 
     "raw_name": "nppLeaf", 
-    "status": "pending", 
-    "uid": "f1bdb36d-3b21-432f-9d98-cac7fc87c7d8"
+    "status": "pending"
 }

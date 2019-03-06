@@ -6,6 +6,5 @@
     "label": "IDL", 
     "namespace": "wcrp:cordex:institute:idl", 
     "raw_name": "IDL", 
-    "status": "pending", 
-    "uid": "3a94567e-a5b9-4005-89d5-64ec154930bb"
+    "status": "pending"
 }

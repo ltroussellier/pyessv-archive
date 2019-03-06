@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "lai", 
     "namespace": "wcrp:cmip5:variable:lai", 
-    "status": "pending", 
-    "uid": "af9eea24-804f-4982-a270-47adcdf28fe5"
+    "status": "pending"
 }

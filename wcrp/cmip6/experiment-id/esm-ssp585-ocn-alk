@@ -32,6 +32,5 @@
     }, 
     "description": "emission driven SSP5-8.5 scenario with 0.14 Pmol/yr alkalinity added to ice free ocean surface waters from 2020 optionally extended from 2100 to 2300 (part of the CDR-ocean-alk experiment)", 
     "namespace": "wcrp:cmip6:experiment-id:esm-ssp585-ocn-alk", 
-    "status": "pending", 
-    "uid": "714cd127-667c-4ca5-a852-f1db828ca868"
+    "status": "pending"
 }

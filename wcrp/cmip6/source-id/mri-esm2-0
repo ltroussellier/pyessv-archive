@@ -70,6 +70,5 @@
     "label": "MRI-ESM2.0", 
     "namespace": "wcrp:cmip6:source-id:mri-esm2-0", 
     "raw_name": "MRI-ESM2-0", 
-    "status": "pending", 
-    "uid": "b88c95eb-2a94-48c8-aeba-4871731bdd7d"
+    "status": "pending"
 }

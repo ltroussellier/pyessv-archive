@@ -34,6 +34,5 @@
     "label": "pdSST-futOkhotskSIC", 
     "namespace": "wcrp:cmip6:experiment-id:pdsst-futokhotsksic", 
     "raw_name": "pdSST-futOkhotskSIC", 
-    "status": "pending", 
-    "uid": "fe1abb0a-38d3-4281-b557-902544e7d320"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "dpo2", 
     "namespace": "wcrp:cmip5:variable:dpo2", 
-    "status": "pending", 
-    "uid": "dfd62a29-a1c8-4ea8-9a8e-ad3f1c3d8fb7"
+    "status": "pending"
 }

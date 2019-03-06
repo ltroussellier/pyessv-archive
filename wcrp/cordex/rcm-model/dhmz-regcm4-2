@@ -6,6 +6,5 @@
     "label": "DHMZ-RegCM4-2", 
     "namespace": "wcrp:cordex:rcm-model:dhmz-regcm4-2", 
     "raw_name": "DHMZ-RegCM4-2", 
-    "status": "pending", 
-    "uid": "ca230ce1-f17e-4b78-872a-aa7a4f9d6b4a"
+    "status": "pending"
 }

@@ -32,6 +32,5 @@
     "label": "highresSST-p4K", 
     "namespace": "wcrp:cmip6:experiment-id:highressst-p4k", 
     "raw_name": "highresSST-p4K", 
-    "status": "pending", 
-    "uid": "ba1351cb-b838-41bf-b16c-3cb316fe8295"
+    "status": "pending"
 }

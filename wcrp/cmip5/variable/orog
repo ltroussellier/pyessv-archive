@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "orog", 
     "namespace": "wcrp:cmip5:variable:orog", 
-    "status": "pending", 
-    "uid": "2dfeafae-54db-4512-ac4a-348effcb6f82"
+    "status": "pending"
 }

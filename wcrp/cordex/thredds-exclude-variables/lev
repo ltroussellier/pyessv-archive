@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "lev", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:lev", 
-    "status": "pending", 
-    "uid": "e1d8b0ab-402d-483e-bae9-cdc73a9c2b83"
+    "status": "pending"
 }

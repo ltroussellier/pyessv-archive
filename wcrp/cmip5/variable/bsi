@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "bsi", 
     "namespace": "wcrp:cmip5:variable:bsi", 
-    "status": "pending", 
-    "uid": "03152b46-8250-4b8e-9ddc-c51f26fa590f"
+    "status": "pending"
 }

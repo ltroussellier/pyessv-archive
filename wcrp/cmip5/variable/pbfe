@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "pbfe", 
     "namespace": "wcrp:cmip5:variable:pbfe", 
-    "status": "pending", 
-    "uid": "5414fa24-186e-4181-bd20-13558f4cb529"
+    "status": "pending"
 }

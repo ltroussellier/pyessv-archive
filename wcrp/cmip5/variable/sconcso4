@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sconcso4", 
     "namespace": "wcrp:cmip5:variable:sconcso4", 
-    "status": "pending", 
-    "uid": "f285ee8b-ed0e-4f5c-a3bc-19862f88d89f"
+    "status": "pending"
 }

@@ -71,6 +71,5 @@
     "label": "CAS-ESM 1.0", 
     "namespace": "wcrp:cmip6:source-id:cas-esm1-0", 
     "raw_name": "CAS-ESM1-0", 
-    "status": "pending", 
-    "uid": "775a53e6-d8ff-47f0-954e-757f12375549"
+    "status": "pending"
 }

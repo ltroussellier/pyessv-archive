@@ -34,6 +34,5 @@
     "label": "histSST-piN2O", 
     "namespace": "wcrp:cmip6:experiment-id:histsst-pin2o", 
     "raw_name": "histSST-piN2O", 
-    "status": "pending", 
-    "uid": "2b0e529f-d890-4fb8-b1ae-1e1ae27cf450"
+    "status": "pending"
 }

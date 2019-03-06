@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "RCP4.5", 
     "namespace": "wcrp:cmip5:experiment:rcp45", 
-    "status": "pending", 
-    "uid": "fc477003-2f7a-4817-ba91-2377752a9ed9"
+    "status": "pending"
 }

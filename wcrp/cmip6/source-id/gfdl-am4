@@ -53,6 +53,5 @@
     "label": "GFDL-AM4", 
     "namespace": "wcrp:cmip6:source-id:gfdl-am4", 
     "raw_name": "GFDL-AM4", 
-    "status": "pending", 
-    "uid": "d6cadca9-95e9-4245-af80-17553ce7328d"
+    "status": "pending"
 }

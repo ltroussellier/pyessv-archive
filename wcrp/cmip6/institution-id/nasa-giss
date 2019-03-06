@@ -12,6 +12,5 @@
     "label": "NASA-GISS", 
     "namespace": "wcrp:cmip6:institution-id:nasa-giss", 
     "raw_name": "NASA-GISS", 
-    "status": "pending", 
-    "uid": "3385233d-b10c-4df8-9da7-8ff00f557f86"
+    "status": "pending"
 }

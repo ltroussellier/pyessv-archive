@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "concaerh2o", 
     "namespace": "wcrp:cmip5:variable:concaerh2o", 
-    "status": "pending", 
-    "uid": "ffab5a59-09cc-420b-9bf9-b5e0841d7451"
+    "status": "pending"
 }

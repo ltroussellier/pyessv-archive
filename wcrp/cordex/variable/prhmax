@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "prhmax", 
     "namespace": "wcrp:cordex:variable:prhmax", 
-    "status": "pending", 
-    "uid": "b36f7829-77ec-4013-aba5-1af2e45b18be"
+    "status": "pending"
 }

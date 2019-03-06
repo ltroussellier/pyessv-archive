@@ -32,6 +32,5 @@
     "label": "ism-pdControl-std", 
     "namespace": "wcrp:cmip6:experiment-id:ism-pdcontrol-std", 
     "raw_name": "ism-pdControl-std", 
-    "status": "pending", 
-    "uid": "79c688cc-8cf2-44bc-ae7b-ab298b343a83"
+    "status": "pending"
 }

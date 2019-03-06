@@ -6,6 +6,5 @@
     "label": "1pctCO2", 
     "namespace": "wcrp:cmip5:experiment:1pctco2", 
     "raw_name": "1pctCO2", 
-    "status": "pending", 
-    "uid": "f6e8d072-3356-4a56-b150-cb876defe263"
+    "status": "pending"
 }

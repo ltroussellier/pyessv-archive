@@ -33,6 +33,5 @@
     "label": "amip-future4K", 
     "namespace": "wcrp:cmip6:experiment-id:amip-future4k", 
     "raw_name": "amip-future4K", 
-    "status": "pending", 
-    "uid": "30a8bb67-d2f2-41ce-9816-9695f2591f9b"
+    "status": "pending"
 }

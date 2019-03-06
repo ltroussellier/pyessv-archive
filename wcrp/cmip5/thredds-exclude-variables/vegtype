@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "vegtype", 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:vegtype", 
-    "status": "pending", 
-    "uid": "747b4848-744c-4756-8c0b-706ffffb7ca4"
+    "status": "pending"
 }

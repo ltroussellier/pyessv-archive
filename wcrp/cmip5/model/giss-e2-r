@@ -6,6 +6,5 @@
     "label": "GISS-E2-R", 
     "namespace": "wcrp:cmip5:model:giss-e2-r", 
     "raw_name": "GISS-E2-R", 
-    "status": "pending", 
-    "uid": "fff35b5e-354c-47f9-9fca-2583b3753270"
+    "status": "pending"
 }

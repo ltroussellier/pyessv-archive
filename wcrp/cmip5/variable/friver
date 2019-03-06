@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "friver", 
     "namespace": "wcrp:cmip5:variable:friver", 
-    "status": "pending", 
-    "uid": "1f75a10b-d635-48eb-81e9-3c0d186da04c"
+    "status": "pending"
 }

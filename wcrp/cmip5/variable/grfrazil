@@ -6,6 +6,5 @@
     "label": "grFrazil", 
     "namespace": "wcrp:cmip5:variable:grfrazil", 
     "raw_name": "grFrazil", 
-    "status": "pending", 
-    "uid": "815c09b2-d61e-4b56-8237-dda4e8f99173"
+    "status": "pending"
 }

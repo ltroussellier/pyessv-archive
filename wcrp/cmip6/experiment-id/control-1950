@@ -30,6 +30,5 @@
     }, 
     "description": "Coupled integrations with constant 1950\"s forcing", 
     "namespace": "wcrp:cmip6:experiment-id:control-1950", 
-    "status": "pending", 
-    "uid": "79dbee52-2e56-4238-8ee2-eaec727a73ce"
+    "status": "pending"
 }

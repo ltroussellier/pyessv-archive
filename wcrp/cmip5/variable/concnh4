@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "concnh4", 
     "namespace": "wcrp:cmip5:variable:concnh4", 
-    "status": "pending", 
-    "uid": "bdccc883-fcd8-413b-97b2-0df12d663521"
+    "status": "pending"
 }

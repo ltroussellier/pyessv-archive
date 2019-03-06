@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "strocnx", 
     "namespace": "wcrp:cmip5:variable:strocnx", 
-    "status": "pending", 
-    "uid": "a0eab4ad-9de5-49a6-bd82-17d7bcf41221"
+    "status": "pending"
 }

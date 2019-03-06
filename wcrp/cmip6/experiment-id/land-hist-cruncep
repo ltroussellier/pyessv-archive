@@ -32,6 +32,5 @@
     "label": "land-hist-cruNcep", 
     "namespace": "wcrp:cmip6:experiment-id:land-hist-cruncep", 
     "raw_name": "land-hist-cruNcep", 
-    "status": "pending", 
-    "uid": "cefa4265-ead9-4cf5-9579-1a032505f201"
+    "status": "pending"
 }

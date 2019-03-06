@@ -34,6 +34,5 @@
     "label": "hist-GHG", 
     "namespace": "wcrp:cmip6:experiment-id:hist-ghg", 
     "raw_name": "hist-GHG", 
-    "status": "pending", 
-    "uid": "58a4a562-7117-4d59-91a3-4cb09e421eee"
+    "status": "pending"
 }

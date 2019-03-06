@@ -6,6 +6,5 @@
     "label": "CESM1-BGC", 
     "namespace": "wcrp:cmip5:model:cesm1-bgc", 
     "raw_name": "CESM1-BGC", 
-    "status": "pending", 
-    "uid": "d8cc0c75-28f0-4787-84ac-bcd075865a82"
+    "status": "pending"
 }

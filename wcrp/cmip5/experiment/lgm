@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Last Glacial Maximum", 
     "namespace": "wcrp:cmip5:experiment:lgm", 
-    "status": "pending", 
-    "uid": "fb968281-aa7b-4580-8d5a-4d363ce669e8"
+    "status": "pending"
 }

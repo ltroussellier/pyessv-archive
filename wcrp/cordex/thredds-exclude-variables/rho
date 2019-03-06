@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rho", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:rho", 
-    "status": "pending", 
-    "uid": "c5e6b1f0-a483-444d-970b-a7ef3923e8cf"
+    "status": "pending"
 }

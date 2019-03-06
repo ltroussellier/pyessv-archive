@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "drydust", 
     "namespace": "wcrp:cmip5:variable:drydust", 
-    "status": "pending", 
-    "uid": "ac772b98-5376-44cb-b83d-ff3439f95259"
+    "status": "pending"
 }

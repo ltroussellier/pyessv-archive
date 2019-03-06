@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fx", 
     "namespace": "wcrp:cmip5:cmor-table:fx", 
-    "status": "pending", 
-    "uid": "f7b311ad-6a9f-46d9-b41a-c72ee09937a1"
+    "status": "pending"
 }

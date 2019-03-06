@@ -12,6 +12,5 @@
     "label": "CAS", 
     "namespace": "wcrp:cmip6:institution-id:cas", 
     "raw_name": "CAS", 
-    "status": "pending", 
-    "uid": "211bb39d-6900-4ffe-946e-923acb508a94"
+    "status": "pending"
 }

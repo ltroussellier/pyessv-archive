@@ -6,6 +6,5 @@
     "label": "lev_bnds", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:lev-bnds", 
     "raw_name": "lev_bnds", 
-    "status": "pending", 
-    "uid": "32fa6bdb-d9c4-4cea-bb63-37fca88f6e58"
+    "status": "pending"
 }

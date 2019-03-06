@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rsu4co2", 
     "namespace": "wcrp:cmip5:variable:rsu4co2", 
-    "status": "pending", 
-    "uid": "4e79acb0-9df8-45a7-81a2-ddc059482e82"
+    "status": "pending"
 }

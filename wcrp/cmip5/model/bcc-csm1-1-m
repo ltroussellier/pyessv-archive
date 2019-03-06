@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "bcc-csm1-1-m", 
     "namespace": "wcrp:cmip5:model:bcc-csm1-1-m", 
-    "status": "pending", 
-    "uid": "0d949c1f-b8dc-4c63-86ae-9e918dbdc559"
+    "status": "pending"
 }

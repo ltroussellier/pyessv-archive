@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "lev", 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:lev", 
-    "status": "pending", 
-    "uid": "b2300640-2994-4a0a-afd9-cf33bb897a8f"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rootd", 
     "namespace": "wcrp:cordex:variable:rootd", 
-    "status": "pending", 
-    "uid": "b1d12b37-a223-4760-afe7-8456a5f6ab4d"
+    "status": "pending"
 }

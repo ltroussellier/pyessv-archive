@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "chldiat", 
     "namespace": "wcrp:cmip5:variable:chldiat", 
-    "status": "pending", 
-    "uid": "f60d8bb6-d441-41fc-8fb4-21748ca4693b"
+    "status": "pending"
 }

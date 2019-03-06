@@ -30,6 +30,5 @@
     }, 
     "description": "Land only simulations", 
     "namespace": "wcrp:cmip6:experiment-id:land-hist-wfdei", 
-    "status": "pending", 
-    "uid": "47f1c0c5-9ca2-4d01-8e87-ebf47afbf8b8"
+    "status": "pending"
 }

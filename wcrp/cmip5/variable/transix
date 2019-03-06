@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "transix", 
     "namespace": "wcrp:cmip5:variable:transix", 
-    "status": "pending", 
-    "uid": "28f24977-06f7-44b7-b003-07796b8371ac"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "dryso4", 
     "namespace": "wcrp:cmip5:variable:dryso4", 
-    "status": "pending", 
-    "uid": "514a20bc-4f13-41fa-baa7-03c0c7834a85"
+    "status": "pending"
 }

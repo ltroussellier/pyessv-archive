@@ -32,6 +32,5 @@
     }, 
     "description": "Extension of natural-only run under SSP2-4.5", 
     "namespace": "wcrp:cmip6:experiment-id:ssp245-nat", 
-    "status": "pending", 
-    "uid": "ed537526-040e-4fb3-b9bd-9ebc5737a967"
+    "status": "pending"
 }

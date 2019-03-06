@@ -5,6 +5,5 @@
     "label": "GMMIP", 
     "namespace": "wcrp:cmip6:activity-id:gmmip", 
     "raw_name": "GMMIP", 
-    "status": "pending", 
-    "uid": "5e8da9a9-3d76-4d2c-a719-100727c9913c"
+    "status": "pending"
 }

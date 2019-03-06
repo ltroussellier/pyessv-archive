@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "prlsprof", 
     "namespace": "wcrp:cmip5:variable:prlsprof", 
-    "status": "pending", 
-    "uid": "8ae2b99c-818e-4009-9e02-25064a354e5f"
+    "status": "pending"
 }

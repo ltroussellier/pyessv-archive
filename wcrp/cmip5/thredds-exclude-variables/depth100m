@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "depth100m", 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:depth100m", 
-    "status": "pending", 
-    "uid": "aee7aa74-2f0a-4968-9561-6324048d5157"
+    "status": "pending"
 }

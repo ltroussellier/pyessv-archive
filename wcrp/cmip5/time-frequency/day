@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "day", 
     "namespace": "wcrp:cmip5:time-frequency:day", 
-    "status": "pending", 
-    "uid": "ee9e8d6a-d759-420b-ac15-b3a8105c6c14"
+    "status": "pending"
 }

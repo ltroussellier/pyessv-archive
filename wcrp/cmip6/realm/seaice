@@ -6,6 +6,5 @@
     "label": "seaIce", 
     "namespace": "wcrp:cmip6:realm:seaice", 
     "raw_name": "seaIce", 
-    "status": "pending", 
-    "uid": "07f5072e-7e95-49b7-a1ac-ad9a5d4c1708"
+    "status": "pending"
 }

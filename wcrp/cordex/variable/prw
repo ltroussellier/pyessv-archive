@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "prw", 
     "namespace": "wcrp:cordex:variable:prw", 
-    "status": "pending", 
-    "uid": "e16797aa-dae4-47ef-a308-95a56e305ba2"
+    "status": "pending"
 }

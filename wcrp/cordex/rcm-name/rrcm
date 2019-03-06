@@ -5,6 +5,5 @@
     "label": "RRCM", 
     "namespace": "wcrp:cordex:rcm-name:rrcm", 
     "raw_name": "RRCM", 
-    "status": "pending", 
-    "uid": "3be47a78-f175-4601-9c40-57c866e8096c"
+    "status": "pending"
 }

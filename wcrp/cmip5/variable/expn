@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "expn", 
     "namespace": "wcrp:cmip5:variable:expn", 
-    "status": "pending", 
-    "uid": "1594919c-3dd4-46f6-ba9f-9975593ba6ec"
+    "status": "pending"
 }

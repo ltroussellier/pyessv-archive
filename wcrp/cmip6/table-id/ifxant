@@ -5,6 +5,5 @@
     "label": "IfxAnt", 
     "namespace": "wcrp:cmip6:table-id:ifxant", 
     "raw_name": "IfxAnt", 
-    "status": "pending", 
-    "uid": "9e2df902-8352-4a86-8e54-5cd1814f45a7"
+    "status": "pending"
 }

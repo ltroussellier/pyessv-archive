@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "va", 
     "namespace": "wcrp:cmip5:variable:va", 
-    "status": "pending", 
-    "uid": "a9adc9f5-9c7f-44e6-99ff-0d32c8290295"
+    "status": "pending"
 }

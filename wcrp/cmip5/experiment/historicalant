@@ -6,6 +6,5 @@
     "label": "historicalAnt", 
     "namespace": "wcrp:cmip5:experiment:historicalant", 
     "raw_name": "historicalAnt", 
-    "status": "pending", 
-    "uid": "f24259ac-35c5-483d-87cb-a37f21c95080"
+    "status": "pending"
 }

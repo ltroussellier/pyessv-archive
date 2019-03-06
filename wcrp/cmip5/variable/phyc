@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "phyc", 
     "namespace": "wcrp:cmip5:variable:phyc", 
-    "status": "pending", 
-    "uid": "1fc8d235-b532-4267-8ada-8fe7ffc82a0c"
+    "status": "pending"
 }

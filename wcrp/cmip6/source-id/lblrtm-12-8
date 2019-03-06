@@ -53,6 +53,5 @@
     "label": "LBLRTM 12.8", 
     "namespace": "wcrp:cmip6:source-id:lblrtm-12-8", 
     "raw_name": "LBLRTM-12-8", 
-    "status": "pending", 
-    "uid": "dd20eb10-1449-46cf-a262-4ac1fa4d427d"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "concbb", 
     "namespace": "wcrp:cmip5:variable:concbb", 
-    "status": "pending", 
-    "uid": "dea95330-2ec4-4dd2-817a-9ca1fd4db27d"
+    "status": "pending"
 }

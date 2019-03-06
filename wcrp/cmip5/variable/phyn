@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "phyn", 
     "namespace": "wcrp:cmip5:variable:phyn", 
-    "status": "pending", 
-    "uid": "da5c73fd-6da5-4e6e-b47b-bd196b2a678b"
+    "status": "pending"
 }

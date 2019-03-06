@@ -6,6 +6,5 @@
     "label": "MOHC", 
     "namespace": "wcrp:cordex:institute:mohc", 
     "raw_name": "MOHC", 
-    "status": "pending", 
-    "uid": "8e936156-49ec-4595-bf47-49e9b86592f1"
+    "status": "pending"
 }

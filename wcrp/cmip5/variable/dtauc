@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "dtauc", 
     "namespace": "wcrp:cmip5:variable:dtauc", 
-    "status": "pending", 
-    "uid": "73ce4193-dfde-44be-9157-232140f83069"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "v1a", 
     "namespace": "wcrp:cordex:rcm-version:v1a", 
-    "status": "pending", 
-    "uid": "a006faf1-ce47-419b-a1e0-a03c7839d95d"
+    "status": "pending"
 }

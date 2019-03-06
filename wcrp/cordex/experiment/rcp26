@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "RCP2.6", 
     "namespace": "wcrp:cordex:experiment:rcp26", 
-    "status": "pending", 
-    "uid": "217fe4e5-4f85-4fbb-a869-bc9bb945da2f"
+    "status": "pending"
 }

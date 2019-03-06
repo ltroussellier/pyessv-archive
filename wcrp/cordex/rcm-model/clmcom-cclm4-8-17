@@ -6,6 +6,5 @@
     "label": "CLMcom-CCLM4-8-17", 
     "namespace": "wcrp:cordex:rcm-model:clmcom-cclm4-8-17", 
     "raw_name": "CLMcom-CCLM4-8-17", 
-    "status": "pending", 
-    "uid": "28f36f52-6048-4e24-88ba-a18ff782b2ca"
+    "status": "pending"
 }

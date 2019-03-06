@@ -6,6 +6,5 @@
     "label": "SAM-44", 
     "namespace": "wcrp:cordex:domain:sam-44", 
     "raw_name": "SAM-44", 
-    "status": "pending", 
-    "uid": "2a5dfd7d-2324-4005-b758-3b28d3fd5fe7"
+    "status": "pending"
 }

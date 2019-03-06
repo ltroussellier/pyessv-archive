@@ -34,6 +34,5 @@
     "label": "pdSST-piAntSIC", 
     "namespace": "wcrp:cmip6:experiment-id:pdsst-piantsic", 
     "raw_name": "pdSST-piAntSIC", 
-    "status": "pending", 
-    "uid": "4bd5e12d-9bdf-4674-bf35-b74f7b686a5f"
+    "status": "pending"
 }

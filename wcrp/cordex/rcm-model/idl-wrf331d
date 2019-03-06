@@ -6,6 +6,5 @@
     "label": "IDL-WRF331D", 
     "namespace": "wcrp:cordex:rcm-model:idl-wrf331d", 
     "raw_name": "IDL-WRF331D", 
-    "status": "pending", 
-    "uid": "c458f75c-ea41-4dde-948f-a62fa8e186c2"
+    "status": "pending"
 }

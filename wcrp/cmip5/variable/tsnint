@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tsnint", 
     "namespace": "wcrp:cmip5:variable:tsnint", 
-    "status": "pending", 
-    "uid": "d5a3ef82-a9f1-4250-830e-b3ff1f35d85f"
+    "status": "pending"
 }

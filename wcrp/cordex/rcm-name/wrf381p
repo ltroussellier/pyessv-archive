@@ -5,6 +5,5 @@
     "label": "WRF381P", 
     "namespace": "wcrp:cordex:rcm-name:wrf381p", 
     "raw_name": "WRF381P", 
-    "status": "pending", 
-    "uid": "d4e212eb-57eb-429d-9a11-162bc8729533"
+    "status": "pending"
 }

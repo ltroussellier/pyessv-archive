@@ -12,6 +12,5 @@
     "label": "CSIRO", 
     "namespace": "wcrp:cmip6:institution-id:csiro", 
     "raw_name": "CSIRO", 
-    "status": "pending", 
-    "uid": "ac9a3a10-f41d-478d-b93e-aa22202133d0"
+    "status": "pending"
 }

@@ -32,6 +32,5 @@
     "label": "ism-1pctCO2to4x-std", 
     "namespace": "wcrp:cmip6:experiment-id:ism-1pctco2to4x-std", 
     "raw_name": "ism-1pctCO2to4x-std", 
-    "status": "pending", 
-    "uid": "cd82045e-a491-4d58-bc97-b5df58cacfca"
+    "status": "pending"
 }

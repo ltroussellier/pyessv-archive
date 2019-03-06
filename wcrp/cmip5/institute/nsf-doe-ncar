@@ -5,6 +5,5 @@
     "label": "NSF-DOE-NCAR", 
     "namespace": "wcrp:cmip5:institute:nsf-doe-ncar", 
     "raw_name": "NSF-DOE-NCAR", 
-    "status": "pending", 
-    "uid": "02cd85c6-de70-476b-816e-55d94f8e2551"
+    "status": "pending"
 }

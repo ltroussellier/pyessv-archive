@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "umo", 
     "namespace": "wcrp:cmip5:variable:umo", 
-    "status": "pending", 
-    "uid": "f4d876f2-ba26-4eb0-b672-68b45fa7afb3"
+    "status": "pending"
 }

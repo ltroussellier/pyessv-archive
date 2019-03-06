@@ -6,6 +6,5 @@
     "label": "AWI-HIRHAM5", 
     "namespace": "wcrp:cordex:rcm-model:awi-hirham5", 
     "raw_name": "AWI-HIRHAM5", 
-    "status": "pending", 
-    "uid": "fbd5aa1f-1202-4597-a913-f05aa409b1de"
+    "status": "pending"
 }

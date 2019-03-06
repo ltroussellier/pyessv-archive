@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "alt40", 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:alt40", 
-    "status": "pending", 
-    "uid": "f66400e4-00c5-4127-b6f6-3d87ec063f9b"
+    "status": "pending"
 }

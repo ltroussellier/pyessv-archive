@@ -34,6 +34,5 @@
     "label": "yr2010CO2", 
     "namespace": "wcrp:cmip6:experiment-id:yr2010co2", 
     "raw_name": "yr2010CO2", 
-    "status": "pending", 
-    "uid": "490f906d-97d0-4df5-bca4-c35713bc70d4"
+    "status": "pending"
 }

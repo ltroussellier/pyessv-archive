@@ -32,6 +32,5 @@
     "label": "piClim-spAer-histall", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-spaer-histall", 
     "raw_name": "piClim-spAer-histall", 
-    "status": "pending", 
-    "uid": "b07094ec-d5c5-4656-85a4-f38c92bdba4e"
+    "status": "pending"
 }

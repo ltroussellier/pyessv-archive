@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "difvso", 
     "namespace": "wcrp:cmip5:variable:difvso", 
-    "status": "pending", 
-    "uid": "8b0dde06-29b4-4f43-bfb4-cd5267ceac33"
+    "status": "pending"
 }

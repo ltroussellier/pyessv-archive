@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cldncl", 
     "namespace": "wcrp:cmip5:variable:cldncl", 
-    "status": "pending", 
-    "uid": "3f8b6287-2205-4c19-8f06-5fc138008572"
+    "status": "pending"
 }

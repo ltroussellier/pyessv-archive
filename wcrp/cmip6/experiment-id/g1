@@ -34,6 +34,5 @@
     "label": "G1", 
     "namespace": "wcrp:cmip6:experiment-id:g1", 
     "raw_name": "G1", 
-    "status": "pending", 
-    "uid": "ee036535-6810-4246-b5b2-bff5a87526c3"
+    "status": "pending"
 }

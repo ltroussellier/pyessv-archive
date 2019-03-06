@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "strairx", 
     "namespace": "wcrp:cmip5:variable:strairx", 
-    "status": "pending", 
-    "uid": "0826cb3c-6439-49a2-ae18-b8bacaf65be4"
+    "status": "pending"
 }

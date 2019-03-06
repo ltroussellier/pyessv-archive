@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tasmints", 
     "namespace": "wcrp:cordex:variable:tasmints", 
-    "status": "pending", 
-    "uid": "13e064d3-d33e-4bd0-9aaf-38da46b40648"
+    "status": "pending"
 }

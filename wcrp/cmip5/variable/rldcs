@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rldcs", 
     "namespace": "wcrp:cmip5:variable:rldcs", 
-    "status": "pending", 
-    "uid": "cc48dc64-546e-4213-ac03-9452ff8a52a6"
+    "status": "pending"
 }

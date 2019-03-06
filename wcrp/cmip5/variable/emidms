@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "emidms", 
     "namespace": "wcrp:cmip5:variable:emidms", 
-    "status": "pending", 
-    "uid": "0c885479-e7ce-4b88-8a4b-60c2843266c3"
+    "status": "pending"
 }

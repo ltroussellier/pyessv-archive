@@ -36,6 +36,5 @@
     "label": "dcppC-pac-pacemaker", 
     "namespace": "wcrp:cmip6:experiment-id:dcppc-pac-pacemaker", 
     "raw_name": "dcppC-pac-pacemaker", 
-    "status": "pending", 
-    "uid": "ad5b605f-1456-4c58-9e0c-402e12c66e8e"
+    "status": "pending"
 }

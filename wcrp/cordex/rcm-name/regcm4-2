@@ -5,6 +5,5 @@
     "label": "RegCM4-2", 
     "namespace": "wcrp:cordex:rcm-name:regcm4-2", 
     "raw_name": "RegCM4-2", 
-    "status": "pending", 
-    "uid": "f79efc42-3547-4a41-92e3-9c413c5ade32"
+    "status": "pending"
 }

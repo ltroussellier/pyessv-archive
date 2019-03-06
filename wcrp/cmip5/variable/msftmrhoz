@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "msftmrhoz", 
     "namespace": "wcrp:cmip5:variable:msftmrhoz", 
-    "status": "pending", 
-    "uid": "38656f4f-7ff0-4ad7-af6e-eed0fceed5f8"
+    "status": "pending"
 }

@@ -53,6 +53,5 @@
     "label": "INM-CM5-H", 
     "namespace": "wcrp:cmip6:source-id:inm-cm5-h", 
     "raw_name": "INM-CM5-H", 
-    "status": "pending", 
-    "uid": "0f66e95c-fb2d-44fd-af25-3f707f269cb9"
+    "status": "pending"
 }

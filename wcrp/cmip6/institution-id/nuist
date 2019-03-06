@@ -12,6 +12,5 @@
     "label": "NUIST", 
     "namespace": "wcrp:cmip6:institution-id:nuist", 
     "raw_name": "NUIST", 
-    "status": "pending", 
-    "uid": "65d09d28-65a7-406e-bcdf-c9947a413aa2"
+    "status": "pending"
 }

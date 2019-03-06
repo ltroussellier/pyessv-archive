@@ -33,6 +33,5 @@
     "label": "G6SST1", 
     "namespace": "wcrp:cmip6:experiment-id:g6sst1", 
     "raw_name": "G6SST1", 
-    "status": "pending", 
-    "uid": "04b7b72b-ee3a-4572-8400-660d0688593e"
+    "status": "pending"
 }

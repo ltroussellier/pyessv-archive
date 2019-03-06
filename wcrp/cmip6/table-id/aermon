@@ -5,6 +5,5 @@
     "label": "AERmon", 
     "namespace": "wcrp:cmip6:table-id:aermon", 
     "raw_name": "AERmon", 
-    "status": "pending", 
-    "uid": "40cfcd15-a15b-4b8d-855d-2864b6d321fa"
+    "status": "pending"
 }

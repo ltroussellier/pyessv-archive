@@ -32,6 +32,5 @@
     }, 
     "description": "Long term extension of CO2 emissions driven SSP5-8.5 scenario (used in the CDR-afforestation and CDR-ocean-alk experiments)", 
     "namespace": "wcrp:cmip6:experiment-id:esm-ssp585ext", 
-    "status": "pending", 
-    "uid": "6fdc06a3-b02f-4c8f-baf3-4d6d15560c89"
+    "status": "pending"
 }

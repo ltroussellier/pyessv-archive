@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fco2antt", 
     "namespace": "wcrp:cmip5:variable:fco2antt", 
-    "status": "pending", 
-    "uid": "b0c171c1-abd9-4cc7-8818-a1986aa1e916"
+    "status": "pending"
 }

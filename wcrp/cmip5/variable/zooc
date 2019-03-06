@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "zooc", 
     "namespace": "wcrp:cmip5:variable:zooc", 
-    "status": "pending", 
-    "uid": "2a7f51c7-daf1-43a6-8185-03c35f6755ba"
+    "status": "pending"
 }

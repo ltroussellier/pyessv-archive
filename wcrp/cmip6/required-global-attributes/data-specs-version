@@ -5,6 +5,5 @@
     "label": "data_specs_version", 
     "namespace": "wcrp:cmip6:required-global-attributes:data-specs-version", 
     "raw_name": "data_specs_version", 
-    "status": "pending", 
-    "uid": "eec1f341-6593-434c-aa9b-dd965e9644b8"
+    "status": "pending"
 }

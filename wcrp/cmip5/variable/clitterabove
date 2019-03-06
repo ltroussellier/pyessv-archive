@@ -6,6 +6,5 @@
     "label": "cLitterAbove", 
     "namespace": "wcrp:cmip5:variable:clitterabove", 
     "raw_name": "cLitterAbove", 
-    "status": "pending", 
-    "uid": "6c1b182e-e084-4391-8ea4-9bc1b2c80450"
+    "status": "pending"
 }

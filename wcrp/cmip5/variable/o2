@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "o2", 
     "namespace": "wcrp:cmip5:variable:o2", 
-    "status": "pending", 
-    "uid": "c758bc47-df4d-427e-b347-dd949004d3a8"
+    "status": "pending"
 }

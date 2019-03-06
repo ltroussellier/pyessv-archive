@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "clivi", 
     "namespace": "wcrp:cmip5:variable:clivi", 
-    "status": "pending", 
-    "uid": "a57ad622-a2c3-404d-a452-e23ac6eda642"
+    "status": "pending"
 }

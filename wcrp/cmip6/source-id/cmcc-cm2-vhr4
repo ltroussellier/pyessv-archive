@@ -54,6 +54,5 @@
     "label": "CMCC-CM2-VHR4", 
     "namespace": "wcrp:cmip6:source-id:cmcc-cm2-vhr4", 
     "raw_name": "CMCC-CM2-VHR4", 
-    "status": "pending", 
-    "uid": "1e503c2d-8a38-43ae-aa5b-23fe31c56587"
+    "status": "pending"
 }

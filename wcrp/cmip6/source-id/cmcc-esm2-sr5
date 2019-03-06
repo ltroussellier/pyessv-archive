@@ -56,6 +56,5 @@
     "label": "CMCC-ESM2-SR5", 
     "namespace": "wcrp:cmip6:source-id:cmcc-esm2-sr5", 
     "raw_name": "CMCC-ESM2-SR5", 
-    "status": "pending", 
-    "uid": "c2a748c8-3445-4b3b-b1bf-a85ccbda92d9"
+    "status": "pending"
 }

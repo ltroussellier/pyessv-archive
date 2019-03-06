@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fsn", 
     "namespace": "wcrp:cmip5:variable:fsn", 
-    "status": "pending", 
-    "uid": "ae8e2b5b-fcde-4efa-aace-f4f726fcf255"
+    "status": "pending"
 }

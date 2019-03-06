@@ -34,6 +34,5 @@
     "label": "ssp370SST-lowCH4", 
     "namespace": "wcrp:cmip6:experiment-id:ssp370sst-lowch4", 
     "raw_name": "ssp370SST-lowCH4", 
-    "status": "pending", 
-    "uid": "c7c426ce-4f1e-431a-92ef-7a3216ebc5bc"
+    "status": "pending"
 }

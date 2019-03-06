@@ -6,6 +6,5 @@
     "label": "historicalMisc", 
     "namespace": "wcrp:cmip5:experiment:historicalmisc", 
     "raw_name": "historicalMisc", 
-    "status": "pending", 
-    "uid": "f9967ed5-fef3-4c7d-985b-d1067f400480"
+    "status": "pending"
 }

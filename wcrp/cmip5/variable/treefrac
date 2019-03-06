@@ -6,6 +6,5 @@
     "label": "treeFrac", 
     "namespace": "wcrp:cmip5:variable:treefrac", 
     "raw_name": "treeFrac", 
-    "status": "pending", 
-    "uid": "79a7416f-d32c-41d2-a95b-b718af003285"
+    "status": "pending"
 }

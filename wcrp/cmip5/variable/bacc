@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "bacc", 
     "namespace": "wcrp:cmip5:variable:bacc", 
-    "status": "pending", 
-    "uid": "a57285d9-60e8-4d2c-a9be-0ea0833fda4b"
+    "status": "pending"
 }

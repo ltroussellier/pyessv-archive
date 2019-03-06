@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sic", 
     "namespace": "wcrp:cmip5:variable:sic", 
-    "status": "pending", 
-    "uid": "4256123f-c5f4-4588-a1da-a79a7b2851d0"
+    "status": "pending"
 }

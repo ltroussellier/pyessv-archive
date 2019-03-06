@@ -32,6 +32,5 @@
     "label": "ism-1pctCO2to4x-self", 
     "namespace": "wcrp:cmip6:experiment-id:ism-1pctco2to4x-self", 
     "raw_name": "ism-1pctCO2to4x-self", 
-    "status": "pending", 
-    "uid": "74cea63b-efe1-4b28-861b-7ce767154925"
+    "status": "pending"
 }

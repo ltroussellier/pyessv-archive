@@ -5,6 +5,5 @@
     "label": "CMIP5", 
     "namespace": "wcrp:global:mip-era:cmip5", 
     "raw_name": "CMIP5", 
-    "status": "pending", 
-    "uid": "ffb2c6ca-9c39-431d-9479-2710484034c6"
+    "status": "pending"
 }

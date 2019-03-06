@@ -6,6 +6,5 @@
     "label": "IPSL-CM5B-LR", 
     "namespace": "wcrp:cmip5:model:ipsl-cm5b-lr", 
     "raw_name": "IPSL-CM5B-LR", 
-    "status": "pending", 
-    "uid": "b40d1b3a-1d44-4d57-b429-6e353803808f"
+    "status": "pending"
 }

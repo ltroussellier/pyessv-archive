@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "swit", 
     "namespace": "wcrp:cmip5:variable:swit", 
-    "status": "pending", 
-    "uid": "677891c4-241a-4fdf-91e0-5a1d0f7582f1"
+    "status": "pending"
 }

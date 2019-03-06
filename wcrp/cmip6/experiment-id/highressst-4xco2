@@ -32,6 +32,5 @@
     "label": "highresSST-4xCO2", 
     "namespace": "wcrp:cmip6:experiment-id:highressst-4xco2", 
     "raw_name": "highresSST-4xCO2", 
-    "status": "pending", 
-    "uid": "d23df800-d68b-48ba-945b-3139850ba0d2"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cltisccp", 
     "namespace": "wcrp:cmip5:variable:cltisccp", 
-    "status": "pending", 
-    "uid": "bbcbb385-61f3-4c4b-b1b9-b1f242e7d970"
+    "status": "pending"
 }

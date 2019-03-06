@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "layer", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:layer", 
-    "status": "pending", 
-    "uid": "fa779ed3-ee17-4ecc-b41c-d0c02ec6e5db"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rhopoto", 
     "namespace": "wcrp:cmip5:variable:rhopoto", 
-    "status": "pending", 
-    "uid": "eedff75d-27be-4d52-a287-cbf261682138"
+    "status": "pending"
 }

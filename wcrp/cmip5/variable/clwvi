@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "clwvi", 
     "namespace": "wcrp:cmip5:variable:clwvi", 
-    "status": "pending", 
-    "uid": "4ded5927-2723-42bf-9c60-2a5de1500bda"
+    "status": "pending"
 }

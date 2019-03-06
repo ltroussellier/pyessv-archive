@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "msftyyz", 
     "namespace": "wcrp:cmip5:variable:msftyyz", 
-    "status": "pending", 
-    "uid": "892d012d-8469-442a-8881-d9103d4ce3f3"
+    "status": "pending"
 }

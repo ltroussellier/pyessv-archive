@@ -6,6 +6,5 @@
     "label": "geo_region", 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:geo-region", 
     "raw_name": "geo_region", 
-    "status": "pending", 
-    "uid": "2421a1fd-6f1f-4cc3-acc8-54a648e0fba1"
+    "status": "pending"
 }

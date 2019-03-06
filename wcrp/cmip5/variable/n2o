@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "n2o", 
     "namespace": "wcrp:cmip5:variable:n2o", 
-    "status": "pending", 
-    "uid": "3dacb1dc-98ec-47b1-b88b-3d5f00ae715f"
+    "status": "pending"
 }

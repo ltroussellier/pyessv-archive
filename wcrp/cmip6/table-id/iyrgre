@@ -5,6 +5,5 @@
     "label": "IyrGre", 
     "namespace": "wcrp:cmip6:table-id:iyrgre", 
     "raw_name": "IyrGre", 
-    "status": "pending", 
-    "uid": "73f3b855-9c9f-42a7-8a71-fb2c93b0cf50"
+    "status": "pending"
 }

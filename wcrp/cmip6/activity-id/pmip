@@ -5,6 +5,5 @@
     "label": "PMIP", 
     "namespace": "wcrp:cmip6:activity-id:pmip", 
     "raw_name": "PMIP", 
-    "status": "pending", 
-    "uid": "3dd05a1d-2954-47e7-bf7d-b70681333ff6"
+    "status": "pending"
 }

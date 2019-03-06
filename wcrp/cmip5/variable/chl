@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "chl", 
     "namespace": "wcrp:cmip5:variable:chl", 
-    "status": "pending", 
-    "uid": "66352aec-333b-4570-8cc2-d4a14aca2b81"
+    "status": "pending"
 }

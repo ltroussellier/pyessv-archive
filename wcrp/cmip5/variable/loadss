@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "loadss", 
     "namespace": "wcrp:cmip5:variable:loadss", 
-    "status": "pending", 
-    "uid": "cc9297ed-f9a9-4685-890f-c29096705218"
+    "status": "pending"
 }

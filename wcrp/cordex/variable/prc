@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "prc", 
     "namespace": "wcrp:cordex:variable:prc", 
-    "status": "pending", 
-    "uid": "7f470de8-aa6b-4abc-97b4-6a5b5688fa42"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fbddtalk", 
     "namespace": "wcrp:cmip5:variable:fbddtalk", 
-    "status": "pending", 
-    "uid": "f3dcb096-e16e-4e04-a012-5d26d865ac84"
+    "status": "pending"
 }

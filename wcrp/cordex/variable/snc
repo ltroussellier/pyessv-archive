@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "snc", 
     "namespace": "wcrp:cordex:variable:snc", 
-    "status": "pending", 
-    "uid": "62a9741a-feb0-464a-80af-9a51002d2361"
+    "status": "pending"
 }

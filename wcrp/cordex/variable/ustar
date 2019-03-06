@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ustar", 
     "namespace": "wcrp:cordex:variable:ustar", 
-    "status": "pending", 
-    "uid": "98279d86-ffbb-409b-9956-8751a76412a9"
+    "status": "pending"
 }

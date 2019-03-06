@@ -34,6 +34,5 @@
     "label": "hist-CO2", 
     "namespace": "wcrp:cmip6:experiment-id:hist-co2", 
     "raw_name": "hist-CO2", 
-    "status": "pending", 
-    "uid": "3642d84e-611e-4296-8bcd-c30a7675ec40"
+    "status": "pending"
 }

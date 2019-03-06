@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "volo", 
     "namespace": "wcrp:cmip5:variable:volo", 
-    "status": "pending", 
-    "uid": "bd7420d3-17da-4111-a432-b985a82c188a"
+    "status": "pending"
 }

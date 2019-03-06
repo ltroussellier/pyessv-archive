@@ -34,6 +34,5 @@
     "label": "lfmip-initLC", 
     "namespace": "wcrp:cmip6:experiment-id:lfmip-initlc", 
     "raw_name": "lfmip-initLC", 
-    "status": "pending", 
-    "uid": "15844130-8f43-4998-8fb8-96a15a825ec5"
+    "status": "pending"
 }

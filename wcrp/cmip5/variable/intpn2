@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "intpn2", 
     "namespace": "wcrp:cmip5:variable:intpn2", 
-    "status": "pending", 
-    "uid": "b3cf362c-369a-462b-b7b9-fd88834f6c99"
+    "status": "pending"
 }

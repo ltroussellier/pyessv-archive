@@ -6,6 +6,5 @@
     "label": "cSoilFast", 
     "namespace": "wcrp:cmip5:variable:csoilfast", 
     "raw_name": "cSoilFast", 
-    "status": "pending", 
-    "uid": "b76309c3-589c-43bc-95dd-a27d2692c975"
+    "status": "pending"
 }

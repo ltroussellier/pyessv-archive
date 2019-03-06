@@ -6,6 +6,5 @@
     "label": "DMI", 
     "namespace": "wcrp:cordex:institute:dmi", 
     "raw_name": "DMI", 
-    "status": "pending", 
-    "uid": "f80283e2-8dc8-44a6-bb88-9cce35d426b2"
+    "status": "pending"
 }

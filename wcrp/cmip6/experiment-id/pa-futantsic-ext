@@ -34,6 +34,5 @@
     "label": "pa-futAntSIC-ext", 
     "namespace": "wcrp:cmip6:experiment-id:pa-futantsic-ext", 
     "raw_name": "pa-futAntSIC-ext", 
-    "status": "pending", 
-    "uid": "87a0342f-68cb-47f1-98d2-eb03c483ddba"
+    "status": "pending"
 }

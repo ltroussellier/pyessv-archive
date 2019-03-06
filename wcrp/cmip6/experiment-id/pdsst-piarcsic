@@ -34,6 +34,5 @@
     "label": "pdSST-piArcSIC", 
     "namespace": "wcrp:cmip6:experiment-id:pdsst-piarcsic", 
     "raw_name": "pdSST-piArcSIC", 
-    "status": "pending", 
-    "uid": "01d4b8a1-a1aa-48ce-9329-8019b823b939"
+    "status": "pending"
 }

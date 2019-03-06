@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sfdsi", 
     "namespace": "wcrp:cmip5:variable:sfdsi", 
-    "status": "pending", 
-    "uid": "48b4974a-51f7-48c0-ba29-05f52ac18345"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ps", 
     "namespace": "wcrp:cordex:variable:ps", 
-    "status": "pending", 
-    "uid": "9f20fe37-dbfb-4028-a33b-ce917db09153"
+    "status": "pending"
 }

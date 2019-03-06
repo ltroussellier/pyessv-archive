@@ -6,6 +6,5 @@
     "label": "CAS-44", 
     "namespace": "wcrp:cordex:domain:cas-44", 
     "raw_name": "CAS-44", 
-    "status": "pending", 
-    "uid": "cd077e86-a598-4c9e-b953-53d60a55dbc9"
+    "status": "pending"
 }

@@ -6,6 +6,5 @@
     "label": "time_bnds", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:time-bnds", 
     "raw_name": "time_bnds", 
-    "status": "pending", 
-    "uid": "c5a6d645-443d-4961-a097-e85005da78e7"
+    "status": "pending"
 }

@@ -34,6 +34,5 @@
     "label": "ssp370SST-lowNTCF", 
     "namespace": "wcrp:cmip6:experiment-id:ssp370sst-lowntcf", 
     "raw_name": "ssp370SST-lowNTCF", 
-    "status": "pending", 
-    "uid": "06218782-058f-47ea-9591-db0dbab02c61"
+    "status": "pending"
 }

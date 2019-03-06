@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tnscliricl", 
     "namespace": "wcrp:cmip5:variable:tnscliricl", 
-    "status": "pending", 
-    "uid": "c9950c72-30a0-407a-8f65-20a4b614d94c"
+    "status": "pending"
 }

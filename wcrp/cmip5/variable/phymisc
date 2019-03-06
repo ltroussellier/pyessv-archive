@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "phymisc", 
     "namespace": "wcrp:cmip5:variable:phymisc", 
-    "status": "pending", 
-    "uid": "18d2e8ac-c662-4dac-8bb9-db7975a94aef"
+    "status": "pending"
 }

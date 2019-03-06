@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "drybc", 
     "namespace": "wcrp:cmip5:variable:drybc", 
-    "status": "pending", 
-    "uid": "8c621816-d7e9-4afe-9525-6c47029416ff"
+    "status": "pending"
 }

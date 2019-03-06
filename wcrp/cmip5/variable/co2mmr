@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "co2mmr", 
     "namespace": "wcrp:cmip5:variable:co2mmr", 
-    "status": "pending", 
-    "uid": "10c40460-00da-4546-9a53-3da93c9bd6d8"
+    "status": "pending"
 }

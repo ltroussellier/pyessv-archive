@@ -54,6 +54,5 @@
     "label": "AWI-ESM 1.1 LR", 
     "namespace": "wcrp:cmip6:source-id:awi-esm-1-1-lr", 
     "raw_name": "AWI-ESM-1-1-LR", 
-    "status": "pending", 
-    "uid": "cd85f07c-6722-4b64-80b3-e3363e57dcc5"
+    "status": "pending"
 }

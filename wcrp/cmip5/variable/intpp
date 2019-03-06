@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "intpp", 
     "namespace": "wcrp:cmip5:variable:intpp", 
-    "status": "pending", 
-    "uid": "87962b4e-1130-4503-ad7c-ae85c2101dea"
+    "status": "pending"
 }

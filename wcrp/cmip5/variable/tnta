@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tnta", 
     "namespace": "wcrp:cmip5:variable:tnta", 
-    "status": "pending", 
-    "uid": "37b58eb0-8c69-4dba-9220-b3d10bb0f807"
+    "status": "pending"
 }

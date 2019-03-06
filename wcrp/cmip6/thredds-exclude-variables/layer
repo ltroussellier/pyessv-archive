@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "layer", 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:layer", 
-    "status": "pending", 
-    "uid": "3a2edfb2-9336-4cd7-a12d-6778ca900150"
+    "status": "pending"
 }

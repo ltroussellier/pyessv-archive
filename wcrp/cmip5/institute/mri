@@ -5,6 +5,5 @@
     "label": "MRI", 
     "namespace": "wcrp:cmip5:institute:mri", 
     "raw_name": "MRI", 
-    "status": "pending", 
-    "uid": "aa90355e-2a6b-4c44-8e38-3830d64deb3a"
+    "status": "pending"
 }

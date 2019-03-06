@@ -30,6 +30,5 @@
     }, 
     "description": "Coupled integration from ocean rest state using recommended HighResMIP protocol spinup, starting from 1950 ocean temperature and salinity analysis EN4, using constant 1950s forcing. At least 30 years to satisfy near surface quasi-equilibrium", 
     "namespace": "wcrp:cmip6:experiment-id:spinup-1950", 
-    "status": "pending", 
-    "uid": "c44f31ca-0fb3-4db2-a1e6-74edf0171f26"
+    "status": "pending"
 }

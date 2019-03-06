@@ -12,6 +12,5 @@
     "label": "CMCC", 
     "namespace": "wcrp:cmip6:institution-id:cmcc", 
     "raw_name": "CMCC", 
-    "status": "pending", 
-    "uid": "8177c37f-f2f2-4829-be9d-cae8fcae0733"
+    "status": "pending"
 }

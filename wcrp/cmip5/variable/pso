@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "pso", 
     "namespace": "wcrp:cmip5:variable:pso", 
-    "status": "pending", 
-    "uid": "9e343568-3de5-4109-ab55-a1c10dc9cdb1"
+    "status": "pending"
 }

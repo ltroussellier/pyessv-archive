@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "3hr", 
     "namespace": "wcrp:cordex:time-frequency:3hr", 
-    "status": "pending", 
-    "uid": "16d1203a-3428-413f-a448-f4b14ac3cfe7"
+    "status": "pending"
 }

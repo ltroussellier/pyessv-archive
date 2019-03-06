@@ -33,6 +33,5 @@
     "label": "piSST-4xCO2-rad", 
     "namespace": "wcrp:cmip6:experiment-id:pisst-4xco2-rad", 
     "raw_name": "piSST-4xCO2-rad", 
-    "status": "pending", 
-    "uid": "037b2147-b49d-4e88-89e0-e6fa44e953af"
+    "status": "pending"
 }

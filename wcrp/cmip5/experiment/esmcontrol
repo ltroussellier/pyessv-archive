@@ -6,6 +6,5 @@
     "label": "esmControl", 
     "namespace": "wcrp:cmip5:experiment:esmcontrol", 
     "raw_name": "esmControl", 
-    "status": "pending", 
-    "uid": "15e44dfe-f682-4e11-a784-2d48da65dd68"
+    "status": "pending"
 }

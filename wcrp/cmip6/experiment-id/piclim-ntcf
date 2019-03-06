@@ -34,6 +34,5 @@
     "label": "piClim-NTCF", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-ntcf", 
     "raw_name": "piClim-NTCF", 
-    "status": "pending", 
-    "uid": "682cfc45-98e1-46ad-b6e8-138b0236e67d"
+    "status": "pending"
 }

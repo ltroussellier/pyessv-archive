@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "zmla", 
     "namespace": "wcrp:cordex:variable:zmla", 
-    "status": "pending", 
-    "uid": "5145f86b-ec5d-4cff-a74a-e124b19e4129"
+    "status": "pending"
 }

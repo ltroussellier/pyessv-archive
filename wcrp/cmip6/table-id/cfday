@@ -5,6 +5,5 @@
     "label": "CFday", 
     "namespace": "wcrp:cmip6:table-id:cfday", 
     "raw_name": "CFday", 
-    "status": "pending", 
-    "uid": "c4721fcb-35a8-45f4-9651-08503e9ce913"
+    "status": "pending"
 }

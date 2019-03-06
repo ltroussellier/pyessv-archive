@@ -5,6 +5,5 @@
     "label": "RCAO", 
     "namespace": "wcrp:cordex:rcm-name:rcao", 
     "raw_name": "RCAO", 
-    "status": "pending", 
-    "uid": "dc3dc4cb-f384-4336-af91-a976d187968d"
+    "status": "pending"
 }

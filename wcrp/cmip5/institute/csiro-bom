@@ -5,6 +5,5 @@
     "label": "CSIRO-BOM", 
     "namespace": "wcrp:cmip5:institute:csiro-bom", 
     "raw_name": "CSIRO-BOM", 
-    "status": "pending", 
-    "uid": "895e9e6d-a765-4b12-bc23-f2ddf249d7be"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "prlsns", 
     "namespace": "wcrp:cmip5:variable:prlsns", 
-    "status": "pending", 
-    "uid": "4a09067b-73a6-4b21-a622-87ea03802d3c"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "strocny", 
     "namespace": "wcrp:cmip5:variable:strocny", 
-    "status": "pending", 
-    "uid": "83be6e21-513e-4fd5-a47c-8a5a1e1f0a00"
+    "status": "pending"
 }

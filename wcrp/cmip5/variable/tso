@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tso", 
     "namespace": "wcrp:cmip5:variable:tso", 
-    "status": "pending", 
-    "uid": "67a5cde5-2aa7-4f13-8945-7248acf3764f"
+    "status": "pending"
 }

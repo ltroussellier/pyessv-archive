@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "clice400", 
     "namespace": "wcrp:cordex:variable:clice400", 
-    "status": "pending", 
-    "uid": "980f591b-e4ef-48d1-b802-830da5c131cd"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "htovovrt", 
     "namespace": "wcrp:cmip5:variable:htovovrt", 
-    "status": "pending", 
-    "uid": "9111d4e0-73df-4e91-8110-736cb70a7767"
+    "status": "pending"
 }

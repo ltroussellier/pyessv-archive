@@ -32,6 +32,5 @@
     }, 
     "description": "CO2 emissions driven SSP5-3.4 overshoot scenario simulation optionally extending to year 2300 (part of the CDR-overshoot experiment)", 
     "namespace": "wcrp:cmip6:experiment-id:esm-ssp534-over", 
-    "status": "pending", 
-    "uid": "0c51ef44-0fc4-4355-8c97-ff40a7451dc4"
+    "status": "pending"
 }

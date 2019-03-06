@@ -6,6 +6,5 @@
     "label": "MNA-44", 
     "namespace": "wcrp:cordex:domain:mna-44", 
     "raw_name": "MNA-44", 
-    "status": "pending", 
-    "uid": "c7a38a79-2a65-4f29-84ff-28ad319abc76"
+    "status": "pending"
 }

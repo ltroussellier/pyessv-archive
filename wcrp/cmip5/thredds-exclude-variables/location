@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "location", 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:location", 
-    "status": "pending", 
-    "uid": "6e683aa7-6cc9-4331-a2de-dcef9f0f61ff"
+    "status": "pending"
 }

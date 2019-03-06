@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "dpocdtdiaz", 
     "namespace": "wcrp:cmip5:variable:dpocdtdiaz", 
-    "status": "pending", 
-    "uid": "d52482f4-5e08-42d0-801e-b07c950cb98a"
+    "status": "pending"
 }

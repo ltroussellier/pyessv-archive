@@ -34,6 +34,5 @@
     "label": "dcppC-ipv-NexTrop-neg", 
     "namespace": "wcrp:cmip6:experiment-id:dcppc-ipv-nextrop-neg", 
     "raw_name": "dcppC-ipv-NexTrop-neg", 
-    "status": "pending", 
-    "uid": "51eda4ed-9173-4f68-9a10-bab032667ed5"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "transifs", 
     "namespace": "wcrp:cmip5:variable:transifs", 
-    "status": "pending", 
-    "uid": "c67cd8f6-fd79-4e15-a4be-660d1f3e476a"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "concdms", 
     "namespace": "wcrp:cmip5:variable:concdms", 
-    "status": "pending", 
-    "uid": "706695a5-762f-41ce-9cb6-1bb5edffbb81"
+    "status": "pending"
 }

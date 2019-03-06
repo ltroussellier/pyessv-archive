@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "reffclis", 
     "namespace": "wcrp:cmip5:variable:reffclis", 
-    "status": "pending", 
-    "uid": "83297dc3-8974-4eec-9d50-8db9c9ef3cfe"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "pbsi", 
     "namespace": "wcrp:cmip5:variable:pbsi", 
-    "status": "pending", 
-    "uid": "75acca79-16dd-4c99-ac56-01c7e3fc3995"
+    "status": "pending"
 }

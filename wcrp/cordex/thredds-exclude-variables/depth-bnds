@@ -6,6 +6,5 @@
     "label": "depth_bnds", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:depth-bnds", 
     "raw_name": "depth_bnds", 
-    "status": "pending", 
-    "uid": "217acc89-0f2e-42d9-a4c6-7853e4d5c914"
+    "status": "pending"
 }

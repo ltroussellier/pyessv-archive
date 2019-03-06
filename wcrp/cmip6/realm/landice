@@ -6,6 +6,5 @@
     "label": "landIce", 
     "namespace": "wcrp:cmip6:realm:landice", 
     "raw_name": "landIce", 
-    "status": "pending", 
-    "uid": "c97b40ad-24d6-4afc-900b-634c582c39ba"
+    "status": "pending"
 }

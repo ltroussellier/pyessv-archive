@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ta500", 
     "namespace": "wcrp:cordex:variable:ta500", 
-    "status": "pending", 
-    "uid": "fbee9e77-4260-4877-af53-ff03996891dd"
+    "status": "pending"
 }

@@ -6,6 +6,5 @@
     "label": "cCwd", 
     "namespace": "wcrp:cmip5:variable:ccwd", 
     "raw_name": "cCwd", 
-    "status": "pending", 
-    "uid": "38a1de93-2368-41c0-9521-882da56ca8ab"
+    "status": "pending"
 }

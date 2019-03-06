@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "6hr", 
     "namespace": "wcrp:cmip5:time-frequency:6hr", 
-    "status": "pending", 
-    "uid": "2a59929d-e870-446a-b050-257a6e79c3c4"
+    "status": "pending"
 }

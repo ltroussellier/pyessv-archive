@@ -12,6 +12,5 @@
     "label": "INM", 
     "namespace": "wcrp:cmip6:institution-id:inm", 
     "raw_name": "INM", 
-    "status": "pending", 
-    "uid": "08c2bb09-aae5-4680-8af5-d9db4c2eb42e"
+    "status": "pending"
 }

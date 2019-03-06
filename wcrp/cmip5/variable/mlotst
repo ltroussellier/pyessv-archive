@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "mlotst", 
     "namespace": "wcrp:cmip5:variable:mlotst", 
-    "status": "pending", 
-    "uid": "2eeda3d2-5706-4e3b-bd81-4009820acfa8"
+    "status": "pending"
 }

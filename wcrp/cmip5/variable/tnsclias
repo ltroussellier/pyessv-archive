@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tnsclias", 
     "namespace": "wcrp:cmip5:variable:tnsclias", 
-    "status": "pending", 
-    "uid": "5f6cc30d-fe11-4889-ae14-95d5b2c425b1"
+    "status": "pending"
 }

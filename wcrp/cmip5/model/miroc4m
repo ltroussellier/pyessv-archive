@@ -6,6 +6,5 @@
     "label": "MIROC4m", 
     "namespace": "wcrp:cmip5:model:miroc4m", 
     "raw_name": "MIROC4m", 
-    "status": "pending", 
-    "uid": "4cfb3975-0d5a-4936-be8e-0b55e1e910ba"
+    "status": "pending"
 }

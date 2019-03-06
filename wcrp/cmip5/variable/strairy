@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "strairy", 
     "namespace": "wcrp:cmip5:variable:strairy", 
-    "status": "pending", 
-    "uid": "98a62c1f-5a07-4b03-8bc5-e392913c1725"
+    "status": "pending"
 }

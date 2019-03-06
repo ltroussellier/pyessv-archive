@@ -54,6 +54,5 @@
     "label": "MPI-ESM1.2-HAM", 
     "namespace": "wcrp:cmip6:source-id:mpi-esm-1-2-ham", 
     "raw_name": "MPI-ESM-1-2-HAM", 
-    "status": "pending", 
-    "uid": "4c0ea2c8-8722-456f-b20e-aefff5848f0e"
+    "status": "pending"
 }

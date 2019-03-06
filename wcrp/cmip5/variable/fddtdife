@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fddtdife", 
     "namespace": "wcrp:cmip5:variable:fddtdife", 
-    "status": "pending", 
-    "uid": "de311054-16bc-41ce-b958-71dd1d1972af"
+    "status": "pending"
 }

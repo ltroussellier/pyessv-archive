@@ -6,6 +6,5 @@
     "label": "6hrPlev", 
     "namespace": "wcrp:cmip5:cmor-table:6hrplev", 
     "raw_name": "6hrPlev", 
-    "status": "pending", 
-    "uid": "6c7b218e-2374-441d-8ec8-7a5d1aa86bf5"
+    "status": "pending"
 }

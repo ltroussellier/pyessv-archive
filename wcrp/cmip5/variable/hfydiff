@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hfydiff", 
     "namespace": "wcrp:cmip5:variable:hfydiff", 
-    "status": "pending", 
-    "uid": "d6d8c1fa-8484-488f-b4b6-494e0893eff2"
+    "status": "pending"
 }

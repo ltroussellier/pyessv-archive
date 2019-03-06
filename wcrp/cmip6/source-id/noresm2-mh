@@ -59,6 +59,5 @@
     "label": "NorESM2-MH", 
     "namespace": "wcrp:cmip6:source-id:noresm2-mh", 
     "raw_name": "NorESM2-MH", 
-    "status": "pending", 
-    "uid": "e0521866-2305-4494-a411-05a229a85dc5"
+    "status": "pending"
 }

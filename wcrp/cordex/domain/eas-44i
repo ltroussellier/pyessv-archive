@@ -6,6 +6,5 @@
     "label": "EAS-44i", 
     "namespace": "wcrp:cordex:domain:eas-44i", 
     "raw_name": "EAS-44i", 
-    "status": "pending", 
-    "uid": "52a622f0-c89b-47d4-b657-c4868faafe13"
+    "status": "pending"
 }

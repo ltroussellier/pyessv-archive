@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "mrsos", 
     "namespace": "wcrp:cordex:variable:mrsos", 
-    "status": "pending", 
-    "uid": "b4edd975-f7b0-4b69-87ca-42309b2447f7"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sos", 
     "namespace": "wcrp:cmip5:variable:sos", 
-    "status": "pending", 
-    "uid": "d6e0df06-2d8e-4d24-9a95-a4671ffc7ee8"
+    "status": "pending"
 }

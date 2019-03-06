@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rlussi", 
     "namespace": "wcrp:cmip5:variable:rlussi", 
-    "status": "pending", 
-    "uid": "b347116e-046b-430a-99f2-f3b221ea7c74"
+    "status": "pending"
 }

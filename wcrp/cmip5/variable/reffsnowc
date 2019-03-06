@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "reffsnowc", 
     "namespace": "wcrp:cmip5:variable:reffsnowc", 
-    "status": "pending", 
-    "uid": "fe2de5ed-d6db-45a2-abfe-f3f4366f1ef4"
+    "status": "pending"
 }

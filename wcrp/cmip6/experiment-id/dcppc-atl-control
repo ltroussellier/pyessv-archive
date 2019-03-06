@@ -34,6 +34,5 @@
     "label": "dcppC-atl-control", 
     "namespace": "wcrp:cmip6:experiment-id:dcppc-atl-control", 
     "raw_name": "dcppC-atl-control", 
-    "status": "pending", 
-    "uid": "55b1c4bd-f423-45e3-92c7-9b477c422d22"
+    "status": "pending"
 }

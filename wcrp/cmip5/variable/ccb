@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "ccb", 
     "namespace": "wcrp:cmip5:variable:ccb", 
-    "status": "pending", 
-    "uid": "345ecd4c-f72e-40da-b4a9-7a73331dbb90"
+    "status": "pending"
 }

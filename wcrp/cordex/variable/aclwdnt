@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "aclwdnt", 
     "namespace": "wcrp:cordex:variable:aclwdnt", 
-    "status": "pending", 
-    "uid": "36fae1e5-a168-4581-aa8d-eca84e3b7f22"
+    "status": "pending"
 }

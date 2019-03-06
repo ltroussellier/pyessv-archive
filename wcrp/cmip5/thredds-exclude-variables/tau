@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tau", 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:tau", 
-    "status": "pending", 
-    "uid": "8fe76710-54af-4b7b-aeac-9fbe7c6fbbec"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "dfe", 
     "namespace": "wcrp:cmip5:variable:dfe", 
-    "status": "pending", 
-    "uid": "8a032cdd-db53-4d68-a0b0-725a2aa90a4c"
+    "status": "pending"
 }

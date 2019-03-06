@@ -5,6 +5,5 @@
     "label": "CFmon", 
     "namespace": "wcrp:cmip6:table-id:cfmon", 
     "raw_name": "CFmon", 
-    "status": "pending", 
-    "uid": "c9839a17-6e99-4dbf-855f-eb103167774e"
+    "status": "pending"
 }

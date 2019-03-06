@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "npp", 
     "namespace": "wcrp:cmip5:variable:npp", 
-    "status": "pending", 
-    "uid": "03d5e4b1-349f-4f6d-9a87-fa8249f921d2"
+    "status": "pending"
 }

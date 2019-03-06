@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "evisct", 
     "namespace": "wcrp:cmip5:variable:evisct", 
-    "status": "pending", 
-    "uid": "b77c741c-71e1-448c-8f03-ac401c522ce4"
+    "status": "pending"
 }

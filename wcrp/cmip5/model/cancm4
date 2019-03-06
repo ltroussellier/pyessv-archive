@@ -6,6 +6,5 @@
     "label": "CanCM4", 
     "namespace": "wcrp:cmip5:model:cancm4", 
     "raw_name": "CanCM4", 
-    "status": "pending", 
-    "uid": "50df87ba-8ce6-4d84-9fe9-104bd8093a44"
+    "status": "pending"
 }

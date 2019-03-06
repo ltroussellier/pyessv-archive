@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "phydiat", 
     "namespace": "wcrp:cmip5:variable:phydiat", 
-    "status": "pending", 
-    "uid": "f55b1252-e326-42f1-913f-d9989c8941c6"
+    "status": "pending"
 }

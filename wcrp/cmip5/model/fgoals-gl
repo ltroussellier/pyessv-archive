@@ -6,6 +6,5 @@
     "label": "FGOALS-gl", 
     "namespace": "wcrp:cmip5:model:fgoals-gl", 
     "raw_name": "FGOALS-gl", 
-    "status": "pending", 
-    "uid": "d2e0585a-09c6-4b15-baa7-dd24f9780e1c"
+    "status": "pending"
 }

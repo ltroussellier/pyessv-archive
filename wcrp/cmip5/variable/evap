@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "evap", 
     "namespace": "wcrp:cmip5:variable:evap", 
-    "status": "pending", 
-    "uid": "eec83795-66c9-4368-bb39-f4de39b003e6"
+    "status": "pending"
 }

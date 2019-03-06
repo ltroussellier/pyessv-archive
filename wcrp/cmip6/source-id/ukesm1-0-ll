@@ -38,7 +38,7 @@
                 "native_nominal_resolution": "250 km"
             }, 
             "land": {
-                "description": "JULES-HadGEM3-GL7.1", 
+                "description": "JULES-ES-1.0", 
                 "native_nominal_resolution": "250 km"
             }, 
             "landIce": {
@@ -64,6 +64,5 @@
     "label": "UKESM1.0-LL", 
     "namespace": "wcrp:cmip6:source-id:ukesm1-0-ll", 
     "raw_name": "UKESM1-0-LL", 
-    "status": "pending", 
-    "uid": "22af6b33-3e9f-4a53-a204-a30c71a54699"
+    "status": "pending"
 }

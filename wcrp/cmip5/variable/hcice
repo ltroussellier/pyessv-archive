@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "hcice", 
     "namespace": "wcrp:cmip5:variable:hcice", 
-    "status": "pending", 
-    "uid": "f8b52b5f-c6e5-4409-97e5-ec7b3c2c74db"
+    "status": "pending"
 }

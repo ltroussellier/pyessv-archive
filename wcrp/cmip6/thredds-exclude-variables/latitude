@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "latitude", 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:latitude", 
-    "status": "pending", 
-    "uid": "0128161d-14aa-482c-a2af-eea5e30c41f5"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fco2nat", 
     "namespace": "wcrp:cmip5:variable:fco2nat", 
-    "status": "pending", 
-    "uid": "86cd4731-b770-4c66-9f28-0b808618689b"
+    "status": "pending"
 }

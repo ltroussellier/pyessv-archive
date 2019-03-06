@@ -6,6 +6,5 @@
     "label": "BCCR-WRF331", 
     "namespace": "wcrp:cordex:rcm-model:bccr-wrf331", 
     "raw_name": "BCCR-WRF331", 
-    "status": "pending", 
-    "uid": "2d0b06d0-d504-44af-ac5c-c5384abe3c9b"
+    "status": "pending"
 }

@@ -53,6 +53,5 @@
     "label": "RRTMG-SW 4.02", 
     "namespace": "wcrp:cmip6:source-id:rrtmg-sw-4-02", 
     "raw_name": "RRTMG-SW-4-02", 
-    "status": "pending", 
-    "uid": "3c947b5c-79f1-4bba-a079-3cbdbc3d7a5e"
+    "status": "pending"
 }

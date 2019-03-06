@@ -6,6 +6,5 @@
     "label": "IPSL-INERIS", 
     "namespace": "wcrp:cordex:institute:ipsl-ineris", 
     "raw_name": "IPSL-INERIS", 
-    "status": "pending", 
-    "uid": "71243abe-e88d-4174-9329-7cd4c7b6342e"
+    "status": "pending"
 }

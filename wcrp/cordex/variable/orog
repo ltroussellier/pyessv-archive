@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "orog", 
     "namespace": "wcrp:cordex:variable:orog", 
-    "status": "pending", 
-    "uid": "5366b2c3-24d6-4c45-9af8-ed77f8ab351a"
+    "status": "pending"
 }

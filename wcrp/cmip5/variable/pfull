@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "pfull", 
     "namespace": "wcrp:cmip5:variable:pfull", 
-    "status": "pending", 
-    "uid": "8d92559c-272d-4b20-acb1-df08b477c8dc"
+    "status": "pending"
 }

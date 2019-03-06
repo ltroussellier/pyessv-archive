@@ -27,6 +27,5 @@
     "label": "RTE-RRTMGP-Consortium", 
     "namespace": "wcrp:cmip6:institution-id:rte-rrtmgp-consortium", 
     "raw_name": "RTE-RRTMGP-Consortium", 
-    "status": "pending", 
-    "uid": "76d7091e-7f07-4096-9dee-e367ebab4c3f"
+    "status": "pending"
 }

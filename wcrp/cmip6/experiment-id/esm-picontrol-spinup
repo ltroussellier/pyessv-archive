@@ -34,6 +34,5 @@
     "label": "esm-piControl-spinup", 
     "namespace": "wcrp:cmip6:experiment-id:esm-picontrol-spinup", 
     "raw_name": "esm-piControl-spinup", 
-    "status": "pending", 
-    "uid": "80a1a163-1e2a-4d62-b400-4c0a13f996e6"
+    "status": "pending"
 }

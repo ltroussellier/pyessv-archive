@@ -6,6 +6,5 @@
     "label": "tau_bnds", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:tau-bnds", 
     "raw_name": "tau_bnds", 
-    "status": "pending", 
-    "uid": "7e575bfc-d160-4407-a9c9-901407dd1948"
+    "status": "pending"
 }

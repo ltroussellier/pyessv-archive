@@ -6,6 +6,5 @@
     "label": "Oclim", 
     "namespace": "wcrp:cmip5:cmor-table:oclim", 
     "raw_name": "Oclim", 
-    "status": "pending", 
-    "uid": "303623ca-fb00-40f0-8db4-b841ea756bcd"
+    "status": "pending"
 }

@@ -5,6 +5,5 @@
     "label": "1x1 degree", 
     "namespace": "wcrp:cmip6:nominal-resolution:1x1-degree", 
     "raw_name": "1x1 degree", 
-    "status": "pending", 
-    "uid": "7bafc0cc-beaf-47bf-add0-647ede74880e"
+    "status": "pending"
 }

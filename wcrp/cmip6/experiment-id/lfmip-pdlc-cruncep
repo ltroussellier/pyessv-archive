@@ -34,6 +34,5 @@
     "label": "lfmip-pdLC-cruNcep", 
     "namespace": "wcrp:cmip6:experiment-id:lfmip-pdlc-cruncep", 
     "raw_name": "lfmip-pdLC-cruNcep", 
-    "status": "pending", 
-    "uid": "e52bbd6e-7714-470a-a85a-f4dbf823ed1c"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tsice", 
     "namespace": "wcrp:cmip5:variable:tsice", 
-    "status": "pending", 
-    "uid": "aee33167-a2b5-4d3f-99b1-a901502742a2"
+    "status": "pending"
 }

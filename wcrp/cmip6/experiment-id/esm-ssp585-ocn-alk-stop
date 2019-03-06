@@ -32,6 +32,5 @@
     }, 
     "description": "Simulation of abrupt termination of ocean alkalinsation in 2070 during an emission driven SSP5-8.5 scenario (part of the CDR-ocean-alk experiment)", 
     "namespace": "wcrp:cmip6:experiment-id:esm-ssp585-ocn-alk-stop", 
-    "status": "pending", 
-    "uid": "647d991e-da1e-4f0a-8864-2f08ad959e32"
+    "status": "pending"
 }

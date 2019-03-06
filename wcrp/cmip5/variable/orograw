@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "orograw", 
     "namespace": "wcrp:cmip5:variable:orograw", 
-    "status": "pending", 
-    "uid": "6c0a3d4a-35f2-4a36-8f7d-09b59f5796bb"
+    "status": "pending"
 }

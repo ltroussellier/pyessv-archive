@@ -6,6 +6,5 @@
     "label": "fFire", 
     "namespace": "wcrp:cmip5:variable:ffire", 
     "raw_name": "fFire", 
-    "status": "pending", 
-    "uid": "99ea4959-f686-4abd-9f06-13dd89895600"
+    "status": "pending"
 }

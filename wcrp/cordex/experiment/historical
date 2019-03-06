@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "Historical", 
     "namespace": "wcrp:cordex:experiment:historical", 
-    "status": "pending", 
-    "uid": "fa4756c7-a472-4c6e-9ea3-722b6445969e"
+    "status": "pending"
 }

@@ -7,6 +7,5 @@
     }, 
     "label": "Queued", 
     "namespace": "esdoc:errata:pid-task-status:queued", 
-    "status": "pending", 
-    "uid": "48085955-e7fb-4886-a9d6-f72cd705b340"
+    "status": "pending"
 }

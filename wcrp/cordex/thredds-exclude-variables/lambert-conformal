@@ -6,6 +6,5 @@
     "label": "Lambert_Conformal", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:lambert-conformal", 
     "raw_name": "Lambert_Conformal", 
-    "status": "pending", 
-    "uid": "3ad41428-5ba9-4c22-ade4-a060f527bf14"
+    "status": "pending"
 }

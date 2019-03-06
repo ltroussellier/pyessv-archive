@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "emibc", 
     "namespace": "wcrp:cmip5:variable:emibc", 
-    "status": "pending", 
-    "uid": "d94e99ca-cfe8-4929-a388-9560405035e3"
+    "status": "pending"
 }

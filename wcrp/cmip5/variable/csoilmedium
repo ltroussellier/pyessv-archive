@@ -6,6 +6,5 @@
     "label": "cSoilMedium", 
     "namespace": "wcrp:cmip5:variable:csoilmedium", 
     "raw_name": "cSoilMedium", 
-    "status": "pending", 
-    "uid": "f9a25e95-d851-4ec7-b51c-2867c83d6453"
+    "status": "pending"
 }

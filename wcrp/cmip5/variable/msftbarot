@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "msftbarot", 
     "namespace": "wcrp:cmip5:variable:msftbarot", 
-    "status": "pending", 
-    "uid": "cf2d33dd-9e22-4911-aab9-128d45056986"
+    "status": "pending"
 }

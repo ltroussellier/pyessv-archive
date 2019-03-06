@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "clh", 
     "namespace": "wcrp:cordex:variable:clh", 
-    "status": "pending", 
-    "uid": "df60d57f-7e2c-48e1-a059-f08bdce936f4"
+    "status": "pending"
 }

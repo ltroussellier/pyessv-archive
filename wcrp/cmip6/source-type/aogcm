@@ -5,6 +5,5 @@
     "label": "AOGCM", 
     "namespace": "wcrp:cmip6:source-type:aogcm", 
     "raw_name": "AOGCM", 
-    "status": "pending", 
-    "uid": "34a43053-3af0-4ae7-8ac6-ff22ff6d874c"
+    "status": "pending"
 }

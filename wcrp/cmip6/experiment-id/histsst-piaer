@@ -34,6 +34,5 @@
     "label": "histSST-piAer", 
     "namespace": "wcrp:cmip6:experiment-id:histsst-piaer", 
     "raw_name": "histSST-piAer", 
-    "status": "pending", 
-    "uid": "67d6844f-dfa9-4a82-b952-bef8bdfab4ca"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "clwmr300", 
     "namespace": "wcrp:cordex:variable:clwmr300", 
-    "status": "pending", 
-    "uid": "605e4b6b-a579-4aa3-9efe-ca9f0c984e31"
+    "status": "pending"
 }

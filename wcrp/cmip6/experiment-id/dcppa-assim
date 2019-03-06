@@ -34,6 +34,5 @@
     "label": "dcppA-assim", 
     "namespace": "wcrp:cmip6:experiment-id:dcppa-assim", 
     "raw_name": "dcppA-assim", 
-    "status": "pending", 
-    "uid": "072e7d16-28cf-44c7-a210-267298054e31"
+    "status": "pending"
 }

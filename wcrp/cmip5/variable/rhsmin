@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rhsmin", 
     "namespace": "wcrp:cmip5:variable:rhsmin", 
-    "status": "pending", 
-    "uid": "ce686cb5-3d6f-41a1-9663-0d17c33ed14e"
+    "status": "pending"
 }

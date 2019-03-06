@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tnhusc", 
     "namespace": "wcrp:cmip5:variable:tnhusc", 
-    "status": "pending", 
-    "uid": "d74d11f2-466d-4447-9e12-7aa7e1261445"
+    "status": "pending"
 }

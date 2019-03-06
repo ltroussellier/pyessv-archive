@@ -6,6 +6,5 @@
     "label": "cVeg", 
     "namespace": "wcrp:cmip5:variable:cveg", 
     "raw_name": "cVeg", 
-    "status": "pending", 
-    "uid": "5a13600e-2885-494b-ab21-d604787dca37"
+    "status": "pending"
 }

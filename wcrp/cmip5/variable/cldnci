@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cldnci", 
     "namespace": "wcrp:cmip5:variable:cldnci", 
-    "status": "pending", 
-    "uid": "8a17650b-08a9-4e33-a172-d64aaf598a57"
+    "status": "pending"
 }

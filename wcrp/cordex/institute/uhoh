@@ -6,6 +6,5 @@
     "label": "UHOH", 
     "namespace": "wcrp:cordex:institute:uhoh", 
     "raw_name": "UHOH", 
-    "status": "pending", 
-    "uid": "a46c4f45-e2e3-4b16-ba87-c382fa290d0b"
+    "status": "pending"
 }

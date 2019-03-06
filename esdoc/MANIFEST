@@ -28,15 +28,13 @@
                         "ocnbgchem:Ocean Biogeochemistry", 
                         "seaice:Sea Ice", 
                         "toplevel:Top Level"
-                    ], 
-                    "uid": "994d0256-dd3a-4bf5-8789-25e847ccaeec"
+                    ]
                 }
             ], 
             "create_date": "2017-06-21 00:00:00+00:00", 
             "description": "ES-DOC controlled Vocabularies (CVs) for use in cmip6", 
             "label": "CMIP6", 
             "namespace": "esdoc:cmip6", 
-            "uid": "5c7c898f-594a-48c2-8d2e-d765f23b6d6d", 
             "url": "https://github.com/ES-DOC"
         }, 
         {
@@ -54,8 +52,7 @@
                     "terms": [
                         "delete:Delete", 
                         "insert:Insert"
-                    ], 
-                    "uid": "67cb3d8f-f6ba-440f-9e26-2bb0900a9af7"
+                    ]
                 }, 
                 {
                     "_type": "collection", 
@@ -69,8 +66,7 @@
                         "complete:Complete", 
                         "error:Error", 
                         "queued:Queued"
-                    ], 
-                    "uid": "2f963f11-decc-40d8-a09c-1e82b249a3cc"
+                    ]
                 }, 
                 {
                     "_type": "collection", 
@@ -85,8 +81,7 @@
                         "cmip6:CMIP6", 
                         "cordex:CORDEX", 
                         "input4mips:input4MIPs"
-                    ], 
-                    "uid": "1786dd6c-61df-41ed-a950-214bb7aed836"
+                    ]
                 }, 
                 {
                     "_type": "collection", 
@@ -101,8 +96,7 @@
                         "high:High", 
                         "low:Low", 
                         "medium:Medium"
-                    ], 
-                    "uid": "e0b145b4-66d6-4a84-954d-a1754be2fd84"
+                    ]
                 }, 
                 {
                     "_type": "collection", 
@@ -117,18 +111,15 @@
                         "onhold:On Hold", 
                         "resolved:Resolved", 
                         "wontfix:Wont Fix"
-                    ], 
-                    "uid": "84b1ba2f-885c-4a9e-b3c0-ff55eb2a82a1"
+                    ]
                 }
             ], 
             "create_date": "2017-06-21 00:00:00+00:00", 
             "description": "Controlled Vocabularies (CVs) for use in dataset errata", 
             "label": "Dataset Errata", 
             "namespace": "esdoc:errata", 
-            "uid": "cec5ad20-d4f7-4ff3-a25a-f21c21c5cc2d", 
             "url": "https://github.com/ES-DOC/esdoc-errata-ws"
         }
     ], 
-    "uid": "1cd4ee14-a84d-46b5-8719-de98d93f02d4", 
     "url": "https://es-doc.org"
 }

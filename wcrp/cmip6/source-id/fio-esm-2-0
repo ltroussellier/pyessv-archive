@@ -58,6 +58,5 @@
     "label": "FIO-ESM 2.0", 
     "namespace": "wcrp:cmip6:source-id:fio-esm-2-0", 
     "raw_name": "FIO-ESM-2-0", 
-    "status": "pending", 
-    "uid": "21f6fd74-a32e-4e11-8c4f-b20e4e6e8600"
+    "status": "pending"
 }

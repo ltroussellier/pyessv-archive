@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sdepth", 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:sdepth", 
-    "status": "pending", 
-    "uid": "6ed7a913-5546-4832-9036-a81e1ed30ae1"
+    "status": "pending"
 }

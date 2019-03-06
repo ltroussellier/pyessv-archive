@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "phydiaz", 
     "namespace": "wcrp:cmip5:variable:phydiaz", 
-    "status": "pending", 
-    "uid": "17378e0f-f332-458e-bc6f-d0f2bf711812"
+    "status": "pending"
 }

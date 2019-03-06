@@ -34,6 +34,5 @@
     "label": "dcppC-amv-pos", 
     "namespace": "wcrp:cmip6:experiment-id:dcppc-amv-pos", 
     "raw_name": "dcppC-amv-pos", 
-    "status": "pending", 
-    "uid": "a16858f2-394f-4006-b479-8ceedd14d94e"
+    "status": "pending"
 }

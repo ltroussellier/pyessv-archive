@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rlat", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:rlat", 
-    "status": "pending", 
-    "uid": "fa7e67b9-e001-4254-8230-cd44fea7a863"
+    "status": "pending"
 }

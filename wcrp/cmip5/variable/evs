@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "evs", 
     "namespace": "wcrp:cmip5:variable:evs", 
-    "status": "pending", 
-    "uid": "901d2c4e-580d-41f8-ad9f-bb7ab55dffc2"
+    "status": "pending"
 }

@@ -6,6 +6,5 @@
     "label": "CUNI-RegCM4-2", 
     "namespace": "wcrp:cordex:rcm-model:cuni-regcm4-2", 
     "raw_name": "CUNI-RegCM4-2", 
-    "status": "pending", 
-    "uid": "29711e6a-2c07-46ce-bdec-86f9e063d3fc"
+    "status": "pending"
 }

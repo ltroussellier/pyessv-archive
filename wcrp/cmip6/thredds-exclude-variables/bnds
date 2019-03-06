@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "bnds", 
     "namespace": "wcrp:cmip6:thredds-exclude-variables:bnds", 
-    "status": "pending", 
-    "uid": "22e0e37d-5f9a-45fc-a04a-c7e103a2abd1"
+    "status": "pending"
 }

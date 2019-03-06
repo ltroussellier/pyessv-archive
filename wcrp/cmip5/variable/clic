@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "clic", 
     "namespace": "wcrp:cmip5:variable:clic", 
-    "status": "pending", 
-    "uid": "6bc3d938-803e-4d29-8693-52f1277f0e1d"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "loadsoa", 
     "namespace": "wcrp:cmip5:variable:loadsoa", 
-    "status": "pending", 
-    "uid": "48d261b6-d5a8-4509-b2e0-751a33f64513"
+    "status": "pending"
 }

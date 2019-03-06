@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "prcprof", 
     "namespace": "wcrp:cmip5:variable:prcprof", 
-    "status": "pending", 
-    "uid": "fe327b4a-cd49-4eb4-8046-cdc7a7399c1f"
+    "status": "pending"
 }

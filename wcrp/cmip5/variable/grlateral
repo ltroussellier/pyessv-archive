@@ -6,6 +6,5 @@
     "label": "grLateral", 
     "namespace": "wcrp:cmip5:variable:grlateral", 
     "raw_name": "grLateral", 
-    "status": "pending", 
-    "uid": "0309817f-31b7-462a-8262-2e5c020605a5"
+    "status": "pending"
 }

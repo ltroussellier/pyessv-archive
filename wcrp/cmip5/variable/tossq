@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tossq", 
     "namespace": "wcrp:cmip5:variable:tossq", 
-    "status": "pending", 
-    "uid": "fd096534-cd6d-444d-8b7e-909542bfb2af"
+    "status": "pending"
 }

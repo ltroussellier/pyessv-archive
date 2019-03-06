@@ -34,6 +34,5 @@
     "label": "pa-piArcSIC", 
     "namespace": "wcrp:cmip6:experiment-id:pa-piarcsic", 
     "raw_name": "pa-piArcSIC", 
-    "status": "pending", 
-    "uid": "88ad7780-5644-48b8-b68c-a674e6349e80"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "pctisccp", 
     "namespace": "wcrp:cmip5:variable:pctisccp", 
-    "status": "pending", 
-    "uid": "5076872b-365c-4d39-95ca-f5f270ac57f1"
+    "status": "pending"
 }

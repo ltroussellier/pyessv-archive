@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "subhr", 
     "namespace": "wcrp:cmip5:time-frequency:subhr", 
-    "status": "pending", 
-    "uid": "6c6d1fb0-721a-416c-b2c9-affb2a7e210a"
+    "status": "pending"
 }

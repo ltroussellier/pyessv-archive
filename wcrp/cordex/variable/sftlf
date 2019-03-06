@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sftlf", 
     "namespace": "wcrp:cordex:variable:sftlf", 
-    "status": "pending", 
-    "uid": "c958fd54-88ed-48a5-96db-f18d1a768eaf"
+    "status": "pending"
 }

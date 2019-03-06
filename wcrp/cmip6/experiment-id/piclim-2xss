@@ -34,6 +34,5 @@
     "label": "piClim-2xss", 
     "namespace": "wcrp:cmip6:experiment-id:piclim-2xss", 
     "raw_name": "piClim-2xss", 
-    "status": "pending", 
-    "uid": "ece62d49-8c81-4840-b003-b0819d5f0373"
+    "status": "pending"
 }

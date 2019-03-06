@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "sfriver", 
     "namespace": "wcrp:cmip5:variable:sfriver", 
-    "status": "pending", 
-    "uid": "c20942db-9278-481c-be2e-b5f3e8c3f996"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "dryss", 
     "namespace": "wcrp:cmip5:variable:dryss", 
-    "status": "pending", 
-    "uid": "1e2b1a0a-a116-4e76-be08-265ffcef4c89"
+    "status": "pending"
 }

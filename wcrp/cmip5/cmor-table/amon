@@ -6,6 +6,5 @@
     "label": "Amon", 
     "namespace": "wcrp:cmip5:cmor-table:amon", 
     "raw_name": "Amon", 
-    "status": "pending", 
-    "uid": "9bb5da5d-300d-4f0c-a1e3-d13645fe2eb6"
+    "status": "pending"
 }

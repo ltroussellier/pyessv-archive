@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tnsclimr", 
     "namespace": "wcrp:cmip5:variable:tnsclimr", 
-    "status": "pending", 
-    "uid": "5e739911-0ec0-4d36-a26e-ab7eac9afed7"
+    "status": "pending"
 }

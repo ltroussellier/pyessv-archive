@@ -6,6 +6,5 @@
     "label": "a_bnds", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:a-bnds", 
     "raw_name": "a_bnds", 
-    "status": "pending", 
-    "uid": "093b9269-0d95-4923-a620-e75b37bc2ebc"
+    "status": "pending"
 }

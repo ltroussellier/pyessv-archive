@@ -14,17 +14,17 @@
         "end_year": "2100", 
         "experiment": "stratospheric sulfate aerosol injection to reduce net forcing from SSP585 to SSP245", 
         "experiment_id": "G6sulfur", 
-        "min_number_yrs_per_sim": "86", 
+        "min_number_yrs_per_sim": "81", 
         "parent_activity_id": [
             "CMIP"
         ], 
         "parent_experiment_id": [
-            "historical"
+            "ssp585"
         ], 
         "required_model_components": [
             "AOGCM"
         ], 
-        "start_year": "2015", 
+        "start_year": "2020", 
         "sub_experiment_id": [
             "none"
         ], 
@@ -34,6 +34,5 @@
     "label": "G6sulfur", 
     "namespace": "wcrp:cmip6:experiment-id:g6sulfur", 
     "raw_name": "G6sulfur", 
-    "status": "pending", 
-    "uid": "1b57f190-d7c6-4052-826f-8a83780dfe9f"
+    "status": "pending"
 }

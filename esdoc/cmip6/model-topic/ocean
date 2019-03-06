@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "label": "Ocean", 
     "namespace": "esdoc:cmip6:model-topic:ocean", 
-    "status": "pending", 
-    "uid": "bbf581b1-a798-407f-bf1e-b35a78f631de"
+    "status": "pending"
 }

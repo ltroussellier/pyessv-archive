@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "nep", 
     "namespace": "wcrp:cmip5:variable:nep", 
-    "status": "pending", 
-    "uid": "6d872927-e57c-4afa-aa07-9cac1f80360e"
+    "status": "pending"
 }

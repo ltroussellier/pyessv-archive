@@ -34,6 +34,5 @@
     "label": "hist-piAer", 
     "namespace": "wcrp:cmip6:experiment-id:hist-piaer", 
     "raw_name": "hist-piAer", 
-    "status": "pending", 
-    "uid": "82a97cb3-3823-4b05-b0c3-8d481de00e79"
+    "status": "pending"
 }

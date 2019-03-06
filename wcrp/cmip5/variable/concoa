@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "concoa", 
     "namespace": "wcrp:cmip5:variable:concoa", 
-    "status": "pending", 
-    "uid": "cdc37286-df68-4054-96b9-3d9b14c128fb"
+    "status": "pending"
 }

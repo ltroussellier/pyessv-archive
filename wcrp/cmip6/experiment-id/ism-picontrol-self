@@ -32,6 +32,5 @@
     "label": "ism-piControl-self", 
     "namespace": "wcrp:cmip6:experiment-id:ism-picontrol-self", 
     "raw_name": "ism-piControl-self", 
-    "status": "pending", 
-    "uid": "2bb94044-705f-4a3f-9dcf-d3a5b1f6870d"
+    "status": "pending"
 }

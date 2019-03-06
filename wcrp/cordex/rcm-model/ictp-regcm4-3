@@ -6,6 +6,5 @@
     "label": "ICTP-RegCM4-3", 
     "namespace": "wcrp:cordex:rcm-model:ictp-regcm4-3", 
     "raw_name": "ICTP-RegCM4-3", 
-    "status": "pending", 
-    "uid": "cec4a070-2ea0-4abc-b7b9-fb69dcf0877d"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "omldamax", 
     "namespace": "wcrp:cmip5:variable:omldamax", 
-    "status": "pending", 
-    "uid": "a8f7066c-67ef-4fa7-9329-30cfac027eb6"
+    "status": "pending"
 }

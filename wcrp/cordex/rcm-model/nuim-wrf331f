@@ -6,6 +6,5 @@
     "label": "NUIM-WRF331F", 
     "namespace": "wcrp:cordex:rcm-model:nuim-wrf331f", 
     "raw_name": "NUIM-WRF331F", 
-    "status": "pending", 
-    "uid": "cfc3c996-605f-47b8-8f32-828b2f4351cf"
+    "status": "pending"
 }

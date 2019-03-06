@@ -6,6 +6,5 @@
     "label": "DMI-HIRHAM5", 
     "namespace": "wcrp:cordex:rcm-model:dmi-hirham5", 
     "raw_name": "DMI-HIRHAM5", 
-    "status": "pending", 
-    "uid": "ddb2dada-aeba-4c26-b662-6b54ea1d7b43"
+    "status": "pending"
 }

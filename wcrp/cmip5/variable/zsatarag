@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "zsatarag", 
     "namespace": "wcrp:cmip5:variable:zsatarag", 
-    "status": "pending", 
-    "uid": "5769ed0c-28fb-4485-9081-83741cf3df74"
+    "status": "pending"
 }

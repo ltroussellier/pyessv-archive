@@ -6,6 +6,5 @@
     "label": "MIROC-MIROC5", 
     "namespace": "wcrp:cordex:driving-model:miroc-miroc5", 
     "raw_name": "MIROC-MIROC5", 
-    "status": "pending", 
-    "uid": "b156bbe1-ac82-4d2f-8533-2204086336db"
+    "status": "pending"
 }

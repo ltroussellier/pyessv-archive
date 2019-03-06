@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rho", 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:rho", 
-    "status": "pending", 
-    "uid": "45d85d80-3286-4792-ade2-4152b72355c7"
+    "status": "pending"
 }

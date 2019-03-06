@@ -5,6 +5,5 @@
     "label": "Ocean Biogeochemistry", 
     "namespace": "esdoc:cmip6:model-topic:ocnbgchem", 
     "raw_name": "ocnBgchem", 
-    "status": "pending", 
-    "uid": "b3be3f8d-eb4a-4f45-a31c-fde96d25ebf5"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "emiso2", 
     "namespace": "wcrp:cmip5:variable:emiso2", 
-    "status": "pending", 
-    "uid": "703860b3-48ae-49c4-aeb6-0db70f5f6b16"
+    "status": "pending"
 }

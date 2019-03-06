@@ -6,6 +6,5 @@
     "label": "cWood", 
     "namespace": "wcrp:cmip5:variable:cwood", 
     "raw_name": "cWood", 
-    "status": "pending", 
-    "uid": "2687d11c-663b-4e78-af2a-a97958784797"
+    "status": "pending"
 }

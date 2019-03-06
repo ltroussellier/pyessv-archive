@@ -58,6 +58,5 @@
     "label": "ACCESS-ESM1.5", 
     "namespace": "wcrp:cmip6:source-id:access-esm1-5", 
     "raw_name": "ACCESS-ESM1-5", 
-    "status": "pending", 
-    "uid": "ea8092a1-df0d-4d4a-b5ad-153e3341e512"
+    "status": "pending"
 }

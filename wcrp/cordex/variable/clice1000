@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "clice1000", 
     "namespace": "wcrp:cordex:variable:clice1000", 
-    "status": "pending", 
-    "uid": "ea79e4e5-b85c-4e43-9157-2aea15fe255d"
+    "status": "pending"
 }

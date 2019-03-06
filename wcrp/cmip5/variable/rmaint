@@ -6,6 +6,5 @@
     "label": "rMaint", 
     "namespace": "wcrp:cmip5:variable:rmaint", 
     "raw_name": "rMaint", 
-    "status": "pending", 
-    "uid": "de666e45-c477-497a-a0b5-0537e6dea0a5"
+    "status": "pending"
 }

@@ -6,6 +6,5 @@
     "label": "EUR-11i", 
     "namespace": "wcrp:cordex:domain:eur-11i", 
     "raw_name": "EUR-11i", 
-    "status": "pending", 
-    "uid": "cbb536a3-646c-41d8-9ff2-395bd98248bc"
+    "status": "pending"
 }

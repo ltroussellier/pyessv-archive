@@ -34,6 +34,5 @@
     "label": "lfmip-rmLC", 
     "namespace": "wcrp:cmip6:experiment-id:lfmip-rmlc", 
     "raw_name": "lfmip-rmLC", 
-    "status": "pending", 
-    "uid": "7fe5bb1b-c16f-4016-a64c-5ee71eba8edd"
+    "status": "pending"
 }

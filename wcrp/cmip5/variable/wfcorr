@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "wfcorr", 
     "namespace": "wcrp:cmip5:variable:wfcorr", 
-    "status": "pending", 
-    "uid": "7fa70ad1-7d6a-46c4-aeff-e9961836012b"
+    "status": "pending"
 }

@@ -33,6 +33,5 @@
     "label": "land-hist-altStartYear", 
     "namespace": "wcrp:cmip6:experiment-id:land-hist-altstartyear", 
     "raw_name": "land-hist-altStartYear", 
-    "status": "pending", 
-    "uid": "034b8173-f97e-4727-b13b-f274ea99a201"
+    "status": "pending"
 }

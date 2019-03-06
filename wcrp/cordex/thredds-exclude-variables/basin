@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "basin", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:basin", 
-    "status": "pending", 
-    "uid": "1ee8d09c-49e7-4cf3-809e-a4c105a7c57a"
+    "status": "pending"
 }

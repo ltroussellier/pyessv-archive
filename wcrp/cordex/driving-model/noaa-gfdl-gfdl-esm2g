@@ -6,6 +6,5 @@
     "label": "NOAA-GFDL-GFDL-ESM2G", 
     "namespace": "wcrp:cordex:driving-model:noaa-gfdl-gfdl-esm2g", 
     "raw_name": "NOAA-GFDL-GFDL-ESM2G", 
-    "status": "pending", 
-    "uid": "f3028f01-53bd-4530-8dc5-9735a39ceb79"
+    "status": "pending"
 }

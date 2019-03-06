@@ -58,6 +58,5 @@
     "label": "AWI-CM 1.1 MR", 
     "namespace": "wcrp:cmip6:source-id:awi-cm-1-1-mr", 
     "raw_name": "AWI-CM-1-1-MR", 
-    "status": "pending", 
-    "uid": "4de93c31-33b8-46a1-9188-f90a77cb0891"
+    "status": "pending"
 }

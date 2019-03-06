@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "label": "Atmosphere", 
     "namespace": "esdoc:cmip6:model-topic:atmos", 
-    "status": "pending", 
-    "uid": "cb008a26-4502-4e0e-be5d-2c6ddd48bb8b"
+    "status": "pending"
 }

@@ -34,6 +34,5 @@
     "label": "hist-resAMO", 
     "namespace": "wcrp:cmip6:experiment-id:hist-resamo", 
     "raw_name": "hist-resAMO", 
-    "status": "pending", 
-    "uid": "ac0ad34f-1e92-4a0a-90ec-c76ff19457e8"
+    "status": "pending"
 }

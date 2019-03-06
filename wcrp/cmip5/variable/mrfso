@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "mrfso", 
     "namespace": "wcrp:cmip5:variable:mrfso", 
-    "status": "pending", 
-    "uid": "251e51c5-e1bf-42d6-a317-a4cc79c2a92c"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "olayer100m", 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:olayer100m", 
-    "status": "pending", 
-    "uid": "020b6222-40bc-47b7-ac95-8aaf509d2c24"
+    "status": "pending"
 }

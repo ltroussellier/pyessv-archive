@@ -71,6 +71,5 @@
     "label": "GISS-E2.1G", 
     "namespace": "wcrp:cmip6:source-id:giss-e2-1-g", 
     "raw_name": "GISS-E2-1-G", 
-    "status": "pending", 
-    "uid": "5a7a6b70-31b0-40ea-97f5-61974124eade"
+    "status": "pending"
 }

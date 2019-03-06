@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "alb", 
     "namespace": "wcrp:cordex:variable:alb", 
-    "status": "pending", 
-    "uid": "bc4135ed-0303-461e-851e-8c81571da79b"
+    "status": "pending"
 }

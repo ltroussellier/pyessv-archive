@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "wetso2", 
     "namespace": "wcrp:cmip5:variable:wetso2", 
-    "status": "pending", 
-    "uid": "df2a2f0f-a359-4a12-b42d-a0e5b1bd7c88"
+    "status": "pending"
 }

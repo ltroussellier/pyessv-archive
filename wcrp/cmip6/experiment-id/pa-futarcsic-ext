@@ -34,6 +34,5 @@
     "label": "pa-futArcSIC-ext", 
     "namespace": "wcrp:cmip6:experiment-id:pa-futarcsic-ext", 
     "raw_name": "pa-futArcSIC-ext", 
-    "status": "pending", 
-    "uid": "9d170189-0f5b-47b4-b8e7-d156bf906fd0"
+    "status": "pending"
 }

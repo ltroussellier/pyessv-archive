@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "alevel", 
     "namespace": "wcrp:cmip5:thredds-exclude-variables:alevel", 
-    "status": "pending", 
-    "uid": "5e33e7d3-859f-4aae-a4a4-789fc671ddeb"
+    "status": "pending"
 }

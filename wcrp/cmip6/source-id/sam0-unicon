@@ -54,6 +54,5 @@
     "label": "SAM0-UNICON", 
     "namespace": "wcrp:cmip6:source-id:sam0-unicon", 
     "raw_name": "SAM0-UNICON", 
-    "status": "pending", 
-    "uid": "7bebc611-f0d2-490a-9d9c-fe276fac65bb"
+    "status": "pending"
 }

@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "tsos", 
     "namespace": "wcrp:cordex:variable:tsos", 
-    "status": "pending", 
-    "uid": "716e2577-1531-47ad-b1d7-e5982936ef3c"
+    "status": "pending"
 }

@@ -34,6 +34,5 @@
     "label": "modelSST-futArcSIC", 
     "namespace": "wcrp:cmip6:experiment-id:modelsst-futarcsic", 
     "raw_name": "modelSST-futArcSIC", 
-    "status": "pending", 
-    "uid": "9bfb47f7-3ff6-48e5-a49b-efe381d525d9"
+    "status": "pending"
 }

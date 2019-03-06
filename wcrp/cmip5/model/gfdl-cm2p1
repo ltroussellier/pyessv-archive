@@ -6,6 +6,5 @@
     "label": "GFDL-CM2p1", 
     "namespace": "wcrp:cmip5:model:gfdl-cm2p1", 
     "raw_name": "GFDL-CM2p1", 
-    "status": "pending", 
-    "uid": "0afd5831-69e9-4f3c-9f8c-05a7951eca47"
+    "status": "pending"
 }

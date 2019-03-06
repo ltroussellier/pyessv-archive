@@ -34,6 +34,5 @@
     "label": "lfmip-pdLC-princeton", 
     "namespace": "wcrp:cmip6:experiment-id:lfmip-pdlc-princeton", 
     "raw_name": "lfmip-pdLC-princeton", 
-    "status": "pending", 
-    "uid": "26436330-ed1c-441d-9b69-aa1119978cc9"
+    "status": "pending"
 }

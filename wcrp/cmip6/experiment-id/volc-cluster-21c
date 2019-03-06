@@ -34,6 +34,5 @@
     "label": "volc-cluster-21C", 
     "namespace": "wcrp:cmip6:experiment-id:volc-cluster-21c", 
     "raw_name": "volc-cluster-21C", 
-    "status": "pending", 
-    "uid": "56a2be3e-8487-4aa4-9d88-0748031fe5d1"
+    "status": "pending"
 }

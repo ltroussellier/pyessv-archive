@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "rsus", 
     "namespace": "wcrp:cmip5:variable:rsus", 
-    "status": "pending", 
-    "uid": "1ef2ca34-1609-4cce-8993-af65b06c17ee"
+    "status": "pending"
 }

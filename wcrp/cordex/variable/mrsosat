@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "mrsosat", 
     "namespace": "wcrp:cordex:variable:mrsosat", 
-    "status": "pending", 
-    "uid": "97a12880-f9c0-479b-b690-4fffc7d92d84"
+    "status": "pending"
 }

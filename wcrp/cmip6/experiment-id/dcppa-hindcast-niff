@@ -92,6 +92,5 @@
     "label": "dcppA-hindcast-niff", 
     "namespace": "wcrp:cmip6:experiment-id:dcppa-hindcast-niff", 
     "raw_name": "dcppA-hindcast-niff", 
-    "status": "pending", 
-    "uid": "1358990d-f262-4a1c-9891-8df65fcecdf4"
+    "status": "pending"
 }

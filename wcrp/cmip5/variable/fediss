@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fediss", 
     "namespace": "wcrp:cmip5:variable:fediss", 
-    "status": "pending", 
-    "uid": "2a9ae8b5-ac13-4b89-acbe-891cbe402c30"
+    "status": "pending"
 }

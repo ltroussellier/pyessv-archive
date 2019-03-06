@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "p500", 
     "namespace": "wcrp:cordex:thredds-exclude-variables:p500", 
-    "status": "pending", 
-    "uid": "ab72bb15-8399-433b-8243-14fe56162d56"
+    "status": "pending"
 }

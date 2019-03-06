@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "cfc113global", 
     "namespace": "wcrp:cmip5:variable:cfc113global", 
-    "status": "pending", 
-    "uid": "6e2b0024-cfba-413f-8f6e-403504092372"
+    "status": "pending"
 }

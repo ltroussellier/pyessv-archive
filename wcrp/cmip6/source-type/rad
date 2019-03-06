@@ -5,6 +5,5 @@
     "label": "RAD", 
     "namespace": "wcrp:cmip6:source-type:rad", 
     "raw_name": "RAD", 
-    "status": "pending", 
-    "uid": "89734b7a-38d3-4066-b552-3a99f7c27867"
+    "status": "pending"
 }

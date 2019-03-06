@@ -33,6 +33,5 @@
     "label": "amip-m4K", 
     "namespace": "wcrp:cmip6:experiment-id:amip-m4k", 
     "raw_name": "amip-m4K", 
-    "status": "pending", 
-    "uid": "3dd88d04-000c-40d4-bfe9-8d0fe8a951d8"
+    "status": "pending"
 }

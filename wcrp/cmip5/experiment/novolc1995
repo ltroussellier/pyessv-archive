@@ -6,6 +6,5 @@
     "label": "noVolc1995", 
     "namespace": "wcrp:cmip5:experiment:novolc1995", 
     "raw_name": "noVolc1995", 
-    "status": "pending", 
-    "uid": "ea8ff879-e515-4d33-b9d1-6cc443d65459"
+    "status": "pending"
 }

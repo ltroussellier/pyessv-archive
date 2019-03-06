@@ -54,6 +54,5 @@
     "label": "INM-CM4-8", 
     "namespace": "wcrp:cmip6:source-id:inm-cm4-8", 
     "raw_name": "INM-CM4-8", 
-    "status": "pending", 
-    "uid": "8243b01a-cbea-4e42-af7a-04bd1b7d4cc1"
+    "status": "pending"
 }

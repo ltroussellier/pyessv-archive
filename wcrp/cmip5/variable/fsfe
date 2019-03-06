@@ -4,6 +4,5 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "description": "fsfe", 
     "namespace": "wcrp:cmip5:variable:fsfe", 
-    "status": "pending", 
-    "uid": "cd42201f-58ac-4b99-983d-6eaf01f6dca1"
+    "status": "pending"
 }
