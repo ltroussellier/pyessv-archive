@@ -1,8 +1,8 @@
 {
-    "_type": "term", 
-    "canonical_name": "si", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "si", 
-    "namespace": "wcrp:cmip5:variable:si", 
+    "_type": "term",
+    "canonical_name": "si",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "si",
+    "namespace": "wcrp:cmip5:variable:si",
     "status": "pending"
 }

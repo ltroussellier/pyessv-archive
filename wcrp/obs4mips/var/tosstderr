@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "tosstderr",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tosStderr",
+    "label": "tosStderr",
+    "namespace": "wcrp:obs4mips:var:tosstderr",
+    "raw_name": "tosStderr",
+    "status": "pending"
+}

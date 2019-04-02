@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "co-percentage-peat", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "CO-percentage-PEAT", 
-    "label": "CO-percentage-PEAT", 
-    "namespace": "wcrp:input4mips:variable-id:co-percentage-peat", 
-    "raw_name": "CO-percentage-PEAT", 
+    "_type": "term",
+    "canonical_name": "co-percentage-peat",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CO-percentage-PEAT",
+    "label": "CO-percentage-PEAT",
+    "namespace": "wcrp:input4mips:variable-id:co-percentage-peat",
+    "raw_name": "CO-percentage-PEAT",
     "status": "pending"
 }

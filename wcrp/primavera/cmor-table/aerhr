@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "aerhr",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "AERhr",
+    "label": "AERhr",
+    "namespace": "wcrp:primavera:cmor-table:aerhr",
+    "raw_name": "AERhr",
+    "status": "pending"
+}

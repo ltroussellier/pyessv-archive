@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "clitterabove",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cLitterAbove",
+    "label": "cLitterAbove",
+    "namespace": "wcrp:geomip:variable:clitterabove",
+    "raw_name": "cLitterAbove",
+    "status": "pending"
+}

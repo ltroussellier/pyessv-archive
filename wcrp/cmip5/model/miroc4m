@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "miroc4m", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "MIROC4m", 
-    "label": "MIROC4m", 
-    "namespace": "wcrp:cmip5:model:miroc4m", 
-    "raw_name": "MIROC4m", 
+    "_type": "term",
+    "canonical_name": "miroc4m",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "MIROC4m",
+    "label": "MIROC4m",
+    "namespace": "wcrp:cmip5:model:miroc4m",
+    "raw_name": "MIROC4m",
     "status": "pending"
 }

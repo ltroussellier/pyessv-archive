@@ -1,8 +1,8 @@
 {
-    "_type": "term", 
-    "canonical_name": "mrsosd", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "mrsosd", 
-    "namespace": "wcrp:cordex:variable:mrsosd", 
+    "_type": "term",
+    "canonical_name": "mrsosd",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mrsosd",
+    "namespace": "wcrp:cordex:variable:mrsosd",
     "status": "pending"
 }

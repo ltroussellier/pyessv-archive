@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "rmaint",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rMaint",
+    "label": "rMaint",
+    "namespace": "wcrp:pmip3:variable:rmaint",
+    "raw_name": "rMaint",
+    "status": "pending"
+}

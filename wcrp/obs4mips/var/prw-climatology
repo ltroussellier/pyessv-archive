@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "prw-climatology",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "prw_climatology",
+    "label": "prw_climatology",
+    "namespace": "wcrp:obs4mips:var:prw-climatology",
+    "raw_name": "prw_climatology",
+    "status": "pending"
+}

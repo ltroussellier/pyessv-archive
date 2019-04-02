@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "land-hist-cruncep",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Land only simulations",
+    "label": "land-hist-cruNcep",
+    "namespace": "wcrp:primavera:experiment:land-hist-cruncep",
+    "raw_name": "land-hist-cruNcep",
+    "status": "pending"
+}

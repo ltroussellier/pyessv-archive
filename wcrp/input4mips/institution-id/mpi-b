@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "mpi-b", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "MPI-B", 
-    "label": "MPI-B", 
-    "namespace": "wcrp:input4mips:institution-id:mpi-b", 
-    "raw_name": "MPI-B", 
+    "_type": "term",
+    "canonical_name": "mpi-b",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "MPI-B",
+    "label": "MPI-B",
+    "namespace": "wcrp:input4mips:institution-id:mpi-b",
+    "raw_name": "MPI-B",
     "status": "pending"
 }

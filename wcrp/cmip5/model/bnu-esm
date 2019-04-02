@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "bnu-esm", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "BNU-ESM", 
-    "label": "BNU-ESM", 
-    "namespace": "wcrp:cmip5:model:bnu-esm", 
-    "raw_name": "BNU-ESM", 
+    "_type": "term",
+    "canonical_name": "bnu-esm",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "BNU-ESM",
+    "label": "BNU-ESM",
+    "namespace": "wcrp:cmip5:model:bnu-esm",
+    "raw_name": "BNU-ESM",
     "status": "pending"
 }

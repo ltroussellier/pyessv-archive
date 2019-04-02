@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "es",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ES",
+    "label": "ES",
+    "namespace": "wcrp:isimip-ft:sector-short:es",
+    "raw_name": "ES",
+    "status": "pending"
+}

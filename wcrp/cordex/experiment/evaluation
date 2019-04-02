@@ -1,8 +1,8 @@
 {
-    "_type": "term", 
-    "canonical_name": "evaluation", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "Evaluation", 
-    "namespace": "wcrp:cordex:experiment:evaluation", 
+    "_type": "term",
+    "canonical_name": "evaluation",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Evaluation",
+    "namespace": "wcrp:cordex:experiment:evaluation",
     "status": "pending"
 }

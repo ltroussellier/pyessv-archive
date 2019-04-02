@@ -1,8 +1,8 @@
 {
-    "_type": "term", 
-    "canonical_name": "va600", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "va600", 
-    "namespace": "wcrp:cordex:variable:va600", 
+    "_type": "term",
+    "canonical_name": "va600",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "va600",
+    "namespace": "wcrp:cordex:variable:va600",
     "status": "pending"
 }

@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "uasadjust",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "uasAdjust",
+    "label": "uasAdjust",
+    "namespace": "wcrp:isimip-ft:variable:uasadjust",
+    "raw_name": "uasAdjust",
+    "status": "pending"
+}

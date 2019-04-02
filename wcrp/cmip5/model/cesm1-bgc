@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "cesm1-bgc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "CESM1-BGC", 
-    "label": "CESM1-BGC", 
-    "namespace": "wcrp:cmip5:model:cesm1-bgc", 
-    "raw_name": "CESM1-BGC", 
+    "_type": "term",
+    "canonical_name": "cesm1-bgc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CESM1-BGC",
+    "label": "CESM1-BGC",
+    "namespace": "wcrp:cmip5:model:cesm1-bgc",
+    "raw_name": "CESM1-BGC",
     "status": "pending"
 }

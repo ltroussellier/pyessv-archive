@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "tro3nobs",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tro3Nobs",
+    "label": "tro3Nobs",
+    "namespace": "wcrp:obs4mips:var:tro3nobs",
+    "raw_name": "tro3Nobs",
+    "status": "pending"
+}

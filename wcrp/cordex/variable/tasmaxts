@@ -1,8 +1,8 @@
 {
-    "_type": "term", 
-    "canonical_name": "tasmaxts", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tasmaxts", 
-    "namespace": "wcrp:cordex:variable:tasmaxts", 
+    "_type": "term",
+    "canonical_name": "tasmaxts",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tasmaxts",
+    "namespace": "wcrp:cordex:variable:tasmaxts",
     "status": "pending"
 }

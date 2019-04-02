@@ -1,8 +1,8 @@
 {
-    "_type": "term", 
-    "canonical_name": "hur700", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hur700", 
-    "namespace": "wcrp:cordex:variable:hur700", 
+    "_type": "term",
+    "canonical_name": "hur700",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hur700",
+    "namespace": "wcrp:cordex:variable:hur700",
     "status": "pending"
 }

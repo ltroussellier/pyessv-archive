@@ -1,0 +1,8 @@
+{
+    "_type": "term",
+    "canonical_name": "rsdscs",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rsdscs",
+    "namespace": "wcrp:euclipse:variable:rsdscs",
+    "status": "pending"
+}

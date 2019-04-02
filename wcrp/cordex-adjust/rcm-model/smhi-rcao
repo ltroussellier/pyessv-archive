@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "smhi-rcao",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "SMHI-RCAO",
+    "label": "SMHI-RCAO",
+    "namespace": "wcrp:cordex-adjust:rcm-model:smhi-rcao",
+    "raw_name": "SMHI-RCAO",
+    "status": "pending"
+}

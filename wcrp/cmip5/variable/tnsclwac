@@ -1,8 +1,8 @@
 {
-    "_type": "term", 
-    "canonical_name": "tnsclwac", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tnsclwac", 
-    "namespace": "wcrp:cmip5:variable:tnsclwac", 
+    "_type": "term",
+    "canonical_name": "tnsclwac",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tnsclwac",
+    "namespace": "wcrp:cmip5:variable:tnsclwac",
     "status": "pending"
 }

@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "sfcwindstderr",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "sfcWindStderr",
+    "label": "sfcWindStderr",
+    "namespace": "wcrp:obs4mips:var:sfcwindstderr",
+    "raw_name": "sfcWindStderr",
+    "status": "pending"
+}

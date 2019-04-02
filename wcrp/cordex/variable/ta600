@@ -1,8 +1,8 @@
 {
-    "_type": "term", 
-    "canonical_name": "ta600", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "ta600", 
-    "namespace": "wcrp:cordex:variable:ta600", 
+    "_type": "term",
+    "canonical_name": "ta600",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ta600",
+    "namespace": "wcrp:cordex:variable:ta600",
     "status": "pending"
 }

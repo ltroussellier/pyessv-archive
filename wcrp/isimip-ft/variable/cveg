@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "cveg",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cVeg",
+    "label": "cVeg",
+    "namespace": "wcrp:isimip-ft:variable:cveg",
+    "raw_name": "cVeg",
+    "status": "pending"
+}

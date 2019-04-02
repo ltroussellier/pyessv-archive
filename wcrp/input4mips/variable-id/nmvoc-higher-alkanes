@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "nmvoc-higher-alkanes", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "NMVOC-Higher-Alkanes", 
-    "label": "NMVOC-Higher-Alkanes", 
-    "namespace": "wcrp:input4mips:variable-id:nmvoc-higher-alkanes", 
-    "raw_name": "NMVOC-Higher-Alkanes", 
+    "_type": "term",
+    "canonical_name": "nmvoc-higher-alkanes",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "NMVOC-Higher-Alkanes",
+    "label": "NMVOC-Higher-Alkanes",
+    "namespace": "wcrp:input4mips:variable-id:nmvoc-higher-alkanes",
+    "raw_name": "NMVOC-Higher-Alkanes",
     "status": "pending"
 }

@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "geomip",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "GeoMIP",
+    "label": "GeoMIP",
+    "namespace": "wcrp:primavera:activity:geomip",
+    "raw_name": "GeoMIP",
+    "status": "pending"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "gnss-ro",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "GNSS RO",
+    "label": "GNSS RO",
+    "namespace": "wcrp:obs4mips:source-id:gnss-ro",
+    "raw_name": "GNSS RO",
+    "status": "pending"
+}

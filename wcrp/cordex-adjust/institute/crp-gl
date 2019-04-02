@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "crp-gl",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CRP-GL",
+    "label": "CRP-GL",
+    "namespace": "wcrp:cordex-adjust:institute:crp-gl",
+    "raw_name": "CRP-GL",
+    "status": "pending"
+}

@@ -1,8 +1,8 @@
 {
-    "_type": "term", 
-    "canonical_name": "pso", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "pso", 
-    "namespace": "wcrp:cmip5:variable:pso", 
+    "_type": "term",
+    "canonical_name": "pso",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "pso",
+    "namespace": "wcrp:cmip5:variable:pso",
     "status": "pending"
 }

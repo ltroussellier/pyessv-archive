@@ -1,8 +1,8 @@
 {
-    "_type": "term", 
-    "canonical_name": "rsus", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rsus", 
-    "namespace": "wcrp:cmip5:variable:rsus", 
+    "_type": "term",
+    "canonical_name": "rsus",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rsus",
+    "namespace": "wcrp:cmip5:variable:rsus",
     "status": "pending"
 }

@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "iamc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "IAMC", 
-    "label": "IAMC", 
-    "namespace": "wcrp:input4mips:institution-id:iamc", 
-    "raw_name": "IAMC", 
+    "_type": "term",
+    "canonical_name": "iamc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "IAMC",
+    "label": "IAMC",
+    "namespace": "wcrp:input4mips:institution-id:iamc",
+    "raw_name": "IAMC",
     "status": "pending"
 }

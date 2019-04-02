@@ -1,8 +1,8 @@
 {
-    "_type": "term", 
-    "canonical_name": "multiple", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "multiple", 
-    "namespace": "wcrp:input4mips:variable-id:multiple", 
+    "_type": "term",
+    "canonical_name": "multiple",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "multiple",
+    "namespace": "wcrp:input4mips:variable-id:multiple",
     "status": "pending"
 }

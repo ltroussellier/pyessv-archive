@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "mara",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "MARA",
+    "label": "MARA",
+    "namespace": "wcrp:isimip-ft:impact-model:mara",
+    "raw_name": "MARA",
+    "status": "pending"
+}

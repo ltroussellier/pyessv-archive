@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "zosnobs",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "zosNobs",
+    "label": "zosNobs",
+    "namespace": "wcrp:obs4mips:var:zosnobs",
+    "raw_name": "zosNobs",
+    "status": "pending"
+}

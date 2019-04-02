@@ -1,8 +1,8 @@
 {
-    "_type": "term", 
-    "canonical_name": "mrsosat", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "mrsosat", 
-    "namespace": "wcrp:cordex:variable:mrsosat", 
+    "_type": "term",
+    "canonical_name": "mrsosat",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mrsosat",
+    "namespace": "wcrp:cordex:variable:mrsosat",
     "status": "pending"
 }

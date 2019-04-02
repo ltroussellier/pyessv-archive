@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "lmm",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "LMM",
+    "label": "LMM",
+    "namespace": "wcrp:isimip-ft:impact-model:lmm",
+    "raw_name": "LMM",
+    "status": "pending"
+}

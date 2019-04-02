@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "clox",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ClOx",
+    "label": "ClOx",
+    "namespace": "wcrp:geomip:variable:clox",
+    "raw_name": "ClOx",
+    "status": "pending"
+}

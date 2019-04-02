@@ -1,8 +1,8 @@
 {
-    "_type": "term", 
-    "canonical_name": "huss", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "huss", 
-    "namespace": "wcrp:cordex:variable:huss", 
+    "_type": "term",
+    "canonical_name": "huss",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "huss",
+    "namespace": "wcrp:cordex:variable:huss",
     "status": "pending"
 }

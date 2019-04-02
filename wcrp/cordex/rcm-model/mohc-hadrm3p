@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "mohc-hadrm3p", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "MOHC-HadRM3P", 
-    "label": "MOHC-HadRM3P", 
-    "namespace": "wcrp:cordex:rcm-model:mohc-hadrm3p", 
-    "raw_name": "MOHC-HadRM3P", 
+    "_type": "term",
+    "canonical_name": "mohc-hadrm3p",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "MOHC-HadRM3P",
+    "label": "MOHC-HadRM3P",
+    "namespace": "wcrp:cordex:rcm-model:mohc-hadrm3p",
+    "raw_name": "MOHC-HadRM3P",
     "status": "pending"
 }

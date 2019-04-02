@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "sfcwindmaxmax", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "sfcWindmaxmax", 
-    "label": "sfcWindmaxmax", 
-    "namespace": "wcrp:cordex:variable:sfcwindmaxmax", 
-    "raw_name": "sfcWindmaxmax", 
+    "_type": "term",
+    "canonical_name": "sfcwindmaxmax",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "sfcWindmaxmax",
+    "label": "sfcWindmaxmax",
+    "namespace": "wcrp:cordex:variable:sfcwindmaxmax",
+    "raw_name": "sfcWindmaxmax",
     "status": "pending"
 }

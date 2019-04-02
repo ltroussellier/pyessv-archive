@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "he",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "HE",
+    "label": "HE",
+    "namespace": "wcrp:isimip-ft:sector-short:he",
+    "raw_name": "HE",
+    "status": "pending"
+}

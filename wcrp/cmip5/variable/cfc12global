@@ -1,8 +1,8 @@
 {
-    "_type": "term", 
-    "canonical_name": "cfc12global", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "cfc12global", 
-    "namespace": "wcrp:cmip5:variable:cfc12global", 
+    "_type": "term",
+    "canonical_name": "cfc12global",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cfc12global",
+    "namespace": "wcrp:cmip5:variable:cfc12global",
     "status": "pending"
 }

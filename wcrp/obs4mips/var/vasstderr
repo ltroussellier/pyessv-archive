@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "vasstderr",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "vasStderr",
+    "label": "vasStderr",
+    "namespace": "wcrp:obs4mips:var:vasstderr",
+    "raw_name": "vasStderr",
+    "status": "pending"
+}

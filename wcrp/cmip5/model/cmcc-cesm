@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "cmcc-cesm", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "CMCC-CESM", 
-    "label": "CMCC-CESM", 
-    "namespace": "wcrp:cmip5:model:cmcc-cesm", 
-    "raw_name": "CMCC-CESM", 
+    "_type": "term",
+    "canonical_name": "cmcc-cesm",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CMCC-CESM",
+    "label": "CMCC-CESM",
+    "namespace": "wcrp:cmip5:model:cmcc-cesm",
+    "raw_name": "CMCC-CESM",
     "status": "pending"
 }

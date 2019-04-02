@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "grcongel",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "grCongel",
+    "label": "grCongel",
+    "namespace": "wcrp:lucid:variable:grcongel",
+    "raw_name": "grCongel",
+    "status": "pending"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "jedi",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "JeDi",
+    "label": "JeDi",
+    "namespace": "wcrp:isimip-ft:impact-model:jedi",
+    "raw_name": "JeDi",
+    "status": "pending"
+}

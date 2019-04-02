@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "historicalant", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "Historical with anthropogenic forcing only", 
-    "label": "historicalAnt", 
-    "namespace": "wcrp:cmip5:experiment:historicalant", 
-    "raw_name": "historicalAnt", 
+    "_type": "term",
+    "canonical_name": "historicalant",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Historical with anthropogenic forcing only",
+    "label": "historicalAnt",
+    "namespace": "wcrp:cmip5:experiment:historicalant",
+    "raw_name": "historicalAnt",
     "status": "pending"
 }

@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "oc-openburning-share", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "OC_openburning_share", 
-    "label": "OC_openburning_share", 
-    "namespace": "wcrp:input4mips:variable-id:oc-openburning-share", 
-    "raw_name": "OC_openburning_share", 
+    "_type": "term",
+    "canonical_name": "oc-openburning-share",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "OC_openburning_share",
+    "label": "OC_openburning_share",
+    "namespace": "wcrp:input4mips:variable-id:oc-openburning-share",
+    "raw_name": "OC_openburning_share",
     "status": "pending"
 }

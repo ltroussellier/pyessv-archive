@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "iyrant",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "IyrAnt",
+    "label": "IyrAnt",
+    "namespace": "wcrp:primavera:cmor-table:iyrant",
+    "raw_name": "IyrAnt",
+    "status": "pending"
+}

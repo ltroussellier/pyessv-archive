@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "grfrazil",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "grFrazil",
+    "label": "grFrazil",
+    "namespace": "wcrp:pmip3:variable:grfrazil",
+    "raw_name": "grFrazil",
+    "status": "pending"
+}
