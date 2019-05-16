@@ -1,10 +1,10 @@
 {
-    "_type": "term",
-    "canonical_name": "zosstderr",
-    "create_date": "2017-06-21 00:00:00+00:00",
-    "description": "zosStderr",
-    "label": "zosStderr",
-    "namespace": "wcrp:obs4mips:var:zosstderr",
-    "raw_name": "zosStderr",
+    "_type": "term", 
+    "canonical_name": "zosstderr", 
+    "create_date": "2019-04-02 00:00:00+00:00", 
+    "description": "zosStderr", 
+    "label": "zosStderr", 
+    "namespace": "wcrp:obs4mips:var:zosstderr", 
+    "raw_name": "zosStderr", 
     "status": "pending"
 }

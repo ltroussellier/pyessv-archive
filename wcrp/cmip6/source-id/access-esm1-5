@@ -1,62 +1,62 @@
 {
-    "_type": "term",
-    "canonical_name": "access-esm1-5",
-    "create_date": "2017-06-21 00:00:00+00:00",
+    "_type": "term", 
+    "canonical_name": "access-esm1-5", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activity_participation": [
-            "C4MIP",
-            "CDRMIP",
-            "CMIP",
-            "OMIP",
-            "RFMIP",
+            "C4MIP", 
+            "CDRMIP", 
+            "CMIP", 
+            "OMIP", 
+            "RFMIP", 
             "ScenarioMIP"
-        ],
+        ], 
         "cohort": [
             "Registered"
-        ],
+        ], 
         "institution_id": [
             "CSIRO"
-        ],
-        "label_extended": "Australian Community Climate and Earth System Simulator Earth System Model Version 1.5",
+        ], 
+        "label_extended": "Australian Community Climate and Earth System Simulator Earth System Model Version 1.5", 
         "model_component": {
             "aerosol": {
-                "description": "CLASSIC (v1.0)",
+                "description": "CLASSIC (v1.0)", 
                 "native_nominal_resolution": "250 km"
-            },
+            }, 
             "atmos": {
-                "description": "HadGAM2 (r1.1, N96; 192 x 145 longitude/latitude; 38 levels; top level 39255 m)",
+                "description": "HadGAM2 (r1.1, N96; 192 x 145 longitude/latitude; 38 levels; top level 39255 m)", 
                 "native_nominal_resolution": "250 km"
-            },
+            }, 
             "atmosChem": {
-                "description": "none",
+                "description": "none", 
                 "native_nominal_resolution": "none"
-            },
+            }, 
             "land": {
-                "description": "CABLE2.2.3",
+                "description": "CABLE2.2.3", 
                 "native_nominal_resolution": "250 km"
-            },
+            }, 
             "landIce": {
-                "description": "none",
+                "description": "none", 
                 "native_nominal_resolution": "none"
-            },
+            }, 
             "ocean": {
-                "description": "ACCESS-OM2 (MOM5, tripolar primarily 1deg; 360 x 300 longitude/latitude; 50 levels; top grid cell 0-10 m)",
+                "description": "ACCESS-OM2 (MOM5, tripolar primarily 1deg; 360 x 300 longitude/latitude; 50 levels; top grid cell 0-10 m)", 
                 "native_nominal_resolution": "100 km"
-            },
+            }, 
             "ocnBgchem": {
-                "description": "WOMBAT1.0 (same grid as ocean)",
+                "description": "WOMBAT1.0 (same grid as ocean)", 
                 "native_nominal_resolution": "100 km"
-            },
+            }, 
             "seaIce": {
-                "description": "CICE5.1 (same grid as ocean)",
+                "description": "CICE5.1 (same grid as ocean)", 
                 "native_nominal_resolution": "100 km"
             }
-        },
-        "release_year": "2018",
+        }, 
+        "release_year": "2018", 
         "source_id": "ACCESS-ESM1-5"
-    },
-    "label": "ACCESS-ESM1.5",
-    "namespace": "wcrp:cmip6:source-id:access-esm1-5",
-    "raw_name": "ACCESS-ESM1-5",
+    }, 
+    "label": "ACCESS-ESM1.5", 
+    "namespace": "wcrp:cmip6:source-id:access-esm1-5", 
+    "raw_name": "ACCESS-ESM1-5", 
     "status": "pending"
 }

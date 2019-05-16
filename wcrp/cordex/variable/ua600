@@ -1,8 +1,8 @@
 {
-    "_type": "term",
-    "canonical_name": "ua600",
-    "create_date": "2017-06-21 00:00:00+00:00",
-    "description": "ua600",
-    "namespace": "wcrp:cordex:variable:ua600",
+    "_type": "term", 
+    "canonical_name": "ua600", 
+    "create_date": "2019-04-02 00:00:00+00:00", 
+    "description": "ua600", 
+    "namespace": "wcrp:cordex:variable:ua600", 
     "status": "pending"
 }

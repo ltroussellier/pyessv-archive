@@ -1,12 +1,12 @@
 {
-    "_type": "term",
-    "canonical_name": "medium",
-    "create_date": "2017-06-21 00:00:00+00:00",
+    "_type": "term", 
+    "canonical_name": "medium", 
+    "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
-        "color": "#dd7e6b",
+        "color": "#dd7e6b", 
         "sortOrdinal": 1
-    },
-    "label": "Medium",
-    "namespace": "esdoc:errata:severity:medium",
+    }, 
+    "label": "Medium", 
+    "namespace": "esdoc:errata:severity:medium", 
     "status": "pending"
 }
