@@ -16,7 +16,7 @@
         "experiment_id": "G6solar", 
         "min_number_yrs_per_sim": "81", 
         "parent_activity_id": [
-            "CMIP"
+            "ScenarioMIP"
         ], 
         "parent_experiment_id": [
             "ssp585"

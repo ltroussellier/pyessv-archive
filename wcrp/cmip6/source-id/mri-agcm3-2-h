@@ -1,10 +1,9 @@
 {
     "_type": "term", 
-    "canonical_name": "mri-agcm3-2", 
+    "canonical_name": "mri-agcm3-2-h", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activity_participation": [
-            "CMIP", 
             "DynVarMIP", 
             "HighResMIP"
         ], 
@@ -14,15 +13,15 @@
         "institution_id": [
             "MRI"
         ], 
-        "label_extended": "MRI-AGCM3-2", 
+        "label_extended": "MRI-AGCM3-2-H", 
         "model_component": {
             "aerosol": {
                 "description": "Prescribed from MRI-ESM2.0", 
                 "native_nominal_resolution": "250 km"
             }, 
             "atmos": {
-                "description": "MRI-AGCM3.2S (TL959; 1920 x 960 longitude/latitude; 64 levels; top level 0.01 hPa)", 
-                "native_nominal_resolution": "25 km"
+                "description": "MRI-AGCM3.2H (TL319; 640 x 320 longitude/latitude; 64 levels; top level 0.01 hPa)", 
+                "native_nominal_resolution": "50 km"
             }, 
             "atmosChem": {
                 "description": "none", 
@@ -30,7 +29,7 @@
             }, 
             "land": {
                 "description": "SIB0109", 
-                "native_nominal_resolution": "25 km"
+                "native_nominal_resolution": "50 km"
             }, 
             "landIce": {
                 "description": "none", 
@@ -50,10 +49,10 @@
             }
         }, 
         "release_year": "2017", 
-        "source_id": "MRI-AGCM3-2"
+        "source_id": "MRI-AGCM3-2-H"
     }, 
-    "label": "MRI-AGCM3-2", 
-    "namespace": "wcrp:cmip6:source-id:mri-agcm3-2", 
-    "raw_name": "MRI-AGCM3-2", 
+    "label": "MRI-AGCM3-2-H", 
+    "namespace": "wcrp:cmip6:source-id:mri-agcm3-2-h", 
+    "raw_name": "MRI-AGCM3-2-H", 
     "status": "pending"
 }

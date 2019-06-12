@@ -15,10 +15,10 @@
         "experiment_id": "G6SST2-solar", 
         "min_number_yrs_per_sim": "10", 
         "parent_activity_id": [
-            "ScenarioMIP"
+            "GeoMIP"
         ], 
         "parent_experiment_id": [
-            "ssp585"
+            "G6solar"
         ], 
         "required_model_components": [
             "AGCM"
