@@ -4,7 +4,11 @@
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activity_participation": [
-            "CMIP"
+            "CFMIP", 
+            "CMIP", 
+            "GMMIP", 
+            "HighResMIP", 
+            "ScenarioMIP"
         ], 
         "cohort": [
             "Registered"
@@ -12,7 +16,7 @@
         "institution_id": [
             "CAMS"
         ], 
-        "label_extended": "CAMS_CSM 1.0", 
+        "label_extended": "CAMS-CSM 1.0", 
         "model_component": {
             "aerosol": {
                 "description": "none", 
@@ -50,7 +54,7 @@
         "release_year": "2016", 
         "source_id": "CAMS-CSM1-0"
     }, 
-    "label": "CAMS_CSM 1.0", 
+    "label": "CAMS-CSM 1.0", 
     "namespace": "wcrp:cmip6:source-id:cams-csm1-0", 
     "raw_name": "CAMS-CSM1-0", 
     "status": "pending"

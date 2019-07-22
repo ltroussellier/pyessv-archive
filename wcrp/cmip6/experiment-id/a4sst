@@ -15,10 +15,10 @@
         "experiment_id": "a4SST", 
         "min_number_yrs_per_sim": "30", 
         "parent_activity_id": [
-            "CMIP"
+            "no parent"
         ], 
         "parent_experiment_id": [
-            "abrupt-4xCO2"
+            "no parent"
         ], 
         "required_model_components": [
             "AGCM"

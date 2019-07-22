@@ -26,7 +26,7 @@
         "required_model_components": [
             "AOGCM"
         ], 
-        "start_year": "a year in the range 1960-2016", 
+        "start_year": "a year in the range 1960-2019", 
         "sub_experiment_id": [
             "s1960", 
             "s1961", 
@@ -84,11 +84,14 @@
             "s2013", 
             "s2014", 
             "s2015", 
-            "s2016"
+            "s2016", 
+            "s2017", 
+            "s2018", 
+            "s2019"
         ], 
         "tier": "1"
     }, 
-    "description": "A1 (and A2.1, A3.1, and A3.2) Decadal hindcasts begun near the end of each year from 1960 to 2016, or every other year at minimum. First full hindcast year follows start year (e.g., for s1960, first full hindcast year is 1961)", 
+    "description": "A1 (and A2.1, A3.1, and A3.2) Decadal hindcasts begun near the end of each year from 1960 to 2019, or every other year at minimum. First full hindcast year follows start year (e.g., for s1960, first full hindcast year is 1961)", 
     "label": "dcppA-hindcast", 
     "namespace": "wcrp:cmip6:experiment-id:dcppa-hindcast", 
     "raw_name": "dcppA-hindcast", 

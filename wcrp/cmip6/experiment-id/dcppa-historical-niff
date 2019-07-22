@@ -24,7 +24,7 @@
         "required_model_components": [
             "AOGCM"
         ], 
-        "start_year": "A year in the range 1960-2016", 
+        "start_year": "a year in the range 1960-2019", 
         "sub_experiment_id": [
             "s1960", 
             "s1961", 
@@ -82,7 +82,10 @@
             "s2013", 
             "s2014", 
             "s2015", 
-            "s2016"
+            "s2016", 
+            "s2017", 
+            "s2018", 
+            "s2019"
         ], 
         "tier": "4"
     }, 

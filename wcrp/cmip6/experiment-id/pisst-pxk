@@ -15,10 +15,10 @@
         "experiment_id": "piSST-pxK", 
         "min_number_yrs_per_sim": "20", 
         "parent_activity_id": [
-            "CMIP"
+            "no parent"
         ], 
         "parent_experiment_id": [
-            "piControl"
+            "no parent"
         ], 
         "required_model_components": [
             "AGCM"

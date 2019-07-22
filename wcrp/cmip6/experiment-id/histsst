@@ -15,10 +15,10 @@
         "experiment_id": "histSST", 
         "min_number_yrs_per_sim": "165", 
         "parent_activity_id": [
-            "no parent"
+            "CMIP"
         ], 
         "parent_experiment_id": [
-            "no parent"
+            "piControl"
         ], 
         "required_model_components": [
             "AGCM", 

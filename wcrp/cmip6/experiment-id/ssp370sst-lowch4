@@ -14,10 +14,10 @@
         "experiment_id": "ssp370SST-lowCH4", 
         "min_number_yrs_per_sim": "41", 
         "parent_activity_id": [
-            "ScenarioMIP"
+            "CMIP"
         ], 
         "parent_experiment_id": [
-            "ssp370"
+            "historical"
         ], 
         "required_model_components": [
             "AGCM", 

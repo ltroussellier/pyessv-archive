@@ -11,6 +11,7 @@
             "LUMIP", 
             "OMIP", 
             "PMIP", 
+            "RFMIP", 
             "ScenarioMIP", 
             "VolMIP"
         ], 

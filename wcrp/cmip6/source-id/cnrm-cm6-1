@@ -44,8 +44,8 @@
                 "native_nominal_resolution": "250 km"
             }, 
             "landIce": {
-                "description": "GRISLI: Collaborating with l'Institut des Geosciences de l'Environnement in Grenoble on offline ice-sheet simulations", 
-                "native_nominal_resolution": "10 km"
+                "description": "none", 
+                "native_nominal_resolution": "none"
             }, 
             "ocean": {
                 "description": "Nemo 3.6 (eORCA1, tripolar primarily 1deg; 362 x 294 longitude/latitude; 75 levels; top grid cell 0-1 m)", 
