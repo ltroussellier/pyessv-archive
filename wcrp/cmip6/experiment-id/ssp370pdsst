@@ -1,6 +1,6 @@
 {
     "_type": "term", 
-    "canonical_name": "ssp370sst", 
+    "canonical_name": "ssp370pdsst", 
     "create_date": "2017-06-21 00:00:00+00:00", 
     "data": {
         "activity_id": [
@@ -11,8 +11,8 @@
             "BGC"
         ], 
         "end_year": "2100", 
-        "experiment": "SSP3-7.0, with SSTs prescribed from ssp370", 
-        "experiment_id": "ssp370SST", 
+        "experiment": "SSP3-7.0, with SSTs prescribed as present day", 
+        "experiment_id": "ssp370pdSST", 
         "min_number_yrs_per_sim": "86", 
         "parent_activity_id": [
             "CMIP"
@@ -28,11 +28,11 @@
         "sub_experiment_id": [
             "none"
         ], 
-        "tier": "1"
+        "tier": "2"
     }, 
-    "description": "Future SSP3-7.0, with SSTs prescribed from ssp370", 
-    "label": "ssp370SST", 
-    "namespace": "wcrp:cmip6:experiment-id:ssp370sst", 
-    "raw_name": "ssp370SST", 
+    "description": "Experimental set up as ssp370SST except sea surface temperatures (SST) and sea ice concentrations (SICONC) are from a 2005-2014 climatology. Diagnostics are as ssp370SST", 
+    "label": "ssp370pdSST", 
+    "namespace": "wcrp:cmip6:experiment-id:ssp370pdsst", 
+    "raw_name": "ssp370pdSST", 
     "status": "pending"
 }

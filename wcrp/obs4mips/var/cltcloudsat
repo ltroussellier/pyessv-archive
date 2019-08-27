@@ -1,0 +1,8 @@
+{
+    "_type": "term", 
+    "canonical_name": "cltcloudsat", 
+    "create_date": "2019-04-02 00:00:00+00:00", 
+    "description": "cltcloudsat", 
+    "namespace": "wcrp:obs4mips:var:cltcloudsat", 
+    "status": "pending"
+}

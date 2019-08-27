@@ -10,6 +10,7 @@
             "DynVarMIP", 
             "LS3MIP", 
             "PAMIP", 
+            "PMIP", 
             "RFMIP", 
             "SIMIP", 
             "ScenarioMIP", 
