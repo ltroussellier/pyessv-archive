@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "cltstddev", 
-    "create_date": "2019-04-02 00:00:00+00:00", 
-    "description": "cltStddev", 
-    "label": "cltStddev", 
-    "namespace": "wcrp:obs4mips:var:cltstddev", 
-    "raw_name": "cltStddev", 
+    "_type": "term",
+    "canonical_name": "cltstddev",
+    "create_date": "2019-04-02 00:00:00+00:00",
+    "description": "cltStddev",
+    "label": "cltStddev",
+    "namespace": "wcrp:obs4mips:var:cltstddev",
+    "raw_name": "cltStddev",
     "status": "pending"
 }

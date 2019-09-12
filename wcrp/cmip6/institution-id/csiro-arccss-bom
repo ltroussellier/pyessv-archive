@@ -1,38 +1,38 @@
 {
-    "_type": "term", 
-    "canonical_name": "csiro-arccss-bom", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
+    "_type": "term",
+    "canonical_name": "csiro-arccss-bom",
+    "create_date": "2017-06-21 00:00:00+00:00",
     "data": {
         "consortia": [
             {
-                "code": "CSIRO", 
-                "coordinates": "145.0435415,-38.0028413", 
-                "homepage": "https://www.csiro.au/", 
-                "name": "Commonwealth Scientific and Industrial Research Organisation", 
+                "code": "CSIRO",
+                "coordinates": "145.0435415,-38.0028413",
+                "homepage": "https://www.csiro.au/",
+                "name": "Commonwealth Scientific and Industrial Research Organisation",
                 "postalAddress": "Aspendale, Victoria 3195, Australia"
-            }, 
+            },
             {
-                "code": "ARCCSS", 
-                "coordinates": "151.2277251,-33.9166077", 
-                "homepage": "https://www.climatescience.org.au/tags/arccss", 
-                "name": "Australian Research Council - Centre of Excellence for Climate System Science", 
+                "code": "ARCCSS",
+                "coordinates": "151.2277251,-33.9166077",
+                "homepage": "https://www.climatescience.org.au/tags/arccss",
+                "name": "Australian Research Council - Centre of Excellence for Climate System Science",
                 "postalAddress": "UNSW Sydney NSW 2052, Australia"
-            }, 
+            },
             {
-                "code": "BoM", 
-                "coordinates": "144.9486767,-37.8196597", 
-                "homepage": "http://www.bom.gov.au/", 
-                "name": "Bureau of Meteorology", 
+                "code": "BoM",
+                "coordinates": "144.9486767,-37.8196597",
+                "homepage": "http://www.bom.gov.au/",
+                "name": "Bureau of Meteorology",
                 "postalAddress": "Aspendale, Victoria 3195, Australia"
             }
-        ], 
-        "coordinates": "", 
-        "homepage": "", 
-        "name": "", 
+        ],
+        "coordinates": "",
+        "homepage": "",
+        "name": "",
         "postalAddress": ""
-    }, 
-    "label": "CSIRO-ARCCSS-BoM", 
-    "namespace": "wcrp:cmip6:institution-id:csiro-arccss-bom", 
-    "raw_name": "CSIRO-ARCCSS-BoM", 
+    },
+    "label": "CSIRO-ARCCSS-BoM",
+    "namespace": "wcrp:cmip6:institution-id:csiro-arccss-bom",
+    "raw_name": "CSIRO-ARCCSS-BoM",
     "status": "pending"
 }

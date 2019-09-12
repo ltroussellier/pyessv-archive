@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "samplesmisr", 
-    "create_date": "2019-04-02 00:00:00+00:00", 
-    "description": "samplesMISR", 
-    "label": "samplesMISR", 
-    "namespace": "wcrp:obs4mips:var:samplesmisr", 
-    "raw_name": "samplesMISR", 
+    "_type": "term",
+    "canonical_name": "samplesmisr",
+    "create_date": "2019-04-02 00:00:00+00:00",
+    "description": "samplesMISR",
+    "label": "samplesMISR",
+    "namespace": "wcrp:obs4mips:var:samplesmisr",
+    "raw_name": "samplesMISR",
     "status": "pending"
 }

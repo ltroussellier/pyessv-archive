@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "albisccp-unweighted", 
-    "create_date": "2019-04-02 00:00:00+00:00", 
-    "description": "albisccp_unweighted", 
-    "label": "albisccp_unweighted", 
-    "namespace": "wcrp:obs4mips:var:albisccp-unweighted", 
-    "raw_name": "albisccp_unweighted", 
+    "_type": "term",
+    "canonical_name": "albisccp-unweighted",
+    "create_date": "2019-04-02 00:00:00+00:00",
+    "description": "albisccp_unweighted",
+    "label": "albisccp_unweighted",
+    "namespace": "wcrp:obs4mips:var:albisccp-unweighted",
+    "raw_name": "albisccp_unweighted",
     "status": "pending"
 }
