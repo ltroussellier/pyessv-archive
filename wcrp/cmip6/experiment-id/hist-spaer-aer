@@ -7,7 +7,8 @@
             "RFMIP"
         ],
         "additional_allowed_model_components": [
-            ""
+            "CHEM",
+            "BGC"
         ],
         "end_year": "2014",
         "experiment": "historical simulation with specified anthropogenic aerosols, no other forcings",
