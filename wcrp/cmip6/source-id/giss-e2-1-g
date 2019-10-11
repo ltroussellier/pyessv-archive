@@ -53,7 +53,7 @@
                 "native_nominal_resolution": "none"
             },
             "ocean": {
-                "description": "GISS Ocean (1 degree; 360 x 180 latitude/longitude; 32 levels; top grid cell 0-10 m)",
+                "description": "GISS Ocean (GO1, 1 degree; 360 x 180 longitude/latitude; 40 levels; top grid cell 0-10 m)",
                 "native_nominal_resolution": "100 km"
             },
             "ocnBgchem": {
@@ -65,7 +65,7 @@
                 "native_nominal_resolution": "250 km"
             }
         },
-        "release_year": "2016",
+        "release_year": "2019",
         "source_id": "GISS-E2-1-G"
     },
     "label": "GISS-E2.1G",

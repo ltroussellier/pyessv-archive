@@ -28,7 +28,7 @@
                 "native_nominal_resolution": "100 km"
             },
             "land": {
-                "description": "ELM (v1.1, cubed sphere spectral-element grid; 5400 elements with p=3; 1 deg average grid spacing; 90 x 90 x 6 longitude/latitude/cubeface; active biogeochemistry using the Equilibrium Chemistry Approximation to represent plant and soil carbon and nutrient mechanisms especially carbon, nitrogen and phosphorus limitation), MOSART (v1.1, 0.5 degree latitude/longitude grid)",
+                "description": "ELM (v1.1, same as atmos; active biogeochemistry using the Equilibrium Chemistry Approximation to represent plant and soil carbon and nutrient mechanisms especially carbon, nitrogen and phosphorus limitation), MOSART (v1.1, 0.5 degree latitude/longitude grid)",
                 "native_nominal_resolution": "100 km"
             },
             "landIce": {
@@ -40,8 +40,8 @@
                 "native_nominal_resolution": "50 km"
             },
             "ocnBgchem": {
-                "description": "none",
-                "native_nominal_resolution": "none"
+                "description": "BEC (Biogeochemical Elemental Cycling model, NPZD-type with C/N/P/Fe/Si/O; same grid as ocean)",
+                "native_nominal_resolution": "50 km"
             },
             "seaIce": {
                 "description": "MPAS-Seaice (v6.0; same grid as ocean)",

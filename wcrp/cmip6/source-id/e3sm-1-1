@@ -5,13 +5,15 @@
     "data": {
         "activity_participation": [
             "C4MIP",
-            "CMIP"
+            "CMIP",
+            "LS3MIP"
         ],
         "cohort": [
             "Registered"
         ],
         "institution_id": [
-            "E3SM-Project"
+            "E3SM-Project",
+            "RUBISCO"
         ],
         "label_extended": "E3SM 1.1 (Energy Exascale Earth System Model)",
         "model_component": {
@@ -28,7 +30,7 @@
                 "native_nominal_resolution": "100 km"
             },
             "land": {
-                "description": "ELM (v1.1, cubed sphere spectral-element grid; 5400 elements with p=3; 1 deg average grid spacing; 90 x 90 x 6 longitude/latitude/cubeface; active biogeochemistry using the Converging Trophic Cascade plant and soil carbon and nutrient mechanisms to represent carbon, nitrogen and phosphorus cycles), MOSART (v1.1, 0.5 degree latitude/longitude grid)",
+                "description": "ELM (v1.1, same grid as atmos; active biogeochemistry using the Converging Trophic Cascade plant and soil carbon and nutrient mechanisms to represent carbon, nitrogen and phosphorus cycles), MOSART (v1.1, 0.5 degree latitude/longitude grid)",
                 "native_nominal_resolution": "100 km"
             },
             "landIce": {
