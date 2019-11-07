@@ -17,7 +17,8 @@
             "Registered"
         ],
         "institution_id": [
-            "MOHC"
+            "MOHC",
+            "NERC"
         ],
         "label_extended": "HadGEM3-GC3.1-N96ORCA1",
         "model_component": {

@@ -7,8 +7,10 @@
             "CMIP",
             "DCPP",
             "GMMIP",
+            "HighResMIP",
             "OMIP",
             "PAMIP",
+            "PMIP",
             "SIMIP",
             "ScenarioMIP"
         ],

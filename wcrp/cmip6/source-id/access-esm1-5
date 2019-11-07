@@ -32,7 +32,7 @@
                 "native_nominal_resolution": "none"
             },
             "land": {
-                "description": "CABLE2.2.3",
+                "description": "CABLE2.4",
                 "native_nominal_resolution": "250 km"
             },
             "landIce": {
@@ -44,15 +44,15 @@
                 "native_nominal_resolution": "100 km"
             },
             "ocnBgchem": {
-                "description": "WOMBAT1.0 (same grid as ocean)",
+                "description": "WOMBAT (same grid as ocean)",
                 "native_nominal_resolution": "100 km"
             },
             "seaIce": {
-                "description": "CICE5.1 (same grid as ocean)",
+                "description": "CICE4.1 (same grid as ocean)",
                 "native_nominal_resolution": "100 km"
             }
         },
-        "release_year": "2018",
+        "release_year": "2019",
         "source_id": "ACCESS-ESM1-5"
     },
     "label": "ACCESS-ESM1.5",

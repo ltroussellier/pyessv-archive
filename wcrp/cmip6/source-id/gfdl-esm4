@@ -11,6 +11,7 @@
             "DAMIP",
             "DynVarMIP",
             "LUMIP",
+            "RFMIP",
             "ScenarioMIP"
         ],
         "cohort": [
