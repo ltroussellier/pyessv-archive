@@ -1596,6 +1596,7 @@
                         "snu:SNU",
                         "thu:THU",
                         "ua:UA",
+                        "uci:UCI",
                         "uhh:UHH",
                         "uoft:UofT",
                         "utas:UTAS"
@@ -1738,6 +1739,7 @@
                     "raw_name": "source_id",
                     "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
+                        "4aop-v1-5:4AOP-v1-5",
                         "access-cm2:ACCESS-CM2",
                         "access-esm1-5:ACCESS-ESM1.5",
                         "arts-2-3:ARTS 2.3",
@@ -1756,6 +1758,7 @@
                         "canesm5-canoe:CanESM5-CanOE",
                         "cas-esm1-0:CAS-ESM 1.0",
                         "cesm1-1-cam5-cmip5:CESM1-1-CAM5-CMIP5",
+                        "cesm1-waccm-sc:CESM1-WACCM-SC",
                         "cesm2:CESM2",
                         "cesm2-fv2:CESM2-FV2",
                         "cesm2-se:CESM2-SE",
