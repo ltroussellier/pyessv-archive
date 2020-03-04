@@ -1,6 +1,6 @@
 {
     "_type": "term",
-    "canonical_name": "giss-e3-g",
+    "canonical_name": "cas-esm2-0",
     "create_date": "2017-06-21 00:00:00+00:00",
     "data": {
         "activity_participation": [
@@ -8,17 +8,17 @@
             "C4MIP",
             "CFMIP",
             "CMIP",
+            "CORDEX",
             "DAMIP",
             "DynVarMIP",
             "FAFMIP",
             "GMMIP",
-            "ISMIP6",
+            "GeoMIP",
+            "HighResMIP",
             "LS3MIP",
             "LUMIP",
             "OMIP",
-            "PAMIP",
             "PMIP",
-            "RFMIP",
             "SIMIP",
             "ScenarioMIP",
             "VIACSAB",
@@ -28,24 +28,24 @@
             "Registered"
         ],
         "institution_id": [
-            "NASA-GISS"
+            "CAS"
         ],
-        "label_extended": "GISS-E3-G",
+        "label_extended": "CAS-ESM 2.0 (Chinese Academy of Sciences Earth System Model version 2.0)",
         "model_component": {
             "aerosol": {
-                "description": "Varies with physics-version (p==1 none, p==3 OMA, p==4 TOMAS, p==5 MATRIX)",
+                "description": "IAP AACM",
                 "native_nominal_resolution": "100 km"
             },
             "atmos": {
-                "description": "GISS-E3 (Cubed sphere, C90; 90 x 90 x 6 gridboxes/cubeface, grid resolution aligns with longitude/latitude along central lines for each cubeface; 102 levels; top level 0.002 hPa)",
+                "description": "IAP AGCM 5.0 (Finite difference dynamical core; 256 x 128 longitude/latitude; 35 levels; top level 2.2 hPa)",
                 "native_nominal_resolution": "100 km"
             },
             "atmosChem": {
-                "description": "Varies with physics-version (p==1 Non-interactive, p>1 GPUCCINI)",
+                "description": "IAP AACM",
                 "native_nominal_resolution": "100 km"
             },
             "land": {
-                "description": "GISS LSM",
+                "description": "CoLM",
                 "native_nominal_resolution": "100 km"
             },
             "landIce": {
@@ -53,23 +53,23 @@
                 "native_nominal_resolution": "none"
             },
             "ocean": {
-                "description": "GISS Ocean (1 degree; 360 x 180 longitude/latitude; 32 levels; top grid cell 0-10 m)",
+                "description": "LICOM2.0 (LICOM2.0, primarily 1deg; 362 x 196 longitude/latitude; 30 levels; top grid cell 0-10 m)",
                 "native_nominal_resolution": "100 km"
             },
             "ocnBgchem": {
-                "description": "none",
-                "native_nominal_resolution": "none"
+                "description": "IAP OBGCM",
+                "native_nominal_resolution": "100 km"
             },
             "seaIce": {
-                "description": "GISS SI",
+                "description": "CICE4",
                 "native_nominal_resolution": "100 km"
             }
         },
-        "release_year": "2020",
-        "source_id": "GISS-E3-G"
+        "release_year": "2019",
+        "source_id": "CAS-ESM2-0"
     },
-    "label": "GISS-E3-G",
-    "namespace": "wcrp:cmip6:source-id:giss-e3-g",
-    "raw_name": "GISS-E3-G",
+    "label": "CAS-ESM 2.0",
+    "namespace": "wcrp:cmip6:source-id:cas-esm2-0",
+    "raw_name": "CAS-ESM2-0",
     "status": "pending"
 }

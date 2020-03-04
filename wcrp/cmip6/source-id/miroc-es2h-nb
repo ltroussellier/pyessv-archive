@@ -1,14 +1,11 @@
 {
     "_type": "term",
-    "canonical_name": "miroc-es2h",
+    "canonical_name": "miroc-es2h-nb",
     "create_date": "2017-06-21 00:00:00+00:00",
     "data": {
         "activity_participation": [
             "AerChemMIP",
-            "CMIP",
-            "DynVarMIP",
-            "GeoMIP",
-            "VIACSAB"
+            "CMIP"
         ],
         "cohort": [
             "Registered"
@@ -16,7 +13,7 @@
         "institution_id": [
             "MIROC"
         ],
-        "label_extended": "MIROC-ES2H",
+        "label_extended": "MIROC-ES2H with No BiogenicCycle",
         "model_component": {
             "aerosol": {
                 "description": "SPRINTARS6.0",
@@ -31,7 +28,7 @@
                 "native_nominal_resolution": "500 km"
             },
             "land": {
-                "description": "MATSIRO6.0+VISIT-e ver.1.0",
+                "description": "MATSIRO6",
                 "native_nominal_resolution": "250 km"
             },
             "landIce": {
@@ -43,19 +40,19 @@
                 "native_nominal_resolution": "100 km"
             },
             "ocnBgchem": {
-                "description": "OECO ver.2.0; NPZD-type with C/N/P/Fe/O cycles",
-                "native_nominal_resolution": "100 km"
+                "description": "none",
+                "native_nominal_resolution": "none"
             },
             "seaIce": {
                 "description": "COCO4.9",
                 "native_nominal_resolution": "100 km"
             }
         },
-        "release_year": "2018",
-        "source_id": "MIROC-ES2H"
+        "release_year": "2019",
+        "source_id": "MIROC-ES2H-NB"
     },
-    "label": "MIROC-ES2H",
-    "namespace": "wcrp:cmip6:source-id:miroc-es2h",
-    "raw_name": "MIROC-ES2H",
+    "label": "MIROC-ES2H-NB",
+    "namespace": "wcrp:cmip6:source-id:miroc-es2h-nb",
+    "raw_name": "MIROC-ES2H-NB",
     "status": "pending"
 }

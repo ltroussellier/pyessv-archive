@@ -1,12 +1,13 @@
 {
     "_type": "term",
-    "canonical_name": "cmcc-cm2-sr5",
+    "canonical_name": "cmcc-esm2",
     "create_date": "2017-06-21 00:00:00+00:00",
     "data": {
         "activity_participation": [
+            "C4MIP",
             "CMIP",
-            "DCPP",
-            "GMMIP",
+            "LS3MIP",
+            "LUMIP",
             "OMIP",
             "ScenarioMIP"
         ],
@@ -16,7 +17,7 @@
         "institution_id": [
             "CMCC"
         ],
-        "label_extended": "CMCC-CM2-SR5",
+        "label_extended": "CMCC-ESM2",
         "model_component": {
             "aerosol": {
                 "description": "MAM3",
@@ -43,19 +44,19 @@
                 "native_nominal_resolution": "100 km"
             },
             "ocnBgchem": {
-                "description": "none",
-                "native_nominal_resolution": "none"
+                "description": "BFM5.1",
+                "native_nominal_resolution": "100 km"
             },
             "seaIce": {
                 "description": "CICE4.0",
                 "native_nominal_resolution": "100 km"
             }
         },
-        "release_year": "2016",
-        "source_id": "CMCC-CM2-SR5"
+        "release_year": "2017",
+        "source_id": "CMCC-ESM2"
     },
-    "label": "CMCC-CM2-SR5",
-    "namespace": "wcrp:cmip6:source-id:cmcc-cm2-sr5",
-    "raw_name": "CMCC-CM2-SR5",
+    "label": "CMCC-ESM2",
+    "namespace": "wcrp:cmip6:source-id:cmcc-esm2",
+    "raw_name": "CMCC-ESM2",
     "status": "pending"
 }

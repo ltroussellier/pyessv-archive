@@ -19,7 +19,7 @@
                 "native_nominal_resolution": "none"
             },
             "atmos": {
-                "description": "DYNAMICO-LMDZ (NPv6; 256000-point icosahedral-hexagonal; 79 levels; top level 40000 m)",
+                "description": "DYNAMICO-LMDZ (NPv6; 256000-point icosahedral-hexagonal; 79 levels; top level 80000 m)",
                 "native_nominal_resolution": "50 km"
             },
             "atmosChem": {

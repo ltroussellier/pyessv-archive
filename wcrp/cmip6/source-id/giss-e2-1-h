@@ -39,7 +39,7 @@
                 "native_nominal_resolution": "none"
             },
             "ocean": {
-                "description": "HYCOM Ocean (~1 degree tripolar grid; 360 x 180 latitude/longitude; 26 levels; top grid cell 0-10 m)",
+                "description": "HYCOM Ocean (~1 degree tripolar grid; 360 x 180 longitude/latitude; 32 levels; top grid cell 0-10 m)",
                 "native_nominal_resolution": "100 km"
             },
             "ocnBgchem": {
@@ -51,7 +51,7 @@
                 "native_nominal_resolution": "250 km"
             }
         },
-        "release_year": "2016",
+        "release_year": "2019",
         "source_id": "GISS-E2-1-H"
     },
     "label": "GISS-E2.1H",

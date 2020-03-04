@@ -7,7 +7,6 @@
             "AerChemMIP"
         ],
         "additional_allowed_model_components": [
-            "AER",
             "CHEM",
             "BGC"
         ],
@@ -22,7 +21,8 @@
             "piControl"
         ],
         "required_model_components": [
-            "AOGCM"
+            "AGCM",
+            "AER"
         ],
         "start_year": "1850",
         "sub_experiment_id": [

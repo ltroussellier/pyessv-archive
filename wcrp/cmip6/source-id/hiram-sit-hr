@@ -1,27 +1,25 @@
 {
     "_type": "term",
-    "canonical_name": "fgoals-f3-h",
+    "canonical_name": "hiram-sit-hr",
     "create_date": "2017-06-21 00:00:00+00:00",
     "data": {
         "activity_participation": [
-            "CMIP",
-            "HighResMIP",
-            "OMIP"
+            "HighResMIP"
         ],
         "cohort": [
             "Registered"
         ],
         "institution_id": [
-            "CAS"
+            "AS-RCEC"
         ],
-        "label_extended": "FGOALS-f3-H",
+        "label_extended": "HiRAM Coupling 1-D SIT (25 km atmosphere and 25 km ocean)",
         "model_component": {
             "aerosol": {
                 "description": "none",
                 "native_nominal_resolution": "none"
             },
             "atmos": {
-                "description": "FAMIL2.2 (Cubed-sphere, c384; 1440 x 720 longitude/latitude; 32 levels; top level 2.16 hPa)",
+                "description": "GFDL-HiRAM (Cubed-sphere (c384) - 0.25 degree nominal horizontal resolution; 1536 x 768 longitude/latitude; 32 levels; top level 1 hPa)",
                 "native_nominal_resolution": "25 km"
             },
             "atmosChem": {
@@ -29,7 +27,7 @@
                 "native_nominal_resolution": "none"
             },
             "land": {
-                "description": "CLM4.0",
+                "description": "GFDL-LM3 (same grid as atmos)",
                 "native_nominal_resolution": "25 km"
             },
             "landIce": {
@@ -37,23 +35,23 @@
                 "native_nominal_resolution": "none"
             },
             "ocean": {
-                "description": "LICOM3.0 (LICOM3.0, tripolar primarily 0.1deg; 3600 x 2302 longitude/latitude; 55 levels; top grid cell 0-5 m)",
-                "native_nominal_resolution": "10 km"
+                "description": "SIT (1-D, tripolar - nominal 0.25 deg; 1440 x 1080 longitude/latitude; 50 levels with skin layer and 1 m resolution for uppermost 10 m)",
+                "native_nominal_resolution": "25 km"
             },
             "ocnBgchem": {
                 "description": "none",
                 "native_nominal_resolution": "none"
             },
             "seaIce": {
-                "description": "CICE4.0",
-                "native_nominal_resolution": "10 km"
+                "description": "none",
+                "native_nominal_resolution": "none"
             }
         },
-        "release_year": "2017",
-        "source_id": "FGOALS-f3-H"
+        "release_year": "2018",
+        "source_id": "HiRAM-SIT-HR"
     },
-    "label": "FGOALS-f3-H",
-    "namespace": "wcrp:cmip6:source-id:fgoals-f3-h",
-    "raw_name": "FGOALS-f3-H",
+    "label": "HiRAM-SIT-HR",
+    "namespace": "wcrp:cmip6:source-id:hiram-sit-hr",
+    "raw_name": "HiRAM-SIT-HR",
     "status": "pending"
 }

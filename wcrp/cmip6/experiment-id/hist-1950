@@ -28,7 +28,7 @@
         ],
         "tier": "2"
     },
-    "description": "Coupled integrationswith historic external forcings (as in highresSST-present)",
+    "description": "Coupled integrations with historic external forcings (as in highresSST-present)",
     "namespace": "wcrp:cmip6:experiment-id:hist-1950",
     "status": "pending"
 }

@@ -10,10 +10,10 @@
             "CHEM",
             "BGC"
         ],
-        "end_year": "2055",
+        "end_year": "2100",
         "experiment": "SSP3-7.0, prescribed SSTs, with SSP1-2.6 land use",
         "experiment_id": "ssp370SST-ssp126Lu",
-        "min_number_yrs_per_sim": "41",
+        "min_number_yrs_per_sim": "86",
         "parent_activity_id": [
             "CMIP"
         ],

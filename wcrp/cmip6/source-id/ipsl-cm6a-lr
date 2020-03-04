@@ -32,7 +32,7 @@
                 "native_nominal_resolution": "none"
             },
             "atmos": {
-                "description": "LMDZ (NPv6, N96; 144 x 143 longitude/latitude; 79 levels; top level 40000 m)",
+                "description": "LMDZ (NPv6, N96; 144 x 143 longitude/latitude; 79 levels; top level 80000 m)",
                 "native_nominal_resolution": "250 km"
             },
             "atmosChem": {

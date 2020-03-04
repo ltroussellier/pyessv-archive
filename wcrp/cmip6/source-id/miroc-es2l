@@ -26,7 +26,7 @@
         "model_component": {
             "aerosol": {
                 "description": "SPRINTARS6.0",
-                "native_nominal_resolution": "250 km"
+                "native_nominal_resolution": "500 km"
             },
             "atmos": {
                 "description": "CCSR AGCM (T42; 128 x 64 longitude/latitude; 40 levels; top level 3 hPa)",
@@ -38,7 +38,7 @@
             },
             "land": {
                 "description": "MATSIRO6.0+VISIT-e ver.1.0",
-                "native_nominal_resolution": "250 km"
+                "native_nominal_resolution": "500 km"
             },
             "landIce": {
                 "description": "none",
