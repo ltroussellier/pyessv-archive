@@ -27,7 +27,7 @@
                 "native_nominal_resolution": "250 km"
             },
             "atmosChem": {
-                "description": "CHASER4.0",
+                "description": "CHASER4.0 (T42; 128 x 64 longitude/latitude; 81 levels; top level 0.004 hPa)",
                 "native_nominal_resolution": "500 km"
             },
             "land": {

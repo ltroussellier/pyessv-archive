@@ -5,12 +5,15 @@
     "data": {
         "activity_participation": [
             "AerChemMIP",
+            "C4MIP",
+            "CDRMIP",
             "CFMIP",
             "CMIP",
             "DAMIP",
             "DCPP",
             "LUMIP",
             "OMIP",
+            "PAMIP",
             "PMIP",
             "RFMIP",
             "ScenarioMIP",

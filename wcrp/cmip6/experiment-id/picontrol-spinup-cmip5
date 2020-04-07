@@ -30,7 +30,7 @@
         ],
         "tier": "2"
     },
-    "description": "DECK: spin-up portion of the control (CMIP5-era [1850-2005] forcing)",
+    "description": "DECK: spin-up portion of the control (CMIP5-era pre-industrial forcing)",
     "label": "piControl-spinup-cmip5",
     "namespace": "wcrp:cmip6:experiment-id:picontrol-spinup-cmip5",
     "raw_name": "piControl-spinup-cmip5",
