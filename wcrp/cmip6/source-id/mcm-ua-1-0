@@ -4,7 +4,10 @@
     "create_date": "2017-06-21 00:00:00+00:00",
     "data": {
         "activity_participation": [
-            "CMIP"
+            "CMIP",
+            "FAFMIP",
+            "PMIP",
+            "ScenarioMIP"
         ],
         "cohort": [
             "Registered"

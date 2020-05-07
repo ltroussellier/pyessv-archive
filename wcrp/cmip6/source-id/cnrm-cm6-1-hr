@@ -6,6 +6,7 @@
         "activity_participation": [
             "CMIP",
             "DCPP",
+            "GMMIP",
             "HighResMIP",
             "OMIP",
             "ScenarioMIP"
