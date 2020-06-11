@@ -21,7 +21,7 @@
             "historical"
         ],
         "required_model_components": [
-            "AGCM",
+            "AOGCM",
             "AER"
         ],
         "start_year": "2015",
