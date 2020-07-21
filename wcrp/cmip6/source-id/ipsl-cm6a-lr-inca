@@ -1,32 +1,25 @@
 {
     "_type": "term",
-    "canonical_name": "access-esm1-5",
+    "canonical_name": "ipsl-cm6a-lr-inca",
     "create_date": "2017-06-21 00:00:00+00:00",
     "data": {
         "activity_participation": [
-            "C4MIP",
-            "CDRMIP",
-            "CMIP",
-            "DAMIP",
-            "OMIP",
-            "PMIP",
-            "RFMIP",
-            "ScenarioMIP"
+            "AerChemMIP"
         ],
         "cohort": [
             "Registered"
         ],
         "institution_id": [
-            "CSIRO"
+            "IPSL"
         ],
-        "label_extended": "Australian Community Climate and Earth System Simulator Earth System Model Version 1.5",
+        "label_extended": "IPSL-CM6A-LR-INCA",
         "model_component": {
             "aerosol": {
-                "description": "CLASSIC (v1.0)",
+                "description": "INCA v6 AER",
                 "native_nominal_resolution": "250 km"
             },
             "atmos": {
-                "description": "HadGAM2 (r1.1, N96; 192 x 145 longitude/latitude; 38 levels; top level 39255 m)",
+                "description": "LMDZ (NPv6 ; 144 x 143 longitude/latitude; 79 levels; top level 80000 m)",
                 "native_nominal_resolution": "250 km"
             },
             "atmosChem": {
@@ -34,7 +27,7 @@
                 "native_nominal_resolution": "none"
             },
             "land": {
-                "description": "CABLE2.4",
+                "description": "ORCHIDEE (v2.0, Water/Carbon/Energy mode)",
                 "native_nominal_resolution": "250 km"
             },
             "landIce": {
@@ -42,23 +35,23 @@
                 "native_nominal_resolution": "none"
             },
             "ocean": {
-                "description": "ACCESS-OM2 (MOM5, tripolar primarily 1deg; 360 x 300 longitude/latitude; 50 levels; top grid cell 0-10 m)",
+                "description": "NEMO-OPA (eORCA1.3, tripolar primarily 1deg; 362 x 332 longitude/latitude; 75 levels; top grid cell 0-2 m)",
                 "native_nominal_resolution": "100 km"
             },
             "ocnBgchem": {
-                "description": "WOMBAT (same grid as ocean)",
+                "description": "NEMO-PISCES",
                 "native_nominal_resolution": "100 km"
             },
             "seaIce": {
-                "description": "CICE4.1 (same grid as ocean)",
+                "description": "NEMO-LIM3",
                 "native_nominal_resolution": "100 km"
             }
         },
         "release_year": "2019",
-        "source_id": "ACCESS-ESM1-5"
+        "source_id": "IPSL-CM6A-LR-INCA"
     },
-    "label": "ACCESS-ESM1.5",
-    "namespace": "wcrp:cmip6:source-id:access-esm1-5",
-    "raw_name": "ACCESS-ESM1-5",
+    "label": "IPSL-CM6A-LR-INCA",
+    "namespace": "wcrp:cmip6:source-id:ipsl-cm6a-lr-inca",
+    "raw_name": "IPSL-CM6A-LR-INCA",
     "status": "pending"
 }

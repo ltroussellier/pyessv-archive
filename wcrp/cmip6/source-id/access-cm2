@@ -5,6 +5,7 @@
     "data": {
         "activity_participation": [
             "CMIP",
+            "DAMIP",
             "FAFMIP",
             "OMIP",
             "RFMIP",

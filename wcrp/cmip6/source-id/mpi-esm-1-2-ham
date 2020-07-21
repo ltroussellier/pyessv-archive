@@ -5,7 +5,8 @@
     "data": {
         "activity_participation": [
             "AerChemMIP",
-            "CMIP"
+            "CMIP",
+            "ScenarioMIP"
         ],
         "cohort": [
             "Registered"
