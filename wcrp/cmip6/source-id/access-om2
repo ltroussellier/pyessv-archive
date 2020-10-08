@@ -1,59 +1,57 @@
 {
     "_type": "term",
-    "canonical_name": "iitm-esm",
+    "canonical_name": "access-om2",
     "create_date": "2017-06-21 00:00:00+00:00",
     "data": {
         "activity_participation": [
-            "CMIP",
-            "GMMIP",
-            "ScenarioMIP"
+            "OMIP"
         ],
         "cohort": [
             "Registered"
         ],
         "institution_id": [
-            "CCCR-IITM"
+            "CSIRO-COSIMA"
         ],
-        "label_extended": "IITM-ESM",
+        "label_extended": "Australian Community Climate and Earth System Simulator Ocean Model Version 2",
         "model_component": {
             "aerosol": {
-                "description": "prescribed MAC-v2",
-                "native_nominal_resolution": "250 km"
+                "description": "none",
+                "native_nominal_resolution": "none"
             },
             "atmos": {
-                "description": "IITM-GFSv1 (T62L64, Linearly Reduced Gaussian Grid; 192 x 94 longitude/latitude; 64 levels; top level 0.2 mb)",
-                "native_nominal_resolution": "250 km"
+                "description": "none",
+                "native_nominal_resolution": "none"
             },
             "atmosChem": {
                 "description": "none",
                 "native_nominal_resolution": "none"
             },
             "land": {
-                "description": "NOAH LSMv2.7.1",
-                "native_nominal_resolution": "250 km"
+                "description": "none",
+                "native_nominal_resolution": "none"
             },
             "landIce": {
                 "description": "none",
                 "native_nominal_resolution": "none"
             },
             "ocean": {
-                "description": "MOM4p1 (tripolar, primarily 1deg; 360 x 200 longitude/latitude; 50 levels; top grid cell 0-10 m)",
+                "description": "ACCESS-OM2 (MOM5, tripolar primarily 1deg; 360 x 300 longitude/latitude; 50 levels; top grid cell 0-2.3 m)",
                 "native_nominal_resolution": "100 km"
             },
             "ocnBgchem": {
-                "description": "TOPAZv2.0",
+                "description": "WOMBAT (same grid as ocean)",
                 "native_nominal_resolution": "100 km"
             },
             "seaIce": {
-                "description": "SISv1.0",
+                "description": "CICE5.1.2 (same grid as ocean)",
                 "native_nominal_resolution": "100 km"
             }
         },
-        "release_year": "2015",
-        "source_id": "IITM-ESM"
+        "release_year": "2020",
+        "source_id": "ACCESS-OM2"
     },
-    "label": "IITM-ESM",
-    "namespace": "wcrp:cmip6:source-id:iitm-esm",
-    "raw_name": "IITM-ESM",
+    "label": "ACCESS-OM2",
+    "namespace": "wcrp:cmip6:source-id:access-om2",
+    "raw_name": "ACCESS-OM2",
     "status": "pending"
 }

@@ -1,0 +1,16 @@
+{
+    "_type": "term",
+    "canonical_name": "csiro-cosima",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "data": {
+        "consortia": [],
+        "coordinates": "",
+        "homepage": "http://cosima.org.au",
+        "name": "",
+        "postalAddress": ""
+    },
+    "label": "CSIRO-COSIMA",
+    "namespace": "wcrp:cmip6:institution-id:csiro-cosima",
+    "raw_name": "CSIRO-COSIMA",
+    "status": "pending"
+}

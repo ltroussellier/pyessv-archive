@@ -10,6 +10,7 @@
             "HighResMIP",
             "LS3MIP",
             "OMIP",
+            "PAMIP",
             "ScenarioMIP"
         ],
         "cohort": [

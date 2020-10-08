@@ -6,9 +6,11 @@
         "activity_participation": [
             "CMIP",
             "CORDEX",
+            "DAMIP",
             "DCPP",
             "DynVarMIP",
             "LS3MIP",
+            "OMIP",
             "PAMIP",
             "PMIP",
             "RFMIP",
