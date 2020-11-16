@@ -4,13 +4,15 @@
     "create_date": "2017-06-21 00:00:00+00:00",
     "data": {
         "activity_participation": [
+            "CFMIP",
             "CMIP"
         ],
         "cohort": [
             "Registered"
         ],
         "institution_id": [
-            "E3SM-Project"
+            "E3SM-Project",
+            "LLNL"
         ],
         "label_extended": "E3SM 1.0 (Energy Exascale Earth System Model)",
         "model_component": {

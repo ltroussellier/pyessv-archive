@@ -1,0 +1,16 @@
+{
+    "_type": "term",
+    "canonical_name": "llnl",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "data": {
+        "consortia": [],
+        "coordinates": "37.687133,-121.690426",
+        "homepage": "https://www.llnl.gov",
+        "name": "Lawrence Livermore National Laboratory",
+        "postalAddress": "LLNL Climate Program, c/o Stephen A. Klein, Principal Investigator, L-103, 7000 East Avenue, Livermore, CA 94550, USA"
+    },
+    "label": "LLNL",
+    "namespace": "wcrp:cmip6:institution-id:llnl",
+    "raw_name": "LLNL",
+    "status": "pending"
+}
