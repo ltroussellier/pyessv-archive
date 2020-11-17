@@ -4422,11 +4422,11 @@
                 },
                 {
                     "_type": "collection",
-                    "canonical_name": "institute",
+                    "canonical_name": "institution-id",
                     "create_date": "2019-04-02 00:00:00+00:00",
                     "description": "ESGF publisher-config CV collection:",
                     "label": "Institute",
-                    "namespace": "wcrp:input4mips:institute",
+                    "namespace": "wcrp:input4mips:institution-id",
                     "term_regex": "^[A-Za-z0-9]*$",
                     "terms": []
                 },
