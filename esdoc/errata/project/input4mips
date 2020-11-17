@@ -5,7 +5,7 @@
     "data": {
         "facets": [
             "wcrp:input4mips:target-mip",
-            "wcrp:input4mips:institution-id",
+            "wcrp:input4mips:institute",
             "wcrp:input4mips:source-id",
             "wcrp:input4mips:variable-id"
         ],
