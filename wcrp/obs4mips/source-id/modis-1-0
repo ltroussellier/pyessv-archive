@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "modis-1-0",
+    "create_date": "2019-04-02 00:00:00+00:00",
+    "description": "MODIS-1-0",
+    "label": "MODIS-1-0",
+    "namespace": "wcrp:obs4mips:source-id:modis-1-0",
+    "raw_name": "MODIS-1-0",
+    "status": "pending"
+}

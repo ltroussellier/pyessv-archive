@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "aviso-1-0",
+    "create_date": "2019-04-02 00:00:00+00:00",
+    "description": "AVISO-1-0",
+    "label": "AVISO-1-0",
+    "namespace": "wcrp:obs4mips:source-id:aviso-1-0",
+    "raw_name": "AVISO-1-0",
+    "status": "pending"
+}

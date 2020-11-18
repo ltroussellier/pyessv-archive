@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "6hrpt",
+    "create_date": "2019-04-02 00:00:00+00:00",
+    "description": "6hrPt",
+    "label": "6hrPt",
+    "namespace": "wcrp:obs4mips:frequency:6hrpt",
+    "raw_name": "6hrPt",
+    "status": "pending"
+}

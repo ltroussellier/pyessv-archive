@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "tes-1-0",
+    "create_date": "2019-04-02 00:00:00+00:00",
+    "description": "TES-1-0",
+    "label": "TES-1-0",
+    "namespace": "wcrp:obs4mips:source-id:tes-1-0",
+    "raw_name": "TES-1-0",
+    "status": "pending"
+}

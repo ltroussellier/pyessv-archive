@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "csiro-ccam",
+    "create_date": "2019-04-02 00:00:00+00:00",
+    "description": "CSIRO-CCAM",
+    "label": "CSIRO-CCAM",
+    "namespace": "wcrp:cordex:rcm-model:csiro-ccam",
+    "raw_name": "CSIRO-CCAM",
+    "status": "pending"
+}

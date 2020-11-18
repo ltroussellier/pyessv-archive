@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "wrf360k",
+    "create_date": "2019-04-02 00:00:00+00:00",
+    "label": "WRF360K",
+    "namespace": "wcrp:cordex:rcm-name:wrf360k",
+    "raw_name": "WRF360K",
+    "status": "pending"
+}

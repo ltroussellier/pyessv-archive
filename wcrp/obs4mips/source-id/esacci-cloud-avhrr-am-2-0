@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "esacci-cloud-avhrr-am-2-0",
+    "create_date": "2019-04-02 00:00:00+00:00",
+    "description": "ESACCI-CLOUD-AVHRR-AM-2-0",
+    "label": "ESACCI-CLOUD-AVHRR-AM-2-0",
+    "namespace": "wcrp:obs4mips:source-id:esacci-cloud-avhrr-am-2-0",
+    "raw_name": "ESACCI-CLOUD-AVHRR-AM-2-0",
+    "status": "pending"
+}

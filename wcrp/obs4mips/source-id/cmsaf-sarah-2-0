@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "cmsaf-sarah-2-0",
+    "create_date": "2019-04-02 00:00:00+00:00",
+    "description": "CMSAF-SARAH-2-0",
+    "label": "CMSAF-SARAH-2-0",
+    "namespace": "wcrp:obs4mips:source-id:cmsaf-sarah-2-0",
+    "raw_name": "CMSAF-SARAH-2-0",
+    "status": "pending"
+}

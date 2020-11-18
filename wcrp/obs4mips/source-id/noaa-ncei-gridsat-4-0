@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "noaa-ncei-gridsat-4-0",
+    "create_date": "2019-04-02 00:00:00+00:00",
+    "description": "NOAA-NCEI-GridSat-4-0",
+    "label": "NOAA-NCEI-GridSat-4-0",
+    "namespace": "wcrp:obs4mips:source-id:noaa-ncei-gridsat-4-0",
+    "raw_name": "NOAA-NCEI-GridSat-4-0",
+    "status": "pending"
+}

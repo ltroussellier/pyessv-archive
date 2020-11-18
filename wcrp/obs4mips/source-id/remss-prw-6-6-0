@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "remss-prw-6-6-0",
+    "create_date": "2019-04-02 00:00:00+00:00",
+    "description": "REMSS-PRW-6-6-0",
+    "label": "REMSS-PRW-6-6-0",
+    "namespace": "wcrp:obs4mips:source-id:remss-prw-6-6-0",
+    "raw_name": "REMSS-PRW-6-6-0",
+    "status": "pending"
+}

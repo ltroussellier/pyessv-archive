@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "esacci-cloud-meris-aatsr-2-0",
+    "create_date": "2019-04-02 00:00:00+00:00",
+    "description": "ESACCI-CLOUD-MERIS-AATSR-2-0",
+    "label": "ESACCI-CLOUD-MERIS-AATSR-2-0",
+    "namespace": "wcrp:obs4mips:source-id:esacci-cloud-meris-aatsr-2-0",
+    "raw_name": "ESACCI-CLOUD-MERIS-AATSR-2-0",
+    "status": "pending"
+}

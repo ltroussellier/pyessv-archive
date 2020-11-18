@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "cmsaf-clara-a-2-0",
+    "create_date": "2019-04-02 00:00:00+00:00",
+    "description": "CMSAF-CLARA-A-2-0",
+    "label": "CMSAF-CLARA-A-2-0",
+    "namespace": "wcrp:obs4mips:source-id:cmsaf-clara-a-2-0",
+    "raw_name": "CMSAF-CLARA-A-2-0",
+    "status": "pending"
+}

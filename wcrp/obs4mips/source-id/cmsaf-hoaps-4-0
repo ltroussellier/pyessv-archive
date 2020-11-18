@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "cmsaf-hoaps-4-0",
+    "create_date": "2019-04-02 00:00:00+00:00",
+    "description": "CMSAF-HOAPS-4-0",
+    "label": "CMSAF-HOAPS-4-0",
+    "namespace": "wcrp:obs4mips:source-id:cmsaf-hoaps-4-0",
+    "raw_name": "CMSAF-HOAPS-4-0",
+    "status": "pending"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "unsw-wrf360l",
+    "create_date": "2019-04-02 00:00:00+00:00",
+    "description": "UNSW-WRF360L",
+    "label": "UNSW-WRF360L",
+    "namespace": "wcrp:cordex:rcm-model:unsw-wrf360l",
+    "raw_name": "UNSW-WRF360L",
+    "status": "pending"
+}

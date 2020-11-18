@@ -2097,6 +2097,8 @@
                         "height:height",
                         "height10m:height10m",
                         "height2m:height2m",
+                        "i:i",
+                        "j:j",
                         "lat:lat",
                         "lat-bnds:lat_bnds",
                         "latitude:latitude",
@@ -2127,9 +2129,12 @@
                         "pressure1:pressure1",
                         "region:region",
                         "rho:rho",
+                        "rlat:rlat",
+                        "rlat-bnds:rlat_bnds",
                         "scatratio:scatratio",
                         "sdepth:sdepth",
                         "sdepth1:sdepth1",
+                        "sector:sector",
                         "sza5:sza5",
                         "tau:tau",
                         "tau-bnds:tau_bnds",
@@ -2137,7 +2142,10 @@
                         "time-bnds:time_bnds",
                         "time1:time1",
                         "time2:time2",
-                        "vegtype:vegtype"
+                        "type:type",
+                        "vegtype:vegtype",
+                        "vertices-latitude:vertices_latitude",
+                        "vertices-longitude:vertices_longitude"
                     ]
                 },
                 {
@@ -2205,6 +2213,7 @@
                         "eur-11i:EUR-11i",
                         "eur-44:EUR-44",
                         "eur-44i:EUR-44i",
+                        "med-11:MED-11",
                         "med-44:MED-44",
                         "med-44i:MED-44i",
                         "mna-22:MNA-22",
@@ -2215,6 +2224,8 @@
                         "nam-44i:NAM-44i",
                         "sam-44:SAM-44",
                         "sam-44i:SAM-44i",
+                        "sea-22:SEA-22",
+                        "sea-22i:SEA-22i",
                         "was-44:WAS-44",
                         "was-44i:WAS-44i"
                     ]
@@ -2299,6 +2310,8 @@
                         "ictp:ICTP",
                         "idl:IDL",
                         "iitm:IITM",
+                        "inpe:INPE",
+                        "ipsl:IPSL",
                         "ipsl-ineris:IPSL-INERIS",
                         "knmi:KNMI",
                         "mgo:MGO",
@@ -2326,8 +2339,10 @@
                     "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "1-day:1 day",
+                        "1-hour:1 hour",
                         "1-month:1 month",
                         "3-hours:3 hours",
+                        "6-hours:6 hours",
                         "fixed:fixed",
                         "seasonal-mean:seasonal mean"
                     ]
@@ -2364,9 +2379,14 @@
                         "clmcom-cclm4-8-17:CLMcom-CCLM4-8-17",
                         "cnrm-aladin52:CNRM-ALADIN52",
                         "cnrm-aladin53:CNRM-ALADIN53",
+                        "cnrm-aladin63:CNRM-ALADIN63",
+                        "cnrm-aladin64:CNRM-ALADIN64",
                         "cnrm-arpege51:CNRM-ARPEGE51",
                         "cnrm-arpege52:CNRM-ARPEGE52",
+                        "cnrm-rcsm6:CNRM-RCSM6",
                         "crp-gl-wrf331a:CRP-GL-WRF331A",
+                        "csiro-ccam:CSIRO-CCAM",
+                        "csiro-ccam-1704:CSIRO-CCAM-1704",
                         "cuni-regcm4-2:CUNI-RegCM4-2",
                         "dhmz-regcm4-2:DHMZ-RegCM4-2",
                         "dmi-hirham5:DMI-HIRHAM5",
@@ -2378,15 +2398,18 @@
                         "iitm-regcm4-1:IITM-RegCM4-1",
                         "iitm-regcm4-4:IITM-RegCM4-4",
                         "ipsl-ineris-wrf331f:IPSL-INERIS-WRF331F",
+                        "ipsl-wrf381p:IPSL-WRF381P",
                         "knmi-racmo21p:KNMI-RACMO21P",
                         "knmi-racmo22e:KNMI-RACMO22E",
                         "knmi-racmo22t:KNMI-RACMO22T",
                         "mgo-rrcm:MGO-RRCM",
                         "miub-wrf331a:MIUB-WRF331A",
                         "mohc-hadgem3-ra:MOHC-HadGEM3-RA",
+                        "mohc-hadrem3-ga7-05:MOHC-HadREM3-GA7-05",
                         "mohc-hadrm3p:MOHC-HadRM3P",
                         "mpi-csc-remo2009:MPI-CSC-REMO2009",
                         "nuim-wrf331f:NUIM-WRF331F",
+                        "rmib-ugent-alaro-0:RMIB-UGent-ALARO-0",
                         "smhi-rca4:SMHI-RCA4",
                         "smhi-rca4-sn:SMHI-RCA4-SN",
                         "smhi-rcao:SMHI-RCAO",
@@ -2396,6 +2419,9 @@
                         "uclm-promes:UCLM-PROMES",
                         "uhoh-wrf331h:UHOH-WRF331H",
                         "ulg-mar36:ULg-MAR36",
+                        "unsw-wrf360j:UNSW-WRF360J",
+                        "unsw-wrf360k:UNSW-WRF360K",
+                        "unsw-wrf360l:UNSW-WRF360L",
                         "uqam-crcm5:UQAM-CRCM5"
                     ]
                 },
@@ -2413,13 +2439,18 @@
                         "aladin52:ALADIN52",
                         "aladin52:ALADIN52",
                         "aladin53:ALADIN53",
+                        "aladin63:ALADIN63",
+                        "aladin64:ALADIN64",
                         "alaro-0:ALARO-0",
                         "arpege51:ARPEGE51",
                         "arpege52:ARPEGE52",
                         "canrcm4:CanRCM4",
+                        "ccam:CCAM",
+                        "ccam-1704:CCAM-1704",
                         "cclm4-8-17:CCLM4-8-17",
                         "crcm5:CRCM5",
                         "hadgem3-ra:HadGEM3-RA",
+                        "hadrem3-ga7-05:HadREM3-GA7-05",
                         "hadrm3p:HadRM3P",
                         "hirham5:HIRHAM5",
                         "hirham5:HIRHAM5",
@@ -2432,6 +2463,7 @@
                         "rca4-sn:RCA4-SN",
                         "rcao:RCAO",
                         "rcao-sn:RCAO-SN",
+                        "rcsm6:RCSM6",
                         "regcm4-1:RegCM4-1",
                         "regcm4-2:RegCM4-2",
                         "regcm4-2:RegCM4-2",
@@ -2452,7 +2484,11 @@
                         "wrf331f:WRF331F",
                         "wrf331g:WRF331G",
                         "wrf331h:WRF331H",
-                        "wrf350i:WRF350I"
+                        "wrf350i:WRF350I",
+                        "wrf360j:WRF360J",
+                        "wrf360k:WRF360K",
+                        "wrf360l:WRF360L",
+                        "wrf381p:WRF381P"
                     ]
                 },
                 {
@@ -2570,7 +2606,9 @@
                     "raw_name": "time_frequency",
                     "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
+                        "1hr:1hr",
                         "3hr:3hr",
+                        "6hr:6hr",
                         "day:day",
                         "fx:fx",
                         "mon:mon",
@@ -2602,7 +2640,7 @@
             "data": {
                 "dataset_id": "cordex.%(product)s.%(domain)s.%(institute)s.%(driving_model)s.%(experiment)s.%(ensemble)s.%(rcm_name)s.%(rcm_version)s.%(time_frequency)s.%(variable)s",
                 "directory_format": "%(root)s/%(project)s/%(product)s/%(domain)s/%(institute)s/%(driving_model)s/%(experiment)s/%(ensemble)s/%(rcm_model)s/%(rcm_version)s/%(time_frequency)s/%(variable)s/%(version)s",
-                "filename_format": "%(variable)s_%(domain)s_%(driving_model)s_%(experiment)s_%(ensemble)s_%(rcm_model)s_%(bias_adjustment)s_%(time_frequency)s[_%(period_start)s-%(period_end)s].nc"
+                "filename_format": "%(variable)s_%(domain)s_%(driving_model)s_%(experiment)s_%(ensemble)s_%(rcm_model)s_%(rcm_version)s_%(time_frequency)s[_%(period_start)s-%(period_end)s].nc"
             },
             "description": "ESGF publisher controlled Vocabularies (CVs) for use in CORDEX",
             "label": "CORDEX",
@@ -2623,15 +2661,17 @@
                     "raw_name": "bias_adjustment",
                     "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
+                        "v1-----smhi-dbs43-wfdei-1981-2010:v1    -SMHI-DBS43-WFDEI-1981-2010",
                         "v1-ipsl-cdft21-wfdei-1979-2005:v1-IPSL-CDFT21-WFDEI-1979-2005",
                         "v1-ipsl-cdft22-era-interim-1979-2005:v1-IPSL-CDFT22-ERA-Interim-1979-2005",
+                        "v1-ipsl-cdft22-era5-1980-2018:v1-IPSL-CDFT22-ERA5-1980-2018",
+                        "v1-ipsl-cdft22-era5-2000-2017:v1-IPSL-CDFT22-ERA5-2000-2017",
                         "v1-ipsl-cdft22-wfdei-1979-2005:v1-IPSL-CDFT22-WFDEI-1979-2005",
                         "v1-ipsl-cdft22-wfdei-helioclim-1985-2005:v1-IPSL-CDFT22-WFDEI-HELIOCLIM-1985-2005",
                         "v1-metno-qmap-eobs12-1981-2010:v1-METNO-QMAP-EOBS12-1981-2010",
                         "v1-metno-qmap-mesan-1989-2010:v1-METNO-QMAP-MESAN-1989-2010",
                         "v1-smhi-dbs43-eobs10-1981-2010:v1-SMHI-DBS43-EOBS10-1981-2010",
                         "v1-smhi-dbs43-mesan-1989-2010:v1-SMHI-DBS43-MESAN-1989-2010",
-                        "v1-smhi-dbs43-wfdei-1981-2010:v1-SMHI-DBS43-WFDEI-1981-2010",
                         "v1-smhi-dbs45-eobs12-1981-2010:v1-SMHI-DBS45-EOBS12-1981-2010",
                         "v1-smhi-dbs45-mesan-1989-2010:v1-SMHI-DBS45-MESAN-1989-2010",
                         "v1-smhi-qm658-mesan-1989-2010:v1-SMHI-QM658-MESAN-1989-2010",
@@ -2696,6 +2736,7 @@
                     "terms": [
                         "cccma-canesm2:CCCma-CanESM2",
                         "cnrm-cerfacs-cnrm-cm5:CNRM-CERFACS-CNRM-CM5",
+                        "csiro-qccce-csiro-mk3-6-0:CSIRO-QCCCE-CSIRO-Mk3-6-0",
                         "ecmwf-eraint:ECMWF-ERAINT",
                         "ichec-ec-earth:ICHEC-EC-EARTH",
                         "ipsl-ipsl-cm5a-mr:IPSL-IPSL-CM5A-MR",
@@ -2760,6 +2801,7 @@
                         "ictp:ICTP",
                         "idl:IDL",
                         "iitm:IITM",
+                        "ipsl:IPSL",
                         "ipsl-ineris:IPSL-INERIS",
                         "knmi:KNMI",
                         "mgo:MGO",
@@ -2824,6 +2866,7 @@
                         "clmcom-cclm4-8-17:CLMcom-CCLM4-8-17",
                         "cnrm-aladin52:CNRM-ALADIN52",
                         "cnrm-aladin53:CNRM-ALADIN53",
+                        "cnrm-aladin63:CNRM-ALADIN63",
                         "cnrm-arpege51:CNRM-ARPEGE51",
                         "cnrm-arpege52:CNRM-ARPEGE52",
                         "crp-gl-wrf331a:CRP-GL-WRF331A",
@@ -2838,6 +2881,8 @@
                         "iitm-regcm4-1:IITM-RegCM4-1",
                         "iitm-regcm4-4:IITM-RegCM4-4",
                         "ipsl-ineris-wrf331f:IPSL-INERIS-WRF331F",
+                        "ipsl-wrf381p:IPSL-WRF381P",
+                        "ipsl-wrf381p:IPSL-WRF381P",
                         "knmi-racmo21p:KNMI-RACMO21P",
                         "knmi-racmo22e:KNMI-RACMO22E",
                         "knmi-racmo22t:KNMI-RACMO22T",
@@ -2911,7 +2956,8 @@
                         "wrf331f:WRF331F",
                         "wrf331g:WRF331G",
                         "wrf331h:WRF331H",
-                        "wrf350i:WRF350I"
+                        "wrf350i:WRF350I",
+                        "wrf381p:WRF381P"
                     ]
                 },
                 {
@@ -3069,6 +3115,7 @@
                     "raw_name": "atmos_grid_resolution",
                     "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
+                        "0-25deg:0_25deg",
                         "1deg:1deg"
                     ]
                 },
@@ -3107,6 +3154,23 @@
                     "namespace": "wcrp:e3sm:experiment",
                     "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
+                        "1950-control:1950-Control",
+                        "1pctc02:1pctC02",
+                        "abrupt-4xc02:abrupt-4xC02",
+                        "amip-a1:amip-a1",
+                        "amip-a1-1850-aerof:amip-a1-1850-aeroF",
+                        "amip-a1-1850-allf:amip-a1-1850-allF",
+                        "amip-a2:amip-a2",
+                        "amip-a2-1850-aerof:amip-a2-1850-aeroF",
+                        "amip-a2-1850-allf:amip-a2-1850-allF",
+                        "amip-a3:amip-a3",
+                        "amip-a3-1850-aerof:amip-a3-1850-aeroF",
+                        "amip-a3-1850-allf:amip-a3-1850-allF",
+                        "historical-h1:historical-h1",
+                        "historical-h2:historical-h2",
+                        "historical-h3:historical-h3",
+                        "historical-h4:historical-h4",
+                        "historical-h5:historical-h5",
                         "picontrol:piControl"
                     ]
                 },
@@ -3134,6 +3198,7 @@
                     "raw_name": "ocean_grid_resolution",
                     "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
+                        "18-6km:18-6km",
                         "60-30km:60-30km"
                     ]
                 },
@@ -3261,6 +3326,9 @@
                     "raw_name": "time_frequency",
                     "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
+                        "3hr:3hr",
+                        "6hr:6hr",
+                        "day:day",
                         "mon:mon",
                         "monclim:monClim",
                         "seasonclim:seasonClim"
@@ -4378,11 +4446,12 @@
             "collections": [
                 {
                     "_type": "collection",
-                    "canonical_name": "activity",
+                    "canonical_name": "activity-id",
                     "create_date": "2019-04-02 00:00:00+00:00",
                     "description": "ESGF publisher-config CV collection:",
-                    "label": "Activity",
-                    "namespace": "wcrp:input4mips:activity",
+                    "label": "Activity Id",
+                    "namespace": "wcrp:input4mips:activity-id",
+                    "raw_name": "activity_id",
                     "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "input4mips:input4MIPs"
@@ -4422,11 +4491,11 @@
                 },
                 {
                     "_type": "collection",
-                    "canonical_name": "institution-id",
+                    "canonical_name": "institute",
                     "create_date": "2019-04-02 00:00:00+00:00",
                     "description": "ESGF publisher-config CV collection:",
                     "label": "Institute",
-                    "namespace": "wcrp:input4mips:institution-id",
+                    "namespace": "wcrp:input4mips:institute",
                     "term_regex": "^[A-Za-z0-9]*$",
                     "terms": []
                 },
@@ -4533,9 +4602,9 @@
             ],
             "create_date": "2019-04-02 00:00:00+00:00",
             "data": {
-                "dataset_id": "input4MIPs.CMIP6.%(target_mip)s.%(institute)s.%(source_id)s.%(realm)s.%(frequency)s.%(variable_id)s.%(grid_label)s",
-                "directory_format": "%(root)s/input4MIPs/%(mip_era)s/%(target_mip)s/%(institute)s/%(source_id)s/%(realm)s/%(frequency)s/%(variable_id)s/%(grid_label)s/%(version)s",
-                "filename_format": "%(variable_id)s_%(activity)s_%(dataset_category)s_%(target_mip)s_%(source_id)s_%(grid_label)s.nc"
+                "dataset_id": "%(activity_id)s.%(mip_era)s.%(target_mip)s.%(institution_id)s.%(source_id)s.%(realm)s.%(frequency)s.%(variable_id)s.%(grid_label)s",
+                "directory_format": "%(root)s/%(activity_id)s/%(mip_era)s/%(target_mip)s/%(institution_id)s/%(source_id)s/%(realm)s/%(frequency)s/%(variable_id)s/%(grid_label)s/%(version)s",
+                "filename_format": "%(variable_id)s_%(activity_id)s_%(dataset_category)s_%(target_mip)s_%(source_id)s_%(grid_label)s.nc"
             },
             "description": "ESGF publisher controlled Vocabularies (CVs) for use in INPUT4MIPS",
             "label": "INPUT4MIPS",
@@ -4803,9 +4872,15 @@
                     "raw_name": "time_frequency",
                     "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
+                        "5yr:5yr",
+                        "annual:annual",
+                        "daily:daily",
                         "day:day",
                         "dec:dec",
+                        "decadal:decadal",
                         "mon:mon",
+                        "monthly:monthly",
+                        "yearly:yearly",
                         "yr:yr"
                     ]
                 },
@@ -5473,59 +5548,48 @@
             "collections": [
                 {
                     "_type": "collection",
-                    "canonical_name": "data-structure",
+                    "canonical_name": "frequency",
                     "create_date": "2019-04-02 00:00:00+00:00",
                     "description": "ESGF publisher-config CV collection:",
-                    "label": "Data Structure",
-                    "namespace": "wcrp:obs4mips:data-structure",
-                    "raw_name": "data_structure",
+                    "label": "Frequency",
+                    "namespace": "wcrp:obs4mips:frequency",
                     "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
-                        "grid:grid"
+                        "1hr:1hr",
+                        "1hrcm:1hrCM",
+                        "1hrpt:1hrPt",
+                        "3hr:3hr",
+                        "3hrpt:3hrPt",
+                        "6hr:6hr",
+                        "6hrpt:6hrPt",
+                        "day:day",
+                        "dec:dec",
+                        "fx:fx",
+                        "mon:mon",
+                        "monc:monC",
+                        "monpt:monPt",
+                        "subhrpt:subhrPt",
+                        "yr:yr",
+                        "yrpt:yrPt"
                     ]
                 },
                 {
                     "_type": "collection",
-                    "canonical_name": "institute",
+                    "canonical_name": "institution-id",
                     "create_date": "2019-04-02 00:00:00+00:00",
                     "description": "ESGF publisher-config CV collection:",
-                    "label": "Institute",
-                    "namespace": "wcrp:obs4mips:institute",
+                    "label": "Institution Id",
+                    "namespace": "wcrp:obs4mips:institution-id",
+                    "raw_name": "institution_id",
                     "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "cnes:CNES",
-                        "fub-dwd:FUB-DWD",
-                        "ipsl:IPSL",
-                        "iup:IUP",
+                        "dwd:DWD",
                         "nasa-gsfc:NASA-GSFC",
                         "nasa-jpl:NASA-JPL",
-                        "ncei:NCEI",
+                        "noaa-ncei:NOAA-NCEI",
                         "pcmdi:PCMDI",
-                        "remss:REMSS",
-                        "rss:RSS",
-                        "uoe:UOE",
-                        "uw:UW"
-                    ]
-                },
-                {
-                    "_type": "collection",
-                    "canonical_name": "las-time-delta",
-                    "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": "ESGF publisher-config CV collection:",
-                    "label": "Las Time Delta",
-                    "namespace": "wcrp:obs4mips:las-time-delta",
-                    "raw_name": "las_time_delta",
-                    "term_regex": "^[a-z0-9\\-]*$",
-                    "terms": [
-                        "1-day:1 day",
-                        "1-hour:1 hour",
-                        "1-minute:1 minute",
-                        "1-month:1 month",
-                        "1-month:1 month",
-                        "1-year:1 year",
-                        "3-hours:3 hours",
-                        "6-hours:6 hours",
-                        "fixed:fixed"
+                        "rss:RSS"
                     ]
                 },
                 {
@@ -5535,11 +5599,8 @@
                     "description": "ESGF publisher-config CV collection:",
                     "label": "Product",
                     "namespace": "wcrp:obs4mips:product",
-                    "term_regex": "^[a-z0-9\\-]*$",
-                    "terms": [
-                        "observations:observations",
-                        "reanalysis:reanalysis"
-                    ]
+                    "term_regex": "^[A-Za-z0-9]*$",
+                    "terms": []
                 },
                 {
                     "_type": "collection",
@@ -5548,17 +5609,8 @@
                     "description": "ESGF publisher-config CV collection:",
                     "label": "Realm",
                     "namespace": "wcrp:obs4mips:realm",
-                    "term_regex": "^[a-z0-9\\-]*$",
-                    "terms": [
-                        "aerosol:aerosol",
-                        "atmos:atmos",
-                        "atmoschem:atmosChem",
-                        "land:land",
-                        "landice:landIce",
-                        "ocean:ocean",
-                        "ocnbgchem:ocnBgchem",
-                        "seaice:seaIce"
-                    ]
+                    "term_regex": "^[A-Za-z0-9]*$",
+                    "terms": []
                 },
                 {
                     "_type": "collection",
@@ -5570,27 +5622,35 @@
                     "raw_name": "source_id",
                     "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
-                        "airs:AIRS",
-                        "amsre:AMSRE",
-                        "arc-sst-1-1:ARC-SST-1-1",
-                        "aviso:AVISO",
-                        "calipso:CALIPSO",
-                        "gnss-ro:GNSS_RO",
-                        "gnss-ro:GNSS RO",
-                        "isccp:ISCCP",
-                        "misr:MISR",
-                        "mls:MLS",
-                        "modis:MODIS",
-                        "oisst:OISST",
-                        "olr:OLR",
-                        "pmsic:PMSIC",
-                        "quikscat:QuikSCAT",
-                        "rss-v07r00:RSS V07r00",
-                        "ssmi:SSMI",
-                        "ssmi-meris:SSMI-MERIS",
-                        "tes:TES",
-                        "xch4-crdp3:XCH4-CRDP3",
-                        "xco2-crdp3:XCO2-CRDP3"
+                        "airs-1-0:AIRS-1-0",
+                        "airs-2-0:AIRS-2-0",
+                        "airs-2-1:AIRS-2-1",
+                        "amsre-v7:AMSRE-v7",
+                        "aura-mls-v04-2:Aura-MLS-v04-2",
+                        "aviso-1-0:AVISO-1-0",
+                        "cmsaf-clara-a-2-0:CMSAF-CLARA-A-2-0",
+                        "cmsaf-hoaps-4-0:CMSAF-HOAPS-4-0",
+                        "cmsaf-sarah-2-0:CMSAF-SARAH-2-0",
+                        "esacci-cloud-atsr2-aatsr-2-0:ESACCI-CLOUD-ATSR2-AATSR-2-0",
+                        "esacci-cloud-avhrr-am-2-0:ESACCI-CLOUD-AVHRR-AM-2-0",
+                        "esacci-cloud-avhrr-pm-2-0:ESACCI-CLOUD-AVHRR-PM-2-0",
+                        "esacci-cloud-meris-aatsr-2-0:ESACCI-CLOUD-MERIS-AATSR-2-0",
+                        "gnss-ro-1-3:GNSS-RO-1-3",
+                        "modis-1-0:MODIS-1-0",
+                        "noaa-ncei-avhrr-ndvi-4-0:NOAA-NCEI-AVHRR-NDVI-4-0",
+                        "noaa-ncei-ersst-4-0:NOAA-NCEI-ERSST-4-0",
+                        "noaa-ncei-fapar-4-0:NOAA-NCEI-FAPAR-4-0",
+                        "noaa-ncei-gridsat-4-0:NOAA-NCEI-GridSat-4-0",
+                        "noaa-ncei-hirs-olr-1-2:NOAA-NCEI-HIRS-OLR-1-2",
+                        "noaa-ncei-lai-4-0:NOAA-NCEI-LAI-4-0",
+                        "noaa-ncei-oisst-2-0:NOAA-NCEI-OISST-2-0",
+                        "noaa-ncei-persiann-1-1:NOAA-NCEI-PERSIANN-1-1",
+                        "noaa-ncei-seawinds-1-2:NOAA-NCEI-SeaWinds-1-2",
+                        "noaa-ncei-ssmi-seaice-2-0:NOAA-NCEI-SSMI-SeaIce-2-0",
+                        "quikscat-v20110531:QuikSCAT-v20110531",
+                        "remss-prw-6-6-0:REMSS-PRW-6-6-0",
+                        "rss-v7:RSS-v7",
+                        "tes-1-0:TES-1-0"
                     ]
                 },
                 {
@@ -5611,6 +5671,7 @@
                         "alt40:alt40",
                         "b:b",
                         "b-bnds:b_bnds",
+                        "basin:basin",
                         "bnds:bnds",
                         "bounds-lat:bounds_lat",
                         "bounds-lon:bounds_lon",
@@ -5668,67 +5729,13 @@
                 },
                 {
                     "_type": "collection",
-                    "canonical_name": "time-frequency",
-                    "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": "ESGF publisher-config CV collection:",
-                    "label": "Time Frequency",
-                    "namespace": "wcrp:obs4mips:time-frequency",
-                    "raw_name": "time_frequency",
-                    "term_regex": "^[a-z0-9\\-]*$",
-                    "terms": [
-                        "1hr:1hr",
-                        "3hr:3hr",
-                        "6hr:6hr",
-                        "day:day",
-                        "fx:fx",
-                        "mon:mon",
-                        "monclim:monClim",
-                        "subhr:subhr",
-                        "yr:yr"
-                    ]
-                },
-                {
-                    "_type": "collection",
                     "canonical_name": "variable",
                     "create_date": "2019-04-02 00:00:00+00:00",
                     "description": "ESGF publisher-config CV collection:",
                     "label": "Variable",
                     "namespace": "wcrp:obs4mips:variable",
-                    "term_regex": "^[a-z0-9\\-]*$",
-                    "terms": [
-                        "cli:cli",
-                        "clt:clt",
-                        "cltnobs:cltNobs",
-                        "cltstddev:cltStddev",
-                        "hus:hus",
-                        "husnobs:husNobs",
-                        "husstderr:husStderr",
-                        "prw:prw",
-                        "prw-climatology:prw_climatology",
-                        "sfcwind:sfcWind",
-                        "sfcwind-climatology:sfcWind_climatology",
-                        "sfcwindnobs:sfcWindNobs",
-                        "sfcwindstderr:sfcWindStderr",
-                        "ta:ta",
-                        "tanobs:taNobs",
-                        "tastderr:taStderr",
-                        "tos:tos",
-                        "tosnobs:tosNobs",
-                        "tosstderr:tosStderr",
-                        "tro3:tro3",
-                        "tro3nobs:tro3Nobs",
-                        "tro3stderr:tro3Stderr",
-                        "uas:uas",
-                        "uasnobs:uasNobs",
-                        "uasstderr:uasStderr",
-                        "vas:vas",
-                        "vasnobs:vasNobs",
-                        "vasstderr:vasStderr",
-                        "zg:zg",
-                        "zos:zos",
-                        "zosnobs:zosNobs",
-                        "zosstderr:zosStderr"
-                    ]
+                    "term_regex": "^[A-Za-z0-9]*$",
+                    "terms": []
                 },
                 {
                     "_type": "collection",
@@ -5743,8 +5750,8 @@
             ],
             "create_date": "2019-04-02 00:00:00+00:00",
             "data": {
-                "dataset_id": "%(project)s.%(institute)s.%(source_id)s.%(variable)s.%(time_frequency)s",
-                "directory_format": "%(root)s/%(project)s/%(product)s/%(realm)s/%(var)s/%(time_frequency)s/%(data_structure)s/%(institute)s/%(source_id)s/%(version)s"
+                "dataset_id": "%(activity_id)s.%(institution_id)s.%(source_id)s.%(frequency)s.%(variable_id)s.%(grid_label)s",
+                "directory_format": "%(root)s/%(activity_id)s/%(institution_id)s/%(source_id)s/%(frequency)s/%(variable_id)s/%(grid_label)s/%(version)s"
             },
             "description": "ESGF publisher controlled Vocabularies (CVs) for use in OBS4MIPS",
             "label": "OBS4MIPS",
@@ -6850,6 +6857,7 @@
                         "hadgem3-gc31-hh:HadGEM3-GC31-HH",
                         "hadgem3-gc31-hm:HadGEM3-GC31-HM",
                         "hadgem3-gc31-ll:HadGEM3-GC31-LL",
+                        "hadgem3-gc31-lm:HadGEM3-GC31-LM",
                         "hadgem3-gc31-mm:HadGEM3-GC31-MM",
                         "iitm-esm:IITM-ESM",
                         "miroc6:MIROC6",

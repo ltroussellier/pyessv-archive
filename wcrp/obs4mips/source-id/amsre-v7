@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "amsre-v7",
+    "create_date": "2019-04-02 00:00:00+00:00",
+    "description": "AMSRE-v7",
+    "label": "AMSRE-v7",
+    "namespace": "wcrp:obs4mips:source-id:amsre-v7",
+    "raw_name": "AMSRE-v7",
+    "status": "pending"
+}

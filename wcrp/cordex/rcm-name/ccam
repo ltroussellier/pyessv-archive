@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "ccam",
+    "create_date": "2019-04-02 00:00:00+00:00",
+    "label": "CCAM",
+    "namespace": "wcrp:cordex:rcm-name:ccam",
+    "raw_name": "CCAM",
+    "status": "pending"
+}

@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "quikscat-v20110531",
+    "create_date": "2019-04-02 00:00:00+00:00",
+    "description": "QuikSCAT-v20110531",
+    "label": "QuikSCAT-v20110531",
+    "namespace": "wcrp:obs4mips:source-id:quikscat-v20110531",
+    "raw_name": "QuikSCAT-v20110531",
+    "status": "pending"
+}
