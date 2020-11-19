@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "obs4mips",
+    "create_date": "2019-04-02 00:00:00+00:00",
+    "description": "obs4MIPs",
+    "label": "obs4MIPs",
+    "namespace": "wcrp:obs4mips:activity-id:obs4mips",
+    "raw_name": "obs4MIPs",
+    "status": "pending"
+}
