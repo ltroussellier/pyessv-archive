@@ -39,6 +39,30 @@
         },
         {
             "_type": "scope",
+            "canonical_name": "cordexp",
+            "collections": [
+                {
+                    "_type": "collection",
+                    "canonical_name": "model-topic",
+                    "create_date": "2017-06-21 00:00:00+00:00",
+                    "description": "Model documentation topics",
+                    "label": "Topics",
+                    "namespace": "esdoc:cordexp:model-topic",
+                    "term_regex": "^[a-z0-9\\-]*$",
+                    "terms": [
+                        "atmos:Atmosphere",
+                        "toplevel:Top Level"
+                    ]
+                }
+            ],
+            "create_date": "2017-06-21 00:00:00+00:00",
+            "description": "ES-DOC controlled Vocabularies (CVs) for use in cordexp",
+            "label": "CORDEXP",
+            "namespace": "esdoc:cordexp",
+            "url": "https://github.com/ES-DOC"
+        },
+        {
+            "_type": "scope",
             "canonical_name": "errata",
             "collections": [
                 {
