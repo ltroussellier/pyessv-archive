@@ -5,7 +5,8 @@
     "data": {
         "activity_participation": [
             "C4MIP",
-            "CMIP"
+            "CMIP",
+            "ScenarioMIP"
         ],
         "cohort": [
             "Registered"

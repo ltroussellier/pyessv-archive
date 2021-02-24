@@ -16,10 +16,13 @@
         "experiment_id": "historical",
         "min_number_yrs_per_sim": "165",
         "parent_activity_id": [
-            "CMIP"
+            "CMIP",
+            "PMIP"
         ],
         "parent_experiment_id": [
-            "piControl"
+            "piControl",
+            "past1000",
+            "past2k"
         ],
         "required_model_components": [
             "AOGCM"

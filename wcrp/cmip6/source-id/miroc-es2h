@@ -5,9 +5,11 @@
     "data": {
         "activity_participation": [
             "AerChemMIP",
+            "C4MIP",
             "CMIP",
             "DynVarMIP",
             "GeoMIP",
+            "ScenarioMIP",
             "VIACSAB"
         ],
         "cohort": [

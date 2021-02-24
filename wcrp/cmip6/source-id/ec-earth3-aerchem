@@ -6,6 +6,7 @@
         "activity_participation": [
             "AerChemMIP",
             "CMIP",
+            "RFMIP",
             "ScenarioMIP"
         ],
         "cohort": [

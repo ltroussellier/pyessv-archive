@@ -6,7 +6,9 @@
         "activity_participation": [
             "C4MIP",
             "CMIP",
-            "LS3MIP"
+            "DAMIP",
+            "LS3MIP",
+            "ScenarioMIP"
         ],
         "cohort": [
             "Registered"

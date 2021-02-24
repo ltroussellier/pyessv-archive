@@ -4,11 +4,12 @@
     "create_date": "2017-06-21 00:00:00+00:00",
     "data": {
         "activity_participation": [
+            "C4MIP",
             "CDRMIP",
             "CMIP",
-            "C4MIP",
             "LUMIP",
-            "OMIP"
+            "OMIP",
+            "ScenarioMIP"
         ],
         "cohort": [
             "Registered"
