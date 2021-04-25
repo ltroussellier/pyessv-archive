@@ -12,12 +12,12 @@
             "collections": [
                 {
                     "_type": "collection",
-                    "canonical_name": "insitution-id",
+                    "canonical_name": "institution-id",
                     "create_date": "2021-04-12 00:00:00+00:00",
                     "description": "Participating climate modelling institutions",
                     "label": "Institutes",
-                    "namespace": "copernicus:cordex:insitution-id",
-                    "raw_name": "INSITUTION_ID",
+                    "namespace": "copernicus:cordex:institution-id",
+                    "raw_name": "INSTITUTION_ID",
                     "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "cnrm:CNRM",

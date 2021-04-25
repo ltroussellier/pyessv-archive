@@ -3,6 +3,6 @@
     "canonical_name": "smhi",
     "create_date": "2021-04-12 00:00:00+00:00",
     "label": "SMHI",
-    "namespace": "copernicus:cordex:insitution-id:smhi",
+    "namespace": "copernicus:cordex:institution-id:smhi",
     "status": "pending"
 }
