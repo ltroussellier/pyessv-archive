@@ -1,0 +1,8 @@
+{
+    "_type": "term",
+    "canonical_name": "mpi-csc",
+    "create_date": "2021-04-12 00:00:00+00:00",
+    "label": "MPI-CSC",
+    "namespace": "copernicus:cordex:institution-id:mpi-csc",
+    "status": "pending"
+}

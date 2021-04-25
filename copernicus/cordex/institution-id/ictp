@@ -1,0 +1,8 @@
+{
+    "_type": "term",
+    "canonical_name": "ictp",
+    "create_date": "2021-04-12 00:00:00+00:00",
+    "label": "ICTP",
+    "namespace": "copernicus:cordex:institution-id:ictp",
+    "status": "pending"
+}

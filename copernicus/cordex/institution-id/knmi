@@ -1,0 +1,8 @@
+{
+    "_type": "term",
+    "canonical_name": "knmi",
+    "create_date": "2021-04-12 00:00:00+00:00",
+    "label": "KNMI",
+    "namespace": "copernicus:cordex:institution-id:knmi",
+    "status": "pending"
+}

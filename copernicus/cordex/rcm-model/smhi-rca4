@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "smhi-rca4",
+    "create_date": "2021-04-12 00:00:00+00:00",
+    "data": {
+        "institution": "smhi"
+    },
+    "label": "SMHI-RCA4",
+    "namespace": "copernicus:cordex:rcm-model:smhi-rca4",
+    "status": "pending"
+}

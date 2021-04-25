@@ -1,0 +1,8 @@
+{
+    "_type": "term",
+    "canonical_name": "uhoh",
+    "create_date": "2021-04-12 00:00:00+00:00",
+    "label": "UHOH",
+    "namespace": "copernicus:cordex:institution-id:uhoh",
+    "status": "pending"
+}
