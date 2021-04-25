@@ -3,6 +3,6 @@
     "canonical_name": "ictp",
     "create_date": "2021-04-12 00:00:00+00:00",
     "label": "ICTP",
-    "namespace": "copernicus:cordex:institution-id:ictp",
+    "namespace": "copernicus:cordex:insitution-id:ictp",
     "status": "pending"
 }

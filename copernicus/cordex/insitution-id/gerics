@@ -3,6 +3,6 @@
     "canonical_name": "gerics",
     "create_date": "2021-04-12 00:00:00+00:00",
     "label": "GERICS",
-    "namespace": "copernicus:cordex:institution-id:gerics",
+    "namespace": "copernicus:cordex:insitution-id:gerics",
     "status": "pending"
 }

@@ -12,11 +12,12 @@
             "collections": [
                 {
                     "_type": "collection",
-                    "canonical_name": "institution-id",
+                    "canonical_name": "insitution-id",
                     "create_date": "2021-04-12 00:00:00+00:00",
                     "description": "Participating climate modelling institutions",
                     "label": "Institutes",
-                    "namespace": "copernicus:cordex:institution-id",
+                    "namespace": "copernicus:cordex:insitution-id",
+                    "raw_name": "INSITUTION_ID",
                     "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "cnrm:CNRM",
@@ -38,6 +39,7 @@
                     "description": "Regional Coupled Model",
                     "label": "RCM Model",
                     "namespace": "copernicus:cordex:rcm-model",
+                    "raw_name": "RCM_MODEL",
                     "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "cnrm-aladin63:CNRM-ALADIN63",
