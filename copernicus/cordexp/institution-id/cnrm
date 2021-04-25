@@ -1,0 +1,8 @@
+{
+    "_type": "term",
+    "canonical_name": "cnrm",
+    "create_date": "2021-04-12 00:00:00+00:00",
+    "label": "CNRM",
+    "namespace": "copernicus:cordexp:institution-id:cnrm",
+    "status": "pending"
+}

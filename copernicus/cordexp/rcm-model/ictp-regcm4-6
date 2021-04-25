@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "ictp-regcm4-6",
+    "create_date": "2021-04-12 00:00:00+00:00",
+    "data": {
+        "institution": "ictp"
+    },
+    "label": "ICTP-RegCM4-6",
+    "namespace": "copernicus:cordexp:rcm-model:ictp-regcm4-6",
+    "status": "pending"
+}

@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "knmi-racmo22e",
+    "create_date": "2021-04-12 00:00:00+00:00",
+    "data": {
+        "institution": "knmi"
+    },
+    "label": "KNMI-RACMO22E",
+    "namespace": "copernicus:cordexp:rcm-model:knmi-racmo22e",
+    "status": "pending"
+}

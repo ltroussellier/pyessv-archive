@@ -1,0 +1,8 @@
+{
+    "_type": "term",
+    "canonical_name": "dmi",
+    "create_date": "2021-04-12 00:00:00+00:00",
+    "label": "DMI",
+    "namespace": "copernicus:cordexp:institution-id:dmi",
+    "status": "pending"
+}

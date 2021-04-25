@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "dmi-hirham5",
+    "create_date": "2021-04-12 00:00:00+00:00",
+    "data": {
+        "institution": "dmi"
+    },
+    "label": "DMI-HIRHAM5",
+    "namespace": "copernicus:cordexp:rcm-model:dmi-hirham5",
+    "status": "pending"
+}
