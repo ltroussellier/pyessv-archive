@@ -1,8 +1,0 @@
-{
-    "_type": "term",
-    "canonical_name": "mohc",
-    "create_date": "2021-04-12 00:00:00+00:00",
-    "label": "MOHC",
-    "namespace": "copernicus:cordex:institution-id:mohc",
-    "status": "pending"
-}

@@ -8,7 +8,7 @@
     "scopes": [
         {
             "_type": "scope",
-            "canonical_name": "cordex",
+            "canonical_name": "cordexp",
             "collections": [
                 {
                     "_type": "collection",
@@ -16,7 +16,7 @@
                     "create_date": "2021-04-12 00:00:00+00:00",
                     "description": "Participating climate modelling institutions",
                     "label": "Institutes",
-                    "namespace": "copernicus:cordex:institution-id",
+                    "namespace": "copernicus:cordexp:institution-id",
                     "raw_name": "INSTITUTION_ID",
                     "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
@@ -38,7 +38,7 @@
                     "create_date": "2021-04-12 00:00:00+00:00",
                     "description": "Regional Coupled Model",
                     "label": "RCM Model",
-                    "namespace": "copernicus:cordex:rcm-model",
+                    "namespace": "copernicus:cordexp:rcm-model",
                     "raw_name": "RCM_MODEL",
                     "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
@@ -56,9 +56,9 @@
                 }
             ],
             "create_date": "2021-04-12 00:00:00+00:00",
-            "description": "Copernicus controlled Vocabularies (CVs) for use in cordex",
+            "description": "Copernicus controlled Vocabularies (CVs) for use in cordex-principles",
             "label": "CORDEX",
-            "namespace": "copernicus:cordex",
+            "namespace": "copernicus:cordexp",
             "url": "https://climate.copernicus.eu/sites/default/files/2021-03/C3Swebinar2_Katharina_Buelow.pdf"
         }
     ],

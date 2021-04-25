@@ -1,8 +1,0 @@
-{
-    "_type": "term",
-    "canonical_name": "ipsl",
-    "create_date": "2021-04-12 00:00:00+00:00",
-    "label": "IPSL",
-    "namespace": "copernicus:cordex:institution-id:ipsl",
-    "status": "pending"
-}
