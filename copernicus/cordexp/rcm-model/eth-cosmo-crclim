@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "eth-cosmo-crclim",
+    "create_date": "2021-04-12 00:00:00+00:00",
+    "data": {
+        "institution": "eth"
+    },
+    "label": "ETH-COSMO-CRCLIM",
+    "namespace": "copernicus:cordexp:rcm-model:eth-cosmo-crclim",
+    "status": "pending"
+}
