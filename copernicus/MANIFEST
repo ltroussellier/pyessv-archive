@@ -35,28 +35,7 @@
                     "terms": [
                         "cnrm:CNRM",
                         "dmi:DMI",
-                        "gerics:GERICS",
-                        "ictp:ICTP",
-                        "ipsl:IPSL",
-                        "knmi:KNMI",
-                        "mohc:MOHC",
-                        "mpi-csc:MPI-CSC",
-                        "smhi:SMHI",
-                        "uhoh:UHOH"
-                    ]
-                },
-                {
-                    "_type": "collection",
-                    "canonical_name": "institution-id",
-                    "create_date": "2021-04-12 00:00:00+00:00",
-                    "description": "Participating climate modelling institutions",
-                    "label": "Institutes",
-                    "namespace": "copernicus:cordexp:institution-id",
-                    "raw_name": "INSTITUTION_ID",
-                    "term_regex": "^[a-z0-9\\-]*$",
-                    "terms": [
-                        "cnrm:CNRM",
-                        "dmi:DMI",
+                        "eth:ETH",
                         "gerics:GERICS",
                         "ictp:ICTP",
                         "ipsl:IPSL",
@@ -79,28 +58,7 @@
                     "terms": [
                         "cnrm-aladin63:CNRM-ALADIN63",
                         "dmi-hirham5:DMI-HIRHAM5",
-                        "gerics-remo2015:GERICS-REMO2015",
-                        "ictp-regcm4-6:ICTP-RegCM4-6",
-                        "ipsl-wrf381p:IPSL-WRF381P",
-                        "knmi-racmo22e:KNMI-RACMO22E",
-                        "mohc-hadrem3-ga7-05:MOHC-HadREM3-GA7-05",
-                        "mpi-csc-remo2009:MPI-CSC-REMO2009",
-                        "smhi-rca4:SMHI-RCA4",
-                        "uhoh-wrf361h:UHOH-WRF361H"
-                    ]
-                },
-                {
-                    "_type": "collection",
-                    "canonical_name": "rcm-model",
-                    "create_date": "2021-04-12 00:00:00+00:00",
-                    "description": "Regional Coupled Model",
-                    "label": "RCM Model",
-                    "namespace": "copernicus:cordexp:rcm-model",
-                    "raw_name": "RCM_MODEL",
-                    "term_regex": "^[a-z0-9\\-]*$",
-                    "terms": [
-                        "cnrm-aladin63:CNRM-ALADIN63",
-                        "dmi-hirham5:DMI-HIRHAM5",
+                        "eth-cosmo-crclim-v1-1:ETH-COSMO-CRCLIM-V1-1",
                         "gerics-remo2015:GERICS-REMO2015",
                         "ictp-regcm4-6:ICTP-RegCM4-6",
                         "ipsl-wrf381p:IPSL-WRF381P",
