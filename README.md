@@ -34,7 +34,9 @@ The pyessv archive host a collection of standardized vocabularies written in the
 What are the contents of pyessv-archive ?
 --------------------------------------
 
+    \copernicus          ES-DOC vocabularies in support of various ES-DOC applications.
     \wcrp                WCRP vocabularies in support of cmip5, cmip6, cordex ... etc.
+    \esdoc               ES-DOC vocabularies in support of various ES-DOC applications.
     \esdoc               ES-DOC vocabularies in support of various ES-DOC applications.
 
 Further Information on ES-DOC ?
