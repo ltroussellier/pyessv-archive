@@ -2121,7 +2121,7 @@
                     "description": "WCRP CMIP6 CV collection:",
                     "label": "Version",
                     "namespace": "wcrp:cmip6:version",
-                    "term_regex": "^[0-9]{8}$",
+                    "term_regex": "^v[0-9]{8}$",
                     "terms": []
                 }
             ],
